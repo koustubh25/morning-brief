@@ -1,0 +1,89 @@
+name: Deploy Morning Brief
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "output/index.html"
+      - "output/brief.json"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  notify:
+    name: Telegram Notification
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Read brief.json and send Telegram message
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PAGES_URL: ${{ needs.deploy.outputs.page_url }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, urllib.request, urllib.parse
+
+          with open("output/brief.json") as f:
+              brief = json.load(f)
+
+          date = brief["date"]
+          items = brief["top_items"]
+          pages_url = os.environ.get("PAGES_URL", "https://koustubhg.github.io/morning-brief")
+
+          lines = [f"\u2601\ufe0f *Morning Brief \u2014 {date}*", ""]
+          for item in items:
+              title = item["title"].replace("*", "\\*").replace("_", "\\_").replace("[", "\\[").replace("]", "\\]")
+              lines.append(f"\u2022 [{title}]({item['url']})")
+          lines += ["", f"\u2192 [Read all \u2197]({pages_url})"]
+
+          message = "\n".join(lines)
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          url = f"https://api.telegram.org/bot{token}/sendMessage"
+
+          payload = json.dumps({
+              "chat_id": chat_id,
+              "text": message,
+              "parse_mode": "Markdown",
+              "disable_web_page_preview": True,
+          }).encode()
+
+          req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"})
+          with urllib.request.urlopen(req) as resp:
+              result = json.loads(resp.read())
+              print("Telegram response:", result.get("ok"))
+          EOF

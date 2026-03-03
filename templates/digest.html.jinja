@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f172a">
+  <title>Morning Brief — {{ date_display }}</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --surface: #1e293b;
+      --border: #334155;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --tag-cloud: #1e40af;
+      --tag-infra: #065f46;
+      --tag-ai: #581c87;
+      --tag-aus: #7c2d12;
+      --tag-news: #374151;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 1rem 3rem;
+    }
+
+    /* ── Header ── */
+    header {
+      padding: 1.5rem 0 1rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem;
+    }
+    .brief-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .brief-meta {
+      display: flex;
+      gap: 1rem;
+      margin-top: 0.3rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    /* ── Item card ── */
+    .item {
+      padding: 1rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .item:last-child { border-bottom: none; }
+
+    .item-top {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+      margin-bottom: 0.35rem;
+    }
+    .rank {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent);
+      opacity: 0.6;
+      min-width: 1.4rem;
+      padding-top: 0.2rem;
+      flex-shrink: 0;
+    }
+    .item-headline {
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    .item-headline a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .item-headline a:hover { color: var(--accent); }
+
+    .item-body {
+      padding-left: 2rem;
+    }
+    .one-liner {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 0.5rem;
+      line-height: 1.5;
+    }
+    .item-footer {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .source-tag {
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+    }
+    .score-pill {
+      font-size: 0.7rem;
+      color: var(--muted);
+      opacity: 0.6;
+    }
+    .reason {
+      font-size: 0.75rem;
+      color: var(--muted);
+      opacity: 0.7;
+      font-style: italic;
+    }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-align: center;
+    }
+    footer a { color: var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brief-title">☁ Morning Brief</div>
+    <div class="brief-meta">
+      <span>{{ date_display }}</span>
+      <span>·</span>
+      <span>~10 min read</span>
+      <span>·</span>
+      <span>{{ items|length }} items</span>
+    </div>
+  </header>
+
+  <main>
+    {% for item in items %}
+    <article class="item">
+      <div class="item-top">
+        <span class="rank">{{ loop.index }}.</span>
+        <h2 class="item-headline">
+          <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+        </h2>
+      </div>
+      <div class="item-body">
+        <p class="one-liner">{{ item.one_liner }}</p>
+        <div class="item-footer">
+          <span class="source-tag">{{ item.source | truncate(35, true, '…') }}</span>
+          {% if item.score is defined %}
+          <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
+          {% endif %}
+          {% if item.reason %}
+          <span class="reason">{{ item.reason }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+  </main>
+
+  <footer>
+    <p>Generated {{ generated_at }} · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
+  </footer>
+</body>
+</html>

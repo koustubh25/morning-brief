@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+.DS_Store
+
+# Keep output dir but ignore generated files in git status noise
+# (main.py commits these explicitly via gitpython)

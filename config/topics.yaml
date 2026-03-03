@@ -1,0 +1,24 @@
+context: "Senior Manager, Cloud Platform Delivery - GCP, PwC Australia. Goal: Director."
+verticals:
+  - financial services (Australian banking, APRA regulation)
+  - government digital (Australia)
+topics:
+  primary:
+    - AI in platform engineering and developer tooling
+    - Google Cloud Platform (GCP) — new features, case studies, security
+    - Kubernetes, container orchestration, Operators, KCC, Crossplane
+    - Internal Developer Platforms (IDP), Backstage, platform engineering
+    - AI agents and LLMs in production (Gemini, Claude, enterprise AI)
+    - Cloud security (Zero Trust, APRA CPG 234, data sovereignty)
+    - PwC Australia and Big 4 consulting technology news
+  secondary:
+    - DevOps, GitOps, SRE practices
+    - Cloud cost optimisation
+    - Australian enterprise IT news
+    - Open source infrastructure tooling (CNCF ecosystem)
+exclude:
+  - cryptocurrency / blockchain speculation
+  - consumer tech reviews
+  - political news
+  - sports
+scoring_note: "Prefer items with concrete technical insight or business impact over opinion or product announcements alone."
