@@ -62,20 +62,19 @@ jobs:
 
           date = brief["date"]
           items = brief["top_items"]
-          pages_url = os.environ.get("PAGES_URL", "https://koustubh25.github.io/morning-brief")
+          pages_url = os.environ.get("PAGES_URL") or "https://koustubh25.github.io/morning-brief"
 
           top = items[0] if items else {}
           teaser = top.get("one_liner") or top.get("title", "Today's brief is ready.")
-          teaser = teaser.replace("*", "\\*").replace("_", "\\_").replace("[", "\\[").replace("]", "\\]")
-          lines = [
-              f"\u2601\ufe0f *Morning Brief \u2014 {date}*",
-              "",
-              f"_{teaser}_",
-              "",
-              f"\u2192 [Read all \u2197]({pages_url})",
-          ]
-
-          message = "\n".join(lines)
+          import html
+          teaser = html.escape(teaser)
+          message = (
+              f'\u2601\ufe0f <b>Morning Brief \u2014 {html.escape(date)}</b>\n'
+              f'\n'
+              f'<i>{teaser}</i>\n'
+              f'\n'
+              f'\u2192 <a href="{pages_url}">Read all \u2197</a>'
+          )
 
           token = os.environ["TELEGRAM_BOT_TOKEN"]
           chat_id = os.environ["TELEGRAM_CHAT_ID"]
@@ -84,7 +83,7 @@ jobs:
           payload = json.dumps({
               "chat_id": chat_id,
               "text": message,
-              "parse_mode": "Markdown",
+              "parse_mode": "HTML",
               "disable_web_page_preview": True,
           }).encode()
 
