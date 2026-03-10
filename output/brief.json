@@ -4,17 +4,17 @@
     {
       "title": "AI Coding Tools for Knowledge Work: What Executives Need to Know",
       "url": "https://sloanreview.mit.edu/article/ai-coding-tools-for-knowledge-work-what-executives-need-to-know/",
-      "one_liner": "Explains why AI coding assistants like Claude Code now matter to executives, not just developers — essential briefing material."
+      "one_liner": "Executives underestimate AI coding tools like Claude Code — argues agentic assistants transform knowledge work far beyond software development."
     },
     {
       "title": "Anthropic launches a multi-agent code review tool for Claude Code",
       "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/",
-      "one_liner": "Anthropic adds multi-agent code review to Claude Code, addressing quality gaps as AI-generated code volumes surge."
+      "one_liner": "Anthropic's new multi-agent code review in Claude Code addresses quality at scale as AI-generated code volumes surge."
     },
     {
       "title": "The technical leap where most brilliant AI initiatives spectacularly fail",
       "url": "https://thenewstack.io/where-ai-initiatives-fail/",
-      "one_liner": "Most AI initiatives stall between prototype and production — pinpoints the organisational and technical failure modes."
+      "one_liner": "Most AI initiatives stall at the prototype-to-production leap — a strategic read for advisory conversations with senior clients."
     }
   ]
 }
