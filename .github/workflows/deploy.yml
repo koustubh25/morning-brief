@@ -61,13 +61,18 @@ jobs:
 
           date = brief["date"]
           items = brief["top_items"]
-          pages_url = os.environ.get("PAGES_URL", "https://koustubhg.github.io/morning-brief")
+          pages_url = os.environ.get("PAGES_URL", "https://koustubh25.github.io/morning-brief")
 
-          lines = [f"\u2601\ufe0f *Morning Brief \u2014 {date}*", ""]
-          for item in items:
-              title = item["title"].replace("*", "\\*").replace("_", "\\_").replace("[", "\\[").replace("]", "\\]")
-              lines.append(f"\u2022 [{title}]({item['url']})")
-          lines += ["", f"\u2192 [Read all \u2197]({pages_url})"]
+          top = items[0] if items else {}
+          teaser = top.get("one_liner") or top.get("title", "Today's brief is ready.")
+          teaser = teaser.replace("*", "\\*").replace("_", "\\_").replace("[", "\\[").replace("]", "\\]")
+          lines = [
+              f"\u2601\ufe0f *Morning Brief \u2014 {date}*",
+              "",
+              f"_{teaser}_",
+              "",
+              f"\u2192 [Read all \u2197]({pages_url})",
+          ]
 
           message = "\n".join(lines)
 
