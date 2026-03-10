@@ -2,19 +2,19 @@
   "date": "Tue 10 Mar 2026",
   "top_items": [
     {
-      "title": "AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu",
-      "url": "https://sloanreview.mit.edu/audio/ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu/",
-      "one_liner": "Acemoglu challenges AI productivity hype — critical counterpoint for any executive pitching or stress-testing AI business cases."
-    },
-    {
       "title": "AI Coding Tools for Knowledge Work: What Executives Need to Know",
       "url": "https://sloanreview.mit.edu/article/ai-coding-tools-for-knowledge-work-what-executives-need-to-know/",
-      "one_liner": "MIT SMR makes the executive case for agentic coding tools like Claude Code beyond developers — perfect briefing material."
+      "one_liner": "Why AI coding assistants like Claude Code are becoming strategic productivity tools well beyond the developer desk."
     },
     {
-      "title": "Anthropic launches a multi-agent code review tool for Claude Code",
-      "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/",
-      "one_liner": "Anthropic's new multi-agent code review in Claude Code addresses quality at scale as AI-generated code volumes surge."
+      "title": "AI Won’t Fix This",
+      "url": "https://sloanreview.mit.edu/article/ai-wont-fix-this/",
+      "one_liner": "Despite massive AI spend, Gartner survey of 4,200 leaders finds most organisations still can't demonstrate meaningful returns."
+    },
+    {
+      "title": "AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu",
+      "url": "https://sloanreview.mit.edu/audio/ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu/",
+      "one_liner": "Acemoglu challenges AI productivity hype — critical counterpoint for executives weighing AI investment returns."
     }
   ]
 }
