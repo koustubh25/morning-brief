@@ -1,24 +1,37 @@
-context: "Senior Manager, Cloud Platform Delivery - GCP, PwC Australia. Goal: Director."
+context: "Senior Manager → Director, Cloud & AI Advisory, PwC Australia. Role is ~50% technical delivery, ~50% stakeholder engagement with Directors, MDs, and Partners."
 verticals:
   - financial services (Australian banking, APRA regulation)
   - government digital (Australia)
+
 topics:
   primary:
-    - AI in platform engineering and developer tooling
-    - Google Cloud Platform (GCP) — new features, case studies, security
-    - Kubernetes, container orchestration, Operators, KCC, Crossplane
-    - Internal Developer Platforms (IDP), Backstage, platform engineering
-    - AI agents and LLMs in production (Gemini, Claude, enterprise AI)
-    - Cloud security (Zero Trust, APRA CPG 234, data sovereignty)
-    - PwC Australia and Big 4 consulting technology news
+    # Leadership / strategic (for client conversations, offsites, board briefings)
+    - AI strategy and enterprise adoption (business impact, ROI, risk)
+    - Cloud transformation — board-level investment, risk, and vendor decisions
+    - Technology leadership and digital transformation trends
+    - Cybersecurity and data governance at the executive level (APRA, ISO, board risk)
+    - Australian business and technology news (ASX companies, government, Big 4)
+    - PwC and consulting market — deals, technology advisory, competitive landscape
+
+    # Technical (for delivery credibility and hands-on awareness)
+    - Google Cloud Platform (GCP) — new features, announcements, architecture, case studies
+    - Kubernetes, GitOps, and platform engineering (practical patterns, not release notes)
+    - AI developer tools — Claude Code, GitHub Copilot, Codex, Cursor, agentic coding
+    - LLMs and AI agents in production (Gemini, Claude, OpenAI — enterprise deployments)
+
   secondary:
-    - DevOps, GitOps, SRE practices
-    - Cloud cost optimisation
-    - Australian enterprise IT news
-    - Open source infrastructure tooling (CNCF ecosystem)
+    - AI regulation and governance (Australian and global policy)
+    - Future of work, organisational change, and talent in the AI era
+    - Cloud cost optimisation and FinOps
+    - Australian enterprise technology investment and M&A
+    - Open source infrastructure (outcomes and adoption, not changelogs)
+
 exclude:
+  - CNCF deep internals (KCC, Crossplane, Backstage configuration details)
+  - low-level Kubernetes release notes with no broader impact
   - cryptocurrency / blockchain speculation
   - consumer tech reviews
-  - political news
+  - political news unrelated to tech policy
   - sports
-scoring_note: "Prefer items with concrete technical insight or business impact over opinion or product announcements alone."
+
+scoring_note: "Aim for a 50/50 mix: half should be items a Director/MD/Partner would raise in a client meeting or board briefing; half should be items that keep a senior cloud/AI engineer sharp and credible. Favour strategic insight, concrete technical patterns, Australian market relevance, and anything that bridges business and engineering."

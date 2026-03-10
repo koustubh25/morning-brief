@@ -1,0 +1,95 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: morning-brief-config
+  namespace: morning-brief
+data:
+  sources.yaml: |
+    rss:
+      - name: Google Cloud Blog
+        url: https://cloud.google.com/blog/rss
+        weight: high
+      - name: HBR Technology
+        url: https://hbr.org/topics/technology.rss
+        weight: high
+      - name: McKinsey Technology Insights
+        url: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/rss
+        weight: high
+      - name: MIT Sloan Management Review
+        url: https://sloanreview.mit.edu/feed/
+        weight: high
+      - name: AFR Technology
+        url: https://www.afr.com/rss/technology
+        weight: high
+      - name: CIO Australia
+        url: https://www.itnews.com.au/cio/rss
+        weight: high
+      - name: iTnews (AU enterprise IT)
+        url: https://www.itnews.com.au/rss
+        weight: high
+      - name: InnovationAus
+        url: https://www.innovationaus.com/feed/
+        weight: high
+      - name: The New Stack
+        url: https://thenewstack.io/feed/
+        weight: medium
+      - name: InfoQ Cloud
+        url: https://feed.infoq.com/cloud
+        weight: medium
+      - name: Gartner Newsroom
+        url: https://www.gartner.com/en/newsroom/press-releases/rss
+        weight: medium
+      - name: Deloitte Insights Technology
+        url: https://www2.deloitte.com/us/en/insights/industry/technology.rss
+        weight: medium
+      - name: AICD
+        url: https://www.aicd.com.au/rss
+        weight: medium
+    hacker_news:
+      enabled: true
+      min_score: 100
+      max_items: 30
+    google_news:
+      queries:
+        - "AI strategy enterprise Australia 2026"
+        - "cloud transformation digital board director"
+        - "PwC Australia technology consulting"
+        - "APRA regulation digital banking Australia"
+        - "AI governance regulation Australia"
+        - "digital transformation Big 4 consulting"
+        - "Google Cloud GCP announcement 2026"
+        - "Kubernetes GitOps platform engineering"
+        - "Claude Code Copilot Codex AI developer tools"
+        - "LLM agents production enterprise"
+
+  topics.yaml: |
+    context: "Senior Manager → Director, Cloud & AI Advisory, PwC Australia. Role is ~50% technical delivery, ~50% stakeholder engagement with Directors, MDs, and Partners."
+    verticals:
+      - financial services (Australian banking, APRA regulation)
+      - government digital (Australia)
+    topics:
+      primary:
+        - AI strategy and enterprise adoption (business impact, ROI, risk)
+        - Cloud transformation — board-level investment, risk, and vendor decisions
+        - Google Cloud Platform (GCP) — new features, announcements, architecture, case studies
+        - Technology leadership and digital transformation trends
+        - Cybersecurity and data governance at the executive level (APRA, ISO, board risk)
+        - Australian business and technology news (ASX companies, government, Big 4)
+        - PwC and consulting market — deals, technology advisory, competitive landscape
+        - Kubernetes, GitOps, and platform engineering (practical patterns, not release notes)
+        - AI developer tools — Claude Code, GitHub Copilot, Codex, Cursor, agentic coding
+        - LLMs and AI agents in production (Gemini, Claude, OpenAI — enterprise deployments)
+      secondary:
+        - AI regulation and governance (Australian and global policy)
+        - Future of work, organisational change, and talent in the AI era
+        - Cloud cost optimisation and FinOps
+        - Australian enterprise technology investment and M&A
+        - Open source infrastructure (outcomes and adoption, not changelogs)
+    exclude:
+      - CNCF deep internals (KCC, Crossplane, Backstage configuration details)
+      - low-level Kubernetes release notes with no broader impact
+      - cryptocurrency / blockchain speculation
+      - consumer tech reviews
+      - political news unrelated to tech policy
+      - sports
+    scoring_note: "Aim for a 50/50 mix: half should be items a Director/MD/Partner would raise in a client meeting or board briefing; half should be items that keep a senior cloud/AI engineer sharp and credible."

@@ -12,6 +12,8 @@ import feedparser
 import requests
 import yaml
 
+from seen import load_seen_urls
+
 log = logging.getLogger(__name__)
 
 HN_TOP_STORIES = "https://hacker-news.firebaseio.com/v0/topstories.json"
@@ -169,4 +171,13 @@ def fetch_all() -> list[dict]:
     candidates += fetch_google_news(sources.get("google_news", {}))
     candidates = deduplicate(candidates)
     log.info("Total candidates after dedup: %d", len(candidates))
+
+    # Filter URLs already published in the last 7 days
+    seen = load_seen_urls()
+    before = len(candidates)
+    candidates = [
+        c for c in candidates
+        if c["url"].rstrip("/").lower().split("?")[0] not in seen
+    ]
+    log.info("Filtered %d already-seen items; %d remain", before - len(candidates), len(candidates))
     return candidates

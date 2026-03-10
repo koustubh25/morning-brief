@@ -10,6 +10,8 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from seen import save_seen_urls
+
 log = logging.getLogger(__name__)
 
 OUTPUT_DIR = Path("output")
@@ -48,3 +50,6 @@ def generate_html(items: list[dict]) -> None:
     }
     BRIEF_JSON.write_text(json.dumps(brief, indent=2, ensure_ascii=False), encoding="utf-8")
     log.info("Wrote %s", BRIEF_JSON)
+
+    # Persist published URLs so they're excluded from tomorrow's run
+    save_seen_urls([item["url"] for item in items])

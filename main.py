@@ -36,7 +36,10 @@ def git_commit_and_push(repo_dir: Path) -> None:
     date_str = now.strftime("%Y-%m-%d")
 
     # Stage the generated files
-    repo.index.add(["output/index.html", "output/brief.json"])
+    files_to_add = ["output/index.html", "output/brief.json"]
+    if (repo_dir / "output" / "seen.json").exists():
+        files_to_add.append("output/seen.json")
+    repo.index.add(files_to_add)
 
     if not repo.index.diff("HEAD"):
         log.info("No changes to commit — digest unchanged.")
@@ -47,13 +50,14 @@ def git_commit_and_push(repo_dir: Path) -> None:
     log.info("Committed: %s", commit_msg)
 
     origin = repo.remotes.origin
-    origin.push()
+    origin.push(refspec="HEAD:refs/heads/main", set_upstream=True)
     log.info("Pushed to origin/main — GitHub Actions will deploy.")
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Morning Brief generator")
     parser.add_argument("--dry-run", "--no-push", action="store_true", help="Skip git push")
+    parser.add_argument("--converse", action="store_true", help="Launch voice debate partner after generating brief")
     args = parser.parse_args()
 
     # Ensure we run from the repo root so relative config paths work
@@ -84,6 +88,12 @@ def main() -> int:
         git_commit_and_push(REPO_DIR)
 
     log.info("Done. %d items in today's brief.", len(selected))
+
+    if args.converse:
+        log.info("Launching voice debate partner…")
+        import converse
+        converse.main()
+
     return 0
 
 

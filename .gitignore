@@ -6,6 +6,8 @@ venv/
 *.egg-info/
 dist/
 .DS_Store
+*.tgz
+k8s/secrets.yaml
 
 # Keep output dir but ignore generated files in git status noise
 # (main.py commits these explicitly via gitpython)

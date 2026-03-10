@@ -1,25 +1,46 @@
 rss:
+  # Technical sources
   - name: Google Cloud Blog
     url: https://cloud.google.com/blog/rss
     weight: high
-  - name: The New Stack (Platform Engineering)
-    url: https://thenewstack.io/feed/
-    weight: high
-  - name: CNCF Blog
-    url: https://www.cncf.io/feed/
-    weight: medium
   - name: InfoQ Cloud
     url: https://feed.infoq.com/cloud
     weight: medium
-  - name: iTnews (AU enterprise IT)
-    url: https://www.itnews.com.au/rss
+  - name: The New Stack
+    url: https://thenewstack.io/feed/
     weight: medium
-  - name: InnovationAus
-    url: https://www.innovationaus.com/feed/
-    weight: medium
+
+  # Leadership / strategy sources
   - name: HBR Technology
     url: https://hbr.org/topics/technology.rss
-    weight: low
+    weight: high
+  - name: McKinsey Technology Insights
+    url: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/rss
+    weight: high
+  - name: MIT Sloan Management Review
+    url: https://sloanreview.mit.edu/feed/
+    weight: high
+  - name: AFR Technology
+    url: https://www.afr.com/rss/technology
+    weight: high
+  - name: CIO Australia
+    url: https://www.itnews.com.au/cio/rss
+    weight: high
+  - name: iTnews (AU enterprise IT)
+    url: https://www.itnews.com.au/rss
+    weight: high
+  - name: InnovationAus
+    url: https://www.innovationaus.com/feed/
+    weight: high
+  - name: Gartner Newsroom
+    url: https://www.gartner.com/en/newsroom/press-releases/rss
+    weight: medium
+  - name: Deloitte Insights Technology
+    url: https://www2.deloitte.com/us/en/insights/industry/technology.rss
+    weight: medium
+  - name: AICD
+    url: https://www.aicd.com.au/rss
+    weight: medium
 
 hacker_news:
   enabled: true
@@ -28,10 +49,15 @@ hacker_news:
 
 google_news:
   queries:
-    - "platform engineering AI 2026"
-    - "Google Cloud GCP announcement"
-    - "AI agents enterprise"
-    - "PwC Australia cloud"
-    - "APRA cloud banking Australia"
-    - "Kubernetes platform engineering"
-    - "internal developer platform backstage"
+    # Leadership / strategic
+    - "AI strategy enterprise Australia 2026"
+    - "cloud transformation digital board director"
+    - "PwC Australia technology consulting"
+    - "APRA regulation digital banking Australia"
+    - "AI governance regulation Australia"
+    - "digital transformation Big 4 consulting"
+    # Technical
+    - "Google Cloud GCP announcement 2026"
+    - "Kubernetes GitOps platform engineering"
+    - "Claude Code Copilot Codex AI developer tools"
+    - "LLM agents production enterprise"

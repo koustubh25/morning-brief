@@ -1,0 +1,104 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: morning-brief
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: morning-brief
+  namespace: morning-brief
+spec:
+  schedule: "0 21 * * *"   # 21:00 UTC daily = 07:00 AEST
+  timeZone: "UTC"
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 3
+  failedJobsHistoryLimit: 3
+  jobTemplate:
+    spec:
+      backoffLimit: 1
+      template:
+        spec:
+          restartPolicy: Never
+          securityContext:
+            runAsNonRoot: true
+            runAsUser: 1000
+            fsGroup: 1000
+            seccompProfile:
+              type: RuntimeDefault
+          initContainers:
+            - name: ssh-setup
+              image: alpine/git:latest
+              securityContext:
+                runAsNonRoot: true
+                runAsUser: 1000
+                allowPrivilegeEscalation: false
+                capabilities:
+                  drop: ["ALL"]
+              command:
+                - sh
+                - -c
+                - |
+                  mkdir -p /tmp/.ssh
+                  cp /ssh-secret/id_ed25519 /tmp/.ssh/id_ed25519
+                  printf '%s\n' \
+                    'github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' \
+                    'github.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEmKSENjQEezOmxkZMy7opKgwFobtEHop2I1XfOm/EOVKLiLXqkEWE4RYuKxLGUAXCCgKpI2gCBW9IFgr1N0FGI=' \
+                    > /tmp/.ssh/known_hosts
+              volumeMounts:
+                - name: ssh-secret
+                  mountPath: /ssh-secret
+                  readOnly: true
+                - name: ssh-dir
+                  mountPath: /tmp/.ssh
+          containers:
+            - name: morning-brief
+              image: 172.30.29.3:30500/morning-brief:latest
+              imagePullPolicy: Always
+              env:
+                - name: CLAUDE_CODE_OAUTH_TOKEN
+                  valueFrom:
+                    secretKeyRef:
+                      name: morning-brief-secrets
+                      key: CLAUDE_CODE_OAUTH_TOKEN
+                - name: CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC
+                  value: "1"
+                - name: NODE_OPTIONS
+                  value: "--max-old-space-size=100"
+                - name: HOME
+                  value: "/tmp"
+                - name: GIT_SSH_COMMAND
+                  value: "ssh -i /tmp/.ssh/id_ed25519 -o UserKnownHostsFile=/tmp/.ssh/known_hosts"
+                - name: GIT_AUTHOR_NAME
+                  value: "morning-brief"
+                - name: GIT_AUTHOR_EMAIL
+                  value: "morning-brief@koustubh25"
+                - name: GIT_COMMITTER_NAME
+                  value: "morning-brief"
+                - name: GIT_COMMITTER_EMAIL
+                  value: "morning-brief@koustubh25"
+              volumeMounts:
+                - name: config
+                  mountPath: /app/config
+                - name: ssh-dir
+                  mountPath: /tmp/.ssh
+              resources:
+                requests: { cpu: 100m, memory: 128Mi }
+                limits:   { cpu: 500m, memory: 512Mi }
+              securityContext:
+                allowPrivilegeEscalation: false
+                capabilities:
+                  drop: ["ALL"]
+          volumes:
+            - name: config
+              configMap:
+                name: morning-brief-config
+            - name: ssh-secret
+              secret:
+                secretName: morning-brief-secrets
+                defaultMode: 0400
+                items:
+                  - key: SSH_PRIVATE_KEY
+                    path: id_ed25519
+            - name: ssh-dir
+              emptyDir: {}
