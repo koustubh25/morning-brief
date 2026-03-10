@@ -2,19 +2,19 @@
   "date": "Tue 10 Mar 2026",
   "top_items": [
     {
+      "title": "AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu",
+      "url": "https://sloanreview.mit.edu/audio/ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu/",
+      "one_liner": "Acemoglu challenges AI productivity hype — a must-read counter-argument before any board-level AI ROI discussion."
+    },
+    {
       "title": "AI Coding Tools for Knowledge Work: What Executives Need to Know",
       "url": "https://sloanreview.mit.edu/article/ai-coding-tools-for-knowledge-work-what-executives-need-to-know/",
-      "one_liner": "Executives are wrong to dismiss Claude Code and agentic coding tools as dev-only — this piece explains the knowledge-work productivity case."
+      "one_liner": "Explains why agentic coding tools like Claude Code matter beyond engineering — a concise brief for executive stakeholders."
     },
     {
       "title": "Anthropic launches a multi-agent code review tool for Claude Code",
       "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/",
-      "one_liner": "Anthropic adds multi-agent code review to Claude Code, raising the bar for AI-assisted software quality at scale."
-    },
-    {
-      "title": "The technical leap where most brilliant AI initiatives spectacularly fail",
-      "url": "https://thenewstack.io/where-ai-initiatives-fail/",
-      "one_liner": "Most AI initiatives stall at the production leap — this diagnoses the organisational and technical failure points."
+      "one_liner": "Anthropic's new multi-agent code review tool for Claude Code addresses quality gaps as AI-generated code volume surges."
     }
   ]
 }
