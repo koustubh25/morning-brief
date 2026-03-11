@@ -16,10 +16,15 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+# Create appuser (uid 1000) and fix ownership
+RUN addgroup -g 1000 appuser && adduser -D -u 1000 -G appuser appuser \
+    && mkdir -p output \
+    && chown -R appuser:appuser /app
+
 # Cap Node.js heap so claude subprocesses stay lean
 ENV NODE_OPTIONS="--max-old-space-size=100"
 # Alpine user 1000 has no home dir — claude CLI needs a writable HOME
-ENV HOME="/tmp"
+ENV HOME="/home/appuser"
 ENV CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC="1"
 
 USER 1000

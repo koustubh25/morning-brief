@@ -163,12 +163,17 @@ def deduplicate(items: list[dict]) -> list[dict]:
     return unique
 
 
-def fetch_all() -> list[dict]:
+def fetch_all(test_mode: bool = False) -> list[dict]:
     sources = _load_sources()
     candidates: list[dict] = []
-    candidates += fetch_rss(sources.get("rss", []))
-    candidates += fetch_hacker_news(sources.get("hacker_news", {}))
-    candidates += fetch_google_news(sources.get("google_news", {}))
+    if test_mode:
+        # Fast path: 1 RSS feed, no HN, 1 GN query
+        candidates += fetch_rss(sources.get("rss", [])[:1])
+        candidates += fetch_google_news({"queries": sources.get("google_news", {}).get("queries", [])[:1]})
+    else:
+        candidates += fetch_rss(sources.get("rss", []))
+        candidates += fetch_hacker_news(sources.get("hacker_news", {}))
+        candidates += fetch_google_news(sources.get("google_news", {}))
     candidates = deduplicate(candidates)
     log.info("Total candidates after dedup: %d", len(candidates))
 

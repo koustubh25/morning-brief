@@ -39,18 +39,14 @@ spec:
                 - sh
                 - -c
                 - |
-                  mkdir -p /tmp/.ssh
-                  cp /ssh-secret/id_ed25519 /tmp/.ssh/id_ed25519
-                  printf '%s\n' \
-                    'github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' \
-                    'github.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEmKSENjQEezOmxkZMy7opKgwFobtEHop2I1XfOm/EOVKLiLXqkEWE4RYuKxLGUAXCCgKpI2gCBW9IFgr1N0FGI=' \
-                    > /tmp/.ssh/known_hosts
+                  mkdir -p /home/appuser/.ssh
+                  cp /ssh-secret/id_ed25519 /home/appuser/.ssh/id_ed25519
               volumeMounts:
                 - name: ssh-secret
                   mountPath: /ssh-secret
                   readOnly: true
                 - name: ssh-dir
-                  mountPath: /tmp/.ssh
+                  mountPath: /home/appuser/.ssh
           containers:
             - name: morning-brief
               image: 172.30.29.3:30500/morning-brief:latest
@@ -66,9 +62,9 @@ spec:
                 - name: NODE_OPTIONS
                   value: "--max-old-space-size=100"
                 - name: HOME
-                  value: "/tmp"
+                  value: "/home/appuser"
                 - name: GIT_SSH_COMMAND
-                  value: "ssh -i /tmp/.ssh/id_ed25519 -o UserKnownHostsFile=/tmp/.ssh/known_hosts"
+                  value: "ssh -i /home/appuser/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
                 - name: GIT_AUTHOR_NAME
                   value: "morning-brief"
                 - name: GIT_AUTHOR_EMAIL
@@ -81,7 +77,7 @@ spec:
                 - name: config
                   mountPath: /app/config
                 - name: ssh-dir
-                  mountPath: /tmp/.ssh
+                  mountPath: /home/appuser/.ssh
               resources:
                 requests: { cpu: 100m, memory: 128Mi }
                 limits:   { cpu: 500m, memory: 512Mi }

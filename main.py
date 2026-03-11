@@ -49,8 +49,18 @@ def git_commit_and_push(repo_dir: Path) -> None:
     repo.index.commit(commit_msg)
     log.info("Committed: %s", commit_msg)
 
-    origin = repo.remotes.origin
-    origin.push(refspec="HEAD:refs/heads/main", set_upstream=True)
+    # Use subprocess for push so GIT_SSH_COMMAND is honoured in containers
+    import subprocess
+    remote_url = "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
+        else repo.remotes.origin.url
+    result = subprocess.run(
+        ["git", "push", "--set-upstream", remote_url, "HEAD:refs/heads/main"],
+        cwd=repo_dir,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"git push failed: {result.stderr.strip()}")
     log.info("Pushed to origin/main — GitHub Actions will deploy.")
 
 
@@ -58,6 +68,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Morning Brief generator")
     parser.add_argument("--dry-run", "--no-push", action="store_true", help="Skip git push")
     parser.add_argument("--converse", action="store_true", help="Launch voice debate partner after generating brief")
+    parser.add_argument("--test", action="store_true", help="Fast mode: 1 batch of 5 items, no HN, 1 GN query")
     args = parser.parse_args()
 
     # Ensure we run from the repo root so relative config paths work
@@ -66,13 +77,13 @@ def main() -> int:
     log.info("=== Morning Brief — %s ===", datetime.now(timezone.utc).strftime("%a %-d %b %Y"))
 
     log.info("Step 1: Fetching candidates…")
-    candidates = fetch_all()
+    candidates = fetch_all(test_mode=args.test)
     if not candidates:
         log.error("No candidates fetched. Aborting.")
         return 1
 
     log.info("Step 2: Curating with Claude…")
-    selected = curate(candidates)
+    selected = curate(candidates, top_n=3 if args.test else 9)
     if not selected:
         log.error("No items selected after curation. Aborting.")
         return 1

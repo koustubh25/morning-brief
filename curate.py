@@ -139,6 +139,8 @@ def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
     ordered = sorted(candidates, key=lambda x: weight_order.get(x.get("_weight", "medium"), 1))
     to_score = ordered[:MAX_CANDIDATES_TO_SCORE]
 
+    cap = BATCH_SIZE if top_n <= 3 else MAX_CANDIDATES_TO_SCORE
+    to_score = ordered[:cap]
     batches = [to_score[i:i + BATCH_SIZE] for i in range(0, len(to_score), BATCH_SIZE)]
     log.info("Scoring %d candidates in %d batches via claude CLI…", len(to_score), len(batches))
 
