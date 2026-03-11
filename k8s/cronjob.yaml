@@ -41,6 +41,7 @@ spec:
                 - |
                   mkdir -p /home/appuser/.ssh
                   cp /ssh-secret/id_ed25519 /home/appuser/.ssh/id_ed25519
+                  chmod 400 /home/appuser/.ssh/id_ed25519
               volumeMounts:
                 - name: ssh-secret
                   mountPath: /ssh-secret

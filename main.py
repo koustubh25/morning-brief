@@ -10,6 +10,7 @@ Usage:
 import argparse
 import logging
 import os
+import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -30,10 +31,23 @@ log = logging.getLogger("main")
 REPO_DIR = Path(__file__).parent
 
 
+def _git(args: list, repo_dir: Path) -> subprocess.CompletedProcess:
+    return subprocess.run(args, cwd=repo_dir, capture_output=True, text=True)
+
+
 def git_commit_and_push(repo_dir: Path) -> None:
+    import subprocess
     repo = git.Repo(repo_dir)
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y-%m-%d")
+
+    remote_url = "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
+        else repo.remotes.origin.url
+
+    # Pull latest so we don't diverge from other pushes (e.g. previous CronJob runs)
+    pull = _git(["git", "pull", "--rebase", remote_url, "main"], repo_dir)
+    if pull.returncode != 0:
+        log.warning("git pull failed (proceeding anyway): %s", pull.stderr.strip())
 
     # Stage the generated files
     files_to_add = ["output/index.html", "output/brief.json"]
@@ -49,18 +63,9 @@ def git_commit_and_push(repo_dir: Path) -> None:
     repo.index.commit(commit_msg)
     log.info("Committed: %s", commit_msg)
 
-    # Use subprocess for push so GIT_SSH_COMMAND is honoured in containers
-    import subprocess
-    remote_url = "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
-        else repo.remotes.origin.url
-    result = subprocess.run(
-        ["git", "push", "--set-upstream", remote_url, "HEAD:refs/heads/main"],
-        cwd=repo_dir,
-        capture_output=True,
-        text=True,
-    )
-    if result.returncode != 0:
-        raise RuntimeError(f"git push failed: {result.stderr.strip()}")
+    push = _git(["git", "push", "--set-upstream", remote_url, "HEAD:refs/heads/main"], repo_dir)
+    if push.returncode != 0:
+        raise RuntimeError(f"git push failed: {push.stderr.strip()}")
     log.info("Pushed to origin/main — GitHub Actions will deploy.")
 
 
