@@ -25,7 +25,7 @@ tasks:
 
   build:
     desc: "Build Docker image"
-    cmd: docker build -t {{.IMAGE}}:latest .
+    cmd: docker build --platform linux/amd64 -t {{.IMAGE}}:latest .
 
   push:
     desc: "Push image to homelab registry"

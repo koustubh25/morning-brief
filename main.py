@@ -35,19 +35,28 @@ def _git(args: list, repo_dir: Path) -> subprocess.CompletedProcess:
     return subprocess.run(args, cwd=repo_dir, capture_output=True, text=True)
 
 
+def _remote_url(repo_dir: Path) -> str:
+    repo = git.Repo(repo_dir)
+    return "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
+        else repo.remotes.origin.url
+
+
+def git_pull(repo_dir: Path) -> None:
+    """Pull latest before generating files so there are no unstaged changes during rebase."""
+    remote_url = _remote_url(repo_dir)
+    pull = _git(["git", "pull", "--rebase", remote_url, "main"], repo_dir)
+    if pull.returncode != 0:
+        log.warning("git pull failed (proceeding anyway): %s", pull.stderr.strip())
+    else:
+        log.info("git pull --rebase OK")
+
+
 def git_commit_and_push(repo_dir: Path) -> None:
-    import subprocess
     repo = git.Repo(repo_dir)
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y-%m-%d")
 
-    remote_url = "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
-        else repo.remotes.origin.url
-
-    # Pull latest so we don't diverge from other pushes (e.g. previous CronJob runs)
-    pull = _git(["git", "pull", "--rebase", remote_url, "main"], repo_dir)
-    if pull.returncode != 0:
-        log.warning("git pull failed (proceeding anyway): %s", pull.stderr.strip())
+    remote_url = _remote_url(repo_dir)
 
     # Stage the generated files
     files_to_add = ["output/index.html", "output/brief.json"]
@@ -80,6 +89,10 @@ def main() -> int:
     os.chdir(REPO_DIR)
 
     log.info("=== Morning Brief — %s ===", datetime.now(timezone.utc).strftime("%a %-d %b %Y"))
+
+    if not args.dry_run:
+        log.info("Step 0: Pulling latest from remote (before generating files)…")
+        git_pull(REPO_DIR)
 
     log.info("Step 1: Fetching candidates…")
     candidates = fetch_all(test_mode=args.test)

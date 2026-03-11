@@ -19,7 +19,8 @@ COPY . .
 # Create appuser (uid 1000) and fix ownership
 RUN addgroup -g 1000 appuser && adduser -D -u 1000 -G appuser appuser \
     && mkdir -p output \
-    && chown -R appuser:appuser /app
+    && chown -R appuser:appuser /app \
+    && chmod +x /app/entrypoint.sh
 
 # Cap Node.js heap so claude subprocesses stay lean
 ENV NODE_OPTIONS="--max-old-space-size=100"
@@ -28,4 +29,7 @@ ENV HOME="/home/appuser"
 ENV CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC="1"
 
 USER 1000
-CMD ["python", "main.py"]
+# entrypoint.sh copies SSH key to /tmp (outside k8s volume management),
+# sets chmod 400, exports GIT_SSH_COMMAND, then exec's python main.py "$@"
+# Use ENTRYPOINT so k8s args (e.g. --test) are forwarded as $@
+ENTRYPOINT ["/app/entrypoint.sh"]

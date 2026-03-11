@@ -79,7 +79,8 @@ def _call_claude(system_prompt: str, user_prompt: str) -> Optional[str]:
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=120, env=env)
         if result.returncode != 0:
-            log.warning("claude CLI error: %s", result.stderr[:200])
+            log.warning("claude CLI error (rc=%d) stderr=%s stdout=%s",
+                        result.returncode, result.stderr[:300], result.stdout[:300])
             return None
         data = json.loads(result.stdout)
         if data.get("type") == "result" and data.get("subtype") == "success":

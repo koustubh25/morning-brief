@@ -23,31 +23,8 @@ spec:
           securityContext:
             runAsNonRoot: true
             runAsUser: 1000
-            fsGroup: 1000
             seccompProfile:
               type: RuntimeDefault
-          initContainers:
-            - name: ssh-setup
-              image: alpine/git:latest
-              securityContext:
-                runAsNonRoot: true
-                runAsUser: 1000
-                allowPrivilegeEscalation: false
-                capabilities:
-                  drop: ["ALL"]
-              command:
-                - sh
-                - -c
-                - |
-                  mkdir -p /home/appuser/.ssh
-                  cp /ssh-secret/id_ed25519 /home/appuser/.ssh/id_ed25519
-                  chmod 400 /home/appuser/.ssh/id_ed25519
-              volumeMounts:
-                - name: ssh-secret
-                  mountPath: /ssh-secret
-                  readOnly: true
-                - name: ssh-dir
-                  mountPath: /home/appuser/.ssh
           containers:
             - name: morning-brief
               image: 172.30.29.3:30500/morning-brief:latest
@@ -64,8 +41,6 @@ spec:
                   value: "--max-old-space-size=100"
                 - name: HOME
                   value: "/home/appuser"
-                - name: GIT_SSH_COMMAND
-                  value: "ssh -i /home/appuser/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
                 - name: GIT_AUTHOR_NAME
                   value: "morning-brief"
                 - name: GIT_AUTHOR_EMAIL
@@ -77,8 +52,9 @@ spec:
               volumeMounts:
                 - name: config
                   mountPath: /app/config
-                - name: ssh-dir
-                  mountPath: /home/appuser/.ssh
+                - name: ssh-secret
+                  mountPath: /ssh-secret
+                  readOnly: true
               resources:
                 requests: { cpu: 100m, memory: 128Mi }
                 limits:   { cpu: 500m, memory: 512Mi }
@@ -93,9 +69,7 @@ spec:
             - name: ssh-secret
               secret:
                 secretName: morning-brief-secrets
-                defaultMode: 0400
+                defaultMode: 0444
                 items:
                   - key: SSH_PRIVATE_KEY
                     path: id_ed25519
-            - name: ssh-dir
-              emptyDir: {}
