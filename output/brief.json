@@ -2,19 +2,19 @@
   "date": "Fri 13 Mar 2026",
   "top_items": [
     {
-      "title": "2026 AI Business Predictions - PwC Australia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTJPdGxvTFFObG41al82dWNMWTlwaFIyRms2OGRyTklEMmZ6b0RmNG9zN1dlYTRvaWxzUGwydG41S1pKVGFaN3RIUXBoQmpXbnE2MHVZQXNBdmdIbmQzNlVyQkpTVmJNUXAtOUhsSmJjaFo2UnZHRHBob0xwYlVsOERMZlJLOW9BVTVuREszZEZ6M2M?oc=5",
-      "one_liner": "PwC Australia's predictions for AI business adoption and strategy in 2026."
+      "title": "Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil",
+      "url": "https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/",
+      "one_liner": "Introduces Agent Designer for Gemini for Government, enabling custom AI agents for unclassified government work."
     },
     {
-      "title": "Data discipline will make or break enterprise AI in 2026 - IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWtGc1VUR0lHSHh4N3BDZnBwcWUxWGdmMVBIVWV2Z0RlclhwVXdDaUJaWkJuWGc4V0JHeEhjS05WbFlJb0NDUFJXcHRhTUxBVjV1Tmd4TVkzYUNIMkVodWFnaEUxTEdDb3hjbFVZLUdocFh2S2hpNVk4aE1maV8zQzJEbFp2X0FhUlJyNHh3?oc=5",
-      "one_liner": "Emphasizes data discipline as crucial for enterprise AI success in Australia by 2026."
+      "title": "Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/",
+      "one_liner": "Google's CISO perspective on new AI threats, covering distillation, experimentation, and integration strategies."
     },
     {
-      "title": "AI Implementation in Australia: Enterprise Use Cases, Costs, Strategy, & Governance (2026) - appinventiv.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jTFF5VjdrZ0NhOXZ1LUZUMXd1VjdYZERxb1ItU3BBRS0taTZ0ZlRUOUlZVkpRdjY4REhkOFZraEFJaHNNWi12ZTBqeUFqd2xXVkVzUWxZYXU?oc=5",
-      "one_liner": "Details Australian enterprise AI use cases, costs, strategy, and governance for 2026."
+      "title": "Introducing Single-tenant Cloud HSM to support more data encryption control",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/",
+      "one_liner": "Google Cloud introduces Single-tenant HSM for enhanced encryption control in regulated industries."
     }
   ]
 }
