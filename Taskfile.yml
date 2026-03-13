@@ -39,32 +39,16 @@ tasks:
   # ── Secrets ────────────────────────────────────────────────────────────────
 
   secret:create:
-    desc: "Create k8s Secret (reads CLAUDE_CODE_OAUTH_TOKEN from macOS Keychain)"
-    vars:
-      OAUTH_TOKEN:
-        sh: security find-generic-password -s "Claude Code-credentials" -w | python3 -c "import json,sys; print(json.load(sys.stdin)['claudeAiOauth']['accessToken'])"
+    desc: "Create k8s Secret (reads GEMINI_API_KEY from .env)"
     cmds:
       - kubectl create namespace {{.NAMESPACE}} --dry-run=client -o yaml | kubectl apply -f -
       - |
         kubectl create secret generic morning-brief-secrets \
           --namespace {{.NAMESPACE}} \
-          --from-literal=CLAUDE_CODE_OAUTH_TOKEN={{.OAUTH_TOKEN}} \
+          --from-literal=GEMINI_API_KEY=$(grep GEMINI_API_KEY .env | cut -d= -f2) \
           --from-file=SSH_PRIVATE_KEY={{.HOME}}/.ssh/id_morning_brief \
           --dry-run=client -o yaml | kubectl apply -f -
       - echo "Secret applied."
-
-  secret:rotate:
-    desc: "Refresh OAuth token in k8s Secret (run when claude stops working in pod)"
-    vars:
-      OAUTH_TOKEN:
-        sh: security find-generic-password -s "Claude Code-credentials" -w | python3 -c "import json,sys; print(json.load(sys.stdin)['claudeAiOauth']['accessToken'])"
-    cmds:
-      - |
-        kubectl patch secret morning-brief-secrets \
-          --namespace {{.NAMESPACE}} \
-          --type=json \
-          -p="[{\"op\":\"replace\",\"path\":\"/data/CLAUDE_CODE_OAUTH_TOKEN\",\"value\":\"$(echo -n {{.OAUTH_TOKEN}} | base64)\"}]"
-      - echo "Token rotated."
 
   # ── k8s deploy ─────────────────────────────────────────────────────────────
 

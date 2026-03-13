@@ -1,18 +1,15 @@
 """
-curate.py — Score candidates using the `claude` CLI against topics.yaml profile.
+curate.py — Score candidates using Gemini Flash against topics.yaml profile.
 Returns top-scored items enriched with one_liner and relevance_note fields.
-
-Uses batched claude -p calls (10 articles per call) so the Claude Code
-subscription handles all inference — no separate Anthropic API key needed.
 """
 
 import json
 import logging
 import os
-import subprocess
 from typing import Optional
 
 import yaml
+import google.generativeai as genai
 
 # Load .env if present (local dev)
 try:
@@ -23,9 +20,10 @@ except ImportError:
 
 log = logging.getLogger(__name__)
 
-TOP_N = 9           # target digest size (7–10)
-BATCH_SIZE = 10     # articles per claude call
+TOP_N = 9
+BATCH_SIZE = 10
 MAX_CANDIDATES_TO_SCORE = 80
+MODEL = "gemini-2.0-flash"
 
 
 def _load_topics() -> dict:
@@ -64,37 +62,17 @@ def _build_batch_prompt(batch: list[dict]) -> str:
     )
 
 
-def _call_claude(system_prompt: str, user_prompt: str) -> Optional[str]:
-    """Invoke claude CLI and return the text response, or None on failure."""
-    env = {k: v for k, v in os.environ.items() if k != "CLAUDECODE"}
-    cmd = [
-        "claude", "--print",
-        "--output-format", "json",
-        "--no-session-persistence",
-        "--tools", "",
-        "--model", "claude-haiku-4-5-20251001",
-        "--system-prompt", system_prompt,
-        user_prompt,
-    ]
+def _call_gemini(system_prompt: str, user_prompt: str) -> Optional[str]:
+    """Call Gemini API and return the text response, or None on failure."""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120, env=env)
-        if result.returncode != 0:
-            log.warning("claude CLI error (rc=%d) stderr=%s stdout=%s",
-                        result.returncode, result.stderr[:300], result.stdout[:300])
-            return None
-        data = json.loads(result.stdout)
-        if data.get("type") == "result" and data.get("subtype") == "success":
-            return data["result"]
-        log.warning("claude unexpected response: subtype=%s", data.get("subtype"))
-        return None
-    except FileNotFoundError:
-        log.error("claude CLI not found — ensure Claude Code is installed and `claude` is in PATH.")
-        return None
-    except subprocess.TimeoutExpired:
-        log.warning("claude CLI timed out on batch.")
-        return None
-    except json.JSONDecodeError as e:
-        log.warning("Failed to parse claude CLI JSON response: %s", e)
+        model = genai.GenerativeModel(
+            model_name=MODEL,
+            system_instruction=system_prompt,
+        )
+        response = model.generate_content(user_prompt)
+        return response.text
+    except Exception as e:
+        log.warning("Gemini API error: %s", e)
         return None
 
 
@@ -132,23 +110,26 @@ def _parse_batch_response(raw: str, batch: list[dict]) -> list[Optional[dict]]:
 
 
 def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY environment variable not set.")
+    genai.configure(api_key=api_key)
+
     topics = _load_topics()
     system_prompt = _build_system_prompt(topics)
 
-    # Prioritise high-weight sources, cap total to control cost
     weight_order = {"high": 0, "medium": 1, "low": 2}
     ordered = sorted(candidates, key=lambda x: weight_order.get(x.get("_weight", "medium"), 1))
-    to_score = ordered[:MAX_CANDIDATES_TO_SCORE]
 
     cap = BATCH_SIZE if top_n <= 3 else MAX_CANDIDATES_TO_SCORE
     to_score = ordered[:cap]
     batches = [to_score[i:i + BATCH_SIZE] for i in range(0, len(to_score), BATCH_SIZE)]
-    log.info("Scoring %d candidates in %d batches via claude CLI…", len(to_score), len(batches))
+    log.info("Scoring %d candidates in %d batches via Gemini (%s)…", len(to_score), len(batches), MODEL)
 
     scored = []
     for i, batch in enumerate(batches):
         log.info("  Batch %d/%d (%d articles)…", i + 1, len(batches), len(batch))
-        raw = _call_claude(system_prompt, _build_batch_prompt(batch))
+        raw = _call_gemini(system_prompt, _build_batch_prompt(batch))
         if raw:
             enriched = _parse_batch_response(raw, batch)
             scored.extend([e for e in enriched if e is not None])

@@ -30,15 +30,11 @@ spec:
               image: 172.30.29.3:30500/morning-brief:latest
               imagePullPolicy: Always
               env:
-                - name: CLAUDE_CODE_OAUTH_TOKEN
+                - name: GEMINI_API_KEY
                   valueFrom:
                     secretKeyRef:
                       name: morning-brief-secrets
-                      key: CLAUDE_CODE_OAUTH_TOKEN
-                - name: CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC
-                  value: "1"
-                - name: NODE_OPTIONS
-                  value: "--max-old-space-size=100"
+                      key: GEMINI_API_KEY
                 - name: HOME
                   value: "/home/appuser"
                 - name: GIT_AUTHOR_NAME

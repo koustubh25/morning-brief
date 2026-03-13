@@ -1,15 +1,9 @@
 FROM python:3.12-alpine
 
-# git + ssh for pushing to GitHub; nodejs for claude CLI
-RUN apk add --no-cache git openssh-client nodejs npm
+# git + ssh for pushing to GitHub
+RUN apk add --no-cache git openssh-client
 
 WORKDIR /app
-
-# Install claude CLI from pre-downloaded tarball — no npm registry hit at build time
-COPY anthropic-ai-claude-code-2.1.71.tgz .
-RUN npm install -g ./anthropic-ai-claude-code-2.1.71.tgz \
-    && rm anthropic-ai-claude-code-2.1.71.tgz \
-    && npm cache clean --force
 
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
@@ -22,11 +16,7 @@ RUN addgroup -g 1000 appuser && adduser -D -u 1000 -G appuser appuser \
     && chown -R appuser:appuser /app \
     && chmod +x /app/entrypoint.sh
 
-# Cap Node.js heap so claude subprocesses stay lean
-ENV NODE_OPTIONS="--max-old-space-size=100"
-# Alpine user 1000 has no home dir — claude CLI needs a writable HOME
 ENV HOME="/home/appuser"
-ENV CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC="1"
 
 USER 1000
 # entrypoint.sh copies SSH key to /tmp (outside k8s volume management),
