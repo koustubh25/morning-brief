@@ -1,45 +1,29 @@
 rss:
-  # Technical sources
+  # GCP & Google products (technical core)
   - name: Google Cloud Blog
-    url: https://cloud.google.com/blog/rss
+    url: https://cloudblog.withgoogle.com/rss/
     weight: high
+  - name: Google Cloud Security Blog
+    url: https://cloudblog.withgoogle.com/products/identity-security/rss/
+    weight: high
+  - name: Google Workspace Updates
+    url: https://workspaceupdates.googleblog.com/feeds/posts/default
+    weight: high
+
+  # Technical practitioner sources
   - name: InfoQ Cloud
     url: https://feed.infoq.com/cloud
     weight: medium
   - name: The New Stack
     url: https://thenewstack.io/feed/
-    weight: medium
+    weight: low
 
-  # Leadership / strategy sources
-  - name: HBR Technology
-    url: https://hbr.org/topics/technology.rss
-    weight: high
-  - name: McKinsey Technology Insights
-    url: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/rss
-    weight: high
-  - name: MIT Sloan Management Review
-    url: https://sloanreview.mit.edu/feed/
-    weight: high
-  - name: AFR Technology
-    url: https://www.afr.com/rss/technology
-    weight: high
-  - name: CIO Australia
-    url: https://www.itnews.com.au/cio/rss
-    weight: high
-  - name: iTnews (AU enterprise IT)
-    url: https://www.itnews.com.au/rss
-    weight: high
+  # Business / strategy (30% slice)
   - name: InnovationAus
     url: https://www.innovationaus.com/feed/
-    weight: high
-  - name: Gartner Newsroom
-    url: https://www.gartner.com/en/newsroom/press-releases/rss
     weight: medium
-  - name: Deloitte Insights Technology
-    url: https://www2.deloitte.com/us/en/insights/industry/technology.rss
-    weight: medium
-  - name: AICD
-    url: https://www.aicd.com.au/rss
+  - name: HBR
+    url: https://feeds2.feedburner.com/harvardbusiness
     weight: medium
 
 hacker_news:
@@ -49,15 +33,15 @@ hacker_news:
 
 google_news:
   queries:
-    # Leadership / strategic
+    # GCP & Google products (technical — 70%)
+    - "Gemini Google Workspace enterprise deployment 2026"
+    - "Google SecOps Chronicle SIEM security operations"
+    - "Google Cloud migration AI-assisted modernisation"
+    - "Vertex AI Gemini production enterprise 2026"
+    - "GCP architecture best practices implementation"
+    - "Claude Code agentic coding developer tools 2026"
+    - "Google Cloud Next announcement 2026"
+    # Australian business context (strategic — 30%)
+    - "PwC Google Cloud Australia consulting"
+    - "cloud transformation CIO Australia enterprise"
     - "AI strategy enterprise Australia 2026"
-    - "cloud transformation digital board director"
-    - "PwC Australia technology consulting"
-    - "APRA regulation digital banking Australia"
-    - "AI governance regulation Australia"
-    - "digital transformation Big 4 consulting"
-    # Technical
-    - "Google Cloud GCP announcement 2026"
-    - "Kubernetes GitOps platform engineering"
-    - "Claude Code Copilot Codex AI developer tools"
-    - "LLM agents production enterprise"

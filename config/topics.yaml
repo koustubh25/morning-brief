@@ -1,30 +1,25 @@
-context: "Senior Manager → Director, Cloud & AI Advisory, PwC Australia. Role is ~50% technical delivery, ~50% stakeholder engagement with Directors, MDs, and Partners."
+context: "Senior Manager, Cloud & AI Advisory, PwC Australia. Role is heavily focused on Google Cloud delivery — Gemini for Workspace transformation, Google SecOps, AI-assisted migrations to GCP. Uses Claude Code heavily for rapid PoCs. ~30% stakeholder engagement with Directors, MDs, and Partners."
 verticals:
   - financial services (Australian banking, APRA regulation)
   - government digital (Australia)
 
 topics:
   primary:
-    # Leadership / strategic (for client conversations, offsites, board briefings)
-    - AI strategy and enterprise adoption (business impact, ROI, risk)
-    - Cloud transformation — board-level investment, risk, and vendor decisions
-    - Technology leadership and digital transformation trends
-    - Cybersecurity and data governance at the executive level (APRA, ISO, board risk)
-    - Australian business and technology news (ASX companies, government, Big 4)
-    - PwC and consulting market — deals, technology advisory, competitive landscape
-
-    # Technical (for delivery credibility and hands-on awareness)
-    - Google Cloud Platform (GCP) — new features, announcements, architecture, case studies
-    - Kubernetes, GitOps, and platform engineering (practical patterns, not release notes)
-    - AI developer tools — Claude Code, GitHub Copilot, Codex, Cursor, agentic coding
-    - LLMs and AI agents in production (Gemini, Claude, OpenAI — enterprise deployments)
+    # Google Cloud & products — deep technical (70%)
+    - Google Cloud Platform — new features, architecture patterns, migration tooling, case studies
+    - Gemini for Google Workspace — enterprise deployment, transformation patterns, Gemini in Meet/Docs/Gmail/Drive
+    - Google SecOps / Chronicle — detection engineering, SIEM migration, SOC modernisation, threat intelligence
+    - AI-assisted cloud migration — GCP Migration Center, automated modernisation, lift-and-shift patterns
+    - Vertex AI and Gemini API — production deployment, RAG patterns, agents, fine-tuning, grounding
+    - Agentic coding tools — Claude Code, Gemini Code Assist, Copilot (PoC velocity, prompt engineering patterns)
+    - LLMs in enterprise production — reliability, cost, latency, evaluation, security
 
   secondary:
-    - AI regulation and governance (Australian and global policy)
-    - Future of work, organisational change, and talent in the AI era
-    - Cloud cost optimisation and FinOps
-    - Australian enterprise technology investment and M&A
-    - Open source infrastructure (outcomes and adoption, not changelogs)
+    # Strategic / business context (30%)
+    - Australian cloud and AI market — enterprise deals, CIO decisions, Big 4 advisory
+    - AI governance and enterprise risk (APRA, Australian regulation, responsible AI frameworks)
+    - Technology leadership and transformation (client narratives, board-level framing)
+    - Cloud cost optimisation and FinOps (GCP-specific)
 
 exclude:
   - CNCF deep internals (KCC, Crossplane, Backstage configuration details)
@@ -33,5 +28,6 @@ exclude:
   - consumer tech reviews
   - political news unrelated to tech policy
   - sports
+  - AWS and Azure deep-dives (unless direct competitive comparison with GCP is relevant)
 
-scoring_note: "Aim for a 50/50 mix: half should be items a Director/MD/Partner would raise in a client meeting or board briefing; half should be items that keep a senior cloud/AI engineer sharp and credible. Favour strategic insight, concrete technical patterns, Australian market relevance, and anything that bridges business and engineering."
+scoring_note: "Target a 70/30 split: 7 items should be directly useful for implementation work (novel GCP patterns, Gemini/SecOps techniques, agentic coding approaches, architecture decisions the user can apply or demo); 3 items should be strategic context useful for client conversations or proposals. Heavily favour Google Cloud, Gemini, Google SecOps, and Claude Code content. Penalise AWS/Azure-only content unless the comparison is directly relevant to GCP migration work."

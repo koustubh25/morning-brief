@@ -22,6 +22,15 @@ GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={query}&hl=en-AU&gl=AU&c
 
 HEADERS = {"User-Agent": "morning-brief/1.0 (daily digest; contact via github)"}
 
+FREEDIUM_BASE = "https://freedium-mirror.cfd"
+
+
+def _rewrite_url(url: str) -> str:
+    """Rewrite medium.com URLs to Freedium to bypass the paywall."""
+    if "medium.com" in url:
+        return f"{FREEDIUM_BASE}/{url}"
+    return url
+
 
 def _load_sources() -> dict:
     with open("config/sources.yaml") as f:
@@ -55,7 +64,7 @@ def fetch_rss(sources: list) -> list[dict]:
         try:
             feed = feedparser.parse(src["url"])
             for entry in feed.entries[:20]:
-                url = entry.get("link", "")
+                url = _rewrite_url(entry.get("link", ""))
                 if not url:
                     continue
                 items.append({
@@ -102,7 +111,7 @@ def fetch_hacker_news(config: dict) -> list[dict]:
         score = story.get("score", 0)
         if score < min_score:
             continue
-        url = story.get("url", "")
+        url = _rewrite_url(story.get("url", ""))
         if not url:
             # text post — use HN thread itself
             url = f"https://news.ycombinator.com/item?id={story_id}"
@@ -128,7 +137,7 @@ def fetch_google_news(config: dict) -> list[dict]:
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries[:10]:
-                link = entry.get("link", "")
+                link = _rewrite_url(entry.get("link", ""))
                 if not link:
                     continue
                 items.append({
