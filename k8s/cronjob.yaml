@@ -30,11 +30,11 @@ spec:
               image: 172.30.29.3:30500/morning-brief:latest
               imagePullPolicy: Always
               env:
-                - name: ANTHROPIC_API_KEY
+                - name: GEMINI_API_KEY
                   valueFrom:
                     secretKeyRef:
                       name: morning-brief-secrets
-                      key: ANTHROPIC_API_KEY
+                      key: GEMINI_API_KEY
                 - name: HOME
                   value: "/home/appuser"
                 - name: GIT_AUTHOR_NAME
