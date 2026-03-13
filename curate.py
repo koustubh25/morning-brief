@@ -1,5 +1,5 @@
 """
-curate.py — Score candidates using Gemini Flash against topics.yaml profile.
+curate.py — Score candidates using Gemini via Google AI API.
 Returns top-scored items enriched with one_liner and relevance_note fields.
 """
 
@@ -9,7 +9,7 @@ import os
 from typing import Optional
 
 import yaml
-import google.generativeai as genai
+from google import genai
 
 # Load .env if present (local dev)
 try:
@@ -23,7 +23,7 @@ log = logging.getLogger(__name__)
 TOP_N = 9
 BATCH_SIZE = 10
 MAX_CANDIDATES_TO_SCORE = 80
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-2.5-flash-lite"
 
 
 def _load_topics() -> dict:
@@ -62,14 +62,13 @@ def _build_batch_prompt(batch: list[dict]) -> str:
     )
 
 
-def _call_gemini(system_prompt: str, user_prompt: str) -> Optional[str]:
-    """Call Gemini API and return the text response, or None on failure."""
+def _call_gemini(client: genai.Client, system_prompt: str, user_prompt: str) -> Optional[str]:
     try:
-        model = genai.GenerativeModel(
-            model_name=MODEL,
-            system_instruction=system_prompt,
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=user_prompt,
+            config={"system_instruction": system_prompt},
         )
-        response = model.generate_content(user_prompt)
         return response.text
     except Exception as e:
         log.warning("Gemini API error: %s", e)
@@ -113,7 +112,7 @@ def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY environment variable not set.")
-    genai.configure(api_key=api_key)
+    client = genai.Client(api_key=api_key)
 
     topics = _load_topics()
     system_prompt = _build_system_prompt(topics)
@@ -129,7 +128,7 @@ def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
     scored = []
     for i, batch in enumerate(batches):
         log.info("  Batch %d/%d (%d articles)…", i + 1, len(batches), len(batch))
-        raw = _call_gemini(system_prompt, _build_batch_prompt(batch))
+        raw = _call_gemini(client, system_prompt, _build_batch_prompt(batch))
         if raw:
             enriched = _parse_batch_response(raw, batch)
             scored.extend([e for e in enriched if e is not None])
