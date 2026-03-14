@@ -25,6 +25,17 @@ BATCH_SIZE = 10
 MAX_CANDIDATES_TO_SCORE = 80
 MODEL = "gemini-2.5-flash-lite"
 
+# Frontier AI items (non-Google labs) — guaranteed 2, capped at 3
+FRONTIER_AI_MIN = 2
+FRONTIER_AI_MAX = 3
+FRONTIER_AI_KEYWORDS = ["anthropic", "openai", "mistral", "deepseek", "llama", "grok", "xai"]
+
+
+def _is_frontier_ai(item: dict) -> bool:
+    """True for items about non-Google frontier AI labs."""
+    haystack = (item.get("source", "") + " " + item.get("title", "")).lower()
+    return any(kw in haystack for kw in FRONTIER_AI_KEYWORDS)
+
 
 def _load_topics() -> dict:
     with open("config/topics.yaml") as f:
@@ -134,10 +145,23 @@ def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
             scored.extend([e for e in enriched if e is not None])
 
     scored.sort(key=lambda x: x["score"], reverse=True)
-    selected = [s for s in scored if s["score"] >= 5.0][:top_n]
+
+    # Split into frontier AI and everything else
+    frontier = [s for s in scored if _is_frontier_ai(s)]
+    other = [s for s in scored if not _is_frontier_ai(s) and s["score"] >= 5.0]
+
+    # Take 2–3 frontier items, fill remaining slots with top-scored other items
+    n_frontier = min(len(frontier), FRONTIER_AI_MAX)
+    selected = frontier[:n_frontier] + other[:top_n - n_frontier]
 
     if not selected:
         selected = scored[:top_n]
 
-    log.info("Selected %d items (top score: %.1f)", len(selected), selected[0]["score"] if selected else 0)
+    selected.sort(key=lambda x: x["score"], reverse=True)
+    log.info(
+        "Selected %d items (%d frontier AI, top score: %.1f)",
+        len(selected),
+        sum(1 for s in selected if _is_frontier_ai(s)),
+        selected[0]["score"] if selected else 0,
+    )
     return selected

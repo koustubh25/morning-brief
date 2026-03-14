@@ -15,8 +15,6 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-import git  # gitpython
-
 from fetch import fetch_all
 from curate import curate
 from generate import generate_html
@@ -36,13 +34,13 @@ def _git(args: list, repo_dir: Path) -> subprocess.CompletedProcess:
 
 
 def _remote_url(repo_dir: Path) -> str:
-    repo = git.Repo(repo_dir)
-    return "git@github.com:koustubh25/morning-brief.git" if os.environ.get("GIT_SSH_COMMAND") \
-        else repo.remotes.origin.url
+    if os.environ.get("GIT_SSH_COMMAND"):
+        return "git@github.com:koustubh25/morning-brief.git"
+    return _git(["git", "remote", "get-url", "origin"], repo_dir).stdout.strip()
 
 
 def git_pull(repo_dir: Path) -> None:
-    """Pull latest before generating files so there are no unstaged changes during rebase."""
+    """Pull latest before generating files so there are no conflicts on push."""
     remote_url = _remote_url(repo_dir)
     pull = _git(["git", "pull", "--rebase", remote_url, "main"], repo_dir)
     if pull.returncode != 0:
@@ -52,32 +50,31 @@ def git_pull(repo_dir: Path) -> None:
 
 
 def git_commit_and_push(repo_dir: Path) -> None:
-    repo = git.Repo(repo_dir)
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y-%m-%d")
-
     remote_url = _remote_url(repo_dir)
 
-    # Stage the generated files (use subprocess git add — more reliable than
-    # gitpython for new untracked files/directories like archive/)
+    # Stage generated files
     files_to_add = ["output/index.html", "output/brief.json"]
     if (repo_dir / "output" / "seen.json").exists():
         files_to_add.append("output/seen.json")
     archive_file = repo_dir / "archive" / f"{date_str}.md"
-    log.info("Archive file path: %s  exists=%s", archive_file, archive_file.exists())
     if archive_file.exists():
         files_to_add.append(str(archive_file.relative_to(repo_dir)))
+
     add = _git(["git", "add"] + files_to_add, repo_dir)
     if add.returncode != 0:
         log.warning("git add warning: %s", add.stderr.strip())
-    log.info("Staged: %s", files_to_add)
 
-    if not repo.index.diff("HEAD"):
+    # `git diff --cached --quiet` exits 0 if nothing is staged, 1 if there are changes
+    if _git(["git", "diff", "--cached", "--quiet"], repo_dir).returncode == 0:
         log.info("No changes to commit — digest unchanged.")
         return
 
     commit_msg = f"chore: digest {date_str}"
-    repo.index.commit(commit_msg)
+    commit = _git(["git", "commit", "-m", commit_msg], repo_dir)
+    if commit.returncode != 0:
+        raise RuntimeError(f"git commit failed: {commit.stderr.strip()}")
     log.info("Committed: %s", commit_msg)
 
     push = _git(["git", "push", "--set-upstream", remote_url, "HEAD:refs/heads/main"], repo_dir)
