@@ -2,19 +2,19 @@
   "date": "Sat 14 Mar 2026",
   "top_items": [
     {
-      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
-      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
-      "one_liner": "Enhances Cloud Run security with general availability of direct Identity-Aware Proxy (IAP) integration and public access options."
-    },
-    {
       "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
-      "one_liner": "Provides advanced strategies for managing Vertex AI 429 errors and optimizing LLM application resilience."
+      "one_liner": "Learn to build resilient LLM applications on Vertex AI and mitigate 429 errors by understanding consumption models."
     },
     {
-      "title": "Why context is the missing link in AI data security",
-      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Explores why context is vital for effective AI data security, moving beyond basic controls to prevent leaks and misuse."
+      "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5",
+      "one_liner": "Anthropic's Claude now integrates with Excel and PowerPoint for reusable workflows, mirroring enterprise Workspace transformation needs."
+    },
+    {
+      "title": "OpenAI releases GPT-5.4 with native computer use and a finance-focused enterprise bundle - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaExRUnFMTy1nVkNwQnBSS2NOOVhHRXpYWTR3V2ZYQnhBa0FNWE0yTmZ5Z3JpcUpjTndZbVpBU2I5NkxGb1dLVk5seklUQlJyRm1wclVYbzJEWk1Zb051MmpMQjlkTi1XYlV4aFNoZlp1LTcxdU15MEU2dWwxRDdpLWpIbWdHbzVtUTItZXZkaFhLMGZjME9oNXV1WXdMYThvdmRxV1RIV0o4YXBQQ2kyY1lEYWk?oc=5",
+      "one_liner": "GPT-5.4 for enterprise offers native computer use and a finance-focused bundle, aligning with financial services advisory."
     }
   ]
 }
