@@ -4,17 +4,17 @@
     {
       "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
-      "one_liner": "Learn to build resilient LLM applications on Vertex AI and mitigate 429 errors by understanding consumption models."
+      "one_liner": "Strategies to build resilient LLM applications on Vertex AI and mitigate 429 errors for production readiness."
     },
     {
-      "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5",
-      "one_liner": "Anthropic's Claude now integrates with Excel and PowerPoint for reusable workflows, mirroring enterprise Workspace transformation needs."
+      "title": "Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil",
+      "url": "https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/",
+      "one_liner": "Google Public Sector introduces Agent Designer for Gemini for Government, enabling custom AI agents for unclassified work."
     },
     {
-      "title": "OpenAI releases GPT-5.4 with native computer use and a finance-focused enterprise bundle - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaExRUnFMTy1nVkNwQnBSS2NOOVhHRXpYWTR3V2ZYQnhBa0FNWE0yTmZ5Z3JpcUpjTndZbVpBU2I5NkxGb1dLVk5seklUQlJyRm1wclVYbzJEWk1Zb051MmpMQjlkTi1XYlV4aFNoZlp1LTcxdU15MEU2dWwxRDdpLWpIbWdHbzVtUTItZXZkaFhLMGZjME9oNXV1WXdMYThvdmRxV1RIV0o4YXBQQ2kyY1lEYWk?oc=5",
-      "one_liner": "GPT-5.4 for enterprise offers native computer use and a finance-focused bundle, aligning with financial services advisory."
+      "title": "The ultimate Nano Banana prompting guide",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana/",
+      "one_liner": "Details advanced prompting techniques for Gemini's Nano Banana models to improve AI-generated image quality."
     }
   ]
 }
