@@ -1,20 +1,20 @@
 {
-  "date": "Fri 13 Mar 2026",
+  "date": "Sat 14 Mar 2026",
   "top_items": [
+    {
+      "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
+      "one_liner": "Provides advanced strategies for building resilient LLM applications on Vertex AI and mitigating 429 errors."
+    },
     {
       "title": "Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil",
       "url": "https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/",
-      "one_liner": "Introduces Agent Designer for Gemini for Government, enabling custom AI agent creation on GenAI.mil."
+      "one_liner": "Introduces Agent Designer for Gemini for Government on GenAI.mil, enabling custom AI agents for unclassified work."
     },
     {
       "title": "Cost-Effective AI with Ollama, GKE GPU Sharing, and vCluster",
       "url": "https://cloud.google.com/blog/topics/developers-practitioners/cost-effective-ai-with-ollama-gke-gpu-sharing-and-vcluster/",
-      "one_liner": "Demonstrates cost-effective AI scaling on Google Cloud using Ollama, GKE GPU sharing, and vCluster."
-    },
-    {
-      "title": "Make security simpler: Introducing the Google Cloud recommended security checklist",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-the-google-cloud-recommended-security-checklist/",
-      "one_liner": "Offers a recommended security checklist for Google Cloud, inspired by MVSP principles, to simplify security management."
+      "one_liner": "Optimises GPU utilisation and simplifies multi-team AI environments on GKE using Ollama and vCluster for cost savings."
     }
   ]
 }
