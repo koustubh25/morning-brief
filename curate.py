@@ -28,7 +28,7 @@ MODEL = "gemini-2.5-flash-lite"
 # Frontier AI items (non-Google labs) — guaranteed 2, capped at 3
 FRONTIER_AI_MIN = 2
 FRONTIER_AI_MAX = 3
-FRONTIER_AI_KEYWORDS = ["anthropic", "openai", "mistral", "deepseek", "llama", "grok", "xai"]
+FRONTIER_AI_KEYWORDS = ["anthropic", "openai", "mistral", "deepseek", "llama", "grok", "xai", "qwen", "baidu", "ernie", "zhipu", "kimi", "moonshot", "yi-", "01.ai"]
 
 
 def _is_frontier_ai(item: dict) -> bool:

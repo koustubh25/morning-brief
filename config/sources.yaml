@@ -47,6 +47,8 @@ google_news:
       weight: high
     - query: "AI model reasoning agents frontier research 2026"
       weight: high
+    - query: "Qwen DeepSeek Chinese AI model release 2026"
+      weight: high
     # Australian business context (strategic — 20%)
     - "PwC Google Cloud Australia consulting"
     - "AI strategy enterprise Australia 2026"
