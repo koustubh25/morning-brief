@@ -6,6 +6,11 @@ cp /ssh-secret/id_ed25519 /tmp/.ssh/id_ed25519
 chmod 400 /tmp/.ssh/id_ed25519
 export GIT_SSH_COMMAND="ssh -i /tmp/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
 
+# Reset to a clean git state so pull --rebase succeeds.
+# output/ and archive/ are excluded from the image via .dockerignore but are
+# tracked in git, so the container sees them as deleted (unstaged changes).
+git checkout -- . 2>/dev/null || true
+
 # The ConfigMap mount creates symlinks in config/ where git expects regular files.
 # Mark them as assume-unchanged so git pull --rebase doesn't refuse to run.
 git update-index --assume-unchanged config/sources.yaml config/topics.yaml 2>/dev/null || true

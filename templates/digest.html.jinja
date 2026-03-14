@@ -160,6 +160,9 @@
         <p class="one-liner">{{ item.one_liner }}</p>
         <div class="item-footer">
           <span class="source-tag">{{ item.source | truncate(35, true, '…') }}</span>
+          {% if item.published_at %}
+          <span class="score-pill">{{ item.published_at | ordinal_date }}</span>
+          {% endif %}
           {% if item.score is defined %}
           <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
           {% endif %}

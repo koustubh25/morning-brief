@@ -58,11 +58,19 @@ def git_commit_and_push(repo_dir: Path) -> None:
 
     remote_url = _remote_url(repo_dir)
 
-    # Stage the generated files
+    # Stage the generated files (use subprocess git add — more reliable than
+    # gitpython for new untracked files/directories like archive/)
     files_to_add = ["output/index.html", "output/brief.json"]
     if (repo_dir / "output" / "seen.json").exists():
         files_to_add.append("output/seen.json")
-    repo.index.add(files_to_add)
+    archive_file = repo_dir / "archive" / f"{date_str}.md"
+    log.info("Archive file path: %s  exists=%s", archive_file, archive_file.exists())
+    if archive_file.exists():
+        files_to_add.append(str(archive_file.relative_to(repo_dir)))
+    add = _git(["git", "add"] + files_to_add, repo_dir)
+    if add.returncode != 0:
+        log.warning("git add warning: %s", add.stderr.strip())
+    log.info("Staged: %s", files_to_add)
 
     if not repo.index.diff("HEAD"):
         log.info("No changes to commit — digest unchanged.")
