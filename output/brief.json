@@ -1,20 +1,20 @@
 {
-  "date": "Fri 13 Mar 2026",
+  "date": "Sat 14 Mar 2026",
   "top_items": [
+    {
+      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
+      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
+      "one_liner": "Enhances Cloud Run security with general availability of direct Identity-Aware Proxy (IAP) integration and public access options."
+    },
     {
       "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
-      "one_liner": "Provides deeper insights into Vertex AI consumption models to effectively handle 429 errors and build resilient LLM applications."
+      "one_liner": "Provides advanced strategies for managing Vertex AI 429 errors and optimizing LLM application resilience."
     },
     {
       "title": "Why context is the missing link in AI data security",
       "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Explores why context is vital for AI data security, moving beyond basic controls to protect against sensitive data leaks and misuse."
-    },
-    {
-      "title": "Cloud CISO Perspectives: New Threat Horizons report highlights current cloud threats",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-report-highlights-current-cloud-threats/",
-      "one_liner": "Shares cloud threat intelligence and analysis from the new Cloud Threat Horizons Report, relevant for CISO perspectives."
+      "one_liner": "Explores why context is vital for effective AI data security, moving beyond basic controls to prevent leaks and misuse."
     }
   ]
 }

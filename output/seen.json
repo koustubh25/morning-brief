@@ -234,5 +234,9 @@
   {
     "url": "https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/",
     "date": "2026-03-13"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
+    "date": "2026-03-14"
   }
 ]
