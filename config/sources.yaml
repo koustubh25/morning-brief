@@ -40,10 +40,13 @@ google_news:
     - "Vertex AI Gemini production enterprise 2026"
     - "GCP architecture best practices implementation"
     - "Google Cloud Next announcement 2026"
-    # Deep AI — frontier models and tooling (20%)
-    - "Anthropic Claude model release feature 2026"
-    - "OpenAI GPT model release API feature 2026"
-    - "AI model reasoning agents frontier research 2026"
+    # Deep AI — frontier models and tooling (20%, high weight so they enter scoring pool)
+    - query: "Anthropic Claude model release feature 2026"
+      weight: high
+    - query: "OpenAI GPT model release API feature 2026"
+      weight: high
+    - query: "AI model reasoning agents frontier research 2026"
+      weight: high
     # Australian business context (strategic — 20%)
     - "PwC Google Cloud Australia consulting"
     - "AI strategy enterprise Australia 2026"

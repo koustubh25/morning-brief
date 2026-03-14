@@ -132,7 +132,14 @@ def fetch_hacker_news(config: dict) -> list[dict]:
 def fetch_google_news(config: dict) -> list[dict]:
     queries = config.get("queries", [])
     items = []
-    for query in queries:
+    for query_config in queries:
+        # queries can be plain strings or {query: ..., weight: ...} dicts
+        if isinstance(query_config, dict):
+            query = query_config["query"]
+            weight = query_config.get("weight", "medium")
+        else:
+            query = query_config
+            weight = "medium"
         url = GOOGLE_NEWS_RSS.format(query=requests.utils.quote(query))
         try:
             feed = feedparser.parse(url)
@@ -146,7 +153,7 @@ def fetch_google_news(config: dict) -> list[dict]:
                     "source": f"Google News: {query}",
                     "summary": _summary(entry),
                     "published_at": _parse_date(entry),
-                    "_weight": "medium",
+                    "_weight": weight,
                 })
             log.info("Google News '%s': %d entries", query, len(feed.entries))
         except Exception as e:
