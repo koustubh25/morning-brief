@@ -40,17 +40,19 @@ data:
     
     google_news:
       queries:
-        # GCP & Google products (technical — 70%)
+        # GCP & Google products (technical — 60%)
         - "Gemini Google Workspace enterprise deployment 2026"
         - "Google SecOps Chronicle SIEM security operations"
         - "Google Cloud migration AI-assisted modernisation"
         - "Vertex AI Gemini production enterprise 2026"
         - "GCP architecture best practices implementation"
-        - "Claude Code agentic coding developer tools 2026"
         - "Google Cloud Next announcement 2026"
-        # Australian business context (strategic — 30%)
+        # Deep AI — frontier models and tooling (20%)
+        - "Anthropic Claude model release feature 2026"
+        - "OpenAI GPT model release API feature 2026"
+        - "AI model reasoning agents frontier research 2026"
+        # Australian business context (strategic — 20%)
         - "PwC Google Cloud Australia consulting"
-        - "cloud transformation CIO Australia enterprise"
         - "AI strategy enterprise Australia 2026"
   topics.yaml: |
     context: "Senior Manager, Cloud & AI Advisory, PwC Australia. Role is heavily focused on Google Cloud delivery — Gemini for Workspace transformation, Google SecOps, AI-assisted migrations to GCP. Uses Claude Code heavily for rapid PoCs. ~30% stakeholder engagement with Directors, MDs, and Partners."
@@ -60,17 +62,21 @@ data:
     
     topics:
       primary:
-        # Google Cloud & products — deep technical (70%)
+        # Google Cloud & products — deep technical (60%)
         - Google Cloud Platform — new features, architecture patterns, migration tooling, case studies
         - Gemini for Google Workspace — enterprise deployment, transformation patterns, Gemini in Meet/Docs/Gmail/Drive
         - Google SecOps / Chronicle — detection engineering, SIEM migration, SOC modernisation, threat intelligence
         - AI-assisted cloud migration — GCP Migration Center, automated modernisation, lift-and-shift patterns
         - Vertex AI and Gemini API — production deployment, RAG patterns, agents, fine-tuning, grounding
         - Agentic coding tools — Claude Code, Gemini Code Assist, Copilot (PoC velocity, prompt engineering patterns)
+        # Frontier AI — deeply technical (20%)
+        - Anthropic Claude — new model releases, capabilities, API features, safety research
+        - OpenAI GPT / o-series — new model releases, API changes, reasoning capabilities
+        - AI research breakthroughs — new architectures, reasoning, multimodal, agents from any major lab
         - LLMs in enterprise production — reliability, cost, latency, evaluation, security
-    
+
       secondary:
-        # Strategic / business context (30%)
+        # Strategic / business context (20%)
         - Australian cloud and AI market — enterprise deals, CIO decisions, Big 4 advisory
         - AI governance and enterprise risk (APRA, Australian regulation, responsible AI frameworks)
         - Technology leadership and transformation (client narratives, board-level framing)
@@ -85,4 +91,4 @@ data:
       - sports
       - AWS and Azure deep-dives (unless direct competitive comparison with GCP is relevant)
     
-    scoring_note: "Target a 70/30 split: 7 items should be directly useful for implementation work (novel GCP patterns, Gemini/SecOps techniques, agentic coding approaches, architecture decisions the user can apply or demo); 3 items should be strategic context useful for client conversations or proposals. Heavily favour Google Cloud, Gemini, Google SecOps, and Claude Code content. Penalise AWS/Azure-only content unless the comparison is directly relevant to GCP migration work."
+    scoring_note: "Target a 60/20/20 split across 9 items: ~5-6 items GCP/Google-specific (novel patterns, Gemini, SecOps, migration, Vertex AI); ~2 items frontier AI (Anthropic Claude, OpenAI, or significant AI research — score these HIGH if they announce a new model, feature, or capability that a practitioner would care about immediately); ~1-2 items strategic Australian business context. IMPORTANT: if Anthropic or OpenAI announced something significant in the last 48 hours, it MUST appear in the brief. Do not let Google Cloud content crowd out frontier AI news. Penalise AWS/Azure-only content unless directly relevant to GCP migration."

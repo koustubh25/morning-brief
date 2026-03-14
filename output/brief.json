@@ -1,20 +1,20 @@
 {
-  "date": "Sat 14 Mar 2026",
+  "date": "Fri 13 Mar 2026",
   "top_items": [
-    {
-      "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
-      "url": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
-      "one_liner": "Gemini in Chrome expands globally with more languages, offering integrated AI browsing for business users."
-    },
-    {
-      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
-      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
-      "one_liner": "Enhancements to Cloud Run security with direct Identity-Aware Proxy (IAP) integration."
-    },
     {
       "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
-      "one_liner": "Strategies to build resilient LLM applications on Vertex AI and reduce 429 errors."
+      "one_liner": "Provides deeper insights into Vertex AI consumption models to effectively handle 429 errors and build resilient LLM applications."
+    },
+    {
+      "title": "Why context is the missing link in AI data security",
+      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
+      "one_liner": "Explores why context is vital for AI data security, moving beyond basic controls to protect against sensitive data leaks and misuse."
+    },
+    {
+      "title": "Cloud CISO Perspectives: New Threat Horizons report highlights current cloud threats",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-report-highlights-current-cloud-threats/",
+      "one_liner": "Shares cloud threat intelligence and analysis from the new Cloud Threat Horizons Report, relevant for CISO perspectives."
     }
   ]
 }

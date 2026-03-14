@@ -18,7 +18,7 @@ rss:
     url: https://thenewstack.io/feed/
     weight: low
 
-  # Business / strategy (30% slice)
+  # Business / strategy (20% slice)
   - name: InnovationAus
     url: https://www.innovationaus.com/feed/
     weight: medium
@@ -33,15 +33,17 @@ hacker_news:
 
 google_news:
   queries:
-    # GCP & Google products (technical — 70%)
+    # GCP & Google products (technical — 60%)
     - "Gemini Google Workspace enterprise deployment 2026"
     - "Google SecOps Chronicle SIEM security operations"
     - "Google Cloud migration AI-assisted modernisation"
     - "Vertex AI Gemini production enterprise 2026"
     - "GCP architecture best practices implementation"
-    - "Claude Code agentic coding developer tools 2026"
     - "Google Cloud Next announcement 2026"
-    # Australian business context (strategic — 30%)
+    # Deep AI — frontier models and tooling (20%)
+    - "Anthropic Claude model release feature 2026"
+    - "OpenAI GPT model release API feature 2026"
+    - "AI model reasoning agents frontier research 2026"
+    # Australian business context (strategic — 20%)
     - "PwC Google Cloud Australia consulting"
-    - "cloud transformation CIO Australia enterprise"
     - "AI strategy enterprise Australia 2026"
