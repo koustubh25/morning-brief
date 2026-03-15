@@ -12,8 +12,8 @@ spec:
   schedule: "0 21 * * *"   # 21:00 UTC daily = 07:00 AEST
   timeZone: "UTC"
   concurrencyPolicy: Forbid
-  successfulJobsHistoryLimit: 3
-  failedJobsHistoryLimit: 3
+  successfulJobsHistoryLimit: 2
+  failedJobsHistoryLimit: 2
   jobTemplate:
     spec:
       backoffLimit: 1
