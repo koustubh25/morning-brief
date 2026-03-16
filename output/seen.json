@@ -282,5 +282,9 @@
   {
     "url": "https://test-sync-check.example.com",
     "date": "2026-03-16"
+  },
+  {
+    "url": "https://test-sync-v2.example.com",
+    "date": "2026-03-16"
   }
 ]
