@@ -266,25 +266,5 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5",
     "date": "2026-03-14"
-  },
-  {
-    "url": "https://example.com/1",
-    "date": "2026-03-16"
-  },
-  {
-    "url": "https://example.com/2",
-    "date": "2026-03-16"
-  },
-  {
-    "url": "https://example.com/3",
-    "date": "2026-03-16"
-  },
-  {
-    "url": "https://test-sync-check.example.com",
-    "date": "2026-03-16"
-  },
-  {
-    "url": "https://test-sync-v2.example.com",
-    "date": "2026-03-16"
   }
 ]
