@@ -8,6 +8,7 @@ Usage:
 """
 
 import argparse
+import json
 import logging
 import os
 import subprocess
@@ -58,6 +59,9 @@ def git_commit_and_push(repo_dir: Path) -> None:
     files_to_add = ["output/index.html", "output/brief.json"]
     if (repo_dir / "output" / "seen.json").exists():
         files_to_add.append("output/seen.json")
+    read_json = repo_dir / "output" / "read.json"
+    if read_json.exists():
+        files_to_add.append("output/read.json")
     archive_file = repo_dir / "archive" / f"{date_str}.md"
     if archive_file.exists():
         files_to_add.append(str(archive_file.relative_to(repo_dir)))
@@ -105,8 +109,19 @@ def main() -> int:
         log.error("No candidates fetched. Aborting.")
         return 1
 
+    # Load URLs marked as read in the soft-skills frontend
+    read_path = Path("output/read.json")
+    read_urls = set()
+    if read_path.exists():
+        try:
+            with open(read_path) as f:
+                read_urls = set(json.load(f))
+            log.info("Loaded %d read URLs to exclude", len(read_urls))
+        except Exception:
+            pass
+
     log.info("Step 2: Curating with Claude…")
-    selected = curate(candidates, top_n=3 if args.test else 9)
+    selected = curate(candidates, top_n=3 if args.test else 9, exclude_urls=read_urls)
     if not selected:
         log.error("No items selected after curation. Aborting.")
         return 1

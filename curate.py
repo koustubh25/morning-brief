@@ -119,7 +119,12 @@ def _parse_batch_response(raw: str, batch: list[dict]) -> list[Optional[dict]]:
     return enriched
 
 
-def curate(candidates: list[dict], top_n: int = TOP_N) -> list[dict]:
+def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | None = None) -> list[dict]:
+    if exclude_urls:
+        before = len(candidates)
+        candidates = [c for c in candidates if c.get("url") not in exclude_urls]
+        if before != len(candidates):
+            log.info("Excluded %d previously-read articles", before - len(candidates))
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY environment variable not set.")
