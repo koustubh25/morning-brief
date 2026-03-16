@@ -52,32 +52,67 @@
       color: var(--muted);
     }
 
+    /* ── Source group ── */
+    .source-group {
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      background: var(--surface);
+    }
+    .source-group > summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.75rem 1rem;
+      font-weight: 700;
+      font-size: 0.95rem;
+      user-select: none;
+      border-radius: 8px 8px 0 0;
+      color: #fff;
+    }
+    .source-group > summary::-webkit-details-marker { display: none; }
+    .source-group > summary::after {
+      content: '\25BE';
+      margin-left: auto;
+      color: var(--muted);
+      transition: transform 0.2s;
+    }
+    .source-group:not([open]) > summary::after {
+      transform: rotate(-90deg);
+    }
+    .source-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      flex-shrink: 0;
+    }
+    .article-count {
+      font-size: 0.7rem;
+      font-weight: 400;
+      color: var(--muted);
+      background: rgba(255,255,255,0.06);
+      padding: 0.1rem 0.5rem;
+      border-radius: 10px;
+    }
+    .source-group-body {
+      padding: 0 1rem 0.75rem;
+    }
+
     /* ── Item card ── */
     .item {
-      padding: 1rem 0;
+      padding: 0.75rem 0;
       border-bottom: 1px solid var(--border);
     }
     .item:last-child { border-bottom: none; }
 
-    .item-top {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.6rem;
-      margin-bottom: 0.35rem;
-    }
-    .rank {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--accent);
-      opacity: 0.6;
-      min-width: 1.4rem;
-      padding-top: 0.2rem;
-      flex-shrink: 0;
-    }
     .item-headline {
       font-size: 1.05rem;
       font-weight: 600;
       line-height: 1.4;
+      margin-bottom: 0.35rem;
     }
     .item-headline a {
       color: var(--text);
@@ -85,9 +120,6 @@
     }
     .item-headline a:hover { color: var(--accent); }
 
-    .item-body {
-      padding-left: 2rem;
-    }
     .one-liner {
       font-size: 0.9rem;
       color: var(--muted);
@@ -99,17 +131,6 @@
       align-items: center;
       gap: 0.5rem;
       flex-wrap: wrap;
-    }
-    .source-tag {
-      font-size: 0.7rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--muted);
-      padding: 0.15rem 0.5rem;
-      border-radius: 3px;
     }
     .score-pill {
       font-size: 0.7rem;
@@ -148,30 +169,35 @@
   </header>
 
   <main>
-    {% for item in items %}
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">{{ loop.index }}.</span>
-        <h2 class="item-headline">
-          <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
-        </h2>
+    {% for source, articles in grouped.items() %}
+    <details class="source-group" style="border-left-color: {{ source_colors[source] }}; background: linear-gradient(90deg, {{ source_colors_bg[source] }}, var(--surface));">
+      <summary style="background: {{ source_colors_header[source] }};">
+        <span class="source-dot" style="background: {{ source_colors[source] }}; box-shadow: 0 0 6px {{ source_colors_glow[source] }};"></span>
+        {{ source }}
+        <span class="article-count">{{ articles|length }} article{{ 's' if articles|length != 1 }}</span>
+      </summary>
+      <div class="source-group-body">
+        {% for item in articles %}
+        <article class="item">
+          <h2 class="item-headline">
+            <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          </h2>
+          <p class="one-liner">{{ item.one_liner }}</p>
+          <div class="item-footer">
+            {% if item.published_at %}
+            <span class="score-pill">{{ item.published_at | ordinal_date }}</span>
+            {% endif %}
+            {% if item.score is defined %}
+            <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
+            {% endif %}
+            {% if item.reason %}
+            <span class="reason">{{ item.reason }}</span>
+            {% endif %}
+          </div>
+        </article>
+        {% endfor %}
       </div>
-      <div class="item-body">
-        <p class="one-liner">{{ item.one_liner }}</p>
-        <div class="item-footer">
-          <span class="source-tag">{{ item.source | truncate(35, true, '…') }}</span>
-          {% if item.published_at %}
-          <span class="score-pill">{{ item.published_at | ordinal_date }}</span>
-          {% endif %}
-          {% if item.score is defined %}
-          <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
-          {% endif %}
-          {% if item.reason %}
-          <span class="reason">{{ item.reason }}</span>
-          {% endif %}
-        </div>
-      </div>
-    </article>
+    </details>
     {% endfor %}
   </main>
 

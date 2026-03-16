@@ -268,11 +268,15 @@
     "date": "2026-03-14"
   },
   {
-    "url": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
-    "date": "2026-03-15"
+    "url": "https://example.com/1",
+    "date": "2026-03-16"
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS1NaSm1VUzZmZ2pBb1hZUkwwWkc5NHRELTVyOHlYaURMU09EbGNabUpFamZ4U2VIeVlKeHZiNnJjbFQ2UHl2UkhCeDFNcGtpVkdIT2F1dFdzbHJYRVlCbFV4TS1jNGdSUWFicHYtbzZuS2s4eVpGb2t6ZXIxX3NtRjZFY2VvcVpJVzRFLdIBkgFBVV95cUxOSDhDUlY5RW5qdmFTOG4xZEdMbmRtemh0NTZTQlRNenJqQ2cxdXpMNHk4dzc1blpfSl9mZktVNXJFVWYzSVExdDZnNVZXQWNwUnk2SXQtMWczTkNBVWVwTHNxZUhzaDJhbUpJODhvSlp2MnRtM2gtYUp5NkczbmNiWnItUXI3XzYxRmpDN2ZCQk1zdw?oc=5",
-    "date": "2026-03-15"
+    "url": "https://example.com/2",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://example.com/3",
+    "date": "2026-03-16"
   }
 ]

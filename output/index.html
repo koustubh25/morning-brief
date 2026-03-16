@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#0f172a">
-  <title>Morning Brief — Sun 15 Mar 2026</title>
+  <title>Morning Brief — Mon 16 Mar 2026</title>
   <style>
     :root {
       --bg: #0f172a;
@@ -52,32 +52,67 @@
       color: var(--muted);
     }
 
+    /* ── Source group ── */
+    .source-group {
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      background: var(--surface);
+    }
+    .source-group > summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.75rem 1rem;
+      font-weight: 700;
+      font-size: 0.95rem;
+      user-select: none;
+      border-radius: 8px 8px 0 0;
+      color: #fff;
+    }
+    .source-group > summary::-webkit-details-marker { display: none; }
+    .source-group > summary::after {
+      content: '\25BE';
+      margin-left: auto;
+      color: var(--muted);
+      transition: transform 0.2s;
+    }
+    .source-group:not([open]) > summary::after {
+      transform: rotate(-90deg);
+    }
+    .source-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      flex-shrink: 0;
+    }
+    .article-count {
+      font-size: 0.7rem;
+      font-weight: 400;
+      color: var(--muted);
+      background: rgba(255,255,255,0.06);
+      padding: 0.1rem 0.5rem;
+      border-radius: 10px;
+    }
+    .source-group-body {
+      padding: 0 1rem 0.75rem;
+    }
+
     /* ── Item card ── */
     .item {
-      padding: 1rem 0;
+      padding: 0.75rem 0;
       border-bottom: 1px solid var(--border);
     }
     .item:last-child { border-bottom: none; }
 
-    .item-top {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.6rem;
-      margin-bottom: 0.35rem;
-    }
-    .rank {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--accent);
-      opacity: 0.6;
-      min-width: 1.4rem;
-      padding-top: 0.2rem;
-      flex-shrink: 0;
-    }
     .item-headline {
       font-size: 1.05rem;
       font-weight: 600;
       line-height: 1.4;
+      margin-bottom: 0.35rem;
     }
     .item-headline a {
       color: var(--text);
@@ -85,9 +120,6 @@
     }
     .item-headline a:hover { color: var(--accent); }
 
-    .item-body {
-      padding-left: 2rem;
-    }
     .one-liner {
       font-size: 0.9rem;
       color: var(--muted);
@@ -99,17 +131,6 @@
       align-items: center;
       gap: 0.5rem;
       flex-wrap: wrap;
-    }
-    .source-tag {
-      font-size: 0.7rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--muted);
-      padding: 0.15rem 0.5rem;
-      border-radius: 3px;
     }
     .score-pill {
       font-size: 0.7rem;
@@ -139,236 +160,101 @@
   <header>
     <div class="brief-title">☁ Morning Brief</div>
     <div class="brief-meta">
-      <span>Sun 15 Mar 2026</span>
+      <span>Mon 16 Mar 2026</span>
       <span>·</span>
       <span>~10 min read</span>
       <span>·</span>
-      <span>9 items</span>
+      <span>3 items</span>
     </div>
   </header>
 
   <main>
     
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">1.</span>
-        <h2 class="item-headline">
-          <a href="http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html" target="_blank" rel="noopener">Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India</a>
-        </h2>
+    <details class="source-group" style="border-left-color: #FF6600; background: linear-gradient(90deg, rgba(255, 102, 0, 0.05), var(--surface));">
+      <summary style="background: rgba(255, 102, 0, 0.35);">
+        <span class="source-dot" style="background: #FF6600; box-shadow: 0 0 6px rgba(255, 102, 0, 0.5);"></span>
+        Hacker News
+        <span class="article-count">1 article</span>
+      </summary>
+      <div class="source-group-body">
+        
+        <article class="item">
+          <h2 class="item-headline">
+            <a href="https://example.com/1" target="_blank" rel="noopener">Test 1</a>
+          </h2>
+          <p class="one-liner">A test</p>
+          <div class="item-footer">
+            
+            <span class="score-pill">16th March, 2026</span>
+            
+            
+            <span class="score-pill">8/10</span>
+            
+            
+          </div>
+        </article>
+        
       </div>
-      <div class="item-body">
-        <p class="one-liner">Gemini in Chrome expands to new countries and languages with a focus on data governance for business users.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Workspace Updates</span>
-          
-          <span class="score-pill">13th March, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Gemini in Chrome expansion with data governance is highly relevant to Gemini for Workspace and enterprise AI adoption.</span>
-          
-        </div>
-      </div>
-    </article>
+    </details>
     
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">2.</span>
-        <h2 class="item-headline">
-          <a href="https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/" target="_blank" rel="noopener">Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors</a>
-        </h2>
+    <details class="source-group" style="border-left-color: #4285F4; background: linear-gradient(90deg, rgba(66, 133, 244, 0.05), var(--surface));">
+      <summary style="background: rgba(66, 133, 244, 0.35);">
+        <span class="source-dot" style="background: #4285F4; box-shadow: 0 0 6px rgba(66, 133, 244, 0.5);"></span>
+        Google Cloud Blog
+        <span class="article-count">1 article</span>
+      </summary>
+      <div class="source-group-body">
+        
+        <article class="item">
+          <h2 class="item-headline">
+            <a href="https://example.com/2" target="_blank" rel="noopener">Test 2</a>
+          </h2>
+          <p class="one-liner">Cloud stuff</p>
+          <div class="item-footer">
+            
+            <span class="score-pill">16th March, 2026</span>
+            
+            
+            <span class="score-pill">9/10</span>
+            
+            
+          </div>
+        </article>
+        
       </div>
-      <div class="item-body">
-        <p class="one-liner">Provides deep dives into Vertex AI consumption models to build resilient LLM applications and mitigate 429 errors.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Cloud Blog</span>
-          
-          <span class="score-pill">12th March, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Crucial for production LLM deployments on Vertex AI, addressing practical challenges like API errors.</span>
-          
-        </div>
-      </div>
-    </article>
+    </details>
     
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">3.</span>
-        <h2 class="item-headline">
-          <a href="https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/" target="_blank" rel="noopener">Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil</a>
-        </h2>
+    <details class="source-group" style="border-left-color: #bb41d6; background: linear-gradient(90deg, rgba(187, 65, 214, 0.05), var(--surface));">
+      <summary style="background: rgba(187, 65, 214, 0.35);">
+        <span class="source-dot" style="background: #bb41d6; box-shadow: 0 0 6px rgba(187, 65, 214, 0.5);"></span>
+        Some New Source
+        <span class="article-count">1 article</span>
+      </summary>
+      <div class="source-group-body">
+        
+        <article class="item">
+          <h2 class="item-headline">
+            <a href="https://example.com/3" target="_blank" rel="noopener">Test 3</a>
+          </h2>
+          <p class="one-liner">Fallback color</p>
+          <div class="item-footer">
+            
+            <span class="score-pill">16th March, 2026</span>
+            
+            
+            <span class="score-pill">7/10</span>
+            
+            
+          </div>
+        </article>
+        
       </div>
-      <div class="item-body">
-        <p class="one-liner">Introduces Agent Designer for Gemini for Government on GenAI.mil, enabling custom AI agents for unclassified work.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Cloud Blog</span>
-          
-          <span class="score-pill">10th March, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Directly relevant to government sector clients, showcasing Gemini for Government and custom AI agent capabilities.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">4.</span>
-        <h2 class="item-headline">
-          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5" target="_blank" rel="noopener">Introducing GPT-5.4 - OpenAI</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">OpenAI announces GPT-5.4, introducing new features and capabilities in their leading model series.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google News: OpenAI GPT model rele…</span>
-          
-          <span class="score-pill">5th March, 2026</span>
-          
-          
-          <span class="score-pill">10/10</span>
-          
-          
-          <span class="reason">A new GPT model release from OpenAI is a major event in the frontier AI space, relevant to competitive capabilities.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">5.</span>
-        <h2 class="item-headline">
-          <a href="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/" target="_blank" rel="noopener">Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">Google Threat Intelligence Group discusses emerging AI threats and findings from their AI Threat Tracker report.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Cloud Security Blog</span>
-          
-          <span class="score-pill">18th February, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Focuses on new AI threats and a threat tracker report, highly relevant given the reader's AI and security interests.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">6.</span>
-        <h2 class="item-headline">
-          <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOS1NaSm1VUzZmZ2pBb1hZUkwwWkc5NHRELTVyOHlYaURMU09EbGNabUpFamZ4U2VIeVlKeHZiNnJjbFQ2UHl2UkhCeDFNcGtpVkdIT2F1dFdzbHJYRVlCbFV4TS1jNGdSUWFicHYtbzZuS2s4eVpGb2t6ZXIxX3NtRjZFY2VvcVpJVzRFLdIBkgFBVV95cUxOSDhDUlY5RW5qdmFTOG4xZEdMbmRtemh0NTZTQlRNenJqQ2cxdXpMNHk4dzc1blpfSl9mZktVNXJFVWYzSVExdDZnNVZXQWNwUnk2SXQtMWczTkNBVWVwTHNxZUhzaDJhbUpJODhvSlp2MnRtM2gtYUp5NkczbmNiWnItUXI3XzYxRmpDN2ZCQk1zdw?oc=5" target="_blank" rel="noopener">Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases - CNBC</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">Anthropic releases Claude Sonnet 4.6, indicating a rapid pace of advancement in their AI model development.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google News: Anthropic Claude mode…</span>
-          
-          <span class="score-pill">17th February, 2026</span>
-          
-          
-          <span class="score-pill">10/10</span>
-          
-          
-          <span class="reason">A major new model release from a key AI vendor is highly relevant to frontier AI capabilities and potential enterprise use.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">7.</span>
-        <h2 class="item-headline">
-          <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5" target="_blank" rel="noopener">Introducing Claude Opus 4.6 - Anthropic</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">Anthropic introduces Claude Opus 4.6, a significant update to their leading large language model.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google News: Anthropic Claude mode…</span>
-          
-          <span class="score-pill">5th February, 2026</span>
-          
-          
-          <span class="score-pill">10/10</span>
-          
-          
-          <span class="reason">New flagship model release from Anthropic is a critical update for AI capabilities and practitioner interest.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">8.</span>
-        <h2 class="item-headline">
-          <a href="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/" target="_blank" rel="noopener">Introducing Single-tenant Cloud HSM to support more data encryption control</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">New Single-tenant Cloud HSM offers enhanced data encryption control for sensitive, highly-regulated industries.</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Cloud Security Blog</span>
-          
-          <span class="score-pill">2nd February, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Introduces Single-tenant Cloud HSM, critical for regulated sectors like financial services and government requiring enhanced data encryption.</span>
-          
-        </div>
-      </div>
-    </article>
-    
-    <article class="item">
-      <div class="item-top">
-        <span class="rank">9.</span>
-        <h2 class="item-headline">
-          <a href="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-practical-guidance-building-with-saif/" target="_blank" rel="noopener">Cloud CISO Perspectives: Practical guidance on building with SAIF</a>
-        </h2>
-      </div>
-      <div class="item-body">
-        <p class="one-liner">Google Cloud provides practical guidance on building AI solutions responsibly using the Secure AI Framework (SAIF).</p>
-        <div class="item-footer">
-          <span class="source-tag">Google Cloud Security Blog</span>
-          
-          <span class="score-pill">16th January, 2026</span>
-          
-          
-          <span class="score-pill">9/10</span>
-          
-          
-          <span class="reason">Offers practical guidance on building responsibly with AI using Google's Secure AI Framework (SAIF) on Google Cloud.</span>
-          
-        </div>
-      </div>
-    </article>
+    </details>
     
   </main>
 
   <footer>
-    <p>Generated 21:02 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
+    <p>Generated 05:34 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
   </footer>
 </body>
 </html>
