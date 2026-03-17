@@ -2,19 +2,19 @@
   "date": "Tue 17 Mar 2026",
   "top_items": [
     {
-      "title": "BigQuery Studio is more useful than ever, with enhanced Gemini assistant",
-      "url": "https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/",
-      "one_liner": "BigQuery Studio's enhanced Gemini assistant streamlines data management and analysis tasks for modern data teams."
+      "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
+      "one_liner": "Multi-cluster GKE Inference Gateway preview enhances AI/ML inference scalability and resilience across regions."
     },
     {
       "title": "Why context is the missing link in AI data security",
       "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Context is the crucial missing link for effective AI data security, moving beyond basic controls."
+      "one_liner": "Context is vital for effective AI data security, moving beyond basic controls to prevent leaks and misuse."
     },
     {
       "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5",
-      "one_liner": "Claude now shares context across Excel and PowerPoint, enabling reusable workflows and advanced data analysis in Microsoft Office."
+      "one_liner": "Anthropic's Claude now offers shared context across Excel and PowerPoint for reusable workflows."
     }
   ]
 }
