@@ -1,20 +1,20 @@
 {
-  "date": "Tue 17 Mar 2026",
+  "date": "Wed 18 Mar 2026",
   "top_items": [
     {
       "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
       "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
-      "one_liner": "Multi-cluster GKE Inference Gateway preview enhances AI/ML inference scalability and resilience across regions."
+      "one_liner": "Preview of multi-cluster GKE Inference Gateway for scalable, resilient global AI/ML inference workloads."
     },
     {
-      "title": "Why context is the missing link in AI data security",
-      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Context is vital for effective AI data security, moving beyond basic controls to prevent leaks and misuse."
+      "title": "Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026",
+      "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
+      "one_liner": "Google Cloud and NVIDIA expand AI infrastructure for agentic AI and MoE workloads at GTC."
     },
     {
-      "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5",
-      "one_liner": "Anthropic's Claude now offers shared context across Excel and PowerPoint for reusable workflows."
+      "title": "Welcoming Wiz to Google Cloud: Redefining security for the AI era",
+      "url": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz/",
+      "one_liner": "Announces Wiz joining Google Cloud to enhance security offerings for the AI era."
     }
   ]
 }
