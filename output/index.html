@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#0f172a">
-  <title>Morning Brief — Wed 18 Mar 2026</title>
+  <title>Morning Brief — Thu 19 Mar 2026</title>
   <style>
     :root {
       --bg: #0f172a;
@@ -105,8 +105,16 @@
     .item {
       padding: 0.75rem 0;
       border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+      transition: opacity 0.2s;
     }
     .item:last-child { border-bottom: none; }
+    .item.is-read { opacity: 0.4; }
+    .item.is-read .item-headline a { text-decoration: line-through; }
+
+    .item-content { flex: 1; }
 
     .item-headline {
       font-size: 1.05rem;
@@ -119,6 +127,21 @@
       text-decoration: none;
     }
     .item-headline a:hover { color: var(--accent); }
+
+    .mark-read-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.2rem 0.5rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.15rem;
+    }
+    .mark-read-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .item.is-read .mark-read-btn { color: #22c55e; border-color: #22c55e; }
 
     .one-liner {
       font-size: 0.9rem;
@@ -160,7 +183,7 @@
   <header>
     <div class="brief-title">☁ Morning Brief</div>
     <div class="brief-meta">
-      <span>Wed 18 Mar 2026</span>
+      <span>Thu 19 Mar 2026</span>
       <span>·</span>
       <span>~10 min read</span>
       <span>·</span>
@@ -178,76 +201,141 @@
       </summary>
       <div class="source-group-body">
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/" target="_blank" rel="noopener">Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world</a>
-          </h2>
-          <p class="one-liner">Preview of multi-cluster GKE Inference Gateway for scalable, resilient global AI/ML inference workloads.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">17th March, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">New multi-cluster GKE Inference Gateway for scaling AI workloads globally is a significant MLops advancement.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/" target="_blank" rel="noopener">Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world</a>
+            </h2>
+            <p class="one-liner">Announces preview of multi-cluster GKE Inference Gateway for scalable, resilient AI/ML inference workloads across regions.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">17th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Multi-cluster GKE Inference Gateway for scaling AI workloads globally is a key development for production AI on GCP.</span>
+              
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/" target="_blank" rel="noopener">Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026</a>
-          </h2>
-          <p class="one-liner">Google Cloud and NVIDIA expand AI infrastructure for agentic AI and MoE workloads at GTC.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">16th March, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">Partnership expands AI innovation, focusing on agentic AI and MoE architectures on GCP infrastructure.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/" target="_blank" rel="noopener">BigQuery Studio is more useful than ever, with enhanced Gemini assistant</a>
+            </h2>
+            <p class="one-liner">Highlights enhanced Gemini assistant in BigQuery Studio for streamlining data management and analysis tasks.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">16th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Enhanced Gemini assistant in BigQuery Studio directly relates to Gemini for Workspace and AI-assisted data analysis.</span>
+              
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz/" target="_blank" rel="noopener">Welcoming Wiz to Google Cloud: Redefining security for the AI era</a>
-          </h2>
-          <p class="one-liner">Announces Wiz joining Google Cloud to enhance security offerings for the AI era.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">11th March, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">Partnership with Wiz for AI-era security is highly relevant to GCP and SecOps.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/" target="_blank" rel="noopener">Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026</a>
+            </h2>
+            <p class="one-liner">Google Cloud and NVIDIA expand AI innovation, co-engineering infrastructure for agentic AI and MoE architectures.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">16th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Google Cloud and NVIDIA expanding AI innovation, especially for agentic AI, is critical for infrastructure planning.</span>
+              
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/" target="_blank" rel="noopener">Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil</a>
-          </h2>
-          <p class="one-liner">Introduces Agent Designer for Gemini for Government on GenAI.mil, enabling custom AI agents for unclassified work.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">10th March, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">Gemini for Government and Agent Designer are highly relevant to government clients and AI agents.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/" target="_blank" rel="noopener">Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil</a>
+            </h2>
+            <p class="one-liner">Google Public Sector launches Agent Designer for Gemini for Government on GenAI.mil, enabling custom AI agent creation for unclassified work.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">10th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Highlights Gemini for Government and new agent-building capabilities, relevant to government clients.</span>
+              
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
+        </article>
+        
+      </div>
+    </details>
+    
+    <details class="source-group" style="border-left-color: #d641d6; background: linear-gradient(90deg, rgba(214, 65, 214, 0.05), var(--surface));">
+      <summary style="background: rgba(214, 65, 214, 0.35);">
+        <span class="source-dot" style="background: #d641d6; box-shadow: 0 0 6px rgba(214, 65, 214, 0.5);"></span>
+        Google News: Anthropic Claude model release feature 2026
+        <span class="article-count">2 articles</span>
+      </summary>
+      <div class="source-group-body">
+        
+        <article class="item" data-url="https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5" target="_blank" rel="noopener">Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat</a>
+            </h2>
+            <p class="one-liner">Anthropic's Claude now offers shared context across Excel and PowerPoint, enabling reusable workflows for enterprise productivity.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">11th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Directly addresses Gemini for Workspace transformation patterns with Claude's cross-app context, highly relevant to the reader's focus.</span>
+              
+            </div>
+          </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
+        </article>
+        
+        <article class="item" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5" target="_blank" rel="noopener">Introducing Claude Opus 4.6 - Anthropic</a>
+            </h2>
+            <p class="one-liner">Anthropic announces the release of its new Claude Opus 4.6 model.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">5th February, 2026</span>
+              
+              
+              <span class="score-pill">10/10</span>
+              
+              
+              <span class="reason">Significant announcement of a new major model release from a key frontier AI player (Anthropic), highly relevant.</span>
+              
+            </div>
+          </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
       </div>
@@ -257,44 +345,29 @@
       <summary style="background: rgba(65, 199, 214, 0.35);">
         <span class="source-dot" style="background: #41c7d6; box-shadow: 0 0 6px rgba(65, 199, 214, 0.5);"></span>
         Google News: OpenAI GPT model release API feature 2026
-        <span class="article-count">2 articles</span>
+        <span class="article-count">1 article</span>
       </summary>
       <div class="source-group-body">
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5" target="_blank" rel="noopener">Introducing GPT-5.4 - OpenAI</a>
-          </h2>
-          <p class="one-liner">OpenAI announces the release of its new AI model, GPT-5.4.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">5th March, 2026</span>
-            
-            
-            <span class="score-pill">10/10</span>
-            
-            
-            <span class="reason">A new major model release from OpenAI is critical for understanding the competitive landscape and potential advancements.</span>
-            
+        <article class="item" data-url="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5" target="_blank" rel="noopener">Introducing GPT-5.4 - OpenAI</a>
+            </h2>
+            <p class="one-liner">OpenAI announces the release of GPT-5.4, a significant update to their flagship large language model.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">5th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">A new GPT model release from OpenAI is a major frontier AI event, directly relevant to the reader's interest in leading LLMs.</span>
+              
+            </div>
           </div>
-        </article>
-        
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3A2akIxM2VNTzZ4c2lUX1NSMWV5WV9OVy1UUUlmX2lPUndqUkRIS2Nyb0MxeEZWR2ZxOTRlcFdiT0M0QzdvVlBteGMxTkJPT1AyaHlEMElWdGhPYzZ5amJoMU5Ha3ltVnphWHNlb3RFN0NteXl3TjJHbW8tMk5iMXBKNjhGbmFvUTF4R25RTVByVGxQTzNz?oc=5" target="_blank" rel="noopener">OpenAI’s new model leaps ahead in coding capabilities—but raises unprecedented cybersecurity risks - Fortune</a>
-          </h2>
-          <p class="one-liner">OpenAI's new model boasts improved coding abilities but introduces significant cybersecurity risks, demanding careful evaluation.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">5th February, 2026</span>
-            
-            
-            <span class="score-pill">10/10</span>
-            
-            
-            <span class="reason">Addresses enhanced coding capabilities and cybersecurity risks of new OpenAI models, crucial for enterprise adoption and risk assessment.</span>
-            
-          </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
       </div>
@@ -308,69 +381,46 @@
       </summary>
       <div class="source-group-body">
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/" target="_blank" rel="noopener">Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration</a>
-          </h2>
-          <p class="one-liner">The AI Threat Tracker report details new AI threats, covering distillation, experimentation, and integration for CISO awareness.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">18th February, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">Directly addresses AI threats and their implications for CISOs, aligning with SecOps and AI interests.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/" target="_blank" rel="noopener">Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration</a>
+            </h2>
+            <p class="one-liner">Google's CISO Perspectives highlights new AI threats, distillation, experimentation, and integration for security leaders.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">18th February, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Focuses on AI threats and CISO priorities, directly relevant to Google SecOps and AI-assisted security.</span>
+              
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/" target="_blank" rel="noopener">Introducing Single-tenant Cloud HSM to support more data encryption control</a>
-          </h2>
-          <p class="one-liner">New Single-tenant Cloud HSM provides enhanced data encryption control for highly regulated sectors and sensitive data.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">2nd February, 2026</span>
-            
-            
-            <span class="score-pill">9/10</span>
-            
-            
-            <span class="reason">Introduces Single-tenant Cloud HSM, crucial for data encryption control in regulated sectors like finance and government.</span>
-            
+        <article class="item" data-url="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/" target="_blank" rel="noopener">Introducing Single-tenant Cloud HSM to support more data encryption control</a>
+            </h2>
+            <p class="one-liner">New Single-tenant Cloud HSM offers enhanced data encryption control for highly regulated sectors like finance and government.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">2nd February, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Introduces Single-tenant Cloud HSM, crucial for financial services and government with strict data encryption needs.</span>
+              
+            </div>
           </div>
-        </article>
-        
-      </div>
-    </details>
-    
-    <details class="source-group" style="border-left-color: #d641d6; background: linear-gradient(90deg, rgba(214, 65, 214, 0.05), var(--surface));">
-      <summary style="background: rgba(214, 65, 214, 0.35);">
-        <span class="source-dot" style="background: #d641d6; box-shadow: 0 0 6px rgba(214, 65, 214, 0.5);"></span>
-        Google News: Anthropic Claude model release feature 2026
-        <span class="article-count">1 article</span>
-      </summary>
-      <div class="source-group-body">
-        
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5" target="_blank" rel="noopener">Introducing Claude Opus 4.6 - Anthropic</a>
-          </h2>
-          <p class="one-liner">Anthropic announces the release of its new Claude Opus 4.6 model.</p>
-          <div class="item-footer">
-            
-            <span class="score-pill">5th February, 2026</span>
-            
-            
-            <span class="score-pill">10/10</span>
-            
-            
-            <span class="reason">A new major model release from Anthropic is highly relevant for AI practitioner and enterprise use.</span>
-            
-          </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
       </div>
@@ -379,7 +429,62 @@
   </main>
 
   <footer>
-    <p>Generated 21:01 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
+    <p>Generated 21:03 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
   </footer>
+
+  <script>
+    const STORAGE_KEY = 'morning-brief-read';
+
+    function getReadUrls() {
+      try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
+      catch { return new Set(); }
+    }
+
+    function saveReadUrls(urls) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...urls]));
+    }
+
+    function toggleRead(btn) {
+      const item = btn.closest('.item');
+      const url = item.dataset.url;
+      const read = getReadUrls();
+      if (read.has(url)) {
+        read.delete(url);
+        item.classList.remove('is-read');
+        btn.textContent = 'Mark read';
+      } else {
+        read.add(url);
+        item.classList.add('is-read');
+        btn.textContent = 'Unmark';
+      }
+      saveReadUrls(read);
+      updateCounts();
+    }
+
+    function updateCounts() {
+      const read = getReadUrls();
+      document.querySelectorAll('.source-group').forEach(group => {
+        const items = group.querySelectorAll('.item');
+        const total = items.length;
+        const readCount = [...items].filter(i => read.has(i.dataset.url)).length;
+        const badge = group.querySelector('.article-count');
+        if (badge) badge.textContent = readCount > 0
+          ? `${readCount}/${total} read`
+          : `${total} article${total !== 1 ? 's' : ''}`;
+      });
+    }
+
+    // Apply read state on load
+    (function() {
+      const read = getReadUrls();
+      document.querySelectorAll('.item').forEach(item => {
+        if (read.has(item.dataset.url)) {
+          item.classList.add('is-read');
+          item.querySelector('.mark-read-btn').textContent = 'Unmark';
+        }
+      });
+      updateCounts();
+    })();
+  </script>
 </body>
 </html>
