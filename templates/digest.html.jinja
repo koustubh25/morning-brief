@@ -105,8 +105,16 @@
     .item {
       padding: 0.75rem 0;
       border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+      transition: opacity 0.2s;
     }
     .item:last-child { border-bottom: none; }
+    .item.is-read { opacity: 0.4; }
+    .item.is-read .item-headline a { text-decoration: line-through; }
+
+    .item-content { flex: 1; }
 
     .item-headline {
       font-size: 1.05rem;
@@ -119,6 +127,21 @@
       text-decoration: none;
     }
     .item-headline a:hover { color: var(--accent); }
+
+    .mark-read-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.2rem 0.5rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.15rem;
+    }
+    .mark-read-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .item.is-read .mark-read-btn { color: #22c55e; border-color: #22c55e; }
 
     .one-liner {
       font-size: 0.9rem;
@@ -178,22 +201,25 @@
       </summary>
       <div class="source-group-body">
         {% for item in articles %}
-        <article class="item">
-          <h2 class="item-headline">
-            <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
-          </h2>
-          <p class="one-liner">{{ item.one_liner }}</p>
-          <div class="item-footer">
-            {% if item.published_at %}
-            <span class="score-pill">{{ item.published_at | ordinal_date }}</span>
-            {% endif %}
-            {% if item.score is defined %}
-            <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
-            {% endif %}
-            {% if item.reason %}
-            <span class="reason">{{ item.reason }}</span>
-            {% endif %}
+        <article class="item" data-url="{{ item.url }}">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+            </h2>
+            <p class="one-liner">{{ item.one_liner }}</p>
+            <div class="item-footer">
+              {% if item.published_at %}
+              <span class="score-pill">{{ item.published_at | ordinal_date }}</span>
+              {% endif %}
+              {% if item.score is defined %}
+              <span class="score-pill">{{ "%.0f"|format(item.score) }}/10</span>
+              {% endif %}
+              {% if item.reason %}
+              <span class="reason">{{ item.reason }}</span>
+              {% endif %}
+            </div>
           </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         {% endfor %}
       </div>
@@ -204,5 +230,60 @@
   <footer>
     <p>Generated {{ generated_at }} · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
   </footer>
+
+  <script>
+    const STORAGE_KEY = 'morning-brief-read';
+
+    function getReadUrls() {
+      try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
+      catch { return new Set(); }
+    }
+
+    function saveReadUrls(urls) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...urls]));
+    }
+
+    function toggleRead(btn) {
+      const item = btn.closest('.item');
+      const url = item.dataset.url;
+      const read = getReadUrls();
+      if (read.has(url)) {
+        read.delete(url);
+        item.classList.remove('is-read');
+        btn.textContent = 'Mark read';
+      } else {
+        read.add(url);
+        item.classList.add('is-read');
+        btn.textContent = 'Unmark';
+      }
+      saveReadUrls(read);
+      updateCounts();
+    }
+
+    function updateCounts() {
+      const read = getReadUrls();
+      document.querySelectorAll('.source-group').forEach(group => {
+        const items = group.querySelectorAll('.item');
+        const total = items.length;
+        const readCount = [...items].filter(i => read.has(i.dataset.url)).length;
+        const badge = group.querySelector('.article-count');
+        if (badge) badge.textContent = readCount > 0
+          ? `${readCount}/${total} read`
+          : `${total} article${total !== 1 ? 's' : ''}`;
+      });
+    }
+
+    // Apply read state on load
+    (function() {
+      const read = getReadUrls();
+      document.querySelectorAll('.item').forEach(item => {
+        if (read.has(item.dataset.url)) {
+          item.classList.add('is-read');
+          item.querySelector('.mark-read-btn').textContent = 'Unmark';
+        }
+      });
+      updateCounts();
+    })();
+  </script>
 </body>
 </html>
