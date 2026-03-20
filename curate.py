@@ -142,7 +142,11 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
     ordered = sorted(candidates, key=lambda x: weight_order.get(x.get("_weight", "medium"), 1))
 
     cap = BATCH_SIZE if top_n <= 3 else MAX_CANDIDATES_TO_SCORE
-    to_score = ordered[:cap]
+
+    # Ensure Medium (Gmail) articles always enter the scoring pool
+    medium_candidates = [c for c in ordered if c.get("source") == "Medium (Gmail)"]
+    other_candidates = [c for c in ordered if c.get("source") != "Medium (Gmail)"]
+    to_score = medium_candidates + other_candidates[:cap - len(medium_candidates)]
     batches = [to_score[i:i + BATCH_SIZE] for i in range(0, len(to_score), BATCH_SIZE)]
     log.info("Scoring %d candidates in %d batches via Gemini (%s)…", len(to_score), len(batches), MODEL)
 
