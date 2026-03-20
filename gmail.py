@@ -224,7 +224,7 @@ def fetch_medium_from_gmail(gmail_address: str = None, app_password: str = None)
                 "source": "Medium (Gmail)",
                 "summary": article["description"],
                 "published_at": yesterday.isoformat(),
-                "_weight": "medium",
+                "_weight": "high",
             })
 
         return items
