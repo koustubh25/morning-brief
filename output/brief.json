@@ -2,19 +2,19 @@
   "date": "Fri 20 Mar 2026",
   "top_items": [
     {
+      "title": "Next-gen caching with Memorystore for Valkey 9.0, now GA",
+      "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-0-is-now-ga/",
+      "one_liner": "GA announcement for Memorystore for Valkey 9.0, enhancing high-throughput, low-latency applications."
+    },
+    {
       "title": "Build a Multi-Agent System for Expert Content with Google ADK, MCP and Cloud Run - Part 1",
       "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-a-multi-agent-system-for-expert-content-with-google-adk-mcp-and-cloud-run-part-1/",
-      "one_liner": "Demonstrates building multi-agent expert content systems on Google Cloud using ADK and Cloud Run."
+      "one_liner": "Building a multi-agent system for content generation using Google ADK and Cloud Run."
     },
     {
       "title": "Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026",
       "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
-      "one_liner": "Highlights Google Cloud and NVIDIA's expanded partnership for scaling agentic AI and MoE architectures."
-    },
-    {
-      "title": "Cloud CISO Perspectives: New Threat Horizons report highlights current cloud threats",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-report-highlights-current-cloud-threats/",
-      "one_liner": "Shares cloud threat intelligence and analysis from Google Cloud's new Cloud Threat Horizons Report via CISO Perspectives."
+      "one_liner": "Google Cloud and NVIDIA expand AI innovation, focusing on scaling agentic AI and MoE architectures."
     }
   ]
 }

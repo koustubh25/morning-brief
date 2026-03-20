@@ -290,5 +290,9 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-approaches-critical-security-topics-fundamentals-to-ai/",
     "date": "2026-03-20"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-0-is-now-ga/",
+    "date": "2026-03-20"
   }
 ]
