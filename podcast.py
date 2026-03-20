@@ -67,7 +67,7 @@ Write the script now.
 
 def _filter_articles(items: list[dict]) -> list[dict]:
     """Exclude Medium and Gmail-sourced articles."""
-    excluded_sources = {"Medium", "Gmail"}
+    excluded_sources = {"Medium", "Gmail", "Medium (Gmail)"}
     return [
         item for item in items
         if item.get("source") not in excluded_sources

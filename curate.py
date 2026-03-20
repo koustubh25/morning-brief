@@ -160,7 +160,7 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
 
     # Split into frontier AI, Medium, and everything else
     frontier = [s for s in scored if _is_frontier_ai(s)]
-    medium = [s for s in scored if s.get("source") == "Medium (Gmail)" and s["score"] >= MEDIUM_SCORE_FLOOR]
+    medium = [s for s in scored if s.get("source") == "Medium (Gmail)"]
     other = [s for s in scored if not _is_frontier_ai(s) and s.get("source") != "Medium (Gmail)" and s["score"] >= 5.0]
 
     # Regular brief: 2-3 frontier + rest from other sources (top_n total)
@@ -171,7 +171,7 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
     if not selected:
         selected = scored[:top_n]
 
-    # Medium articles are additive — append all qualifying ones on top
+    # Medium articles are always additive — include all regardless of score
     selected += medium
 
     selected.sort(key=lambda x: x["score"], reverse=True)
