@@ -2,19 +2,19 @@
   "date": "Fri 20 Mar 2026",
   "top_items": [
     {
-      "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
-      "one_liner": "Preview of multi-cluster GKE Inference Gateway enables scalable, resilient AI/ML inference globally."
+      "title": "Deep Agents: The Harness Behind Claude Code, Codex, Manus, and OpenClaw",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/deep-agents-the-harness-behind-claude-code-codex-manus-and-openclaw-bdd94688dfdb",
+      "one_liner": "Explores 'Deep Agents' and hard-won best practices for agentic coding tools."
     },
     {
-      "title": "BigQuery Studio is more useful than ever, with enhanced Gemini assistant",
-      "url": "https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/",
-      "one_liner": "BigQuery Studio's enhanced Gemini assistant streamlines data analytics and reduces operational overhead."
+      "title": "LangChain Deep Agents: The Open-Source Claude Code Alternative That Works",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/langchain-deep-agents-the-open-source-claude-code-alternative-that-works-with-any-model-2477aba5cb96",
+      "one_liner": "LangChain deep agents are presented as an open-source alternative to Claude Code."
     },
     {
-      "title": "Why context is the missing link in AI data security",
-      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Argues that context is key for effective AI data security, moving beyond traditional methods."
+      "title": "Building Distributed AI Agents",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/",
+      "one_liner": "Focuses on reliably building and deploying production AI agents on Google Cloud."
     }
   ]
 }
