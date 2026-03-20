@@ -2,19 +2,19 @@
   "date": "Fri 20 Mar 2026",
   "top_items": [
     {
-      "title": "Deep Agents: The Harness Behind Claude Code, Codex, Manus, and OpenClaw",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/deep-agents-the-harness-behind-claude-code-codex-manus-and-openclaw-bdd94688dfdb",
-      "one_liner": "Explores 'Deep Agents' and hard-won best practices for agentic coding tools."
+      "title": "GitHub’s Ex-CEO Just Raised $60M to Replace GitHub (And He Might Be Right)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/githubs-ex-ceo-just-raised-60m-to-replace-github-and-he-might-be-right-680695b14eff",
+      "one_liner": "Former GitHub CEO raises $60M to build a new platform that could challenge GitHub's dominance."
     },
     {
-      "title": "LangChain Deep Agents: The Open-Source Claude Code Alternative That Works",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/langchain-deep-agents-the-open-source-claude-code-alternative-that-works-with-any-model-2477aba5cb96",
-      "one_liner": "LangChain deep agents are presented as an open-source alternative to Claude Code."
+      "title": "OpenClaw Was Never Ready for Production. NVIDIA’s NemoClaw Changes That",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/openclaw-was-never-ready-for-production-nvidias-nemoclaw-changes-that-268ce03ded95",
+      "one_liner": "NVIDIA's NemoClaw is presented as a production-ready alternative to OpenClaw for AI assistants."
     },
     {
-      "title": "Building Distributed AI Agents",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/",
-      "one_liner": "Focuses on reliably building and deploying production AI agents on Google Cloud."
+      "title": "Why CLIs Beat MCP for AI Agents — And How to Build Your Own CLI Army.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969",
+      "one_liner": "Argues that CLIs are superior to MCP for building AI agents, advocating for Bash over previous approaches."
     }
   ]
 }
