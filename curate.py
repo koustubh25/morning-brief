@@ -30,9 +30,7 @@ FRONTIER_AI_MIN = 2
 FRONTIER_AI_MAX = 3
 FRONTIER_AI_KEYWORDS = ["anthropic", "openai", "mistral", "deepseek", "llama", "grok", "xai", "qwen", "baidu", "ernie", "zhipu", "kimi", "moonshot", "yi-", "01.ai"]
 
-# Medium (Gmail) items — guarantee 1-2 slots if available (score >= 3.0)
-MEDIUM_MIN = 1
-MEDIUM_MAX = 2
+# Medium (Gmail) items — all scored articles are added on top of the regular brief
 MEDIUM_SCORE_FLOOR = 3.0
 
 
@@ -162,18 +160,19 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
 
     # Split into frontier AI, Medium, and everything else
     frontier = [s for s in scored if _is_frontier_ai(s)]
-    all_medium = [s for s in scored if s.get("source") == "Medium (Gmail)"]
-    medium = [s for s in all_medium if s["score"] >= MEDIUM_SCORE_FLOOR]
+    medium = [s for s in scored if s.get("source") == "Medium (Gmail)" and s["score"] >= MEDIUM_SCORE_FLOOR]
     other = [s for s in scored if not _is_frontier_ai(s) and s.get("source") != "Medium (Gmail)" and s["score"] >= 5.0]
 
-    # Reserve slots: 2-3 frontier, 1-2 Medium (if available), rest from other
+    # Regular brief: 2-3 frontier + rest from other sources (top_n total)
     n_frontier = min(len(frontier), FRONTIER_AI_MAX)
-    n_medium = min(len(medium), MEDIUM_MAX)
-    n_other = top_n - n_frontier - n_medium
-    selected = frontier[:n_frontier] + medium[:n_medium] + other[:n_other]
+    n_other = top_n - n_frontier
+    selected = frontier[:n_frontier] + other[:n_other]
 
     if not selected:
         selected = scored[:top_n]
+
+    # Medium articles are additive — append all qualifying ones on top
+    selected += medium
 
     selected.sort(key=lambda x: x["score"], reverse=True)
     log.info(
