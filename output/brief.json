@@ -4,17 +4,17 @@
     {
       "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
       "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
-      "one_liner": "Announces preview of multi-cluster GKE Inference Gateway to scale AI/ML inference workloads globally and resiliently."
+      "one_liner": "Preview of multi-cluster GKE Inference Gateway enables scalable, resilient AI/ML inference globally."
     },
     {
-      "title": "Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026",
-      "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
-      "one_liner": "Google Cloud and NVIDIA expand AI innovation, focusing on infrastructure for agentic AI and MoE architectures."
+      "title": "BigQuery Studio is more useful than ever, with enhanced Gemini assistant",
+      "url": "https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/",
+      "one_liner": "BigQuery Studio's enhanced Gemini assistant streamlines data analytics and reduces operational overhead."
     },
     {
       "title": "Why context is the missing link in AI data security",
       "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/",
-      "one_liner": "Article discusses the critical role of context in AI data security, moving beyond basic controls for sensitive data."
+      "one_liner": "Argues that context is key for effective AI data security, moving beyond traditional methods."
     }
   ]
 }
