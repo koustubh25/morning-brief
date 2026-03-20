@@ -35,6 +35,16 @@ spec:
                     secretKeyRef:
                       name: morning-brief-secrets
                       key: GEMINI_API_KEY
+                - name: GMAIL_ADDRESS
+                  valueFrom:
+                    secretKeyRef:
+                      name: morning-brief-secrets
+                      key: GMAIL_ADDRESS
+                - name: GMAIL_APP_PASSWORD
+                  valueFrom:
+                    secretKeyRef:
+                      name: morning-brief-secrets
+                      key: GMAIL_APP_PASSWORD
                 - name: HOME
                   value: "/home/appuser"
                 - name: GIT_AUTHOR_NAME

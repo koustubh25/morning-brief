@@ -52,3 +52,7 @@ google_news:
     # Australian business context (strategic — 20%)
     - "PwC Google Cloud Australia consulting"
     - "AI strategy enterprise Australia 2026"
+
+gmail_medium:
+  enabled: true
+  # Credentials read from env: GMAIL_ADDRESS, GMAIL_APP_PASSWORD

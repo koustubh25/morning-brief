@@ -12,6 +12,7 @@ import feedparser
 import requests
 import yaml
 
+from gmail import fetch_medium_from_gmail
 from seen import load_seen_urls
 
 log = logging.getLogger(__name__)
@@ -190,6 +191,11 @@ def fetch_all(test_mode: bool = False) -> list[dict]:
         candidates += fetch_rss(sources.get("rss", []))
         candidates += fetch_hacker_news(sources.get("hacker_news", {}))
         candidates += fetch_google_news(sources.get("google_news", {}))
+
+    # Medium articles from Gmail
+    gmail_cfg = sources.get("gmail_medium", {})
+    if gmail_cfg.get("enabled", False):
+        candidates += fetch_medium_from_gmail()
     candidates = deduplicate(candidates)
     log.info("Total candidates after dedup: %d", len(candidates))
 

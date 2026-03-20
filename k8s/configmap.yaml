@@ -59,6 +59,9 @@ data:
         # Australian business context (strategic — 20%)
         - "PwC Google Cloud Australia consulting"
         - "AI strategy enterprise Australia 2026"
+
+    gmail_medium:
+      enabled: true
   topics.yaml: |
     context: "Senior Manager, Cloud & AI Advisory, PwC Australia. Role is heavily focused on Google Cloud delivery — Gemini for Workspace transformation, Google SecOps, AI-assisted migrations to GCP. Uses Claude Code heavily for rapid PoCs. ~30% stakeholder engagement with Directors, MDs, and Partners."
     verticals:
