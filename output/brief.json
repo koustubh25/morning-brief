@@ -2,19 +2,19 @@
   "date": "Fri 20 Mar 2026",
   "top_items": [
     {
-      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5",
-      "one_liner": "Anthropic's Claude Code now integrates with Telegram and Discord, enhancing developer accessibility."
+      "title": "Build a Multi-Agent System for Expert Content with Google ADK, MCP and Cloud Run - Part 1",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-a-multi-agent-system-for-expert-content-with-google-adk-mcp-and-cloud-run-part-1/",
+      "one_liner": "Demonstrates building multi-agent expert content systems on Google Cloud using ADK and Cloud Run."
     },
     {
-      "title": "Building Distributed AI Agents",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/",
-      "one_liner": "Details building reliable, production-grade AI agents integrated with applications on Google Cloud."
+      "title": "Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026",
+      "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
+      "one_liner": "Highlights Google Cloud and NVIDIA's expanded partnership for scaling agentic AI and MoE architectures."
     },
     {
-      "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
-      "one_liner": "Introduces a preview of multi-cluster GKE Inference Gateway for scaling AI inference globally."
+      "title": "Cloud CISO Perspectives: New Threat Horizons report highlights current cloud threats",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-report-highlights-current-cloud-threats/",
+      "one_liner": "Shares cloud threat intelligence and analysis from Google Cloud's new Cloud Threat Horizons Report via CISO Perspectives."
     }
   ]
 }
