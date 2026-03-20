@@ -6,16 +6,13 @@ cp /ssh-secret/id_ed25519 /tmp/.ssh/id_ed25519
 chmod 400 /tmp/.ssh/id_ed25519
 export GIT_SSH_COMMAND="ssh -i /tmp/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
 
-# The ConfigMap mount replaces config/ with symlinks, and output/archive are
-# tracked but absent from the image.  Reset tracked files and index so
-# pull --rebase works.  Do NOT git clean (would delete gmail.py if untracked).
-git reset --hard HEAD 2>/dev/null || true
+# Fetch latest code from remote and hard-reset to it.
+# This ensures the container always runs the latest committed code,
+# even if the Docker image is stale.
+git fetch origin main 2>/dev/null || true
+git reset --hard origin/main 2>/dev/null || git reset --hard HEAD 2>/dev/null || true
 
 # Mark ConfigMap symlinks as assume-unchanged so they don't block pull/rebase.
 git update-index --assume-unchanged config/sources.yaml config/topics.yaml 2>/dev/null || true
-
-# The ConfigMap mount may leave config/ dirty in the index.  Explicitly
-# reset the index for those paths after assume-unchanged.
-git checkout -- output/ archive/ 2>/dev/null || true
 
 exec python main.py "$@"
