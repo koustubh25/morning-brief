@@ -6,6 +6,9 @@ cp /ssh-secret/id_ed25519 /tmp/.ssh/id_ed25519
 chmod 400 /tmp/.ssh/id_ed25519
 export GIT_SSH_COMMAND="ssh -i /tmp/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
 
+# Remove any LFS hooks left over from previous images.
+rm -f .git/hooks/pre-push .git/hooks/post-checkout .git/hooks/post-commit .git/hooks/post-merge 2>/dev/null
+
 # Fetch latest code from remote and hard-reset to it.
 # This ensures the container always runs the latest committed code,
 # even if the Docker image is stale.
