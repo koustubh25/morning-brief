@@ -2,19 +2,19 @@
   "date": "Fri 20 Mar 2026",
   "top_items": [
     {
-      "title": "Workspace audit logs: New functionality and expanded event fields",
-      "url": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
-      "one_liner": "Enhancements to Workspace audit logs improve filtering and integration with Google SecOps, benefiting security investigations and SIEM modernization."
+      "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
+      "one_liner": "Preview of multi-cluster GKE Inference Gateway to scale AI/ML inference workloads across regions."
     },
     {
-      "title": "Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026",
-      "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
-      "one_liner": "Google Cloud and NVIDIA expand AI innovation, focusing on optimized infrastructure for agentic AI and MoE architectures."
+      "title": "BigQuery Studio is more useful than ever, with enhanced Gemini assistant",
+      "url": "https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/",
+      "one_liner": "BigQuery Studio now features an enhanced Gemini assistant to streamline data analytics tasks."
     },
     {
-      "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmZLV05DWExTMTJaMTlxeV83Z3I5eEpXUnpkam0zOXFBQ2RlRE1La1dTSmxVcUc5ek1jTHV6UXl6MXY0THFiZjJFMGNSLUpwdThYOXRvU2szVHhmWnkxbUstNGktektfUVB6eEZaLWlHcF9oamJIZHRsaWF0WHktaGlSd1MxNzVuUVRwZVZ5QU8xUTNIOFUtemxBN2Nad2puVVBUSU1uY3h0NnVzS2w3dTgtQQ?oc=5",
-      "one_liner": "Anthropic's Claude gains shared context across Excel and PowerPoint, enabling reusable workflows across Microsoft applications."
+      "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
+      "url": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
+      "one_liner": "Gemini in Chrome expands to new countries and languages, emphasizing enterprise data governance."
     }
   ]
 }
