@@ -192,6 +192,39 @@
       font-style: italic;
     }
 
+    /* ── Sync bar ── */
+    .sync-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+    .sync-bar button {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.3rem 0.7rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .sync-bar button:hover { border-color: var(--accent); color: var(--accent); }
+    .sync-status {
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .sync-status.ok { color: #22c55e; }
+    .sync-status.err { color: #ef4444; }
+    .sync-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      display: inline-block;
+      background: var(--border);
+      margin-right: 0.3rem;
+      vertical-align: middle;
+    }
+    .sync-dot.connected { background: #22c55e; }
+
     /* ── Footer ── */
     footer {
       margin-top: 2rem;
@@ -212,7 +245,7 @@
       <span>·</span>
       <span>~10 min read</span>
       <span>·</span>
-      <span>11 items</span>
+      <span>9 items</span>
     </div>
   </header>
 
@@ -222,6 +255,12 @@
     <audio controls preload="none" src="podcast.mp3"></audio>
   </div>
   
+
+  <div class="sync-bar">
+    <button onclick="markAllRead()">Mark all read</button>
+    <button onclick="setupToken()"><span class="sync-dot" id="syncDot"></span>Sync</button>
+    <span class="sync-status" id="syncStatus"></span>
+  </div>
 
   <main>
     
@@ -238,90 +277,37 @@
             <h2 class="item-headline">
               <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5" target="_blank" rel="noopener">Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat</a>
             </h2>
-            <p class="one-liner">Anthropic's Claude Code Channels allow messaging via Telegram and Discord, positioning it as a strong competitor to existing tools.</p>
+            <p class="one-liner">Anthropic's Claude Code now integrates with Telegram and Discord, enhancing developer accessibility.</p>
             <div class="item-footer">
               
               <span class="score-pill">20th March, 2026</span>
               
               
-              <span class="score-pill">10/10</span>
+              <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Highly relevant. Direct competitor to Claude Code, implies significant capability leap for agentic coding tools, and potential for PoC velocity.</span>
-              
-            </div>
-          </div>
-          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
-        </article>
-        
-        <article class="item" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5">
-          <div class="item-content">
-            <h2 class="item-headline">
-              <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5" target="_blank" rel="noopener">Introducing Claude Opus 4.6 - Anthropic</a>
-            </h2>
-            <p class="one-liner">Anthropic announces Claude Opus 4.6, a significant new model release with likely enhanced capabilities.</p>
-            <div class="item-footer">
-              
-              <span class="score-pill">5th February, 2026</span>
-              
-              
-              <span class="score-pill">10/10</span>
-              
-              
-              <span class="reason">Crucial. New model release from a key AI competitor, directly impacting LLM capabilities and enterprise adoption discussions.</span>
+              <span class="reason">Significant new capability for Claude Code, integrating with popular messaging platforms for developer use.</span>
               
             </div>
           </div>
           <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-      </div>
-    </details>
-    
-    <details class="source-group" style="border-left-color: #41d6cc; background: linear-gradient(90deg, rgba(65, 214, 204, 0.05), var(--surface));">
-      <summary style="background: rgba(65, 214, 204, 0.35);">
-        <span class="source-dot" style="background: #41d6cc; box-shadow: 0 0 6px rgba(65, 214, 204, 0.5);"></span>
-        Medium (Gmail)
-        <span class="article-count">2 articles</span>
-      </summary>
-      <div class="source-group-body">
-        
-        <article class="item" data-url="https://freedium-mirror.cfd/https://medium.com/@mayhemcode/apple-spent-16-years-saying-no-the-touchscreen-mac-is-finally-here-512ce918b06c">
+        <article class="item" data-url="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJUTThkb1BXTUFZOVRNOVVMeklvRGJURnRDZ2xmLWRqYjExWEJKYmdvNEZMeTJzSmxVZXhFUUFrNGItLS1XMVctM3kwbFFXTGYtT0xtNXB2aWVMT0V3S2hnS1NpQzJIbTByYTYzeDN5QnRkTzhPWXFndFFVRzZSeHc3V2M?oc=5">
           <div class="item-content">
             <h2 class="item-headline">
-              <a href="https://freedium-mirror.cfd/https://medium.com/@mayhemcode/apple-spent-16-years-saying-no-the-touchscreen-mac-is-finally-here-512ce918b06c" target="_blank" rel="noopener">Apple Spent 16 Years Saying No. The Touchscreen Mac Is Finally Here</a>
+              <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJUTThkb1BXTUFZOVRNOVVMeklvRGJURnRDZ2xmLWRqYjExWEJKYmdvNEZMeTJzSmxVZXhFUUFrNGItLS1XMVctM3kwbFFXTGYtT0xtNXB2aWVMT0V3S2hnS1NpQzJIbTByYTYzeDN5QnRkTzhPWXFndFFVRzZSeHc3V2M?oc=5" target="_blank" rel="noopener">Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning - The Hacker News</a>
             </h2>
-            <p class="one-liner">Apple finally introduces a touchscreen Mac after years of skepticism about the concept.</p>
+            <p class="one-liner">Anthropic launches Claude Code Security for AI-powered vulnerability scanning, enhancing AI's role in cybersecurity.</p>
             <div class="item-footer">
               
-              <span class="score-pill">19th March, 2026</span>
+              <span class="score-pill">21st February, 2026</span>
               
               
-              <span class="score-pill">4/10</span>
+              <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Competitor product news, not directly GCP related but touches on product strategy.</span>
-              
-            </div>
-          </div>
-          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
-        </article>
-        
-        <article class="item" data-url="https://freedium-mirror.cfd/https://medium.com/@canartuc/every-video-on-earth-runs-through-his-code-he-chose-poverty-google-sent-ai-bugs-24a15a2916fa">
-          <div class="item-content">
-            <h2 class="item-headline">
-              <a href="https://freedium-mirror.cfd/https://medium.com/@canartuc/every-video-on-earth-runs-through-his-code-he-chose-poverty-google-sent-ai-bugs-24a15a2916fa" target="_blank" rel="noopener">Every Video on Earth Runs Through His Code. He Chose Poverty. Google Sent</a>
-            </h2>
-            <p class="one-liner">An anecdote about an engineer and their personal take on AI's impact.</p>
-            <div class="item-footer">
-              
-              <span class="score-pill">19th March, 2026</span>
-              
-              
-              <span class="score-pill">3/10</span>
-              
-              
-              <span class="reason">Vague AI mention, not specific to Google Cloud or enterprise applications.</span>
+              <span class="reason">Directly relevant to AI-assisted security and coding tools, a key interest area for the reader.</span>
               
             </div>
           </div>
@@ -335,7 +321,7 @@
       <summary style="background: rgba(66, 133, 244, 0.35);">
         <span class="source-dot" style="background: #4285F4; box-shadow: 0 0 6px rgba(66, 133, 244, 0.5);"></span>
         Google Cloud Blog
-        <span class="article-count">4 articles</span>
+        <span class="article-count">6 articles</span>
       </summary>
       <div class="source-group-body">
         
@@ -344,16 +330,16 @@
             <h2 class="item-headline">
               <a href="https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/" target="_blank" rel="noopener">Building Distributed AI Agents</a>
             </h2>
-            <p class="one-liner">Focuses on the challenges and patterns for building reliable, distributed AI agents in production environments on GCP.</p>
+            <p class="one-liner">Details building reliable, production-grade AI agents integrated with applications on Google Cloud.</p>
             <div class="item-footer">
               
               <span class="score-pill">18th March, 2026</span>
               
               
-              <span class="score-pill">9/10</span>
+              <span class="score-pill">8/10</span>
               
               
-              <span class="reason">Directly relevant to AI agents in production, GCP context, and coding patterns.</span>
+              <span class="reason">Discusses production-ready AI agents on GCP, directly relevant to AI/GCP adoption.</span>
               
             </div>
           </div>
@@ -365,7 +351,7 @@
             <h2 class="item-headline">
               <a href="https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/" target="_blank" rel="noopener">Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world</a>
             </h2>
-            <p class="one-liner">Introduces multi-cluster GKE Inference Gateway for scalable, resilient global AI/ML inference workloads.</p>
+            <p class="one-liner">Introduces a preview of multi-cluster GKE Inference Gateway for scaling AI inference globally.</p>
             <div class="item-footer">
               
               <span class="score-pill">17th March, 2026</span>
@@ -374,7 +360,7 @@
               <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Directly addresses scaling AI inference workloads globally with GKE, a key aspect for production AI deployments.</span>
+              <span class="reason">Multi-cluster GKE Inference Gateway is a key new feature for scaling AI workloads on GCP.</span>
               
             </div>
           </div>
@@ -386,7 +372,7 @@
             <h2 class="item-headline">
               <a href="https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/" target="_blank" rel="noopener">BigQuery Studio is more useful than ever, with enhanced Gemini assistant</a>
             </h2>
-            <p class="one-liner">BigQuery Studio now features an enhanced Gemini assistant to streamline data analytics tasks.</p>
+            <p class="one-liner">BigQuery Studio enhances Gemini's assistance for data teams, reducing overhead and improving analysis context.</p>
             <div class="item-footer">
               
               <span class="score-pill">16th March, 2026</span>
@@ -395,7 +381,28 @@
               <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Highlights Gemini's enhanced capabilities within BigQuery Studio for data teams, crucial for enterprise data analytics.</span>
+              <span class="reason">Directly relevant to Gemini in Workspace and data analysis, key for GCP and AI advisory.</span>
+              
+            </div>
+          </div>
+          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
+        </article>
+        
+        <article class="item" data-url="https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/">
+          <div class="item-content">
+            <h2 class="item-headline">
+              <a href="https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/" target="_blank" rel="noopener">Why context is the missing link in AI data security</a>
+            </h2>
+            <p class="one-liner">Context is vital for AI data security, moving beyond basic controls to address risks like data leaks and misuse.</p>
+            <div class="item-footer">
+              
+              <span class="score-pill">12th March, 2026</span>
+              
+              
+              <span class="score-pill">9/10</span>
+              
+              
+              <span class="reason">Crucial for AI governance and data security in enterprise AI deployments.</span>
               
             </div>
           </div>
@@ -407,7 +414,7 @@
             <h2 class="item-headline">
               <a href="https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/" target="_blank" rel="noopener">Gemini for Government: Build custom AI agents for unclassified work on GenAI.mil</a>
             </h2>
-            <p class="one-liner">Introduces Agent Designer within Gemini for Government, enabling custom AI agents for unclassified government work.</p>
+            <p class="one-liner">Gemini for Government introduces Agent Designer on GenAI.mil for building custom AI agents for unclassified government work.</p>
             <div class="item-footer">
               
               <span class="score-pill">10th March, 2026</span>
@@ -416,39 +423,28 @@
               <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Directly addresses Gemini for government and custom AI agents, a key interest for the reader's public sector clients.</span>
+              <span class="reason">Directly addresses Gemini for Government and custom AI agents, highly relevant for government sector clients.</span>
               
             </div>
           </div>
           <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
         </article>
         
-      </div>
-    </details>
-    
-    <details class="source-group" style="border-left-color: #41c7d6; background: linear-gradient(90deg, rgba(65, 199, 214, 0.05), var(--surface));">
-      <summary style="background: rgba(65, 199, 214, 0.35);">
-        <span class="source-dot" style="background: #41c7d6; box-shadow: 0 0 6px rgba(65, 199, 214, 0.5);"></span>
-        Google News: OpenAI GPT model release API feature 2026
-        <span class="article-count">1 article</span>
-      </summary>
-      <div class="source-group-body">
-        
-        <article class="item" data-url="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5">
+        <article class="item" data-url="https://cloud.google.com/blog/topics/developers-practitioners/cost-effective-ai-with-ollama-gke-gpu-sharing-and-vcluster/">
           <div class="item-content">
             <h2 class="item-headline">
-              <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5" target="_blank" rel="noopener">Introducing GPT-5.4 - OpenAI</a>
+              <a href="https://cloud.google.com/blog/topics/developers-practitioners/cost-effective-ai-with-ollama-gke-gpu-sharing-and-vcluster/" target="_blank" rel="noopener">Cost-Effective AI with Ollama, GKE GPU Sharing, and vCluster</a>
             </h2>
-            <p class="one-liner">OpenAI introduces GPT-5.4, a new flagship model with potential for significant advancements in reasoning and capabilities.</p>
+            <p class="one-liner">Demonstrates cost-effective AI scaling on GKE using Ollama, GPU sharing, and vCluster for efficiency.</p>
             <div class="item-footer">
               
-              <span class="score-pill">5th March, 2026</span>
+              <span class="score-pill">6th March, 2026</span>
               
               
-              <span class="score-pill">10/10</span>
+              <span class="score-pill">9/10</span>
               
               
-              <span class="reason">A new GPT-series model release is a critical frontier AI development impacting all areas of AI adoption.</span>
+              <span class="reason">Addresses cost-effectiveness and operational efficiency for AI workloads on GKE, crucial for enterprise adoption.</span>
               
             </div>
           </div>
@@ -462,37 +458,16 @@
       <summary style="background: rgba(65, 80, 214, 0.35);">
         <span class="source-dot" style="background: #4150d6; box-shadow: 0 0 6px rgba(65, 80, 214, 0.5);"></span>
         Google Cloud Security Blog
-        <span class="article-count">2 articles</span>
+        <span class="article-count">1 article</span>
       </summary>
       <div class="source-group-body">
-        
-        <article class="item" data-url="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/">
-          <div class="item-content">
-            <h2 class="item-headline">
-              <a href="https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/" target="_blank" rel="noopener">Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration</a>
-            </h2>
-            <p class="one-liner">Details research on new AI threats and trends from Google's AI Threat Tracker report.</p>
-            <div class="item-footer">
-              
-              <span class="score-pill">18th February, 2026</span>
-              
-              
-              <span class="score-pill">9/10</span>
-              
-              
-              <span class="reason">Focuses on new AI threats and intelligence, directly relevant to the reader's SecOps and AI risk interests.</span>
-              
-            </div>
-          </div>
-          <button class="mark-read-btn" onclick="toggleRead(this)">Mark read</button>
-        </article>
         
         <article class="item" data-url="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/">
           <div class="item-content">
             <h2 class="item-headline">
               <a href="https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/" target="_blank" rel="noopener">Introducing Single-tenant Cloud HSM to support more data encryption control</a>
             </h2>
-            <p class="one-liner">Launches Single-tenant Cloud HSM for sensitive data, meeting strict compliance and isolation needs in regulated sectors.</p>
+            <p class="one-liner">New Single-tenant Cloud HSM offers enhanced data encryption control for regulated industries.</p>
             <div class="item-footer">
               
               <span class="score-pill">2nd February, 2026</span>
@@ -501,7 +476,7 @@
               <span class="score-pill">9/10</span>
               
               
-              <span class="reason">Introduces Single-tenant Cloud HSM for enhanced data encryption control, crucial for financial services and regulated sectors.</span>
+              <span class="reason">Introduces Single-tenant Cloud HSM, highly relevant for financial services and government in Australia requiring strict data encryption.</span>
               
             </div>
           </div>
@@ -514,12 +489,16 @@
   </main>
 
   <footer>
-    <p>Generated 12:22 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
+    <p>Generated 12:59 UTC · <a href="https://github.com/koustubhg/morning-brief">morning-brief</a></p>
   </footer>
 
   <script>
     const STORAGE_KEY = 'morning-brief-read';
+    const TOKEN_KEY = 'morning-brief-gh-token';
+    const REPO = 'koustubh25/morning-brief';
+    const FILE_PATH = 'output/read.json';
 
+    // ── Local read state ──
     function getReadUrls() {
       try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
       catch { return new Set(); }
@@ -529,6 +508,103 @@
       localStorage.setItem(STORAGE_KEY, JSON.stringify([...urls]));
     }
 
+    // ── GitHub sync ──
+    function getToken() { return localStorage.getItem(TOKEN_KEY); }
+
+    function setSyncStatus(text, cls) {
+      const el = document.getElementById('syncStatus');
+      el.textContent = text;
+      el.className = 'sync-status' + (cls ? ' ' + cls : '');
+    }
+
+    function updateSyncDot() {
+      const dot = document.getElementById('syncDot');
+      if (dot) dot.className = getToken() ? 'sync-dot connected' : 'sync-dot';
+    }
+
+    function setupToken() {
+      const current = getToken();
+      const action = current
+        ? prompt('GitHub PAT is set. Enter new PAT, or type "clear" to remove:', '')
+        : prompt('Enter a GitHub fine-grained PAT\n(scope: Contents read/write on ' + REPO + '):', '');
+      if (action === null) return;
+      if (action.toLowerCase() === 'clear') {
+        localStorage.removeItem(TOKEN_KEY);
+        setSyncStatus('Token cleared', '');
+      } else if (action.trim()) {
+        localStorage.setItem(TOKEN_KEY, action.trim());
+        setSyncStatus('Token saved', 'ok');
+        syncToGitHub();
+      }
+      updateSyncDot();
+    }
+
+    let syncTimeout = null;
+    function debouncedSync() {
+      clearTimeout(syncTimeout);
+      syncTimeout = setTimeout(syncToGitHub, 800);
+    }
+
+    async function syncToGitHub() {
+      const token = getToken();
+      if (!token) return;
+
+      setSyncStatus('Syncing…', '');
+      try {
+        // Get current file to obtain sha + merge remote URLs
+        const getResp = await fetch(
+          `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`,
+          { headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' } }
+        );
+
+        let sha = null;
+        let remoteUrls = [];
+        if (getResp.ok) {
+          const data = await getResp.json();
+          sha = data.sha;
+          try { remoteUrls = JSON.parse(atob(data.content)); } catch {}
+        } else if (getResp.status !== 404) {
+          throw new Error(`GitHub GET ${getResp.status}`);
+        }
+
+        // Union-merge local + remote
+        const merged = new Set([...getReadUrls(), ...remoteUrls]);
+        saveReadUrls(merged);
+        applyReadState();
+
+        const content = btoa(JSON.stringify([...merged], null, 2));
+        const body = {
+          message: 'sync: update read.json',
+          content: content,
+        };
+        if (sha) body.sha = sha;
+
+        const putResp = await fetch(
+          `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `Bearer ${token}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(body),
+          }
+        );
+
+        if (!putResp.ok) {
+          const err = await putResp.json();
+          throw new Error(err.message || `PUT ${putResp.status}`);
+        }
+
+        setSyncStatus('Synced', 'ok');
+      } catch (e) {
+        console.error('Sync failed:', e);
+        setSyncStatus('Sync failed', 'err');
+      }
+    }
+
+    // ── UI actions ──
     function toggleRead(btn) {
       const item = btn.closest('.item');
       const url = item.dataset.url;
@@ -544,6 +620,19 @@
       }
       saveReadUrls(read);
       updateCounts();
+      debouncedSync();
+    }
+
+    function markAllRead() {
+      const read = getReadUrls();
+      document.querySelectorAll('.item').forEach(item => {
+        read.add(item.dataset.url);
+        item.classList.add('is-read');
+        item.querySelector('.mark-read-btn').textContent = 'Unmark';
+      });
+      saveReadUrls(read);
+      updateCounts();
+      debouncedSync();
     }
 
     function updateCounts() {
@@ -559,16 +648,24 @@
       });
     }
 
-    // Apply read state on load
-    (function() {
+    function applyReadState() {
       const read = getReadUrls();
       document.querySelectorAll('.item').forEach(item => {
         if (read.has(item.dataset.url)) {
           item.classList.add('is-read');
           item.querySelector('.mark-read-btn').textContent = 'Unmark';
+        } else {
+          item.classList.remove('is-read');
+          item.querySelector('.mark-read-btn').textContent = 'Mark read';
         }
       });
       updateCounts();
+    }
+
+    // ── Init ──
+    (function() {
+      applyReadState();
+      updateSyncDot();
     })();
   </script>
 </body>

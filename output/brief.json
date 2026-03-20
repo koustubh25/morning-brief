@@ -4,17 +4,17 @@
     {
       "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5",
-      "one_liner": "Anthropic's Claude Code Channels allow messaging via Telegram and Discord, positioning it as a strong competitor to existing tools."
+      "one_liner": "Anthropic's Claude Code now integrates with Telegram and Discord, enhancing developer accessibility."
     },
     {
-      "title": "Apple Spent 16 Years Saying No. The Touchscreen Mac Is Finally Here",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mayhemcode/apple-spent-16-years-saying-no-the-touchscreen-mac-is-finally-here-512ce918b06c",
-      "one_liner": "Apple finally introduces a touchscreen Mac after years of skepticism about the concept."
+      "title": "Building Distributed AI Agents",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/",
+      "one_liner": "Details building reliable, production-grade AI agents integrated with applications on Google Cloud."
     },
     {
-      "title": "Every Video on Earth Runs Through His Code. He Chose Poverty. Google Sent",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/every-video-on-earth-runs-through-his-code-he-chose-poverty-google-sent-ai-bugs-24a15a2916fa",
-      "one_liner": "An anecdote about an engineer and their personal take on AI's impact."
+      "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
+      "one_liner": "Introduces a preview of multi-cluster GKE Inference Gateway for scaling AI inference globally."
     }
   ]
 }
