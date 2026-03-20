@@ -30,6 +30,11 @@ FRONTIER_AI_MIN = 2
 FRONTIER_AI_MAX = 3
 FRONTIER_AI_KEYWORDS = ["anthropic", "openai", "mistral", "deepseek", "llama", "grok", "xai", "qwen", "baidu", "ernie", "zhipu", "kimi", "moonshot", "yi-", "01.ai"]
 
+# Medium (Gmail) items — guarantee 1-2 slots if available (score >= 3.0)
+MEDIUM_MIN = 1
+MEDIUM_MAX = 2
+MEDIUM_SCORE_FLOOR = 3.0
+
 
 def _is_frontier_ai(item: dict) -> bool:
     """True for items about non-Google frontier AI labs."""
@@ -151,22 +156,26 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
 
     scored.sort(key=lambda x: x["score"], reverse=True)
 
-    # Split into frontier AI and everything else
+    # Split into frontier AI, Medium, and everything else
     frontier = [s for s in scored if _is_frontier_ai(s)]
-    other = [s for s in scored if not _is_frontier_ai(s) and s["score"] >= 5.0]
+    medium = [s for s in scored if s.get("source") == "Medium (Gmail)" and s["score"] >= MEDIUM_SCORE_FLOOR]
+    other = [s for s in scored if not _is_frontier_ai(s) and s.get("source") != "Medium (Gmail)" and s["score"] >= 5.0]
 
-    # Take 2–3 frontier items, fill remaining slots with top-scored other items
+    # Reserve slots: 2-3 frontier, 1-2 Medium (if available), rest from other
     n_frontier = min(len(frontier), FRONTIER_AI_MAX)
-    selected = frontier[:n_frontier] + other[:top_n - n_frontier]
+    n_medium = min(len(medium), MEDIUM_MAX)
+    n_other = top_n - n_frontier - n_medium
+    selected = frontier[:n_frontier] + medium[:n_medium] + other[:n_other]
 
     if not selected:
         selected = scored[:top_n]
 
     selected.sort(key=lambda x: x["score"], reverse=True)
     log.info(
-        "Selected %d items (%d frontier AI, top score: %.1f)",
+        "Selected %d items (%d frontier AI, %d Medium, top score: %.1f)",
         len(selected),
         sum(1 for s in selected if _is_frontier_ai(s)),
+        sum(1 for s in selected if s.get("source") == "Medium (Gmail)"),
         selected[0]["score"] if selected else 0,
     )
     return selected
