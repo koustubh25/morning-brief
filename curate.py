@@ -158,7 +158,14 @@ def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | 
 
     # Split into frontier AI, Medium, and everything else
     frontier = [s for s in scored if _is_frontier_ai(s)]
-    medium = [s for s in scored if s.get("source") == "Medium (Gmail)" and s["score"] >= MEDIUM_SCORE_FLOOR]
+    all_medium = [s for s in scored if s.get("source") == "Medium (Gmail)"]
+    if all_medium:
+        log.info("Medium articles scored: %d (scores: %s)", len(all_medium),
+                 ", ".join(f"{m['score']:.0f}" for m in all_medium))
+    else:
+        medium_in_pool = sum(1 for c in to_score if c.get("source") == "Medium (Gmail)")
+        log.info("No Medium articles scored (in pool: %d)", medium_in_pool)
+    medium = [s for s in all_medium if s["score"] >= MEDIUM_SCORE_FLOOR]
     other = [s for s in scored if not _is_frontier_ai(s) and s.get("source") != "Medium (Gmail)" and s["score"] >= 5.0]
 
     # Reserve slots: 2-3 frontier, 1-2 Medium (if available), rest from other
