@@ -19,6 +19,7 @@ from pathlib import Path
 from fetch import fetch_all
 from curate import curate
 from generate import generate_html
+from podcast import generate_podcast
 
 logging.basicConfig(
     level=logging.INFO,
@@ -57,6 +58,8 @@ def git_commit_and_push(repo_dir: Path) -> None:
 
     # Stage generated files
     files_to_add = ["output/index.html", "output/brief.json"]
+    if (repo_dir / "output" / "podcast.mp3").exists():
+        files_to_add.append("output/podcast.mp3")
     if (repo_dir / "output" / "seen.json").exists():
         files_to_add.append("output/seen.json")
     read_json = repo_dir / "output" / "read.json"
@@ -126,14 +129,20 @@ def main() -> int:
         log.error("No items selected after curation. Aborting.")
         return 1
 
-    log.info("Step 3: Generating HTML…")
+    log.info("Step 3: Generating podcast…")
+    try:
+        generate_podcast(selected)
+    except Exception:
+        log.exception("Podcast generation failed (non-fatal, continuing)")
+
+    log.info("Step 4: Generating HTML…")
     generate_html(selected)
 
     if args.dry_run:
         log.info("--dry-run: skipping git commit/push.")
         log.info("Open output/index.html to preview.")
     else:
-        log.info("Step 4: Committing and pushing…")
+        log.info("Step 5: Committing and pushing…")
         git_commit_and_push(REPO_DIR)
 
     log.info("Done. %d items in today's brief.", len(selected))

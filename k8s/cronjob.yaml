@@ -45,6 +45,8 @@ spec:
                     secretKeyRef:
                       name: morning-brief-secrets
                       key: GMAIL_APP_PASSWORD
+                - name: GOOGLE_APPLICATION_CREDENTIALS
+                  value: "/secrets/gcloud-tts-sa.json"
                 - name: HOME
                   value: "/home/appuser"
                 - name: GIT_AUTHOR_NAME
@@ -60,6 +62,9 @@ spec:
                   mountPath: /app/config
                 - name: ssh-secret
                   mountPath: /ssh-secret
+                  readOnly: true
+                - name: gcloud-tts
+                  mountPath: /secrets
                   readOnly: true
               resources:
                 requests: { cpu: 100m, memory: 128Mi }
@@ -79,3 +84,10 @@ spec:
                 items:
                   - key: SSH_PRIVATE_KEY
                     path: id_ed25519
+            - name: gcloud-tts
+              secret:
+                secretName: morning-brief-secrets
+                defaultMode: 0444
+                items:
+                  - key: GCLOUD_TTS_SA_JSON
+                    path: gcloud-tts-sa.json

@@ -98,6 +98,8 @@ def generate_html(items: list[dict]) -> None:
     source_colors_bg = {src: _hex_to_rgba(c, 0.05) for src, c in source_colors.items()}
     source_colors_glow = {src: _hex_to_rgba(c, 0.5) for src, c in source_colors.items()}
 
+    has_podcast = (OUTPUT_DIR / "podcast.mp3").exists()
+
     html = template.render(
         items=items,
         grouped=grouped,
@@ -107,6 +109,7 @@ def generate_html(items: list[dict]) -> None:
         source_colors_glow=source_colors_glow,
         date_display=date_display,
         generated_at=generated_at,
+        has_podcast=has_podcast,
     )
     OUTPUT_FILE.write_text(html, encoding="utf-8")
     log.info("Wrote %s (%d bytes)", OUTPUT_FILE, len(html))

@@ -1,7 +1,7 @@
 FROM python:3.12-alpine
 
-# git + ssh for pushing to GitHub
-RUN apk add --no-cache git openssh-client
+# git + ssh for pushing to GitHub, ffmpeg for audio concatenation
+RUN apk add --no-cache git git-lfs openssh-client ffmpeg && git lfs install
 
 WORKDIR /app
 

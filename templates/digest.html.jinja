@@ -52,6 +52,31 @@
       color: var(--muted);
     }
 
+    /* ── Podcast player ── */
+    .podcast-player {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.85rem 1rem;
+      margin-bottom: 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .podcast-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .podcast-player audio {
+      flex: 1;
+      min-width: 0;
+      height: 36px;
+    }
+
     /* ── Source group ── */
     .source-group {
       border-left: 3px solid var(--accent);
@@ -167,6 +192,39 @@
       font-style: italic;
     }
 
+    /* ── Sync bar ── */
+    .sync-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+    .sync-bar button {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.3rem 0.7rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .sync-bar button:hover { border-color: var(--accent); color: var(--accent); }
+    .sync-status {
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .sync-status.ok { color: #22c55e; }
+    .sync-status.err { color: #ef4444; }
+    .sync-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      display: inline-block;
+      background: var(--border);
+      margin-right: 0.3rem;
+      vertical-align: middle;
+    }
+    .sync-dot.connected { background: #22c55e; }
+
     /* ── Footer ── */
     footer {
       margin-top: 2rem;
@@ -190,6 +248,19 @@
       <span>{{ items|length }} items</span>
     </div>
   </header>
+
+  {% if has_podcast %}
+  <div class="podcast-player">
+    <span class="podcast-label">Podcast</span>
+    <audio controls preload="none" src="podcast.mp3"></audio>
+  </div>
+  {% endif %}
+
+  <div class="sync-bar">
+    <button onclick="markAllRead()">Mark all read</button>
+    <button onclick="setupToken()"><span class="sync-dot" id="syncDot"></span>Sync</button>
+    <span class="sync-status" id="syncStatus"></span>
+  </div>
 
   <main>
     {% for source, articles in grouped.items() %}
@@ -233,7 +304,11 @@
 
   <script>
     const STORAGE_KEY = 'morning-brief-read';
+    const TOKEN_KEY = 'morning-brief-gh-token';
+    const REPO = 'koustubh25/morning-brief';
+    const FILE_PATH = 'output/read.json';
 
+    // ── Local read state ──
     function getReadUrls() {
       try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
       catch { return new Set(); }
@@ -243,6 +318,103 @@
       localStorage.setItem(STORAGE_KEY, JSON.stringify([...urls]));
     }
 
+    // ── GitHub sync ──
+    function getToken() { return localStorage.getItem(TOKEN_KEY); }
+
+    function setSyncStatus(text, cls) {
+      const el = document.getElementById('syncStatus');
+      el.textContent = text;
+      el.className = 'sync-status' + (cls ? ' ' + cls : '');
+    }
+
+    function updateSyncDot() {
+      const dot = document.getElementById('syncDot');
+      if (dot) dot.className = getToken() ? 'sync-dot connected' : 'sync-dot';
+    }
+
+    function setupToken() {
+      const current = getToken();
+      const action = current
+        ? prompt('GitHub PAT is set. Enter new PAT, or type "clear" to remove:', '')
+        : prompt('Enter a GitHub fine-grained PAT\n(scope: Contents read/write on ' + REPO + '):', '');
+      if (action === null) return;
+      if (action.toLowerCase() === 'clear') {
+        localStorage.removeItem(TOKEN_KEY);
+        setSyncStatus('Token cleared', '');
+      } else if (action.trim()) {
+        localStorage.setItem(TOKEN_KEY, action.trim());
+        setSyncStatus('Token saved', 'ok');
+        syncToGitHub();
+      }
+      updateSyncDot();
+    }
+
+    let syncTimeout = null;
+    function debouncedSync() {
+      clearTimeout(syncTimeout);
+      syncTimeout = setTimeout(syncToGitHub, 800);
+    }
+
+    async function syncToGitHub() {
+      const token = getToken();
+      if (!token) return;
+
+      setSyncStatus('Syncing…', '');
+      try {
+        // Get current file to obtain sha + merge remote URLs
+        const getResp = await fetch(
+          `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`,
+          { headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' } }
+        );
+
+        let sha = null;
+        let remoteUrls = [];
+        if (getResp.ok) {
+          const data = await getResp.json();
+          sha = data.sha;
+          try { remoteUrls = JSON.parse(atob(data.content)); } catch {}
+        } else if (getResp.status !== 404) {
+          throw new Error(`GitHub GET ${getResp.status}`);
+        }
+
+        // Union-merge local + remote
+        const merged = new Set([...getReadUrls(), ...remoteUrls]);
+        saveReadUrls(merged);
+        applyReadState();
+
+        const content = btoa(JSON.stringify([...merged], null, 2));
+        const body = {
+          message: 'sync: update read.json',
+          content: content,
+        };
+        if (sha) body.sha = sha;
+
+        const putResp = await fetch(
+          `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `Bearer ${token}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(body),
+          }
+        );
+
+        if (!putResp.ok) {
+          const err = await putResp.json();
+          throw new Error(err.message || `PUT ${putResp.status}`);
+        }
+
+        setSyncStatus('Synced', 'ok');
+      } catch (e) {
+        console.error('Sync failed:', e);
+        setSyncStatus('Sync failed', 'err');
+      }
+    }
+
+    // ── UI actions ──
     function toggleRead(btn) {
       const item = btn.closest('.item');
       const url = item.dataset.url;
@@ -258,6 +430,19 @@
       }
       saveReadUrls(read);
       updateCounts();
+      debouncedSync();
+    }
+
+    function markAllRead() {
+      const read = getReadUrls();
+      document.querySelectorAll('.item').forEach(item => {
+        read.add(item.dataset.url);
+        item.classList.add('is-read');
+        item.querySelector('.mark-read-btn').textContent = 'Unmark';
+      });
+      saveReadUrls(read);
+      updateCounts();
+      debouncedSync();
     }
 
     function updateCounts() {
@@ -273,16 +458,24 @@
       });
     }
 
-    // Apply read state on load
-    (function() {
+    function applyReadState() {
       const read = getReadUrls();
       document.querySelectorAll('.item').forEach(item => {
         if (read.has(item.dataset.url)) {
           item.classList.add('is-read');
           item.querySelector('.mark-read-btn').textContent = 'Unmark';
+        } else {
+          item.classList.remove('is-read');
+          item.querySelector('.mark-read-btn').textContent = 'Mark read';
         }
       });
       updateCounts();
+    }
+
+    // ── Init ──
+    (function() {
+      applyReadState();
+      updateSyncDot();
     })();
   </script>
 </body>

@@ -6,6 +6,7 @@ on:
     paths:
       - "output/index.html"
       - "output/brief.json"
+      - "output/podcast.mp3"
   workflow_dispatch:
 
 permissions:
