@@ -125,7 +125,8 @@ def _parse_batch_response(raw: str, batch: list[dict]) -> list[Optional[dict]]:
 def curate(candidates: list[dict], top_n: int = TOP_N, exclude_urls: set[str] | None = None) -> list[dict]:
     if exclude_urls:
         before = len(candidates)
-        candidates = [c for c in candidates if c.get("url") not in exclude_urls]
+        # Don't exclude Medium articles — they're always shown on the digest page
+        candidates = [c for c in candidates if c.get("url") not in exclude_urls or c.get("source") == "Medium (Gmail)"]
         if before != len(candidates):
             log.info("Excluded %d previously-read articles", before - len(candidates))
     api_key = os.environ.get("GEMINI_API_KEY")
