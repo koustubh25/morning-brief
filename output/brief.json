@@ -1,20 +1,20 @@
 {
-  "date": "Sat 21 Mar 2026",
+  "date": "Sun 22 Mar 2026",
   "top_items": [
     {
-      "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QU1ZDOTZ5U2o4WjctUWZrNThCd1dfeXBONHhJWTFNcVhNVkw4UFR4RlZsbkxWaV9nVE9zT2xkdEVPOXVzUUltcWZCeXVzQTNBS09vUlFR?oc=5",
-      "one_liner": "NVIDIA launches an open agent development platform, signaling a shift in enterprise AI agent capabilities."
+      "title": "Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/",
+      "one_liner": "Analyzes current ransomware tactics and threat landscape shifts, pertinent to cybersecurity strategies."
     },
     {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026 - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5",
-      "one_liner": "Nvidia launches an enterprise AI agent platform with significant industry adoption, relevant to client strategies."
+      "title": "What’s new with Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "one_liner": "Highlights recent Google Cloud announcements, featuring Gemini for developer productivity and more."
     },
     {
-      "title": "NVIDIA Launches Nemotron Coalition of Leading Global AI Labs to Advance Open Frontier Models - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnRNY25mT0xuanpUWEVCcFh4UGVqZEx6Nl90VHJCZGRjNl9wNER0RzYyVmQzYUVZbElVYV9yX2NZd0Vnemp2YURQUUlwWXJNWDFsNmRrNzBCaGMwUk42R2piemNkcER2SVB6RnpPem1JN1JVcjRIbWdtaWFUUGI0UHJDNFVUTGVkYlVkOHR2ZVZhMDBQdjFfY3pnbUZZeXozV3RYNGlPSy14S2xyR25JY3lLTERNanVVWjA2QWUwR3dlNWht?oc=5",
-      "one_liner": "NVIDIA forms a coalition to advance open frontier AI models, impacting the competitive landscape."
+      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
+      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
+      "one_liner": "Simplifies Cloud Run security with general availability of direct Identity-Aware Proxy (IAP) integration."
     }
   ]
 }
