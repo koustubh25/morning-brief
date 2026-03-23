@@ -2,19 +2,19 @@
   "date": "Mon 23 Mar 2026",
   "top_items": [
     {
-      "title": "Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/",
-      "one_liner": "Analyzes evolving ransomware tactics and procedures in a shifting cyber threat landscape."
+      "title": "The Complete Guide to Claude Code: CLAUDE.md",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@zhaozhiming/the-complete-guide-to-claude-code-claude-md-743d4cbac757",
+      "one_liner": "Provides a comprehensive guide to CLAUDE.md, detailing the use and configuration of Claude Code."
     },
     {
-      "title": "What’s new with Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "one_liner": "A roundup of recent Google Cloud updates, announcements, and resources, including Gemini for development."
+      "title": "I Tested (New) Claude Code Channels (Real OpenClaw Killer)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-just-tested-new-claude-code-channels-the-real-openclaw-killer-bc47a145b199",
+      "one_liner": "Review of Claude Code Channels, positioned as a competitive feature for agentic coding workflows."
     },
     {
-      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
-      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
-      "one_liner": "Introduces direct IAP integration and public access options for enhanced Cloud Run security."
+      "title": "Build Your First Claude Code Agent Skill: A Simple Project Memory System That…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/build-your-first-claude-code-skill-a-simple-project-memory-system-that-saves-hours-1d13f21aff9e",
+      "one_liner": "A tutorial on creating a custom agent skill in Claude Code for a project memory system."
     }
   ]
 }
