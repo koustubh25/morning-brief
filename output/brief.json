@@ -2,19 +2,19 @@
   "date": "Mon 23 Mar 2026",
   "top_items": [
     {
-      "title": "Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/",
-      "one_liner": "Google Cloud's latest insights detail evolving ransomware tactics and defense strategies."
-    },
-    {
       "title": "What’s new with Google Cloud",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "one_liner": "A roundup of recent Google Cloud announcements, including Gemini for Workspace and AI development updates."
+      "one_liner": "Curates recent Google Cloud announcements, featuring updates on Gemini for code development and other services."
     },
     {
-      "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
-      "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
-      "one_liner": "Cloud Run security is enhanced with general availability of direct Identity-Aware Proxy (IAP) integration."
+      "title": "Anthropic’s Claude Code Shows How Far AI Coding Tools Have Come - Built In",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40V2dUYUUwdG5IQm9WUDMxZUlRSWhWSFZOWTczeUxUZTcyaFN4SFZMLTVndGpPYlRqN0ZRQVFtTWhScDRlNGdXaDFwMElJcU5wUGo5N3VFRnlBN3dLQWp2S0k5MUE3QQ?oc=5",
+      "one_liner": "Anthropic's Claude Code showcases significant advancements in AI coding assistant capabilities."
+    },
+    {
+      "title": "Google Workspace Updates Weekly Recap - March 6, 2026",
+      "url": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
+      "one_liner": "Workspace admins can now enable Gemini app conversation sharing and gain improved Meet join permission logging."
     }
   ]
 }
