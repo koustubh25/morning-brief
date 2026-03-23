@@ -1,20 +1,20 @@
 {
-  "date": "Sun 22 Mar 2026",
+  "date": "Mon 23 Mar 2026",
   "top_items": [
     {
       "title": "Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape",
       "url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/",
-      "one_liner": "Analyzes current ransomware tactics and threat landscape shifts, pertinent to cybersecurity strategies."
+      "one_liner": "Google Cloud's latest insights detail evolving ransomware tactics and defense strategies."
     },
     {
       "title": "What’s new with Google Cloud",
       "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "one_liner": "Highlights recent Google Cloud announcements, featuring Gemini for developer productivity and more."
+      "one_liner": "A roundup of recent Google Cloud announcements, including Gemini for Workspace and AI development updates."
     },
     {
       "title": "Simplify your Cloud Run security with Identity Aware Proxy (IAP)",
       "url": "https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/",
-      "one_liner": "Simplifies Cloud Run security with general availability of direct Identity-Aware Proxy (IAP) integration."
+      "one_liner": "Cloud Run security is enhanced with general availability of direct Identity-Aware Proxy (IAP) integration."
     }
   ]
 }
