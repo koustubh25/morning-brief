@@ -67,24 +67,35 @@ def _decode_mime_header(raw: str) -> str:
 def _parse_articles_from_text(text: str) -> list[dict]:
     """
     Parse the plain-text body of a Medium Daily Digest email.
+    Handles two formats:
+    1. Manual forwards: URLs in angle brackets <https://medium.com/@author/slug-hash>
+    2. Auto-forwards: inline URLs in parentheses (https://medium.com/@author/slug-hash?source=...)
 
     Returns list of {url, title, description} dicts.
     """
+    # Try angle-bracket format first (manual forwards)
+    articles = _parse_angle_bracket_format(text)
+    if articles:
+        return articles
+    # Fall back to inline-URL format (auto-forwarded Medium digests)
+    return _parse_inline_format(text)
+
+
+def _parse_angle_bracket_format(text: str) -> list[dict]:
+    """Parse manual-forward format with <URL> on its own line."""
     lines = text.splitlines()
-    articles = []  # list of {url, title, description}
+    articles = []
     seen_urls = set()
 
     i = 0
     while i < len(lines):
         line = lines[i].strip()
 
-        # Look for an article URL in angle brackets: <https://medium.com/@author/slug-hash...>
         if line.startswith("<") and line.endswith(">"):
             inner = line[1:-1]
             clean = _clean_url(inner)
             m = ARTICLE_URL_RE.match(clean)
             if m and clean not in seen_urls:
-                # Found an article URL — look backwards for [image: Title]
                 title = ""
                 for back in range(1, 4):
                     if i - back >= 0:
@@ -92,43 +103,115 @@ def _parse_articles_from_text(text: str) -> list[dict]:
                         img_match = IMAGE_TAG_RE.match(prev)
                         if img_match:
                             title = img_match.group(1).strip()
-                            # Medium truncates long titles with "…" — grab the
-                            # full title from the next plain-text line after the URL
                             break
 
-                # Look forward for description: after the title line and URL,
-                # the next non-URL, non-image, non-empty line is the description,
-                # then another line is a secondary description
                 description = ""
                 for fwd in range(1, 5):
                     if i + fwd < len(lines):
                         nxt = lines[i + fwd].strip()
                         if nxt and not nxt.startswith("<") and not nxt.startswith("[image:"):
-                            # This is the full title line (untruncated)
                             if not title:
                                 title = nxt
                             else:
-                                # Check if this looks like the full title repeated
-                                # (Medium shows title, then description on next line)
                                 title_norm = title.rstrip("…").lower()
                                 if nxt.lower().startswith(title_norm[:30]):
-                                    # This is the full version of the truncated title
                                     title = nxt
                                 else:
                                     description = nxt
                                     break
-                            # Keep looking for description
                             continue
 
                 seen_urls.add(clean)
-                articles.append({
-                    "url": clean,
-                    "title": title,
-                    "description": description,
-                })
+                articles.append({"url": clean, "title": title, "description": description})
         i += 1
 
     return articles
+
+
+# Matches "N min read" lines in Medium digest emails
+MIN_READ_RE = re.compile(r'^\d+\s+min\s+read$', re.IGNORECASE)
+
+
+def _parse_inline_format(text: str) -> list[dict]:
+    """Parse auto-forwarded Medium digest format.
+
+    The plain-text body has titles and descriptions but no article URLs.
+    Article URLs are extracted from the HTML body separately and matched
+    by position order.
+
+    Pattern per article in plain text:
+      Author Name (https://medium.com/@author?source=...)
+      [optional: in Publication (url)]
+      \n
+      Article Title
+      Description text...
+      \n
+      N min read
+    """
+    lines = text.splitlines()
+    articles = []
+
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        # Look for "N min read" marker — articles appear above it
+        if MIN_READ_RE.match(line):
+            # Scan backwards to find title and description
+            content_lines = []
+            for back in range(1, 10):
+                if i - back < 0:
+                    break
+                prev = lines[i - back].strip()
+                if not prev:
+                    if content_lines:
+                        break
+                    continue
+                if re.match(r'^[\d,.KkMm]+$', prev):
+                    continue
+                if '(https://medium.com/' in prev and '?source=' in prev:
+                    continue
+                content_lines.insert(0, prev)
+
+            if content_lines:
+                title = content_lines[0]
+                description = " ".join(content_lines[1:]) if len(content_lines) > 1 else ""
+                # URL will be filled in by _parse_articles_from_html
+                articles.append({"url": "", "title": title, "description": description})
+
+        i += 1
+
+    return articles
+
+
+def _get_html_body(msg) -> str:
+    """Extract HTML body from an email message."""
+    if msg.is_multipart():
+        for part in msg.walk():
+            if part.get_content_type() == "text/html":
+                payload = part.get_payload(decode=True)
+                if payload:
+                    charset = part.get_content_charset() or "utf-8"
+                    return payload.decode(charset, errors="replace")
+    else:
+        if msg.get_content_type() == "text/html":
+            payload = msg.get_payload(decode=True)
+            if payload:
+                charset = msg.get_content_charset() or "utf-8"
+                return payload.decode(charset, errors="replace")
+    return ""
+
+
+def _extract_urls_from_html(html: str) -> list[str]:
+    """Extract unique Medium article URLs from HTML body, preserving order."""
+    seen = set()
+    urls = []
+    for match in ARTICLE_URL_RE.finditer(html):
+        clean = _clean_url(match.group(0))
+        if clean not in seen:
+            seen.add(clean)
+            urls.append(clean)
+    return urls
 
 
 def _get_plain_text(msg) -> str:
@@ -220,6 +303,19 @@ def fetch_medium_from_gmail(gmail_address: str = None, app_password: str = None)
                 continue
 
             articles = _parse_articles_from_text(text)
+
+            # If articles have empty URLs (auto-forwarded format), extract from HTML body
+            if articles and not articles[0].get("url"):
+                html = _get_html_body(msg)
+                if html:
+                    html_urls = _extract_urls_from_html(html)
+                    log.info("  Extracted %d URL(s) from HTML body", len(html_urls))
+                    for j, article in enumerate(articles):
+                        if j < len(html_urls):
+                            article["url"] = html_urls[j]
+                    # Drop any articles that still have no URL
+                    articles = [a for a in articles if a.get("url")]
+
             log.info("  Email '%s': %d article(s)", _decode_mime_header(msg.get("Subject", ""))[:60], len(articles))
             all_articles.extend(articles)
 
