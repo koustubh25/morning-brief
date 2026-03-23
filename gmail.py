@@ -182,16 +182,26 @@ def fetch_medium_from_gmail(gmail_address: str = None, app_password: str = None)
     try:
         mail.select("INBOX", readonly=True)
 
-        # Search for emails forwarded from the configured sender
+        # Search for emails forwarded from the configured sender.
+        # Gmail auto-forwarding preserves the original From header (e.g. noreply@medium.com)
+        # and puts the forwarder in X-Forwarded-For, which IMAP can't search.
+        # So we search by both FROM (manual forwards) and FROM medium (auto-forwards).
         forward_from = os.environ.get("GMAIL_FORWARD_FROM", "kosta250@gmail.com")
-        search_criteria = f'(FROM "{forward_from}" SINCE {since_date} BEFORE {before_date})'
-        status, message_ids = mail.search(None, search_criteria)
+        ids = set()
 
-        if status != "OK" or not message_ids[0]:
+        for criteria in [
+            f'(FROM "{forward_from}" SINCE {since_date} BEFORE {before_date})',
+            f'(FROM "noreply@medium.com" SINCE {since_date} BEFORE {before_date})',
+        ]:
+            status, message_ids = mail.search(None, criteria)
+            if status == "OK" and message_ids[0]:
+                ids.update(message_ids[0].split())
+
+        if not ids:
             log.info("No emails from %s found for %s", forward_from, since_date)
             return []
 
-        ids = message_ids[0].split()
+        ids = sorted(ids)
         log.info("Found %d email(s) from %s on %s", len(ids), forward_from, since_date)
 
         all_articles = []
