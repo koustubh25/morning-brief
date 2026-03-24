@@ -1,20 +1,20 @@
 {
-  "date": "Mon 23 Mar 2026",
+  "date": "Tue 24 Mar 2026",
   "top_items": [
     {
-      "title": "The Complete Guide to Claude Code: CLAUDE.md",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@zhaozhiming/the-complete-guide-to-claude-code-claude-md-743d4cbac757",
-      "one_liner": "Provides a comprehensive guide to CLAUDE.md, detailing the use and configuration of Claude Code."
+      "title": "A developer’s guide to training with Ironwood TPUs",
+      "url": "https://cloud.google.com/blog/products/compute/training-large-models-on-ironwood-tpus/",
+      "one_liner": "Google's new Ironwood TPUs are engineered to scale for trillion-parameter AI models, addressing compute demands."
     },
     {
-      "title": "I Tested (New) Claude Code Channels (Real OpenClaw Killer)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-just-tested-new-claude-code-channels-the-real-openclaw-killer-bc47a145b199",
-      "one_liner": "Review of Claude Code Channels, positioned as a competitive feature for agentic coding workflows."
+      "title": "RSAC ’26: Supercharging agentic AI defense with frontline threat intelligence",
+      "url": "https://cloud.google.com/blog/products/identity-security/rsac-26-supercharging-agentic-ai-defense-with-frontline-threat-intelligence/",
+      "one_liner": "Leveraging AI and frontline threat intelligence to supercharge agentic cybersecurity defense strategies."
     },
     {
-      "title": "Build Your First Claude Code Agent Skill: A Simple Project Memory System That…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/build-your-first-claude-code-skill-a-simple-project-memory-system-that-saves-hours-1d13f21aff9e",
-      "one_liner": "A tutorial on creating a custom agent skill in Claude Code for a project memory system."
+      "title": "Bringing dark web intelligence into the AI era",
+      "url": "https://cloud.google.com/blog/products/identity-security/bringing-dark-web-intelligence-into-the-ai-era/",
+      "one_liner": "Google Threat Intelligence enhances relevance by filtering noise and providing critical insights from dark web data."
     }
   ]
 }
