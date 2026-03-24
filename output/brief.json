@@ -2,19 +2,19 @@
   "date": "Tue 24 Mar 2026",
   "top_items": [
     {
-      "title": "A developer’s guide to training with Ironwood TPUs",
-      "url": "https://cloud.google.com/blog/products/compute/training-large-models-on-ironwood-tpus/",
-      "one_liner": "Google's new Ironwood TPUs are engineered to scale for trillion-parameter AI models, addressing compute demands."
+      "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjI0ZnpMRjJlSTc1ampPUW5kRlJ2dktsMGhVMmFtYmlpSEd5RjZzRkxxdG9fYnIxZVZSVlZXQlBzOF9VRXdkVmJrcHQ3ajFEV1pIMUxNQzRTQmRzR3NVQ3FFcDJxa29tUU8tS21BTTIwZnl6WC1CYzhLdFZoMzBsV1hOeDN2aEFKV3ppZ2ZPTTBhQdIBlwFBVV95cUxQSWNYT1JYME5aQ0JuejlBY3Jab01MS1V2Z0pIOFZIZlBDWjZnc183SmdpaXMyNk01STBmbzIxM0ZOZktRRkNTdHhKcHZJNTNoeFZjTWNVcVZRN1hTVGRKRmN3ZDY3R3ZyUEZ5UmpWQmY5WmhTazZOQVI4MHA3SGNqbTFaNmI3cDRkRUQ1a092RGZfaVFZcndV?oc=5",
+      "one_liner": "Anthropic's Claude can now control user computers to finish tasks, marking a significant advance in AI agent capabilities."
     },
     {
-      "title": "RSAC ’26: Supercharging agentic AI defense with frontline threat intelligence",
-      "url": "https://cloud.google.com/blog/products/identity-security/rsac-26-supercharging-agentic-ai-defense-with-frontline-threat-intelligence/",
-      "one_liner": "Leveraging AI and frontline threat intelligence to supercharge agentic cybersecurity defense strategies."
+      "title": "Kubernetes as AI Infrastructure: Google Cloud, llm-d, and the CNCF",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/llm-d-officially-a-cncf-sandbox-project/",
+      "one_liner": "GCP's strategy uses Kubernetes for AI infrastructure, supporting LLM builders and agentic futures."
     },
     {
-      "title": "Bringing dark web intelligence into the AI era",
-      "url": "https://cloud.google.com/blog/products/identity-security/bringing-dark-web-intelligence-into-the-ai-era/",
-      "one_liner": "Google Threat Intelligence enhances relevance by filtering noise and providing critical insights from dark web data."
+      "title": "The open platform for the AI era: GKE, agents, and OSS innovation at KubeCon EU 2026",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-and-oss-innovation-at-kubecon-eu-2026/",
+      "one_liner": "GKE is positioned as the optimal platform for running AI agents and OSS innovation."
     }
   ]
 }
