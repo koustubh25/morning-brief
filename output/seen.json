@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLTdjRHVreVZIdkdDV1E5UHlRdXJ2QURyazlfMllTako2NVFRRlFEVjF2bUlVaHRnNkE4X2tMVWVmLU5NRFBKRmV5dVYtS0FNRlkxWGNQT3E3Y3hXUzhoN1pVUTFrWW5qajBPMWw5UTd0c09nZFI5QXZZVGlJeGtFcFpNNURScmk3aWladjNDMWtiMUJSWi1kRkZhTEItNzBqX0kyREJ6dWRkYkpZNnV0UUtaRWRYYlg4bHNtcUZFUTBQOXRneW9aMFZoVzNDNW5rVGt6M2c1SjRHTG5BRkpnMlRMM0JsajRVM3M1XzdkdHJWLW5iLTdDYVMtaXpZSVlUZWdMbXAyYlpzUUdlMHVj?oc=5",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmtMZnRYNW04a3Q4b0dSQm9aall0S3BJWFFOczQ3dmdfX3cyR1plYlotZHg5ekhlZ2s3cUd6Y1pyT3lkVEJrV1V0c0NWVlBQNHlMbXlEbXpTYWlSVUZHVllYZWdSb2RMU2JTelVGMXBEckZSdWt5VUs1d24zdUVLaExpS0NZMmtpSTRoNDd2MHRZdlBRaWxSWmVTNk0wRWtRQ2NaV2ln?oc=5",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS1NaSm1VUzZmZ2pBb1hZUkwwWkc5NHRELTVyOHlYaURMU09EbGNabUpFamZ4U2VIeVlKeHZiNnJjbFQ2UHl2UkhCeDFNcGtpVkdIT2F1dFdzbHJYRVlCbFV4TS1jNGdSUWFicHYtbzZuS2s4eVpGb2t6ZXIxX3NtRjZFY2VvcVpJVzRFLdIBkgFBVV95cUxOSDhDUlY5RW5qdmFTOG4xZEdMbmRtemh0NTZTQlRNenJqQ2cxdXpMNHk4dzc1blpfSl9mZktVNXJFVWYzSVExdDZnNVZXQWNwUnk2SXQtMWczTkNBVWVwTHNxZUhzaDJhbUpJODhvSlp2MnRtM2gtYUp5NkczbmNiWnItUXI3XzYxRmpDN2ZCQk1zdw?oc=5",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTg4RDBySzZHZEZlOTI2RjF3dDhqNUVXdTdqNkdFdVRaZWpzdFRJNG90OUFKMFNZcjhDbnJUZzlsVUJ3dnJEMGRHTlVOZXllRFlKQnMtQlNCTGNsZm5uNlVqRHNRakxYaFpZZWx3YXpGWkh6d2NDVDc3Mjh2RVMyOA?oc=5",
-    "date": "2026-03-17"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/",
     "date": "2026-03-18"
   },
@@ -446,5 +422,53 @@
   {
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnV3eEJCNi0zcDZpTXFkZkMwLUtKeEMwZFV0MGllOTJ4SzFFcG5BdTc2anZrOGtiY3N5UHRkR1RsLW9WaFgtZmtmNmxhcHBhRVBDNFFfb3lUQ2JmbzNCRExreXhMa3hQQW1ic3FWWWhWRURYVUxhbjBrVG5EOXhoZjhpWU03SXhoSVp4Rl9PbGVMZk0?oc=5",
     "date": "2026-03-24"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-device-management-with-dra-dynamic-resource-allocation/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/claude-code-memory-md-everything-you-need-to-know-how-to-get-started-8ac99e161153",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/google-finally-figured-out-that-having-the-best-ai-means-nothing-if-nobody-uses-it-ddf91905c084",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-can-now-create-sophisticated-diagrams-charts-goodbye-canva-600d8c524b1c",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/the-us-just-lost-the-ai-war-a-ghost-model-named-hunter-alpha-won-it-for-china-ca1ec0bbd17d",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mayhemcode/you-are-probably-buying-the-wrong-machine-for-local-ai-the-mac-mini-m4-vs-mini-pc-truth-nobody-ed26e63f6a17",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adham__khaled__/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-27529761d9a7",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@u.mair/building-a-self-hosted-tailscale-network-with-headscale-06e15298870c",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@minervee/10-underrated-cli-commands-youve-probably-never-heard-of-925aa25bdc5a",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/claude-chef-your-full-stack-app-is-live-in-3-minutes-a09d391398ef",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXV0eUhiY3lHa3pkYW93Q29UWUtDSTlaWHZKU3M2QmZIdFdtbFhpRkNrV09WMTV5ZjRGRDNQUEJNV1dFVUp1dGdfcnVRZEV2Z1VJekZMUU5ucjBGYkpxTmk4WXhHWmVGR1hkYk1KWExIb29xdDY4SGl2WVRwRHZDTVZOdmVab3BBMWNhY0x3VlNrSGF4WURmTkFfdVhQeXBoeXdLTS1VZDZhaEJKYmF6VHJpWHdiMlo0Nnc?oc=5",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yQl90S2NFR2RxUXRDT1FScUhXT0hna1lrejNkT3hnQWpKWXJoMnR1M0hYTDJySXhnaXp5RzFMeERGdWRoRjEwTmpSM3R2MEVsQWdiZzJCR25pbzlPUDlB?oc=5",
+    "date": "2026-03-25"
   }
 ]

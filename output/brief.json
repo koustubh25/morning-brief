@@ -1,20 +1,20 @@
 {
-  "date": "Tue 24 Mar 2026",
+  "date": "Wed 25 Mar 2026",
   "top_items": [
     {
-      "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjI0ZnpMRjJlSTc1ampPUW5kRlJ2dktsMGhVMmFtYmlpSEd5RjZzRkxxdG9fYnIxZVZSVlZXQlBzOF9VRXdkVmJrcHQ3ajFEV1pIMUxNQzRTQmRzR3NVQ3FFcDJxa29tUU8tS21BTTIwZnl6WC1CYzhLdFZoMzBsV1hOeDN2aEFKV3ppZ2ZPTTBhQdIBlwFBVV95cUxQSWNYT1JYME5aQ0JuejlBY3Jab01MS1V2Z0pIOFZIZlBDWjZnc183SmdpaXMyNk01STBmbzIxM0ZOZktRRkNTdHhKcHZJNTNoeFZjTWNVcVZRN1hTVGRKRmN3ZDY3R3ZyUEZ5UmpWQmY5WmhTazZOQVI4MHA3SGNqbTFaNmI3cDRkRUQ1a092RGZfaVFZcndV?oc=5",
-      "one_liner": "Anthropic's Claude can now control user computers to finish tasks, marking a significant advance in AI agent capabilities."
+      "title": "DRA: A new era of Kubernetes device management with Dynamic Resource Allocation",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-device-management-with-dra-dynamic-resource-allocation/",
+      "one_liner": "Google Cloud introduces DRA for efficient Kubernetes device management, crucial for scaling AI workloads with GPUs and TPUs."
     },
     {
-      "title": "Kubernetes as AI Infrastructure: Google Cloud, llm-d, and the CNCF",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/llm-d-officially-a-cncf-sandbox-project/",
-      "one_liner": "GCP's strategy uses Kubernetes for AI infrastructure, supporting LLM builders and agentic futures."
+      "title": "Claude Code - MEMORY.md: Everything you need to know & how to get started?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/claude-code-memory-md-everything-you-need-to-know-how-to-get-started-8ac99e161153",
+      "one_liner": "Explains the 'MEMORY.md' feature and getting started with Claude Code."
     },
     {
-      "title": "The open platform for the AI era: GKE, agents, and OSS innovation at KubeCon EU 2026",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-and-oss-innovation-at-kubecon-eu-2026/",
-      "one_liner": "GKE is positioned as the optimal platform for running AI agents and OSS innovation."
+      "title": "Google Finally Figured Out That Having the Best AI Means Nothing If Nobody Uses…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/google-finally-figured-out-that-having-the-best-ai-means-nothing-if-nobody-uses-it-ddf91905c084",
+      "one_liner": "Google AI Studio addresses user adoption issues by adding a key requested feature."
     }
   ]
 }
