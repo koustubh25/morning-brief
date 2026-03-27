@@ -1,20 +1,20 @@
 {
-  "date": "Wed 25 Mar 2026",
+  "date": "Fri 27 Mar 2026",
   "top_items": [
     {
-      "title": "DRA: A new era of Kubernetes device management with Dynamic Resource Allocation",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-device-management-with-dra-dynamic-resource-allocation/",
-      "one_liner": "Google Cloud introduces DRA for efficient Kubernetes device management, crucial for scaling AI workloads with GPUs and TPUs."
+      "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
+      "url": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
+      "one_liner": "Google Meet now auto-detects spoken language for more accurate transcripts, captions, and summarized notes."
     },
     {
-      "title": "Claude Code - MEMORY.md: Everything you need to know & how to get started?",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/claude-code-memory-md-everything-you-need-to-know-how-to-get-started-8ac99e161153",
-      "one_liner": "Explains the 'MEMORY.md' feature and getting started with Claude Code."
+      "title": "New ways to migrate and scale Red Hat OpenShift on Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/partners/red-hat-openshift-on-google-cloud-migration-and-scaling-updates/",
+      "one_liner": "Details how Google Cloud facilitates secure, scalable migration and modernization of Red Hat OpenShift workloads."
     },
     {
-      "title": "Google Finally Figured Out That Having the Best AI Means Nothing If Nobody Uses…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/google-finally-figured-out-that-having-the-best-ai-means-nothing-if-nobody-uses-it-ddf91905c084",
-      "one_liner": "Google AI Studio addresses user adoption issues by adding a key requested feature."
+      "title": "Manhattan Associates powers over a billion daily API calls with Google Cloud databases",
+      "url": "https://cloud.google.com/blog/products/databases/how-cloud-sql-powers-manhattan-associates-ai-supply-chain-platform/",
+      "one_liner": "Manhattan Associates scales to over a billion daily API calls using Cloud SQL and BigQuery on GCP."
     }
   ]
 }
