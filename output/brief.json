@@ -1,20 +1,20 @@
 {
-  "date": "Fri 27 Mar 2026",
+  "date": "Sat 28 Mar 2026",
   "top_items": [
     {
-      "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
-      "url": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
-      "one_liner": "Google Meet now auto-detects spoken language for more accurate transcripts, captions, and summarized notes."
+      "title": "Anthropic to launch new ‘Claude Mythos’ model with advanced reasoning features - siliconangle.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0hKUTUyRmNoSFdDQWtqdlQ2cFBkckJhcGhDVTAzRTlTb0gwV0pza2owa3dMdlFtMTliRWpRdEpqVzY5bjl2d3RPRl9MeThmUGsyYWNMWlhDR3JueDVsVUJCdnIwOXNPcjZIczVkd1ZmNVQ2cGxjVTloQkZZQ3NVbjZwNWZFZVBoTG52bkJFYnRObUV6eVpsN01hY3Q2a2w5U3cyTmREZm4?oc=5",
+      "one_liner": "Anthropic is launching 'Claude Mythos' with advanced reasoning capabilities, potentially impacting enterprise AI."
     },
     {
-      "title": "New ways to migrate and scale Red Hat OpenShift on Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/partners/red-hat-openshift-on-google-cloud-migration-and-scaling-updates/",
-      "one_liner": "Details how Google Cloud facilitates secure, scalable migration and modernization of Red Hat OpenShift workloads."
+      "title": "Why Claude Weekly Limits Are Making Everyone Angry (And $100/Month  Plan Will…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/why-claude-weekly-limits-are-making-everyone-angry-and-100-month-plan-will-not-save-you-2a3b098fda74",
+      "one_liner": "Discusses user frustration with Claude's weekly limits and the implications of a new $100/month plan."
     },
     {
-      "title": "Manhattan Associates powers over a billion daily API calls with Google Cloud databases",
-      "url": "https://cloud.google.com/blog/products/databases/how-cloud-sql-powers-manhattan-associates-ai-supply-chain-platform/",
-      "one_liner": "Manhattan Associates scales to over a billion daily API calls using Cloud SQL and BigQuery on GCP."
+      "title": "I Tried (New) Claude Code Agent Teams (And Discovered New Way to Swarm)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-tried-new-claude-code-agent-teams-and-discovered-new-way-to-swarm-28a6cd72adb8",
+      "one_liner": "Explores new workflows using Claude Code Agent Teams for collaborative AI development."
     }
   ]
 }

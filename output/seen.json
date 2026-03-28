@@ -1,105 +1,5 @@
 [
   {
-    "url": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/deep-agents-the-harness-behind-claude-code-codex-manus-and-openclaw-bdd94688dfdb",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/langchain-deep-agents-the-open-source-claude-code-alternative-that-works-with-any-model-2477aba5cb96",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-a-multi-agent-system-for-expert-content-with-google-adk-mcp-and-cloud-run-part-1/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42UzJ3dGV2QjFnLUZVcTZXT2h5bXBHckVWV2JjNldhRU1tY2lWUlE5V21ITWxPQU9yMl9IM0VMTHlVY01LS0VWaTRXb0d2V3M5SlRldGVfdThnNDBZLThndlUtRGJOVE5FMkE3dGt5bkVYOFJwRlpLX0RwZDVLZw?oc=5",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/githubs-ex-ceo-just-raised-60m-to-replace-github-and-he-might-be-right-680695b14eff",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ampatishan/the-death-of-cnns-how-vision-transformers-rewrote-computer-vision-in-3-years-part-1-the-cnn-era-2f7c9dda5774",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/openclaw-was-never-ready-for-production-nvidias-nemoclaw-changes-that-268ce03ded95",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@adham__khaled__/i-built-a-wall-street-analyst-in-200-lines-of-code-and-it-outperformed-my-2-000-month-bloomberg-5768e5c37969",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jh.baek.sd/how-i-set-up-openclaw-on-my-mac-mini-m4-my-24-7-ai-assistant-that-costs-less-than-a-coffee-89c4b470b064",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/i-turned-my-16gb-mac-mini-into-an-ai-powerhouse-heres-how-lm-studio-link-changed-everything-8f1f20b58f60",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mayhemcode/apple-spent-16-years-saying-no-the-touchscreen-mac-is-finally-here-512ce918b06c",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/every-video-on-earth-runs-through-his-code-he-chose-poverty-google-sent-ai-bugs-24a15a2916fa",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJUTThkb1BXTUFZOVRNOVVMeklvRGJURnRDZ2xmLWRqYjExWEJKYmdvNEZMeTJzSmxVZXhFUUFrNGItLS1XMVctM3kwbFFXTGYtT0xtNXB2aWVMT0V3S2hnS1NpQzJIbTByYTYzeDN5QnRkTzhPWXFndFFVRzZSeHc3V2M?oc=5",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-approaches-critical-security-topics-fundamentals-to-ai/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-0-is-now-ga/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/careers-are-collapsing-jobs-are-dying-the-smartest-people-are-doing-this-right-now-becc742dfee2",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe_62117/i-asked-four-ais-what-cryptocurrencies-are-better-than-bitcoin-and-they-all-agreed-6fd82cf6e82a",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michaelswengel/need-a-laptop-heres-a-way-to-save-a-lot-on-your-next-computer-b7b84e61206d",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sanjeevnetwork/average-income-by-age-in-2026-check-your-age-before-you-scroll-past-2ad5c89b6cd7",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/",
-    "date": "2026-03-20"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QU1ZDOTZ5U2o4WjctUWZrNThCd1dfeXBONHhJWTFNcVhNVkw4UFR4RlZsbkxWaV9nVE9zT2xkdEVPOXVzUUltcWZCeXVzQTNBS09vUlFR?oc=5",
     "date": "2026-03-21"
   },
@@ -586,5 +486,57 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-2026-cybersecurity-forecast-report/",
     "date": "2026-03-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0hKUTUyRmNoSFdDQWtqdlQ2cFBkckJhcGhDVTAzRTlTb0gwV0pza2owa3dMdlFtMTliRWpRdEpqVzY5bjl2d3RPRl9MeThmUGsyYWNMWlhDR3JueDVsVUJCdnIwOXNPcjZIczVkd1ZmNVQ2cGxjVTloQkZZQ3NVbjZwNWZFZVBoTG52bkJFYnRObUV6eVpsN01hY3Q2a2w5U3cyTmREZm4?oc=5",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/why-claude-weekly-limits-are-making-everyone-angry-and-100-month-plan-will-not-save-you-2a3b098fda74",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-tried-new-claude-code-agent-teams-and-discovered-new-way-to-swarm-28a6cd72adb8",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-code-roadmap-how-i-would-learn-claude-code-if-i-started-all-over-again-f29a979228d8",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@minervee/not-cursor-claude-or-vscode-this-is-my-new-favorite-code-editor-544407fe4648",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pawannatekar220/understanding-linux-networking-without-reading-a-500-page-book-14c756494464",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/why-i-stopped-reading-self-help-books-and-what-i-read-instead-2f2c613e707c",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe_62117/i-asked-four-ais-what-cryptocurrencies-are-better-than-bitcoin-and-they-all-agreed-6fd82cf6e82a",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-ai-agents-with-google-managed-mcp-servers/",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVIyWTdFa1lmaUZTcl94YVRHNkF3MVdHRTNxS3ZCV2stellYQUpwMGE1cXA3NXR6bDdLQkJIQWJvb3BJYzROR2NHUENFdThqQ3luRlhNdUJQcmM2eU9fdnhYTUhPVk9ZX054RVNxVmo3OEQ2bzB3eUtwUDJIcGdiNVVHSERvQldIT01XWQ?oc=5",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3NUxieHUzZ1VkVGVXUXFMTVBtdlZfbFZENmZyWWRPSmtJRVo3aUdxNmwxTmFjM3dobkotWlMyY1BGZw?oc=5",
+    "date": "2026-03-28"
   }
 ]
