@@ -2,19 +2,19 @@
   "date": "Mon 30 Mar 2026",
   "top_items": [
     {
-      "title": "Anthropic Adds (New) Claude Code Auto Mode (No More Permission Modes)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-adds-new-claude-code-auto-mode-no-more-permission-modes-52c8094ab742",
-      "one_liner": "Announces the release of Anthropic's new Claude Code Auto mode, simplifying AI-assisted coding."
+      "title": "How ID.me Scaled to 145M Users While Reducing Operational Risk",
+      "url": "https://cloud.google.com/blog/products/databases/id-me-scales-and-fights-ai-fraud-with-alloydb/",
+      "one_liner": "How ID.me scaled to 145M users and reduced risk by migrating to Google Cloud."
     },
     {
-      "title": "Agentic AI Project: Build a Multi-Agent system with LangGraph and Open AI",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alphaiterations/agentic-ai-project-build-a-multi-agent-system-with-langgraph-and-open-ai-344ab768caac",
-      "one_liner": "Provides a practical guide to building a multi-agent system using LangGraph and OpenAI's capabilities."
+      "title": "NVIDIA Nemoclaw + OpenShell: FASTEST Way to Install",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@GaoDalie_AI/nvidia-nemoclaw-openshell-fastest-way-to-install-bbfb82b08ea7",
+      "one_liner": "This article focuses on installing NVIDIA software with a specific tool."
     },
     {
-      "title": "LLM Observability: The Missing Layer in Most Production AI Systems ( A Complete…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/llm-observability-the-missing-layer-in-most-production-ai-systems-a-complete-guide-09cf8ec90056",
-      "one_liner": "Addresses the crucial, often overlooked, aspect of LLM observability for production AI systems."
+      "title": "The 13 Best Fiction Books of All Time",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Rowan_Pierce/the-13-best-fiction-books-of-all-time-b296488f24bb",
+      "one_liner": "A curated list of fiction books recommended by the author."
     }
   ]
 }
