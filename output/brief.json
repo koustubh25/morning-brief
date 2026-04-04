@@ -4,17 +4,17 @@
     {
       "title": "Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai/",
-      "one_liner": "Announces Veo 3.1 Lite and an upscaling capability on Vertex AI for cost-effective video generation and enhancement."
+      "one_liner": "Vertex AI introduces Veo 3.1 Lite and upscaling, offering cost-effective video generation for enterprise use."
     },
     {
-      "title": "Claude Code Is No Longer a Coding Assistant",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alirezarezvani/claude-code-is-no-longer-a-coding-assistant-0966d2cb5fbb",
-      "one_liner": "Describes how Claude Code has shifted from a coding tool to a platform enabling the management of AI workers."
+      "title": "Introducing Gemma 4 on Google Cloud: Our most capable open models yet",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud/",
+      "one_liner": "Gemma 4 arrives on Google Cloud as the most capable open models yet, with large context and multimodal support."
     },
     {
-      "title": "The TL;DR of Claude Code Inside Obsidian",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@theostowell/the-tl-dr-of-claude-code-inside-obsidian-4bd86a9ee9db",
-      "one_liner": "Explores the integration and utility of Claude Code within the Obsidian note-taking and knowledge management application."
+      "title": "Enabling user-initiated purchases, starting with higher access to advanced AI features in Workspace",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/enabling-user-initiated-purchases.html",
+      "one_liner": "Google Workspace now allows end users to purchase AI add-ons directly, starting with AI Expanded Access."
     }
   ]
 }
