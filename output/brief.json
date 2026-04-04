@@ -1,20 +1,20 @@
 {
-  "date": "Mon 30 Mar 2026",
+  "date": "Sat 4 Apr 2026",
   "top_items": [
     {
-      "title": "How ID.me Scaled to 145M Users While Reducing Operational Risk",
-      "url": "https://cloud.google.com/blog/products/databases/id-me-scales-and-fights-ai-fraud-with-alloydb/",
-      "one_liner": "How ID.me scaled to 145M users and reduced risk by migrating to Google Cloud."
+      "title": "Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai/",
+      "one_liner": "Announces Veo 3.1 Lite and an upscaling capability on Vertex AI for cost-effective video generation and enhancement."
     },
     {
-      "title": "NVIDIA Nemoclaw + OpenShell: FASTEST Way to Install",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@GaoDalie_AI/nvidia-nemoclaw-openshell-fastest-way-to-install-bbfb82b08ea7",
-      "one_liner": "This article focuses on installing NVIDIA software with a specific tool."
+      "title": "Claude Code Is No Longer a Coding Assistant",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@alirezarezvani/claude-code-is-no-longer-a-coding-assistant-0966d2cb5fbb",
+      "one_liner": "Describes how Claude Code has shifted from a coding tool to a platform enabling the management of AI workers."
     },
     {
-      "title": "The 13 Best Fiction Books of All Time",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Rowan_Pierce/the-13-best-fiction-books-of-all-time-b296488f24bb",
-      "one_liner": "A curated list of fiction books recommended by the author."
+      "title": "The TL;DR of Claude Code Inside Obsidian",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@theostowell/the-tl-dr-of-claude-code-inside-obsidian-4bd86a9ee9db",
+      "one_liner": "Explores the integration and utility of Claude Code within the Obsidian note-taking and knowledge management application."
     }
   ]
 }
