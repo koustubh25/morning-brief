@@ -1,20 +1,20 @@
 {
-  "date": "Sat 4 Apr 2026",
+  "date": "Sun 5 Apr 2026",
   "top_items": [
     {
-      "title": "Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai/",
-      "one_liner": "Vertex AI introduces Veo 3.1 Lite and upscaling, offering cost-effective video generation for enterprise use."
+      "title": "GET SH*T DONE: Meta-prompting and Spec-driven Development for Claude Code and…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
+      "one_liner": "Introduces 'GSD' prompting techniques for Claude Code to combat context rot and enhance development efficiency."
     },
     {
-      "title": "Introducing Gemma 4 on Google Cloud: Our most capable open models yet",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud/",
-      "one_liner": "Gemma 4 arrives on Google Cloud as the most capable open models yet, with large context and multimodal support."
+      "title": "Spring AI vs LangChain4j: We Built the Same AI Agent Twice - One Stayed…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/spring-ai-vs-langchain4j-we-built-the-same-ai-agent-twice-one-stayed-debuggable-336b354b43b5",
+      "one_liner": "Compares Spring AI and LangChain4j for building and debugging AI agents."
     },
     {
-      "title": "Enabling user-initiated purchases, starting with higher access to advanced AI features in Workspace",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/enabling-user-initiated-purchases.html",
-      "one_liner": "Google Workspace now allows end users to purchase AI add-ons directly, starting with AI Expanded Access."
+      "title": "You Can Now Learn Anything 100x Faster With Claude.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pixicstudio/you-can-now-learn-anything-100x-faster-with-claude-417511411fad",
+      "one_liner": "Claims Claude can accelerate learning, but lacks specific enterprise application details."
     }
   ]
 }
