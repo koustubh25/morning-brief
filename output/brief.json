@@ -1,20 +1,20 @@
 {
-  "date": "Sun 5 Apr 2026",
+  "date": "Mon 6 Apr 2026",
   "top_items": [
     {
-      "title": "GET SH*T DONE: Meta-prompting and Spec-driven Development for Claude Code and…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
-      "one_liner": "Introduces 'GSD' prompting techniques for Claude Code to combat context rot and enhance development efficiency."
+      "title": "Claude Code Ultraplan Launched: I Just Tested It (And It's Better Than It…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-code-ultraplan-launched-i-just-tested-it-and-its-better-than-it-looks-21a628332e97",
+      "one_liner": "Review of Anthropic's new Claude Code ultraplan, highlighting its effectiveness and capabilities."
     },
     {
-      "title": "Spring AI vs LangChain4j: We Built the Same AI Agent Twice - One Stayed…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/spring-ai-vs-langchain4j-we-built-the-same-ai-agent-twice-one-stayed-debuggable-336b354b43b5",
-      "one_liner": "Compares Spring AI and LangChain4j for building and debugging AI agents."
+      "title": "Gemma 4: Google Just Released an Open Source AI Model for Developers",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/gemma-4-google-just-released-an-open-source-ai-model-for-developers-9358c440b084",
+      "one_liner": "Announces Google's new open-source AI model, Gemma 4, for developers."
     },
     {
-      "title": "You Can Now Learn Anything 100x Faster With Claude.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pixicstudio/you-can-now-learn-anything-100x-faster-with-claude-417511411fad",
-      "one_liner": "Claims Claude can accelerate learning, but lacks specific enterprise application details."
+      "title": "Gemma 4: Google Just Dropped Its Open Source Nuclear Option And Community Went…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/gemma-4-google-just-dropped-its-open-source-nuclear-option-and-community-went-feral-with-it-0a7af52c5dd4",
+      "one_liner": "Google releases Gemma, a new family of open-source models with significant context windows and multimodal capabilities."
     }
   ]
 }
