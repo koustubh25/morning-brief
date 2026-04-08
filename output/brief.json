@@ -2,19 +2,19 @@
   "date": "Wed 8 Apr 2026",
   "top_items": [
     {
+      "title": "Google Cloud named a Leader in The Forrester Wave™: Sovereign Cloud Platforms, Q2 2026",
+      "url": "https://cloud.google.com/blog/products/identity-security/a-leader-in-forrester-wave-sovereign-cloud-platform-2026/",
+      "one_liner": "Google Cloud named a Leader in Sovereign Cloud Platforms by Forrester, addressing data sovereignty needs for regulated sectors."
+    },
+    {
       "title": "Claude Mythos Preview: Available in private preview on Vertex AI",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai/",
-      "one_liner": "Anthropic's Claude Mythos Preview is now in private preview on Google Cloud's Vertex AI, offering enhanced capabilities."
+      "one_liner": "Anthropic's Claude Mythos model is now in private preview on Google Cloud's Vertex AI."
     },
     {
-      "title": "See beyond the IP and secure URLs with Google Cloud NGFW",
-      "url": "https://cloud.google.com/blog/products/identity-security/see-beyond-the-ip-and-secure-urls-with-google-cloud-ngfw/",
-      "one_liner": "Google Cloud NGFW introduces domain filtering with wildcard capabilities to enhance security beyond IP addresses."
-    },
-    {
-      "title": "Build Your First Claude Code Agent Skill: A Simple Project Memory System That…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/build-your-first-claude-code-skill-a-simple-project-memory-system-that-saves-hours-1d13f21aff9e",
-      "one_liner": "Details how to build a useful project memory system using Claude Code, enhancing productivity with a short skill."
+      "title": "Introducing Looker self-service Explores for faster ad-hoc analysis",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/looker-self-service-explores/",
+      "one_liner": "Looker introduces self-service Explores to accelerate ad-hoc analysis, complementing its governed data framework."
     }
   ]
 }
