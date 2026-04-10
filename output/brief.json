@@ -1,20 +1,20 @@
 {
-  "date": "Thu 9 Apr 2026",
+  "date": "Fri 10 Apr 2026",
   "top_items": [
     {
-      "title": "Guardrails at the gateway: Securing AI inference on GKE with Model Armor",
-      "url": "https://cloud.google.com/blog/products/identity-security/securing-ai-inference-on-gke-with-model-armor/",
-      "one_liner": "Google Cloud's Model Armor secures AI inference on GKE against new attack vectors like prompt injection."
+      "title": "Accelerating innovation and impact across the public sector",
+      "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-innovation-and-impact-across-the-public-sector/",
+      "one_liner": "Google Cloud is enabling public sector innovation at scale with Gemini Enterprise and AI solutions."
     },
     {
-      "title": "Anthropic scales up with enterprise features for Claude Cowork and Managed Agents - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT212ZmJKSm1Tc3pmS28yTURocFZoRHo1dTZvMlFRckl0NUNZQWFRRnFfeHB6MHpkbm00ZnVWT1pJVjF4QWE0SmdKalNVb29CdEs1U2JNa3Y0WlJlcDJfSEVPNlpJV2pDQlc0UExlbkRyanN4TUdhX1k2REJGdzJGckViV2lraEY0UGJCenJZQkZvV1NyeGRsN21SNjZjbU9Tb1J3bjhCYjB0ZUJSOHZUQm82Zw?oc=5",
-      "one_liner": "Anthropic enhances Claude Cowork and Managed Agents with new enterprise features, boosting adoption potential."
+      "title": "QueryData helps agents turn natural language into queries for AlloyDB, Cloud SQL and Spanner",
+      "url": "https://cloud.google.com/blog/products/databases/introducing-querydata-for-near-100-percent-accurate-data-agents/",
+      "one_liner": "QueryData translates natural language to SQL for AlloyDB, Cloud SQL, and Spanner, enhancing agent capabilities."
     },
     {
-      "title": "How Estée Lauder Companies uses Cloud Run worker pools for its pull-based agentic workloads",
-      "url": "https://cloud.google.com/blog/products/serverless/cloud-run-worker-pools-at-estee-lauder-companies/",
-      "one_liner": "Estée Lauder uses Cloud Run worker pools to manage pull-based agentic workloads, showcasing flexible GCP compute."
+      "title": "Raising the security baseline: Essential AI and cloud security now on by default",
+      "url": "https://cloud.google.com/blog/products/identity-security/essential-ai-and-cloud-security-now-on-by-default/",
+      "one_liner": "Google Cloud now offers essential AI and cloud security protections by default to strengthen AI rollouts."
     }
   ]
 }
