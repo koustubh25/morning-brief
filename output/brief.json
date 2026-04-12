@@ -1,20 +1,20 @@
 {
-  "date": "Fri 10 Apr 2026",
+  "date": "Sun 12 Apr 2026",
   "top_items": [
     {
-      "title": "Accelerating innovation and impact across the public sector",
-      "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-innovation-and-impact-across-the-public-sector/",
-      "one_liner": "Google Cloud is enabling public sector innovation at scale with Gemini Enterprise and AI solutions."
+      "title": "Claude Code Managed Agents: I Built My First Agent From Scratch",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/how-claude-code-built-my-first-claude-managed-agent-from-scratch-980fb6ac4872",
+      "one_liner": "Details building the first agent from scratch using Anthropic's new Claude Managed Agents."
     },
     {
-      "title": "QueryData helps agents turn natural language into queries for AlloyDB, Cloud SQL and Spanner",
-      "url": "https://cloud.google.com/blog/products/databases/introducing-querydata-for-near-100-percent-accurate-data-agents/",
-      "one_liner": "QueryData translates natural language to SQL for AlloyDB, Cloud SQL, and Spanner, enhancing agent capabilities."
+      "title": "Why 90% of Claude Code Users Are Missing Its Most Powerful Feature 🤦‍♂️",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@k.balu124/i-used-karpathys-llm-wiki-to-build-a-knowledge-base-that-maintains-itself-with-ai-df968e4f5ea0",
+      "one_liner": "Reveals a powerful, overlooked feature within Claude Code that enhances developer productivity."
     },
     {
-      "title": "Raising the security baseline: Essential AI and cloud security now on by default",
-      "url": "https://cloud.google.com/blog/products/identity-security/essential-ai-and-cloud-security-now-on-by-default/",
-      "one_liner": "Google Cloud now offers essential AI and cloud security protections by default to strengthen AI rollouts."
+      "title": "Claude Mythos Preview Is Here (I Reviewed The System Card: Here's The…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-mythos-preview-is-here-i-reviewed-the-system-card-heres-breakdown-351bf4445c9d",
+      "one_liner": "Previews Claude Mythos, exploring its system card and initial capabilities."
     }
   ]
 }
