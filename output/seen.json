@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/spring-ai-vs-langchain4j-we-built-the-same-ai-agent-twice-one-stayed-debuggable-336b354b43b5",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pixicstudio/you-can-now-learn-anything-100x-faster-with-claude-417511411fad",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/i-turned-a-raspberry-pi-into-a-personal-ai-assistant-using-claude-code-channels-and-telegram-27488743b480",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@stawils/qwen-just-quietly-became-the-most-dangerous-open-source-ai-model-b5bcf7b2743c",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@diko/running-opencode-with-local-llms-on-an-m3-ultra-512gb-63ca7d0b299f",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@RPauloDelgado/ai-killed-my-writing-career-long-live-ai-ecd264cd4d9f",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@drodil/9-terminal-tools-that-replaced-half-my-mouse-usage-ea630de6c65d",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wlockett/amazon-just-proved-ai-aint-the-answer-yet-again-fec616f81e51",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/the-salary-negotiation-script-that-got-me-62k-more-at-cloudflare-word-for-word-e56bf1faa84a",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mayhemcode/mini-pc-vs-desktop-pc-for-local-llm-in-2026-youre-probably-optimising-for-the-wrong-thing-d87853b76773",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-releases-claude-code-buddy-command-your-virtual-pet-companions-f66d2b1b481e",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@amjohnphilip/claude-code-source-accidentally-leaked-now-being-rewritten-in-rust-e1d656085ae1",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/i-read-claudes-leaked-source-code-and-it-changed-how-i-see-software-engineering-d297c7807fad",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michaelswengel/this-linux-distro-may-be-the-perfect-windows-11-replacement-6c75d1585b3a",
-    "date": "2026-04-05"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/networking/the-case-for-envoy-networking-in-the-agentic-ai-era/",
-    "date": "2026-04-05"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-code-ultraplan-launched-i-just-tested-it-and-its-better-than-it-looks-21a628332e97",
     "date": "2026-04-06"
   },
@@ -506,5 +442,77 @@
   {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0xwZlBiS3NTTGstNUhTMEcyTWNXbEhoa2JxZ09Qb0FtYmEwT2VDWHRsOHB2bVhzTFdUbTV1VXZ4YU9OOFRCckNIVktVbUg2ZVlVNC00R0R2NkdHNWdwYkRZWmxERnpQbHptdTFQUzJzbmpKWXZJVWtjYVZQX2xyMlhraFMxNnRuVnlLX21RNFk5cFJtRUE?oc=5",
     "date": "2026-04-12"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/build-a-robust-and-cost-effective-gen-ai-strategy/",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-launches-claude-managed-agents-that-make-agentic-ai-workflows-real-91134b6f2b56",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@davidvesely.cz/claude-code-has-an-internal-skill-nobody-knew-about-skillify-915efff67f27",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ayyazzafar/open-code-minimax-m2-7-get-95-cheaper-ai-coding-claude-code-alternative-3d1819af66a4",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@markchen69/i-used-claude-code-to-build-a-personal-knowledge-base-inspired-by-karpathys-llm-wiki-pattern-6a81a9661d49",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gaurav21s/i-replaced-my-rag-agents-brain-with-a-20b-model-it-got-smarter-3ea48d84c2c9",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shreyasnaphad/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@drodil/9-terminal-tools-that-replaced-half-my-mouse-usage-ea630de6c65d",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tasmiasharmin7/palantir-ceo-says-only-two-types-will-survive-ai-and-elite-degrees-arent-one-of-them-341c222044e0",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kakamber07/staff-engineers-are-quietly-becoming-the-new-overhead-c90d8f832ccf",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/docker-explained-visually-2026-beginners-practical-guide-e303e78a5ea2",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mernstackdevbykevin/react-hooks-are-getting-a-major-upgrade-heres-what-every-developer-needs-to-know-in-2026-9f2a14158793",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud/",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/compute/a-guide-to-architecting-reliable-gpu-infrastructure/",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaV9saXJ3LWNYVHA0S0trV2pIcGVnZ3UyRUZ2RUNieUpRMlpkVGt5ZHE2cVZES1VfbDJzREZtNHoybzNEUlY3UlRHYm8tZHR0bUlpQng3b3hSd0NsYVhSZVVTa19BY1BPUS1ZOXgzN0Zud2dGNmEwYzFCWGIzVTFPVDFvTE1KQjFn?oc=5",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/04/enabling-user-initiated-purchases.html",
+    "date": "2026-04-13"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDTkNqT3RURUZiWmoyREpDdkxCYXBQU09rX1Z4Znlib3FNSGk2bkh1bUx6LXRkbHdrTW5ZMVJHX21RR0U2VlBF?oc=5",
+    "date": "2026-04-13"
   }
 ]
