@@ -1,20 +1,20 @@
 {
-  "date": "Mon 13 Apr 2026",
+  "date": "Tue 14 Apr 2026",
   "top_items": [
     {
-      "title": "How to find the sweet spot between cost and performance",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/build-a-robust-and-cost-effective-gen-ai-strategy/",
-      "one_liner": "Balancing generative AI costs and performance requires a strategic mix of tools and services, not just cheapest options."
+      "title": "Securing the AI era across the public sector",
+      "url": "https://cloud.google.com/blog/topics/public-sector/securing-the-ai-era-across-the-public-sector/",
+      "one_liner": "Google Cloud discusses securing the public sector in the AI era with AI-powered cloud technology."
     },
     {
-      "title": "Anthropic Launches Claude Managed Agents (That Make Agentic AI Workflows Real)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-launches-claude-managed-agents-that-make-agentic-ai-workflows-real-91134b6f2b56",
-      "one_liner": "Anthropic introduces Claude Managed Agents for building and deploying agentic AI workflows efficiently."
+      "title": "Introducing BigQuery Graph: Unlock hidden relationships in your data",
+      "url": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph/",
+      "one_liner": "Announces the preview of BigQuery Graph for scalable graph analytics on massive datasets."
     },
     {
-      "title": "Anthropic Launches Claude Managed Agents (That Make Agentic AI Workflows Real)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-launches-claude-managed-agents-that-make-agentic-ai-workflows-real-91134b6f2b56",
-      "one_liner": "Anthropic introduces Claude Managed Agents for building and deploying agentic AI workflows efficiently."
+      "title": "Scaling unstructured enterprise knowledge with BigQuery Graph, and Kineviz GraphXR",
+      "url": "https://cloud.google.com/blog/products/data-analytics/using-bigquery-graph-with-kineviz-graphxr/",
+      "one_liner": "Explains how BigQuery Graph and Kineviz GraphXR unlock insights from unstructured enterprise data."
     }
   ]
 }
