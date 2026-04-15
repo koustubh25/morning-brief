@@ -1,20 +1,20 @@
 {
-  "date": "Tue 14 Apr 2026",
+  "date": "Wed 15 Apr 2026",
   "top_items": [
     {
-      "title": "Securing the AI era across the public sector",
-      "url": "https://cloud.google.com/blog/topics/public-sector/securing-the-ai-era-across-the-public-sector/",
-      "one_liner": "Google Cloud discusses securing the public sector in the AI era with AI-powered cloud technology."
+      "title": "Guide to prompting Gemini 3.1 Flash TTS (text-to-speech)",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud/",
+      "one_liner": "Introduces new Gemini 3.1 Flash TTS with advanced controllability on Vertex AI."
     },
     {
-      "title": "Introducing BigQuery Graph: Unlock hidden relationships in your data",
-      "url": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph/",
-      "one_liner": "Announces the preview of BigQuery Graph for scalable graph analytics on massive datasets."
+      "title": "Anthropic Just Made Cheap Models Think Like Opus (Claude Advisor Tool Is Wild)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-just-made-cheap-models-think-like-opus-claude-advisor-tool-is-wild-07b26351a527",
+      "one_liner": "Anthropic's new tool aims to make cheaper Claude models perform like premium versions."
     },
     {
-      "title": "Scaling unstructured enterprise knowledge with BigQuery Graph, and Kineviz GraphXR",
-      "url": "https://cloud.google.com/blog/products/data-analytics/using-bigquery-graph-with-kineviz-graphxr/",
-      "one_liner": "Explains how BigQuery Graph and Kineviz GraphXR unlock insights from unstructured enterprise data."
+      "title": "Anthropic Just Made Cheap Models Think Like Opus (Claude Advisor Tool Is Wild)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/anthropic-just-made-cheap-models-think-like-opus-claude-advisor-tool-is-wild-07b26351a527",
+      "one_liner": "Anthropic's new tool aims to make cheaper Claude models perform like premium versions."
     }
   ]
 }
