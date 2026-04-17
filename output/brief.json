@@ -1,20 +1,20 @@
 {
-  "date": "Thu 16 Apr 2026",
+  "date": "Fri 17 Apr 2026",
   "top_items": [
     {
-      "title": "What’s new with Google Data Cloud",
-      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "one_liner": "Google Data Cloud update: Data Studio enhancements, BigQuery conversational agents, and BigQuery Graph preview."
+      "title": "Streamlining admin controls for Gemini Enterprise in the Google Workspace Admin console",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/streamlining-admin-controls-for-gemini-enterprise-in-the-Google-Workspace-Admin-console.html",
+      "one_liner": "New admin controls in Workspace simplify Gemini Enterprise management and access for IT administrators."
     },
     {
-      "title": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJWYUFCVktsRlNjSTVBbEF4NW1Ia282ZUlpWFFhcWRjeWY2UjN4RGlGMUV5MHpjZjZGbFYxaEFhcndLY3ZCaVYyX3Q1dnFnMWs0bDUydk1MWmluaXBjUXVUaFA1SGRfekl2RzJtcFJEZldoWmtkcGZpM1JfRHUxRWFkOGs3UGFYMi1zdlNsLVYzYUJjcDNMSTk2Y29veklfS1RWYktnNHVhc3hfQ21JRkxaejl4UQ?oc=5",
-      "one_liner": "Anthropic's learnings on managing dangerous AI models provide critical insights for enterprise safety."
+      "title": "Anthropic Claude Opus 4.7 Released With Smarter AI Features - SQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY3M5dDhnNlM4bUFhYXY4SUZtWUt6QU5OREJ5bFJRMGtFeEJ5X21ZMmdIVFJoX1RCSkRUbGNqWWllN0JNdkNrSXhOZ0M1UWE1REN2YmRZOVlZUy01OVBOX2kzMHBzNVhHMm5pV19R?oc=5",
+      "one_liner": "Anthropic releases Claude Opus 4.7 with enhanced AI features, impacting enterprise adoption and capabilities."
     },
     {
-      "title": "Defending Your Enterprise When AI Models Can Find Vulnerabilities Faster Than Ever",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-enterprise-ai-vulnerabilities/",
-      "one_liner": "Discusses the evolving threat landscape as AI models accelerate vulnerability discovery and exploitation."
+      "title": "Create Expert Content: Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/create-expert-content-deploying-a-multi-agent-system-with-terraform-and-cloud-run/",
+      "one_liner": "Details deploying a multi-agent system on Cloud Run using Terraform for expert content creation."
     }
   ]
 }
