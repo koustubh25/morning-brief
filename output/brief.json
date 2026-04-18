@@ -1,20 +1,20 @@
 {
-  "date": "Fri 17 Apr 2026",
+  "date": "Sat 18 Apr 2026",
   "top_items": [
     {
-      "title": "Streamlining admin controls for Gemini Enterprise in the Google Workspace Admin console",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/streamlining-admin-controls-for-gemini-enterprise-in-the-Google-Workspace-Admin-console.html",
-      "one_liner": "New admin controls in Workspace simplify Gemini Enterprise management and access for IT administrators."
+      "title": "Anthropic Just Published Honest Data Nobody in AI Wants to See",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-published-honest-data-nobody-in-ai-wants-to-see-981f2591d0a9",
+      "one_liner": "Article discusses Anthropic's new data highlighting the gap between AI model capabilities and actual performance."
     },
     {
-      "title": "Anthropic Claude Opus 4.7 Released With Smarter AI Features - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY3M5dDhnNlM4bUFhYXY4SUZtWUt6QU5OREJ5bFJRMGtFeEJ5X21ZMmdIVFJoX1RCSkRUbGNqWWllN0JNdkNrSXhOZ0M1UWE1REN2YmRZOVlZUy01OVBOX2kzMHBzNVhHMm5pV19R?oc=5",
-      "one_liner": "Anthropic releases Claude Opus 4.7 with enhanced AI features, impacting enterprise adoption and capabilities."
+      "title": "Claude Code Just Released a Feature That Genuinely Scares Me (And I Use AI…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adam-drake-frontend-developer/claude-code-just-released-a-feature-that-genuinely-scares-me-and-i-use-ai-every-day-4f23cd3051c0",
+      "one_liner": "A developer expresses apprehension about a new, powerful feature in Claude Code."
     },
     {
-      "title": "Create Expert Content: Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/create-expert-content-deploying-a-multi-agent-system-with-terraform-and-cloud-run/",
-      "one_liner": "Details deploying a multi-agent system on Cloud Run using Terraform for expert content creation."
+      "title": "Anthropic Just Published Honest Data Nobody in AI Wants to See",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-published-honest-data-nobody-in-ai-wants-to-see-981f2591d0a9",
+      "one_liner": "Article discusses Anthropic's new data highlighting the gap between AI model capabilities and actual performance."
     }
   ]
 }
