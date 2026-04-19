@@ -1,20 +1,20 @@
 {
-  "date": "Sat 18 Apr 2026",
+  "date": "Sun 19 Apr 2026",
   "top_items": [
     {
-      "title": "Anthropic Just Published Honest Data Nobody in AI Wants to See",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-published-honest-data-nobody-in-ai-wants-to-see-981f2591d0a9",
-      "one_liner": "Article discusses Anthropic's new data highlighting the gap between AI model capabilities and actual performance."
+      "title": "I Tried Claude Code In Google Antigravity (And Discovered a New Insane…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-tried-claude-code-in-google-antigravity-and-discovered-a-new-insane-workflow-e5402d043aa4",
+      "one_liner": "A hands-on exploration of Claude Code within Google Cloud's Antigravity reveals surprising capabilities."
     },
     {
-      "title": "Claude Code Just Released a Feature That Genuinely Scares Me (And I Use AI…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@adam-drake-frontend-developer/claude-code-just-released-a-feature-that-genuinely-scares-me-and-i-use-ai-every-day-4f23cd3051c0",
-      "one_liner": "A developer expresses apprehension about a new, powerful feature in Claude Code."
+      "title": "Designing a Production-Grade RAG Architecture",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mattbentley_67939/designing-a-production-grade-rag-architecture-bee5a4e4d9aa",
+      "one_liner": "Best practices and techniques for designing production-grade RAG architectures for LLMs are detailed."
     },
     {
-      "title": "Anthropic Just Published Honest Data Nobody in AI Wants to See",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-published-honest-data-nobody-in-ai-wants-to-see-981f2591d0a9",
-      "one_liner": "Article discusses Anthropic's new data highlighting the gap between AI model capabilities and actual performance."
+      "title": "Anthropic Wants $25 Per Pull Request - Devs Are Losing Their Minds Over Claude…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-wants-25-per-pull-request-devs-are-losing-their-minds-over-claude-code-review-55dbbaca4996",
+      "one_liner": "Anthropic's $25/PR pricing for Claude sparks developer backlash over AI code review costs."
     }
   ]
 }
