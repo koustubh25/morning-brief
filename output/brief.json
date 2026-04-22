@@ -2,19 +2,19 @@
   "date": "Wed 22 Apr 2026",
   "top_items": [
     {
-      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMU1iMXA3VDJyM3FBWlNRMlNlYkRIcDBrRHQ3dEI0OFJSVkFEdzZ4Y3lhQVpKUVNHeGJXSlNMVVdlcTBSS1NMQ0FBWTBTX2YxSGFRcGEtUDVySElhNVVjRzNCRXRxaWdsdm1wa0M5WkdQNGJsSUdLTXJqSDB0aURHLUtKd3ZkNjRIcGdMeDlSUGhqMEdFaGVBOHgyMTNwTWZ1SWk1Z1BvM3liV2Joakx4bWpzVFJmWFZjOFRZYmVZMUpkTmlvVXZpaF96SXlRTVJnUWl0dFU1TTc0MlBXUzZrQW9NNU1QX3VWb2FSRV9fZTBtVFk?oc=5",
-      "one_liner": "OpenAI's ChatGPT Images 2.0 now handles multilingual text, infographics, slides, maps, and manga with high fidelity."
+      "title": "Use your Gems in your Google Workspace Studio flows",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
+      "one_liner": "Gems are now integrated into Google Workspace Studio flows, enabling automation of tasks like summarization and document creation."
     },
     {
-      "title": "GEAR up to get the most out of AI learning at Google Cloud Next ‘26",
-      "url": "https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26/",
-      "one_liner": "Google Cloud's GEAR program offers hands-on AI training for building enterprise-ready agents at scale."
+      "title": "Introducing data import: An easier, faster, and higher-fidelity migration to Google Workspace at no additional tool cost",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
+      "one_liner": "Google Workspace Data Import offers an easier, faster, and higher-fidelity migration tool for enterprises."
     },
     {
-      "title": "GET SH*T DONE: Meta-prompting and Spec-driven Development for Claude Code and…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
-      "one_liner": "Advanced prompting techniques and meta-prompting for Claude Code to improve AI-assisted development."
+      "title": "What’s new with compute: Scaling core and agentic workloads",
+      "url": "https://cloud.google.com/blog/products/compute/whats-new-in-compute-at-next26/",
+      "one_liner": "New compute capabilities balance general-purpose and agentic AI workloads with improved performance and cost."
     }
   ]
 }
