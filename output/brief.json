@@ -1,20 +1,20 @@
 {
-  "date": "Tue 21 Apr 2026",
+  "date": "Wed 22 Apr 2026",
   "top_items": [
     {
-      "title": "Opus 4.7 Is The Worst Release Anthropic Has Ever Shipped.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/opus-4-7-is-the-worst-release-anthropic-has-ever-shipped-12772c21ca1e",
-      "one_liner": "A negative review of Anthropic's Opus 4.7 release, citing issues with adaptive thinking."
+      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMU1iMXA3VDJyM3FBWlNRMlNlYkRIcDBrRHQ3dEI0OFJSVkFEdzZ4Y3lhQVpKUVNHeGJXSlNMVVdlcTBSS1NMQ0FBWTBTX2YxSGFRcGEtUDVySElhNVVjRzNCRXRxaWdsdm1wa0M5WkdQNGJsSUdLTXJqSDB0aURHLUtKd3ZkNjRIcGdMeDlSUGhqMEdFaGVBOHgyMTNwTWZ1SWk1Z1BvM3liV2Joakx4bWpzVFJmWFZjOFRZYmVZMUpkTmlvVXZpaF96SXlRTVJnUWl0dFU1TTc0MlBXUzZrQW9NNU1QX3VWb2FSRV9fZTBtVFk?oc=5",
+      "one_liner": "OpenAI's ChatGPT Images 2.0 now handles multilingual text, infographics, slides, maps, and manga with high fidelity."
     },
     {
-      "title": "How I Use Claude Code, Gemini, and Codex from One Interface with Bifrost CLI?",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-i-use-claude-code-gemini-and-codex-from-one-interface-with-bifrost-cli-3091851a29a6",
-      "one_liner": "Demonstrates a unified interface for using Claude Code, Gemini, and Codex via a CLI."
+      "title": "GEAR up to get the most out of AI learning at Google Cloud Next ‘26",
+      "url": "https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26/",
+      "one_liner": "Google Cloud's GEAR program offers hands-on AI training for building enterprise-ready agents at scale."
     },
     {
-      "title": "Opus 4.7 Is The Worst Release Anthropic Has Ever Shipped.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/opus-4-7-is-the-worst-release-anthropic-has-ever-shipped-12772c21ca1e",
-      "one_liner": "A negative review of Anthropic's Opus 4.7 release, citing issues with adaptive thinking."
+      "title": "GET SH*T DONE: Meta-prompting and Spec-driven Development for Claude Code and…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
+      "one_liner": "Advanced prompting techniques and meta-prompting for Claude Code to improve AI-assisted development."
     }
   ]
 }

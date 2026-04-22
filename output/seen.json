@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/public-sector/securing-the-ai-era-across-the-public-sector/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/using-bigquery-graph-with-kineviz-graphxr/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/the-unified-graph-solution-with-spanner-graph-and-bigquery-graph/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-tried-glm-5-1-on-claude-code-and-discovered-long-horizon-agentic-coding-9fbe3dcc237a",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/goodbye-chatgpt-hello-claude-cowork-e0ec874d7d8d",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shekhawatsamvardhan/i-fused-metas-tribe-v2-with-leaked-claude-code-to-build-an-agentic-signal-engine-15729df3fa23",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/langfuse-evaluating-agents-in-production-llm-as-a-judge-datasets-and-the-feedback-loop-3a4d0e8441f4",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dadhalfdev/the-5-best-models-to-use-with-ai-agents-in-april-2026-83c15b8faef2",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tomsmith585/i-built-an-openclaw-ai-agent-to-do-my-job-for-me-c911346faa7c",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@coustom.no.03/11-insane-use-cases-of-openclaw-ai-a341e997a57f",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/i-built-a-full-saas-app-on-aws-for-1-34-month-heres-the-architecture-0e5482683cd9",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/is-apache-camel-the-future-of-ai-9a7e24bea324",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gwangjinkim/make-your-home-computer-reachable-from-anywhere-no-public-ip-no-router-touching-the-paranoid-34d59b44d69e",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Rowan_Pierce/the-13-best-fiction-books-of-all-time-b296488f24bb",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jodah06/not-another-coronavirus-article-ad70e42a89e6",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/what-people-in-their-80s-wish-they-d-done-differently-at-your-age-214744e98f93",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/the-field-is-optional-the-death-threats-were-not-1e2f1f0ce772",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@danfosterwriter/what-if-jesus-didnt-die-for-the-reason-you-were-told-40abaea65c62",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@bonnielieberman_33160/my-recurring-covid-nightmare-5ff883f4c125",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25rWXBKX2traWptOXQtUjRQcUtmZkNrME8zR2RLS2V0djhxdU5kMVRmS2t2YmM2anhhVzcwS1F6cDJyTWZrYl9RRW01QjJ4SWJxQnVSRUpJNldVd1RaNnNDcE9LWnI3bUw3ZllIUmN0cG1FNUp0LUJvU0RnQUpESUs0NjN1Y1B5b2x2ZjlFTDM3ek5uaXZ6ZERqaXkybV82V2VkcjZwQ0VPaW5BalI2aURNTFZMdDN20gG-AUFVX3lxTE9RR0xuc3VtZFluTjJObG0zYWZEZDVZektxRzZoMGtjQzJIYWNqLVlULVUyNEZ1QUN5N0RucVdzYnBHZjM2UzY3WUFoNm9wa29xQmpnbFlfT3lOMm9DN0k2RlhCZ2NPdXJGNlhmTTNxakl4bXF3cEUwM005OGJpTkF3WXItb0xTeDUxRDdYYkw4emtpMXkxV3pRUlU0THRhcFM3bUZCWEF6Q0JncXl6bjR0Y3VOZEZSb1dOZzZoVkE?oc=5",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFloNHg2MUhSVm94Zy1OLXAzLVhFNDF0eEJWQXdKamFpSzZMcjFqTm5pZEtkNzh6ZjROZVAtR0RLZVAzSnQ3UmtyU2ZmaHltdzk4TnF4eEVkcloxWXJ0a1I0UkJVTXJzSDJxTjhuaEZ2bEZmdTJ1dGF2eDc4ZERqNEFRX3pTSUFiOF90Z3VJYzhqSE9rQVI3ZFRUdWZjQQ?oc=5",
-    "date": "2026-04-14"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud/",
     "date": "2026-04-15"
   },
@@ -498,5 +406,61 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@Rowan_Pierce/the-10-best-opening-paragraphs-in-literature-according-to-someone-who-has-opinions-and-isnt-dd26b9f1e56f",
     "date": "2026-04-21"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMU1iMXA3VDJyM3FBWlNRMlNlYkRIcDBrRHQ3dEI0OFJSVkFEdzZ4Y3lhQVpKUVNHeGJXSlNMVVdlcTBSS1NMQ0FBWTBTX2YxSGFRcGEtUDVySElhNVVjRzNCRXRxaWdsdm1wa0M5WkdQNGJsSUdLTXJqSDB0aURHLUtKd3ZkNjRIcGdMeDlSUGhqMEdFaGVBOHgyMTNwTWZ1SWk1Z1BvM3liV2Joakx4bWpzVFJmWFZjOFRZYmVZMUpkTmlvVXZpaF96SXlRTVJnUWl0dFU1TTc0MlBXUzZrQW9NNU1QX3VWb2FSRV9fZTBtVFk?oc=5",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26/",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/get-sh-t-done-meta-prompting-and-spec-driven-development-for-claude-code-and-codex-d1cde082e103",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/andrej-karpathys-fix-for-ai-coding-agents-gone-wrong-a-single-markdown-file-6fb377097717",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jh.baek.sd/why-90-of-claude-code-users-are-missing-its-most-powerful-feature-ultraplan-on-claude-code-575665b30173",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@101/claude-md-best-practices-1ef4f861ce7c",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/production-grade-agents-with-langgraph-qdrant-langfuse-redis-postgres-prometheus-and-grafana-94df1f03c652",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/i-tested-the-1-bit-llm-that-fits-in-1-gb-it-shouldnt-be-this-good-3112d2825abc",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/beyond-catastrophic-forgetting-how-to-build-an-llm-wiki-for-the-long-game-8cea92f3868c",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@KoryBecker/my-first-month-with-openclaw-the-setup-mistakes-and-fixes-no-one-tells-you-about-bee1351bc680",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-mcp-servers-to-speed-up-devops-processes-258210797476",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lennart.dde/i-rebuilt-my-obsidian-workflow-with-5-new-plugins-2026-setup-463f85509e3b",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@epiren/no-tylenol-doesnt-cause-autism-what-rfk-jr-gets-wrong-about-the-evidence-b510e10a6679",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@forwardpress/when-france-was-liberated-men-shaved-womens-heads-in-the-streets-94b4a92c37eb",
+    "date": "2026-04-22"
   }
 ]
