@@ -1,20 +1,20 @@
 {
-  "date": "Wed 22 Apr 2026",
+  "date": "Thu 23 Apr 2026",
   "top_items": [
     {
-      "title": "Use your Gems in your Google Workspace Studio flows",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
-      "one_liner": "Gems are now integrated into Google Workspace Studio flows, enabling automation of tasks like summarization and document creation."
+      "title": "Day 1 at Google Cloud Next ‘26 recap",
+      "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-1-recap/",
+      "one_liner": "Recaps Google Cloud Next '26, focusing on moving AI to production with a unified stack."
     },
     {
-      "title": "Introducing data import: An easier, faster, and higher-fidelity migration to Google Workspace at no additional tool cost",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
-      "one_liner": "Google Workspace Data Import offers an easier, faster, and higher-fidelity migration tool for enterprises."
+      "title": "I Turned Claude Code Into an Operating System. Here's the Blueprint.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
+      "one_liner": "A detailed guide on transforming Claude Code into a functional operating system."
     },
     {
-      "title": "What’s new with compute: Scaling core and agentic workloads",
-      "url": "https://cloud.google.com/blog/products/compute/whats-new-in-compute-at-next26/",
-      "one_liner": "New compute capabilities balance general-purpose and agentic AI workloads with improved performance and cost."
+      "title": "How to prevent \"You've hit your limit\" when working with Claude Code",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@101/how-to-prevent-youve-hit-your-limit-when-working-with-claude-code-51c5241d7b9f",
+      "one_liner": "Strategies to manage and overcome usage limits when working with Claude Code."
     }
   ]
 }
