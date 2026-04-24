@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJWYUFCVktsRlNjSTVBbEF4NW1Ia282ZUlpWFFhcWRjeWY2UjN4RGlGMUV5MHpjZjZGbFYxaEFhcndLY3ZCaVYyX3Q1dnFnMWs0bDUydk1MWmluaXBjUXVUaFA1SGRfekl2RzJtcFJEZldoWmtkcGZpM1JfRHUxRWFkOGs3UGFYMi1zdlNsLVYzYUJjcDNMSTk2Y29veklfS1RWYktnNHVhc3hfQ21JRkxaejl4UQ?oc=5",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-enterprise-ai-vulnerabilities/",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-code-ultraplan-launched-i-just-tested-it-and-its-better-than-it-looks-21a628332e97",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ruqaiya.beguwala/49x-fewer-tokens-while-coding-with-claude-no-prompt-engineering-required-2582b502e645",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rico-fritzsche/how-to-write-feature-specs-that-coding-agents-can-actually-implement-c7cd84e33cdc",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@alphaiterations/agentic-ai-project-build-a-customer-service-chatbot-for-a-clinic-9744ef4a5b25",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anna.bildea/how-to-use-graphify-turn-any-folder-into-a-knowledge-graph-d51b38eb60b6",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ashishnoob/9-ssh-hardening-tricks-that-stopped-50-000-attack-attempts-on-my-server-6499b7b756bf",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/20-most-important-ai-concepts-explained-in-just-20-minute-b7dd3ad2b506",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@habib11wahid/junior-devs-use-try-catch-everywhere-senior-devs-use-these-4-exception-handling-patterns-dcd869ed6551",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michalmalewicz/vibe-coding-is-over-5a84da799e0d",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gruberjl/websites-are-dead-go-here-instead-7ad01131e6b7",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sufyanmaan/i-woke-up-at-4-30-am-every-day-for-30-days-here-is-what-nobody-tells-you-054bf0160903",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEEwQnRrNGVhTjFWbDRWZExiaFR1eGd0RWFUY25IMUJtSEJUSXpUcklCWXBWeDJRRExvRGxvUjZOQTJ3bGgzNFFYV0JMSklXdnc2UDJnRFZlb0w1aEtnUklZOG11ZHJ4ZVNncURBWDFGamZMNzZkTjN1ZVJhYV9uOHBnVHhNVlNEeUs5U0lTOUhXc1NyWXZqbEFzUmVVTExabkV0endFcXJiRkVzUE5EMWwtVmlyYzIzSktnRHlRSS1ZcTd2ckwyS1BCYTJFdjE5VUNreFZZVTE?oc=5",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-4-7-on-vertex-ai/",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/multi-region-endpoints-for-claude-available-on-vertex-ai/",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/public-sector/a-new-standard-for-research-how-uc-riverside-is-securing-the-path-to-federal-grants-with-google-public-sector/",
-    "date": "2026-04-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnV3eEJCNi0zcDZpTXFkZkMwLUtKeEMwZFV0MGllOTJ4SzFFcG5BdTc2anZrOGtiY3N5UHRkR1RsLW9WaFgtZmtmNmxhcHBhRVBDNFFfb3lUQ2JmbzNCRExreXhMa3hQQW1ic3FWWWhWRURYVUxhbjBrVG5EOXhoZjhpWU03SXhoSVp4Rl9PbGVMZk0?oc=5",
-    "date": "2026-04-16"
-  },
-  {
     "url": "http://workspaceupdates.googleblog.com/2026/04/streamlining-admin-controls-for-gemini-enterprise-in-the-Google-Workspace-Admin-console.html",
     "date": "2026-04-17"
   },
@@ -498,5 +418,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5",
     "date": "2026-04-23"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/the-end-of-software-engineer-why-anthropics-claude-code-creator-says-the-title-will-disappear-c35f2dfe66f5",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ozbillwang/20-claude-code-commands-that-make-your-life-easier-most-people-dont-know-them-249b0ca4119e",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/my-ultimate-claude-code-setup-af8b3a8ca011",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/mozilla-thunderbolt-lets-you-swap-between-gpt-and-claude-like-tools-thats-a-big-deal-e46c8bb4d099",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/karpathy-stopped-writing-code-4-months-ago-his-3-new-ai-projects-are-more-important-c32a563a1ad1",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/hermes-agent-the-open-source-ai-agent-that-actually-remembers-what-it-learned-yesterday-278441cd1870",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ranthebuilder/i-tested-three-spec-driven-ai-tools-heres-my-honest-take-b1a22241a9d9",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yaninyzwitty/dependency-injection-in-go-patterns-without-frameworks-f5d0b105eb58",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rico-fritzsche/why-i-replaced-enterprise-oop-thinking-with-feature-local-logic-9a70c461d889",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@arthurpro/i-quit-tmux-heres-what-i-built-instead-5feda11829de",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@saedarm/hunting-the-desert-fox-774f76e5205a",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/",
+    "date": "2026-04-24"
   }
 ]

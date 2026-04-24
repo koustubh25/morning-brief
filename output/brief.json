@@ -1,20 +1,20 @@
 {
-  "date": "Thu 23 Apr 2026",
+  "date": "Fri 24 Apr 2026",
   "top_items": [
     {
-      "title": "Day 1 at Google Cloud Next ‘26 recap",
-      "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-1-recap/",
-      "one_liner": "Recaps Google Cloud Next '26, focusing on moving AI to production with a unified stack."
+      "title": "260 things we announced at Google Cloud Next '26 – a recap",
+      "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
+      "one_liner": "Recaps Google Cloud Next '26, highlighting the 'Agentic Era' and AI advancements."
     },
     {
-      "title": "I Turned Claude Code Into an Operating System. Here's the Blueprint.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
-      "one_liner": "A detailed guide on transforming Claude Code into a functional operating system."
+      "title": "Introducing GPT-5.5 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+      "one_liner": "OpenAI announces GPT-5.5, a significant advancement in their LLM technology, potentially impacting enterprise AI adoption."
     },
     {
-      "title": "How to prevent \"You've hit your limit\" when working with Claude Code",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@101/how-to-prevent-youve-hit-your-limit-when-working-with-claude-code-51c5241d7b9f",
-      "one_liner": "Strategies to manage and overcome usage limits when working with Claude Code."
+      "title": "The End of \"Software Engineer\": Why Anthropic's Claude Code Creator Says the…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/the-end-of-software-engineer-why-anthropics-claude-code-creator-says-the-title-will-disappear-c35f2dfe66f5",
+      "one_liner": "Boris Cherny from Anthropic predicts agentic coding tools will fundamentally change the role of software engineers."
     }
   ]
 }
