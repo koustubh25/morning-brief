@@ -1,85 +1,5 @@
 [
   {
-    "url": "http://workspaceupdates.googleblog.com/2026/04/streamlining-admin-controls-for-gemini-enterprise-in-the-Google-Workspace-Admin-console.html",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY3M5dDhnNlM4bUFhYXY4SUZtWUt6QU5OREJ5bFJRMGtFeEJ5X21ZMmdIVFJoX1RCSkRUbGNqWWllN0JNdkNrSXhOZ0M1UWE1REN2YmRZOVlZUy01OVBOX2kzMHBzNVhHMm5pV19R?oc=5",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/create-expert-content-deploying-a-multi-agent-system-with-terraform-and-cloud-run/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/6-claude-code-free-repos-i-wish-i-found-earlier-that-you-dont-know-exist-22f12c8434cf",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/claude-code-roadmap-how-i-would-learn-claude-code-if-i-started-all-over-again-f29a979228d8",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sonnyhuynhb/i-built-an-ai-powered-second-brain-with-obsidian-claude-code-heres-how-b70e28100099",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joe.njenga/i-tested-new-ollama-launch-for-claude-code-codex-opencode-more-bfae2af3c3db",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@stawils/the-openclaw-ban-that-exposed-anthropics-real-problem-fe8f10aa0e80",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/the-rules-nasa-uses-to-write-code-that-cant-fail-your-ai-tools-break-all-of-them-8d0377998efb",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@_jaydeepkarale/the-bloom-filter-how-big-tech-avoids-expensive-database-lookups-1a109d05bc2f",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/why-and-how-to-build-your-own-local-ai-machine-in-2026-c5c9c739e48a",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/the-coolest-terminal-tools-on-my-mac-right-now-8e3356d8178e",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/the-stripe-system-design-question-that-separates-senior-from-staff-engineers-b39f1f1a05cf",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@iamjoshmason/how-to-spot-a-liar-in-3-questions-without-them-knowing-58c77069ef9b",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gwangjinkim/make-your-home-computer-reachable-from-anywhere-no-public-ip-no-router-touching-3c1295c8811b",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbm1xdTZzWnlpNEoxODgtLXgtQU5uRVo3cThWd1hfYUtKX3luZUZieVBRbGRVX25kMVllSllocmI2UnN3UkFUd2VweUVBdXMyUFd3bzlhSHlTUmY5VkNWNHdRb1dJQTltVEFMTlE5YTQ5YjN4aXFOUUxxVDJ3bk00dE4xRGVBOGgyYUZmSWpIZ0hWaDh0aXFuUDNROVlTVklnUjlER2FvWklJa011VFE?oc=5",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/infrastructure/wpp-humanoid-robots-ai-training/",
-    "date": "2026-04-17"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-published-honest-data-nobody-in-ai-wants-to-see-981f2591d0a9",
     "date": "2026-04-18"
   },
@@ -482,5 +402,49 @@
   {
     "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/",
     "date": "2026-04-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/i-cut-claude-codes-output-tokens-by-75-why-did-nobody-tell-me-3275138852e2",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hxzhouh/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/andrej-karpathy-killed-rag-or-did-he-the-llm-wiki-pattern-7824d876e790",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rohanmistry231/i-stopped-paying-for-claude-code-and-nothing-broke-7f65b738c27e",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/anthropic-just-open-sourced-the-claude-hardware-buddy-8d7e50072c96",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-structure-claude-folder-for-maximum-efficiency-c26ef3f552ba",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/is-claude-code-ultrareview-and-ultraplan-actually-mythos-c64d55b430bf",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@RPauloDelgado/ai-killed-my-writing-career-long-live-ai-ecd264cd4d9f",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shawhin/how-to-monetize-your-ai-skills-outside-of-your-9-5-job-9b2514625762",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@amjohnphilip/why-aviation-and-defense-still-wont-touch-rust-c9324979c748",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14N1RKNWtPajlOcGJKUUh4V2JpWl83OE1PSHpSOENDSE5scTlyYlhzQi1OZGxKOWc5VjRaY2c4MzNyS0x5azRXUkpxR2FScmVqTGN0LTN0ODEzdS1HZDE4aHhfeHVVbjgtZjZqVVIta3pYbm8?oc=5",
+    "date": "2026-04-25"
   }
 ]

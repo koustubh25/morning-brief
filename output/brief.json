@@ -1,20 +1,20 @@
 {
-  "date": "Fri 24 Apr 2026",
+  "date": "Sat 25 Apr 2026",
   "top_items": [
     {
-      "title": "260 things we announced at Google Cloud Next '26 – a recap",
-      "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
-      "one_liner": "Recaps Google Cloud Next '26, highlighting the 'Agentic Era' and AI advancements."
+      "title": "I Cut Claude Code's Output Tokens by 75%. Why Did Nobody Tell Me?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/i-cut-claude-codes-output-tokens-by-75-why-did-nobody-tell-me-3275138852e2",
+      "one_liner": "Significantly reducing Claude Code output tokens led to surprising accuracy gains and cost savings."
     },
     {
-      "title": "Introducing GPT-5.5 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
-      "one_liner": "OpenAI announces GPT-5.5, a significant advancement in their LLM technology, potentially impacting enterprise AI adoption."
+      "title": "Claude Code Best Practices: 12 Patterns Agentic Engineers Use",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hxzhouh/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919",
+      "one_liner": "Reveals 12 agentic engineering patterns for maximising Claude Code's effectiveness in development."
     },
     {
-      "title": "The End of \"Software Engineer\": Why Anthropic's Claude Code Creator Says the…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/the-end-of-software-engineer-why-anthropics-claude-code-creator-says-the-title-will-disappear-c35f2dfe66f5",
-      "one_liner": "Boris Cherny from Anthropic predicts agentic coding tools will fundamentally change the role of software engineers."
+      "title": "Andrej Karpathy Killed RAG. Or Did He? The LLM Wiki Pattern",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/andrej-karpathy-killed-rag-or-did-he-the-llm-wiki-pattern-7824d876e790",
+      "one_liner": "A viral take questions RAG's dominance, suggesting a new LLM wiki pattern for grounding."
     }
   ]
 }
