@@ -1,20 +1,20 @@
 {
-  "date": "Sat 25 Apr 2026",
+  "date": "Sun 26 Apr 2026",
   "top_items": [
     {
-      "title": "I Cut Claude Code's Output Tokens by 75%. Why Did Nobody Tell Me?",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/i-cut-claude-codes-output-tokens-by-75-why-did-nobody-tell-me-3275138852e2",
-      "one_liner": "Significantly reducing Claude Code output tokens led to surprising accuracy gains and cost savings."
+      "title": "Why Single-Agent AI is Dead: Inside Anthropic's New Blueprint for Long-Running…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/why-single-agent-ai-is-dead-inside-anthropics-new-blueprint-for-long-running-agents-2f897d34d247",
+      "one_liner": "Details Anthropic's new blueprint for long-running AI systems using adversarial multi-agent architectures."
     },
     {
-      "title": "Claude Code Best Practices: 12 Patterns Agentic Engineers Use",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hxzhouh/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919",
-      "one_liner": "Reveals 12 agentic engineering patterns for maximising Claude Code's effectiveness in development."
+      "title": "OpenAI GPT-image-2 Is Not an Upgrade. It's a Nuclear Detonation!",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/openai-gpt-image-2-is-not-an-upgrade-its-a-nuclear-detonation-bbdc5ddb1bdf",
+      "one_liner": "Claims OpenAI's latest GPT model release is a groundbreaking, disruptive advancement in AI."
     },
     {
-      "title": "Andrej Karpathy Killed RAG. Or Did He? The LLM Wiki Pattern",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/andrej-karpathy-killed-rag-or-did-he-the-llm-wiki-pattern-7824d876e790",
-      "one_liner": "A viral take questions RAG's dominance, suggesting a new LLM wiki pattern for grounding."
+      "title": "The 4 Lines Every CLAUDE.md Needs",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/the-4-lines-every-claude-md-needs-2717a46866f6",
+      "one_liner": "Provides essential code snippets and patterns for effective use of Claude in development workflows."
     }
   ]
 }
