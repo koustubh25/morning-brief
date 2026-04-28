@@ -1,20 +1,20 @@
 {
-  "date": "Sun 26 Apr 2026",
+  "date": "Tue 28 Apr 2026",
   "top_items": [
     {
-      "title": "Why Single-Agent AI is Dead: Inside Anthropic's New Blueprint for Long-Running…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/why-single-agent-ai-is-dead-inside-anthropics-new-blueprint-for-long-running-agents-2f897d34d247",
-      "one_liner": "Details Anthropic's new blueprint for long-running AI systems using adversarial multi-agent architectures."
+      "title": "Welcome to the agentic era: Public sector highlights and reflections from Next ‘26",
+      "url": "https://cloud.google.com/blog/topics/public-sector/welcome-to-the-agentic-era-public-sector-highlights-and-reflections-from-next-26/",
+      "one_liner": "Highlights how public sector leaders are using AI agents on Google Cloud for scaled impact and mission advancement."
     },
     {
-      "title": "OpenAI GPT-image-2 Is Not an Upgrade. It's a Nuclear Detonation!",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/openai-gpt-image-2-is-not-an-upgrade-its-a-nuclear-detonation-bbdc5ddb1bdf",
-      "one_liner": "Claims OpenAI's latest GPT model release is a groundbreaking, disruptive advancement in AI."
+      "title": "50+ fully managed MCP servers now available for Google Cloud services",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone/",
+      "one_liner": "Google Cloud expands managed MCP servers to enable autonomous AI agents accessing real-world data."
     },
     {
-      "title": "The 4 Lines Every CLAUDE.md Needs",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/the-4-lines-every-claude-md-needs-2717a46866f6",
-      "one_liner": "Provides essential code snippets and patterns for effective use of Claude in development workflows."
+      "title": "Anthropic Admitted Claude Code Broke. We Were Right.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/anthropic-admitted-claude-code-broke-we-were-right-e3f3a6c60a31",
+      "one_liner": "Anthropic admits Claude Code issues and announces related changes."
     }
   ]
 }
