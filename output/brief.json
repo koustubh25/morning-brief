@@ -1,20 +1,20 @@
 {
-  "date": "Tue 28 Apr 2026",
+  "date": "Thu 30 Apr 2026",
   "top_items": [
     {
-      "title": "Welcome to the agentic era: Public sector highlights and reflections from Next ‘26",
-      "url": "https://cloud.google.com/blog/topics/public-sector/welcome-to-the-agentic-era-public-sector-highlights-and-reflections-from-next-26/",
-      "one_liner": "Highlights public sector AI and agentic transformations from Google Cloud Next '26, showcasing real-world impact."
+      "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
+      "one_liner": "New Workspace audit log functionality expands event fields for deeper security investigation capabilities."
     },
     {
-      "title": "50+ fully managed MCP servers now available for Google Cloud services",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone/",
-      "one_liner": "Google Cloud announces over 50 managed MCP servers, crucial for enabling autonomous AI agents in production."
+      "title": "The founder’s AI foundation: The top announcements for startups from Next ‘26",
+      "url": "https://cloud.google.com/blog/topics/startups/the-top-startup-announcement-from-next26/",
+      "one_liner": "Google Cloud Next '26 announcements position GCP as the preferred AI stack for fast-growing startups."
     },
     {
-      "title": "20 Most Important AI Concepts Explained in Just 20 Minute",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/20-most-important-ai-concepts-explained-in-just-20-minute-b7dd3ad2b506",
-      "one_liner": "A beginner-friendly overview of 20 AI concepts, too fundamental for senior tech leaders."
+      "title": "Anthropic Wants $25 Per Pull Request - Devs Are Losing Their Minds Over Claude…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-wants-25-per-pull-request-devs-are-losing-their-minds-over-claude-code-review-55dbbaca4996",
+      "one_liner": "Highlights developer backlash over Anthropic's proposed $25/PR pricing for Claude's code review features."
     }
   ]
 }
