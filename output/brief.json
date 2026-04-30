@@ -2,19 +2,19 @@
   "date": "Thu 30 Apr 2026",
   "top_items": [
     {
-      "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
-      "one_liner": "New Workspace audit log functionality expands event fields for deeper security investigation capabilities."
+      "title": "What Google Cloud announced in AI this month",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "one_liner": "Monthly recap of Google Cloud AI innovations, highlighting Next '26 announcements like Gemini Enterprise Agent Platform."
     },
     {
-      "title": "The founder’s AI foundation: The top announcements for startups from Next ‘26",
-      "url": "https://cloud.google.com/blog/topics/startups/the-top-startup-announcement-from-next26/",
-      "one_liner": "Google Cloud Next '26 announcements position GCP as the preferred AI stack for fast-growing startups."
+      "title": "AI Killed My Writing Career. Long Live AI.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@RPauloDelgado/ai-killed-my-writing-career-long-live-ai-ecd264cd4d9f",
+      "one_liner": "A freelance writer reflects on their career being impacted by AI."
     },
     {
-      "title": "Anthropic Wants $25 Per Pull Request - Devs Are Losing Their Minds Over Claude…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-wants-25-per-pull-request-devs-are-losing-their-minds-over-claude-code-review-55dbbaca4996",
-      "one_liner": "Highlights developer backlash over Anthropic's proposed $25/PR pricing for Claude's code review features."
+      "title": "260 things we announced at Google Cloud Next '26 – a recap",
+      "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
+      "one_liner": "Comprehensive recap of over 260 Google Cloud Next '26 announcements, focusing on the 'Agentic Era'."
     }
   ]
 }
