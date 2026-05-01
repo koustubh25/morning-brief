@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-1-recap/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@101/how-to-prevent-youve-hit-your-limit-when-working-with-claude-code-51c5241d7b9f",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/claude-code-has-a-big-problem-what-you-can-do-0cf219d52cc8",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/i-tested-alibaba-qwen3-6-35b-a3b-30cc4658a382",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-the-11-layers-of-a-production-grade-mcp-server-agentic-system-de92127aca6f",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fabioyanezromero/from-text-to-knowledge-graph-in-one-command-building-a-modular-llm-backed-framework-ec98abd3d565",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tasmiasharmin7/palantir-ceo-says-only-two-types-will-survive-ai-and-elite-degrees-arent-one-of-them-341c222044e0",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@trivajay259/devops-interview-experience-the-production-questions-that-separate-good-candidates-from-trusted-594c8ffa5bfc",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kakamber07/staff-engineers-are-quietly-becoming-the-new-overhead-c90d8f832ccf",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/is-apache-camel-the-future-of-ai-9a7e24bea324",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tomsmith585/i-revived-an-1820s-sea-shanty-with-ai-and-its-a-banger-4b91a9b8abbc",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/04/introducing-workspace-intelligence-with-admin-controls.html",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-the-agentic-data-cloud/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5",
-    "date": "2026-04-23"
-  },
-  {
     "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
     "date": "2026-04-24"
   },
@@ -438,5 +370,61 @@
   {
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
     "date": "2026-04-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/rag-llm-wiki-or-gbrain-how-your-agent-remembers-changes-everything-56829e66725c",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@umairali.khan/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@101/mcp-is-dead-cf16b667ba6d",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-ai-devops-mcp-servers-in-2026-6340145dafb0",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-built-a-fastapi-auth-system-from-scratch-a-hacker-broke-it-in-4-minutes-a9183b54696c",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/a-senior-developer-told-me-something-about-ai-that-nobody-wants-to-hear-2ea69f0bc9fe",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kgabeci/the-complete-k3s-production-stack-for-indie-developers-c4c7b0fbee86",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@radientbrain/the-two-most-secretive-quant-firms-you-have-never-heard-of-are-quietly-rewriting-the-rules-of-money-64e4ff67afd4",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jbird24/4-8-million-cybersecurity-jobs-are-open-heres-why-you-still-can-t-get-hired-bd1fbce493be",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@amjohnphilip/ipv8-is-finally-here-8638bc318677",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@theblacklens/the-psychology-of-men-who-treat-their-birthday-like-a-normal-day-51596ea230ea",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY3M5dDhnNlM4bUFhYXY4SUZtWUt6QU5OREJ5bFJRMGtFeEJ5X21ZMmdIVFJoX1RCSkRUbGNqWWllN0JNdkNrSXhOZ0M1UWE1REN2YmRZOVlZUy01OVBOX2kzMHBzNVhHMm5pV19R?oc=5",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWlRGaHVKSGI2d2hGVnRYZ1B3anNlVTV1ei1VUmlZQ040VFhfaVpqY1dIRUxmZ2FYM21BWnIzYlc2cWFldmJTMS0tWkZ6ZW5vUnpldmtMeC1ZQl9VTXJ0UzduVmJzZmJjUmRUUVliWE1mVDFjLXJ0MEtLV0NqQ0FDdDZqb0p5WjBsU1ZwWjd1cGN0bk1BV2ZaM2MyY1hTWXdtNjhmR0NKbHJ3T1ZkaFRiRG9wUkdwYUJyb1ZBMlVpbC1hY2I0WDVjYWhqZVVKMmZmWUczeHpzNGFlNnBfWXEw0gHkAUFVX3lxTE5jQXNhanNUc2xSZjJ5S0RrNlhuWWpObGtGUXVnZzhFV1pBOXJZY2poNkU4R1liTGc0V0FFRlBueVlXUnFHTUJkV0EwTEJYYTg5ME93dDZ0U3E4UTdzWWFqZ1BzMUhtSEJyWmJTMlZXalFTbExmRXp1TXhWMDRBb2I4SUdlVG5LNTVkQW5lMnhhOFRDaUlodVBxUXU2TXRFR1dWMkc3bFRId0s1eVUxVFBmYzAxdU1BYjdHSXhJdWhkOUVubEZHMHUzT0pnek9MdjZ4ejEzYUxxWFN5VWtjMnZXSVNFcg?oc=5",
+    "date": "2026-05-01"
   }
 ]

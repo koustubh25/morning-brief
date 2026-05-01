@@ -1,20 +1,20 @@
 {
-  "date": "Thu 30 Apr 2026",
+  "date": "Fri 1 May 2026",
   "top_items": [
     {
-      "title": "What Google Cloud announced in AI this month",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "one_liner": "Monthly recap of Google Cloud AI innovations, highlighting Next '26 announcements like Gemini Enterprise Agent Platform."
+      "title": "RAG, LLM Wiki, or Gbrain? How Your Agent Remembers Changes Everything",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/rag-llm-wiki-or-gbrain-how-your-agent-remembers-changes-everything-56829e66725c",
+      "one_liner": "Compares RAG, LLM Wiki, and Gbrain as memory mechanisms that significantly impact AI agent behavior."
     },
     {
-      "title": "AI Killed My Writing Career. Long Live AI.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@RPauloDelgado/ai-killed-my-writing-career-long-live-ai-ecd264cd4d9f",
-      "one_liner": "A freelance writer reflects on their career being impacted by AI."
+      "title": "How to Accurately Extract Everything from Documents Using AI",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@umairali.khan/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238",
+      "one_liner": "Explains how specific prompting enables AI models to accurately extract all information from documents."
     },
     {
-      "title": "260 things we announced at Google Cloud Next '26 – a recap",
-      "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
-      "one_liner": "Comprehensive recap of over 260 Google Cloud Next '26 announcements, focusing on the 'Agentic Era'."
+      "title": "MCP is Dead",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@101/mcp-is-dead-cf16b667ba6d",
+      "one_liner": "Warns against using MCP in Claude Code, suggesting an alternative for better outcomes."
     }
   ]
 }
