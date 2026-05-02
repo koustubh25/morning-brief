@@ -1,20 +1,20 @@
 {
-  "date": "Fri 1 May 2026",
+  "date": "Sat 2 May 2026",
   "top_items": [
     {
-      "title": "RAG, LLM Wiki, or Gbrain? How Your Agent Remembers Changes Everything",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/rag-llm-wiki-or-gbrain-how-your-agent-remembers-changes-everything-56829e66725c",
-      "one_liner": "Compares RAG, LLM Wiki, and Gbrain as memory mechanisms that significantly impact AI agent behavior."
+      "title": "I Spent 6 Months Tuning Claude Code. Here's the Exact Setup That Finally…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/i-spent-6-months-tuning-claude-code-heres-the-exact-setup-that-finally-worked-b41c67628478",
+      "one_liner": "Details a comprehensive setup for tuning Claude Code, including subagents and skills for enhanced performance."
     },
     {
-      "title": "How to Accurately Extract Everything from Documents Using AI",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@umairali.khan/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238",
-      "one_liner": "Explains how specific prompting enables AI models to accurately extract all information from documents."
+      "title": "Claude Code Just Released a Feature That Genuinely Scares Me (And I Use AI…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adam-drake-frontend-developer/claude-code-just-released-a-feature-that-genuinely-scares-me-and-i-use-ai-every-day-4f23cd3051c0",
+      "one_liner": "Describes a new, potentially concerning feature in Claude Code that impacts AI usage patterns."
     },
     {
-      "title": "MCP is Dead",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@101/mcp-is-dead-cf16b667ba6d",
-      "one_liner": "Warns against using MCP in Claude Code, suggesting an alternative for better outcomes."
+      "title": "Claude Code hooks explained: the missing layer between prompts and production",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-hooks-explained-the-missing-layer-between-prompts-and-production-d0e3d1509278",
+      "one_liner": "Explores Claude Code hooks as a critical component for bridging prompts and production-ready AI."
     }
   ]
 }

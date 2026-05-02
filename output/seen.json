@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/the-end-of-software-engineer-why-anthropics-claude-code-creator-says-the-title-will-disappear-c35f2dfe66f5",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozbillwang/20-claude-code-commands-that-make-your-life-easier-most-people-dont-know-them-249b0ca4119e",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/my-ultimate-claude-code-setup-af8b3a8ca011",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/mozilla-thunderbolt-lets-you-swap-between-gpt-and-claude-like-tools-thats-a-big-deal-e46c8bb4d099",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/karpathy-stopped-writing-code-4-months-ago-his-3-new-ai-projects-are-more-important-c32a563a1ad1",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/hermes-agent-the-open-source-ai-agent-that-actually-remembers-what-it-learned-yesterday-278441cd1870",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ranthebuilder/i-tested-three-spec-driven-ai-tools-heres-my-honest-take-b1a22241a9d9",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yaninyzwitty/dependency-injection-in-go-patterns-without-frameworks-f5d0b105eb58",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rico-fritzsche/why-i-replaced-enterprise-oop-thinking-with-feature-local-logic-9a70c461d889",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@arthurpro/i-quit-tmux-heres-what-i-built-instead-5feda11829de",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@saedarm/hunting-the-desert-fox-774f76e5205a",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/",
-    "date": "2026-04-24"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@alexjamesdunlop/i-cut-claude-codes-output-tokens-by-75-why-did-nobody-tell-me-3275138852e2",
     "date": "2026-04-25"
   },
@@ -426,5 +362,61 @@
   {
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWlRGaHVKSGI2d2hGVnRYZ1B3anNlVTV1ei1VUmlZQ040VFhfaVpqY1dIRUxmZ2FYM21BWnIzYlc2cWFldmJTMS0tWkZ6ZW5vUnpldmtMeC1ZQl9VTXJ0UzduVmJzZmJjUmRUUVliWE1mVDFjLXJ0MEtLV0NqQ0FDdDZqb0p5WjBsU1ZwWjd1cGN0bk1BV2ZaM2MyY1hTWXdtNjhmR0NKbHJ3T1ZkaFRiRG9wUkdwYUJyb1ZBMlVpbC1hY2I0WDVjYWhqZVVKMmZmWUczeHpzNGFlNnBfWXEw0gHkAUFVX3lxTE5jQXNhanNUc2xSZjJ5S0RrNlhuWWpObGtGUXVnZzhFV1pBOXJZY2poNkU4R1liTGc0V0FFRlBueVlXUnFHTUJkV0EwTEJYYTg5ME93dDZ0U3E4UTdzWWFqZ1BzMUhtSEJyWmJTMlZXalFTbExmRXp1TXhWMDRBb2I4SUdlVG5LNTVkQW5lMnhhOFRDaUlodVBxUXU2TXRFR1dWMkc3bFRId0s1eVUxVFBmYzAxdU1BYjdHSXhJdWhkOUVubEZHMHUzT0pnek9MdjZ4ejEzYUxxWFN5VWtjMnZXSVNFcg?oc=5",
     "date": "2026-05-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/i-spent-6-months-tuning-claude-code-heres-the-exact-setup-that-finally-worked-b41c67628478",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adam-drake-frontend-developer/claude-code-just-released-a-feature-that-genuinely-scares-me-and-i-use-ai-every-day-4f23cd3051c0",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-hooks-explained-the-missing-layer-between-prompts-and-production-d0e3d1509278",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dhanushnehru/i-stopped-writing-prompts-now-i-give-claude-skills-instead-it-changed-everything-499d3f95ed66",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/harness-engineering-what-every-ai-engineer-needs-to-know-in-2026-0ab649e5686a",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-the-7-layers-of-a-production-grade-agentic-ai-system-37ee5d941f1c",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/google-just-released-a-7-course-ai-professional-certificate-and-i-earned-mine-in-a-weekend-98511d6ddc6d",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/xs-head-of-product-says-imessage-gmail-and-phone-calls-will-collapse-within-90-days-6b17179a082a",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/35-years-of-linux-principles-ubuntu-just-threw-them-away-in-one-snap-1f4f2edcef4f",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/the-stripe-system-design-question-that-separates-senior-from-staff-engineers-b39f1f1a05cf",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/04/introducing-workspace-intelligence-with-admin-controls.html",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/next26-redefining-security-for-the-ai-era-with-google-cloud-and-wiz/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjR3Y0lFSzd4WTNDLUNRb1BoX05YVzA1MnBDVTF1ckNQVnRsWkZNQkxRVTRNQ3cxcEV6aEF5Zl9XaGNMQW9mSFh6akp3Yk9JM3N4bTBGcDQ1SUJvdDRoVklyYTRpUGRjRHVOTU5BOWtQbTlwTVBiQlNaT05QdGJ3QTh3TUFkNi02MDlJ?oc=5",
+    "date": "2026-05-02"
   }
 ]
