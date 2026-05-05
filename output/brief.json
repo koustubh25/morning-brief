@@ -1,20 +1,20 @@
 {
-  "date": "Mon 4 May 2026",
+  "date": "Tue 5 May 2026",
   "top_items": [
     {
-      "title": "20 Claude Code Commands That Make Your Life Easier (Most People Don't Know…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ozbillwang/20-claude-code-commands-that-make-your-life-easier-most-people-dont-know-them-249b0ca4119e",
-      "one_liner": "Uncovers 20 lesser-known Claude Code commands that significantly enhance developer productivity and utility."
+      "title": "Firestore at Next '26: Unlock agentic development, search and MongoDB compatibility",
+      "url": "https://cloud.google.com/blog/products/databases/firestore-agentic-ai-search-and-mongodb-compatibility/",
+      "one_liner": "Firestore is positioned as a scalable database solution for emerging AI agents and rapid development."
     },
     {
-      "title": "Claude Code Best Practices: 12 Patterns Agentic Engineers Use",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hxzhouh/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919",
-      "one_liner": "Details 12 effective patterns for using agentic engineers with Claude Code for better results."
+      "title": "Stop Wasting Tokens: My 71.5x Cheaper Claude Code Workflow",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/i-cut-claude-codes-token-usage-by-71-5x-45556570d823",
+      "one_liner": "A cost-effective Claude Code workflow to overcome token limitations and enhance prompt engineering for faster PoCs."
     },
     {
-      "title": "I Tried 100 Claude Skills. These Are The Best",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-100-claude-skills-these-are-the-best-047f0db71764",
-      "one_liner": "Evaluates and ranks 100 practical Claude 'Skills' for effective use and adoption."
+      "title": "Andrej Karpathy's Fix for AI Coding Agents Gone Wrong: A Single Markdown File",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/andrej-karpathys-fix-for-ai-coding-agents-gone-wrong-a-single-markdown-file-6fb377097717",
+      "one_liner": "Andrej Karpathy's approach to fixing personality issues in AI coding agents using a simple markdown file."
     }
   ]
 }
