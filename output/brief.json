@@ -2,19 +2,19 @@
   "date": "Wed 6 May 2026",
   "top_items": [
     {
-      "title": "Public sector momentum and mission impact at Google Cloud Next ‘26",
-      "url": "https://cloud.google.com/blog/topics/public-sector/public-sector-momentum-and-mission-impact-at-google-cloud-next-26/",
-      "one_liner": "Public sector organizations are scaling AI and agentic transformations, showcasing mission impact at Google Cloud Next '26."
+      "title": "Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax/",
+      "one_liner": "Google Cloud Blog details AI-driven code migration from TensorFlow to JAX, achieving significant speed gains."
     },
     {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
-      "one_liner": "OpenAI has launched GPT-5.5 Instant, a new default model for ChatGPT, setting a new benchmark for generative AI capabilities."
+      "title": "What's new in IAM: Security, governance, and runtime defense",
+      "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/",
+      "one_liner": "Google Cloud introduces new IAM advancements to secure autonomous AI agents and manage enterprise risk."
     },
     {
-      "title": "Five must-have guides to move agents into production with Gemini Enterprise Agent Platform",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents/",
-      "one_liner": "Google Cloud's Gemini Enterprise Agent Platform offers guides for deploying, scaling, governing, and optimizing AI agents in production."
+      "title": "Google named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies",
+      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cyberthreat-intelligence-technologies/",
+      "one_liner": "Google Cloud recognized for Cyberthreat Intelligence; discusses agentic defense powered by Gemini for proactive threat neutralization."
     }
   ]
 }
