@@ -1,20 +1,20 @@
 {
-  "date": "Tue 5 May 2026",
+  "date": "Wed 6 May 2026",
   "top_items": [
     {
-      "title": "Firestore at Next '26: Unlock agentic development, search and MongoDB compatibility",
-      "url": "https://cloud.google.com/blog/products/databases/firestore-agentic-ai-search-and-mongodb-compatibility/",
-      "one_liner": "Firestore is positioned as a scalable database solution for emerging AI agents and rapid development."
+      "title": "Public sector momentum and mission impact at Google Cloud Next ‘26",
+      "url": "https://cloud.google.com/blog/topics/public-sector/public-sector-momentum-and-mission-impact-at-google-cloud-next-26/",
+      "one_liner": "Public sector organizations are scaling AI and agentic transformations, showcasing mission impact at Google Cloud Next '26."
     },
     {
-      "title": "Stop Wasting Tokens: My 71.5x Cheaper Claude Code Workflow",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/i-cut-claude-codes-token-usage-by-71-5x-45556570d823",
-      "one_liner": "A cost-effective Claude Code workflow to overcome token limitations and enhance prompt engineering for faster PoCs."
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
+      "one_liner": "OpenAI has launched GPT-5.5 Instant, a new default model for ChatGPT, setting a new benchmark for generative AI capabilities."
     },
     {
-      "title": "Andrej Karpathy's Fix for AI Coding Agents Gone Wrong: A Single Markdown File",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/andrej-karpathys-fix-for-ai-coding-agents-gone-wrong-a-single-markdown-file-6fb377097717",
-      "one_liner": "Andrej Karpathy's approach to fixing personality issues in AI coding agents using a simple markdown file."
+      "title": "Five must-have guides to move agents into production with Gemini Enterprise Agent Platform",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents/",
+      "one_liner": "Google Cloud's Gemini Enterprise Agent Platform offers guides for deploying, scaling, governing, and optimizing AI agents in production."
     }
   ]
 }
