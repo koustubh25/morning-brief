@@ -482,5 +482,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "date": "2026-05-06"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/scaling-real-time-performance-with-bigtable-in-memory-tier/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ahirlog/want-to-master-claude-start-with-these-15-github-repos-a2936101e07d",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kartikmarwah/new-agent-teams-in-google-adk-2-0-79ba90444453",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-structure-claude-folder-for-maximum-efficiency-c26ef3f552ba",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@levidoro/from-rag-to-agentic-rag-building-multi-agent-search-systems-1c0e77c90c98",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/rag-chunking-that-works-semantic-splitting-overlap-and-eval-driven-tuning-530fbb25b613",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/beyond-catastrophic-forgetting-how-to-build-an-llm-wiki-for-the-long-game-8cea92f3868c",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gaurav21s/i-replaced-my-rag-agents-brain-with-a-20b-model-it-got-smarter-3ea48d84c2c9",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudpankaj/google-vs-microsoft-vs-palantir-the-enterprise-ontology-race-and-the-layer-all-three-are-missing-e965b2d635d9",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tomdeneire/terminal-wizardry-10-command-line-tricks-youll-actually-use-beginner-pro-eff51cdab90c",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dhanushnehru/25-linux-environment-variables-every-hacker-knows-and-most-developers-ignore-2ea08b9459c8",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjJ6U0Z0WkdHeGdYdEg1ZGE1Rm5VOGhDUmVhempQX3J1bDNDb3d5MmpnNmtqM0Q4MnphVU1RS1dWbXVGSlBCVE5jSDFtbkJ2TWdxci1BOThqZUhLbU5FdjUxOF9tOGFIZGcxZjJUQllqalBXdHFPa3RlVTd1SDVjMEtENVAtckhCZGtvVw?oc=5",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html",
+    "date": "2026-05-07"
   }
 ]

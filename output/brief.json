@@ -1,20 +1,20 @@
 {
-  "date": "Wed 6 May 2026",
+  "date": "Thu 7 May 2026",
   "top_items": [
     {
-      "title": "Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax/",
-      "one_liner": "Google Cloud Blog details AI-driven code migration from TensorFlow to JAX, achieving significant speed gains."
+      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available/",
+      "one_liner": "Gemini 3.1 Flash-Lite is now available on Google Cloud for high-volume, low-latency tasks."
     },
     {
-      "title": "What's new in IAM: Security, governance, and runtime defense",
-      "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/",
-      "one_liner": "Google Cloud introduces new IAM advancements to secure autonomous AI agents and manage enterprise risk."
+      "title": "New Bigtable in-memory tier for sub-millisecond read latency",
+      "url": "https://cloud.google.com/blog/products/databases/scaling-real-time-performance-with-bigtable-in-memory-tier/",
+      "one_liner": "Google Cloud Bigtable adds an in-memory tier for sub-millisecond read latency and cost savings."
     },
     {
-      "title": "Google named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies",
-      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cyberthreat-intelligence-technologies/",
-      "one_liner": "Google Cloud recognized for Cyberthreat Intelligence; discusses agentic defense powered by Gemini for proactive threat neutralization."
+      "title": "I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915",
+      "one_liner": "Shares 14 Claude Code commands to improve productivity and usage for developers."
     }
   ]
 }
