@@ -1,20 +1,20 @@
 {
-  "date": "Thu 7 May 2026",
+  "date": "Sat 9 May 2026",
   "top_items": [
     {
-      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available/",
-      "one_liner": "Gemini 3.1 Flash-Lite is now available on Google Cloud for high-volume, low-latency tasks."
+      "title": "Ship code within minutes with the Gemini CLI DevOps Extension",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/ship-code-within-minutes-with-the-gemini-cli-devops-extension/",
+      "one_liner": "Introduces a Gemini CLI DevOps Extension for rapid deployment of AI-assisted developed applications."
     },
     {
-      "title": "New Bigtable in-memory tier for sub-millisecond read latency",
-      "url": "https://cloud.google.com/blog/products/databases/scaling-real-time-performance-with-bigtable-in-memory-tier/",
-      "one_liner": "Google Cloud Bigtable adds an in-memory tier for sub-millisecond read latency and cost savings."
+      "title": "With faster node startup for GKE, say goodbye to cold-start latency",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-node-startup-gets-faster/",
+      "one_liner": "Announces GKE's significantly faster node startup times to reduce cold-start latency."
     },
     {
-      "title": "I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915",
-      "one_liner": "Shares 14 Claude Code commands to improve productivity and usage for developers."
+      "title": "Building Claude from Scratch: 62 Components Behind Anthropic's Thinking Engine",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-claude-from-scratch-62-components-behind-anthropics-thinking-engine-cd38ee3daf93",
+      "one_liner": "Deconstructs the 62 components behind Anthropic's Claude model, offering deep AI architecture insights."
     }
   ]
 }
