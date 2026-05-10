@@ -1,20 +1,20 @@
 {
-  "date": "Sat 9 May 2026",
+  "date": "Sun 10 May 2026",
   "top_items": [
     {
-      "title": "Ship code within minutes with the Gemini CLI DevOps Extension",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/ship-code-within-minutes-with-the-gemini-cli-devops-extension/",
-      "one_liner": "Introduces a Gemini CLI DevOps Extension for rapid deployment of AI-assisted developed applications."
+      "title": "Anthropic Wants $25 Per Pull Request - Devs Are Losing Their Minds Over Claude…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-wants-25-per-pull-request-devs-are-losing-their-minds-over-claude-code-review-55dbbaca4996",
+      "one_liner": "Examines developer reactions to Anthropic's proposed pricing for Claude's code review capabilities."
     },
     {
-      "title": "With faster node startup for GKE, say goodbye to cold-start latency",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-node-startup-gets-faster/",
-      "one_liner": "Announces GKE's significantly faster node startup times to reduce cold-start latency."
+      "title": "People are building a Real JARVIS in Obsidian with Claude Code. Here's How!",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@shashwatwrites/people-are-building-a-real-jarvis-in-obsidian-with-claude-code-heres-how-5a4ce86e461c",
+      "one_liner": "Details how to build a 'Real JARVIS' system using Claude Code and Obsidian for autonomous knowledge management."
     },
     {
-      "title": "Building Claude from Scratch: 62 Components Behind Anthropic's Thinking Engine",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-claude-from-scratch-62-components-behind-anthropics-thinking-engine-cd38ee3daf93",
-      "one_liner": "Deconstructs the 62 components behind Anthropic's Claude model, offering deep AI architecture insights."
+      "title": "How Claude Code and Obsidian Broke Personal Knowledge Management",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@shashwatwrites/how-claude-code-and-obsidian-broke-personal-knowledge-management-d00dc8ae88d3",
+      "one_liner": "Explores how Claude Code and Obsidian can enhance personal knowledge management systems."
     }
   ]
 }
