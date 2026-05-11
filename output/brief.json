@@ -1,20 +1,20 @@
 {
-  "date": "Sun 10 May 2026",
+  "date": "Mon 11 May 2026",
   "top_items": [
     {
-      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available/",
-      "one_liner": "Gemini 3.1 Flash-Lite is now GA, offering ultra-low latency and cost-efficiency for high-volume AI tasks."
+      "title": "Meet the latest Database Center, now with Gemini-powered fleet intelligence",
+      "url": "https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26/",
+      "one_liner": "Introduces Google Cloud's new Database Center, enhanced with Gemini for fleet intelligence to simplify database management."
     },
     {
-      "title": "Anthropic updates Claude Managed Agents with three new features - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1dXNERBbXNsWWd6ZHByQ1p6Vzl1MDc1MUFLb1pPZlQwcXZOei1FTEYzdWFDVEY3c0FsMVlNazVuem1zTWo0RkwycjlDTkVNcGlSTjc5YjI4UGYxcU5JWjVZdzlhYmlTRWVPcDlWSjVIeTlPWUxYWjE1dUtyV1czUDhFVC00MnNOZVN5dHhoLW5ISW1vNkRaSE04MA?oc=5",
-      "one_liner": "Anthropic's Claude Managed Agents have been updated with three new features."
+      "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
+      "one_liner": "Adversaries are increasingly leveraging AI for vulnerability exploitation and advanced operations, tracked by Google Threat Intelligence."
     },
     {
-      "title": "What's new in IAM: Security, governance, and runtime defense",
-      "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/",
-      "one_liner": "New IAM advancements secure the agentic enterprise, addressing the evolving needs of AI-driven operations."
+      "title": "OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning - gHacks",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
+      "one_liner": "OpenAI launches three new real-time voice models with GPT-5-class reasoning capabilities."
     }
   ]
 }
