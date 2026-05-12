@@ -1,113 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozbillwang/20-claude-code-commands-that-make-your-life-easier-most-people-dont-know-them-249b0ca4119e",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hxzhouh/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-100-claude-skills-these-are-the-best-047f0db71764",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@satyamsahu671/rag-vs-mcp-what-every-ai-developer-actually-needs-to-know-3d8da413e61c",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nayan.j.paul/ontology-driven-agents-the-missing-layer-for-enterprise-ai-6d4b9182ee2b",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/ai-can-do-96-of-programming-tasks-so-why-arent-programmers-losing-jobs-77fe4cee02d2",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@qtalen/how-i-use-opencode-oh-my-opencode-slim-and-openspec-to-build-my-own-ai-coding-environment-adef66f2f4b6",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/qwen-3-6-plus-just-hit-1-trillion-daily-tokens-heres-why-developers-are-ditching-5-m-claude-for-530c2a2fa9f1",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@chewloongnian/i-tested-the-1-bit-llm-that-fits-in-1-gb-it-shouldnt-be-this-good-3112d2825abc",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-the-11-layers-of-a-production-grade-mcp-server-agentic-system-de92127aca6f",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/if-ai-can-code-why-are-big-tech-founders-coding-again-6791526cde51",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ranthebuilder/i-tested-three-spec-driven-ai-tools-heres-my-honest-take-b1a22241a9d9",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maheshwarimrinal/github-copilot-code-review-guidelines-best-practices-and-how-to-integrate-it-into-your-pr-b4518073b4c9",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us-41a2d9eb1a9c",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ithinkbot/i-tested-four-ocr-models-on-scanned-medical-records-and-the-smallest-one-won-ed7185b1c0b2",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ronikdedhia/why-duckdb-crushed-our-500gb-data-pipeline-and-how-itll-crush-yours-too-05947ff47ffe",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/why-your-1-000-react-app-could-be-replaced-by-10-lines-of-htmx-2c482052ea5d",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dhirajpatra/how-to-develop-an-open-source-ontology-ai-pipeline-20b31aecb2da",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@arthurpro/i-quit-tmux-heres-what-i-built-instead-5feda11829de",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-the-terminal-wrong-for-years-5557b10c0b85",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@areejkam01/python-desktop-apps-are-making-a-comeback-and-nobody-is-talking-about-it-68c8cf4fbeea",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pawannatekar220/understanding-linux-networking-without-reading-a-500-page-book-14c756494464",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@theusefultech/9-ridiculously-useful-macos-tahoe-settings-youre-100-not-using-297f86e6345d",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@simpleandkind788/apple-notes-has-a-secret-mode-and-almost-no-one-uses-it-781d8a83f76e",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-1-recap/",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository/",
-    "date": "2026-05-04"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5",
-    "date": "2026-05-04"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/databases/firestore-agentic-ai-search-and-mongodb-compatibility/",
     "date": "2026-05-05"
   },
@@ -530,5 +422,77 @@
   {
     "url": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
     "date": "2026-05-11"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/i-spent-6-months-tuning-claude-code-heres-the-exact-setup-that-finally-worked-b41c67628478",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/google-cloud-is-doomed-and-aws-knows-it-751d5bb3ce2b",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ilsilfverskiold/agentic-ai-how-to-save-on-tokens-9a1571ac6c85",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@umairali.khan/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/what-is-the-best-local-llm-for-coding-in-2026-8dab3619ff89",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/a-single-claude-md-file-went-viral-the-reason-is-embarrassingly-simple-5b515c9e4cca",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@byjameskoh/deepseek-v4-beyond-basics-a-practical-guide-to-mhc-csa-hca-and-muon-bf40c9863ef8",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/airllm-was-just-the-beginning-meet-the-3-tools-that-make-local-ai-even-simpler-in-2026-f80798519af3",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kakamber07/engineering-managers-are-quietly-being-replaced-by-dashboards-917500868d82",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/if-ai-can-code-why-are-big-tech-founders-coding-again-6791526cde51",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/public-sector/architecting-a-resilient-scalable-and-secure-foundation-for-the-agentic-era/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY3M5dDhnNlM4bUFhYXY4SUZtWUt6QU5OREJ5bFJRMGtFeEJ5X21ZMmdIVFJoX1RCSkRUbGNqWWllN0JNdkNrSXhOZ0M1UWE1REN2YmRZOVlZUy01OVBOX2kzMHBzNVhHMm5pV19R?oc=5",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEEwQnRrNGVhTjFWbDRWZExiaFR1eGd0RWFUY25IMUJtSEJUSXpUcklCWXBWeDJRRExvRGxvUjZOQTJ3bGgzNFFYV0JMSklXdnc2UDJnRFZlb0w1aEtnUklZOG11ZHJ4ZVNncURBWDFGamZMNzZkTjN1ZVJhYV9uOHBnVHhNVlNEeUs5U0lTOUhXc1NyWXZqbEFzUmVVTExabkV0endFcXJiRkVzUE5EMWwtVmlyYzIzSktnRHlRSS1ZcTd2ckwyS1BCYTJFdjE5VUNreFZZVTE?oc=5",
+    "date": "2026-05-12"
   }
 ]

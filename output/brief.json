@@ -1,20 +1,20 @@
 {
-  "date": "Mon 11 May 2026",
+  "date": "Tue 12 May 2026",
   "top_items": [
     {
-      "title": "Meet the latest Database Center, now with Gemini-powered fleet intelligence",
-      "url": "https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26/",
-      "one_liner": "Introduces Google Cloud's new Database Center, enhanced with Gemini for fleet intelligence to simplify database management."
+      "title": "SAP SAPPHIRE 2026: Google Cloud unveils unified agentic vision and massive compute scaling",
+      "url": "https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/",
+      "one_liner": "Announces Google Cloud's unified agentic vision and massive compute scaling for enterprise data challenges."
     },
     {
-      "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
-      "one_liner": "Adversaries are increasingly leveraging AI for vulnerability exploitation and advanced operations, tracked by Google Threat Intelligence."
+      "title": "Building a Senior Staff Engineer with Sub-Agent Teams in Claude Code",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392",
+      "one_liner": "Details how to build advanced engineering roles using sub-agent teams within Claude Code."
     },
     {
-      "title": "OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning - gHacks",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
-      "one_liner": "OpenAI launches three new real-time voice models with GPT-5-class reasoning capabilities."
+      "title": "I Spent 6 Months Tuning Claude Code. Here's the Exact Setup That Finally…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/i-spent-6-months-tuning-claude-code-heres-the-exact-setup-that-finally-worked-b41c67628478",
+      "one_liner": "Shares a detailed setup for optimizing Claude Code performance over six months."
     }
   ]
 }
