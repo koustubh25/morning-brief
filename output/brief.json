@@ -2,19 +2,19 @@
   "date": "Fri 15 May 2026",
   "top_items": [
     {
-      "title": "Gemini Live Agent Challenge: Announcing the winners and highlights",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge/",
-      "one_liner": "Showcases impressive developer creations in the Gemini Live Agent Challenge, pushing AI agent boundaries."
+      "title": "My First Month With OpenClaw: The Setup, Mistakes, and Fixes No One Tells You…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@KoryBecker/my-first-month-with-openclaw-the-setup-mistakes-and-fixes-no-one-tells-you-about-bee1351bc680",
+      "one_liner": "User shares setup challenges with OpenClaw, focusing on hardware and memory."
     },
     {
-      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
-      "one_liner": "Reports that Anthropic's Managed Agents could disrupt the AI startup landscape."
+      "title": "Denmark Just Brought Putin's Nightmare to Life",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/denmark-just-brought-putins-nightmare-to-life-d28de198f4e1",
+      "one_liner": "Discusses geopolitical events in Denmark and their impact on Russia."
     },
     {
-      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
-      "one_liner": "Reports that Anthropic's Managed Agents could disrupt the AI startup landscape."
+      "title": "The power of LLMs on your data, more than two orders of magnitude faster and cheaper",
+      "url": "https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models/",
+      "one_liner": "Discusses significantly faster and cheaper LLM integration for data querying using AI-powered SQL functions."
     }
   ]
 }
