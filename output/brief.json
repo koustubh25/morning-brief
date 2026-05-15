@@ -1,20 +1,20 @@
 {
-  "date": "Tue 12 May 2026",
+  "date": "Fri 15 May 2026",
   "top_items": [
     {
-      "title": "SAP SAPPHIRE 2026: Google Cloud unveils unified agentic vision and massive compute scaling",
-      "url": "https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/",
-      "one_liner": "Announces Google Cloud's unified agentic vision and massive compute scaling for enterprise data challenges."
+      "title": "Gemini Live Agent Challenge: Announcing the winners and highlights",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge/",
+      "one_liner": "Showcases impressive developer creations in the Gemini Live Agent Challenge, pushing AI agent boundaries."
     },
     {
-      "title": "Building a Senior Staff Engineer with Sub-Agent Teams in Claude Code",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-senior-staff-engineer-with-sub-agent-teams-in-claude-code-771298151392",
-      "one_liner": "Details how to build advanced engineering roles using sub-agent teams within Claude Code."
+      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
+      "one_liner": "Reports that Anthropic's Managed Agents could disrupt the AI startup landscape."
     },
     {
-      "title": "I Spent 6 Months Tuning Claude Code. Here's the Exact Setup That Finally…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/i-spent-6-months-tuning-claude-code-heres-the-exact-setup-that-finally-worked-b41c67628478",
-      "one_liner": "Shares a detailed setup for optimizing Claude Code performance over six months."
+      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
+      "one_liner": "Reports that Anthropic's Managed Agents could disrupt the AI startup landscape."
     }
   ]
 }
