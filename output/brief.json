@@ -1,20 +1,20 @@
 {
-  "date": "Sat 16 May 2026",
+  "date": "Mon 18 May 2026",
   "top_items": [
     {
-      "title": "12 AI Books Worth Reading in 2026 - If You Actually Build Things",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/12-ai-books-worth-reading-in-2026-if-you-actually-build-things-3de8e3dfd8a8",
-      "one_liner": "An engineer-first reading guide for agents and LLMs offers practical AI insights."
+      "title": "Anthropic Quietly Made Half My MCP Servers Obsolete - Here's the 6-Skill Setup…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
+      "one_liner": "Details how Anthropic's recent changes have impacted server setups and offers a new configuration approach."
     },
     {
-      "title": "Your Obsidian Vault Is a Knowledge Graph. Here's How to Make It Think…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
-      "one_liner": "Using personal knowledge graphs with LLMs hints at RAG and grounding patterns."
+      "title": "I Tested Gemma 4 Against Claude and GPT-5.4. The Truth.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-and-gpt-5-4-the-truth-1fabfd0ad353",
+      "one_liner": "Hands-on comparison of Gemma 4, Claude, and GPT-5.4 for real-world Python development tasks."
     },
     {
-      "title": "9 SSH Hardening Tricks That Stopped 50,000 Attack Attempts on My Server",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ashishnoob/9-ssh-hardening-tricks-that-stopped-50-000-attack-attempts-on-my-server-6499b7b756bf",
-      "one_liner": "Basic SSH security tips are a minor concern for enterprise SecOps."
+      "title": "Anthropic Quietly Made Half My MCP Servers Obsolete - Here's the 6-Skill Setup…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
+      "one_liner": "Details how Anthropic's recent changes have impacted server setups and offers a new configuration approach."
     }
   ]
 }
