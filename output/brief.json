@@ -1,20 +1,20 @@
 {
-  "date": "Mon 18 May 2026",
+  "date": "Fri 22 May 2026",
   "top_items": [
     {
-      "title": "Anthropic Quietly Made Half My MCP Servers Obsolete - Here's the 6-Skill Setup…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
-      "one_liner": "Details how Anthropic's recent changes have impacted server setups and offers a new configuration approach."
+      "title": "AI Studio unlocks full-stack vibe coding with Cloud Run, Firebase, and Cloud SQL, no credit card required",
+      "url": "https://cloud.google.com/blog/products/databases/vibe-coded-ai-studio-apps-with-firestore-firebase-cloud-sql/",
+      "one_liner": "Announces AI Studio enhancements for building full-stack apps on Google Cloud with free tier options."
     },
     {
-      "title": "I Tested Gemma 4 Against Claude and GPT-5.4. The Truth.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-and-gpt-5-4-the-truth-1fabfd0ad353",
-      "one_liner": "Hands-on comparison of Gemma 4, Claude, and GPT-5.4 for real-world Python development tasks."
+      "title": "Securing Your Gemini and Google API Keys",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets/",
+      "one_liner": "Addresses the critical security risks of managing API keys for AI services like Gemini on Google Cloud."
     },
     {
-      "title": "Anthropic Quietly Made Half My MCP Servers Obsolete - Here's the 6-Skill Setup…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
-      "one_liner": "Details how Anthropic's recent changes have impacted server setups and offers a new configuration approach."
+      "title": "Jensen Huang Called It a \"Horrible Outcome.\" Eight Days Later, DeepSeek Made It…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
+      "one_liner": "Introduces DeepSeek V4, an exceptionally large open-source AI model, challenging industry expectations set by leaders like Jensen Huang."
     }
   ]
 }
