@@ -1,20 +1,20 @@
 {
-  "date": "Fri 22 May 2026",
+  "date": "Sat 23 May 2026",
   "top_items": [
     {
-      "title": "[1989] Bill Gates, MS-DOS and the tiny firm that built modern computing",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@RetroTechShow/1989-bill-gates-ms-dos-and-the-tiny-firm-that-built-modern-computing-203973624d5c",
-      "one_liner": "Recounts the historical significance of Bill Gates and MS-DOS in early computing."
+      "title": "How Medium uses AI at work: Humans first, especially in the age of AI",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@brittanyjezouit/how-medium-uses-ai-at-work-humans-first-especially-in-the-age-of-ai-44d82069242b",
+      "one_liner": "Details Medium's approach to integrating AI at work with a human-centric philosophy."
     },
     {
-      "title": "A $700M Bitcoin Wallet Lost in 2010 - And a New Attempt to Crack It",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Tradingpass/a-700m-bitcoin-wallet-lost-in-2010-and-a-new-attempt-to-crack-it-9c86bee99738",
-      "one_liner": "Explores a historical Bitcoin wallet recovery attempt, unrelated to current tech trends."
+      "title": "Spec Driven Development: How to Build Production-Ready Apps 10x Faster in 2026",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vikrantdheer/spec-driven-development-how-to-build-production-ready-apps-10x-faster-in-2026-2b4124f0ffff",
+      "one_liner": "Explores spec-driven development for accelerating the creation of production-ready applications."
     },
     {
-      "title": "Gold Is Falling in a Crisis - And That's the Real Signal",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Tradingpass/gold-is-falling-in-a-crisis-and-thats-the-real-signal-f8089c317167",
-      "one_liner": "Analyzes gold market trends during a perceived crisis, without tech relevance."
+      "title": "AWS Wants You to Use SSM. My Team Uses SSH. Here Is Why.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hafiqiqmal93/aws-wants-you-to-use-ssm-my-team-uses-ssh-here-is-why-1a651cc8fb76",
+      "one_liner": "Argues for SSH over AWS SSM, highlighting practical differences in server management."
     }
   ]
 }
