@@ -1,20 +1,20 @@
 {
-  "date": "Sat 23 May 2026",
+  "date": "Sun 24 May 2026",
   "top_items": [
     {
-      "title": "How Medium uses AI at work: Humans first, especially in the age of AI",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@brittanyjezouit/how-medium-uses-ai-at-work-humans-first-especially-in-the-age-of-ai-44d82069242b",
-      "one_liner": "Details Medium's approach to integrating AI at work with a human-centric philosophy."
+      "title": "Claude Code Is a Mess, Until You Install This Official Plugin",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@michaelclawrence/ai-isnt-replacing-developers-it-s-doing-something-worse-2d18fb595362",
+      "one_liner": "Highlights an official plugin that significantly improves Claude Code's project understanding."
     },
     {
-      "title": "Spec Driven Development: How to Build Production-Ready Apps 10x Faster in 2026",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vikrantdheer/spec-driven-development-how-to-build-production-ready-apps-10x-faster-in-2026-2b4124f0ffff",
-      "one_liner": "Explores spec-driven development for accelerating the creation of production-ready applications."
+      "title": "I Threw Out My Vector Database. RAG Got Way Better With PageIndex",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/open-source-llm-platforms-in-2026-ollama-openrouter-groq-nvidia-nim-which-one-should-you-use-2f11c7ba60bc",
+      "one_liner": "Proposes replacing vector databases for RAG with an approach using PageIndex for improved performance."
     },
     {
-      "title": "AWS Wants You to Use SSM. My Team Uses SSH. Here Is Why.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hafiqiqmal93/aws-wants-you-to-use-ssm-my-team-uses-ssh-here-is-why-1a651cc8fb76",
-      "one_liner": "Argues for SSH over AWS SSM, highlighting practical differences in server management."
+      "title": "AI Isn't Replacing Developers. It's Doing Something Worse.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-artifacts-and-decision-paths-sdd-c052df529274",
+      "one_liner": "Argues AI is not replacing developers but potentially doing something more insidious."
     }
   ]
 }
