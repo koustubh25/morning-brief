@@ -1,20 +1,20 @@
 {
-  "date": "Sun 24 May 2026",
+  "date": "Mon 25 May 2026",
   "top_items": [
     {
-      "title": "Claude Code Is a Mess, Until You Install This Official Plugin",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@michaelclawrence/ai-isnt-replacing-developers-it-s-doing-something-worse-2d18fb595362",
-      "one_liner": "Highlights an official plugin that significantly improves Claude Code's project understanding."
+      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
+      "one_liner": "Claims Anthropic is a significant, under-discussed competitor to OpenAI's AI advancements."
     },
     {
-      "title": "I Threw Out My Vector Database. RAG Got Way Better With PageIndex",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/open-source-llm-platforms-in-2026-ollama-openrouter-groq-nvidia-nim-which-one-should-you-use-2f11c7ba60bc",
-      "one_liner": "Proposes replacing vector databases for RAG with an approach using PageIndex for improved performance."
+      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
+      "one_liner": "Claims Anthropic is a significant, under-discussed competitor to OpenAI's AI advancements."
     },
     {
-      "title": "AI Isn't Replacing Developers. It's Doing Something Worse.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-artifacts-and-decision-paths-sdd-c052df529274",
-      "one_liner": "Argues AI is not replacing developers but potentially doing something more insidious."
+      "title": "Rust Token Killer: Slash Your Claude AI Code Costs by 80% with This Binary! 💸",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-token-killer-slash-your-claude-ai-code-costs-by-80-with-this-binary-1b47ffe66be2",
+      "one_liner": "Offers a method to drastically cut Claude AI coding costs by leveraging Rust."
     }
   ]
 }
