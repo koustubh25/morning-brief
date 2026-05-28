@@ -1,20 +1,20 @@
 {
-  "date": "Wed 27 May 2026",
+  "date": "Thu 28 May 2026",
   "top_items": [
     {
-      "title": "A Guide to AI Cold Starts on Cloud Run",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/a-guide-to-ai-cold-starts-on-cloud-run/",
-      "one_liner": "Guides on mitigating AI cold start latencies in Google Cloud Run for improved serverless GPU performance."
+      "title": "Anthropic upgrades Claude with new Opus 4.8 model, details here - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
+      "one_liner": "Anthropic upgrades Claude with the new Opus 4.8 model, bringing significant improvements."
     },
     {
-      "title": "Introducing Google AI Threat Defense to help you outpace the adversary",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense/",
-      "one_liner": "Introduces Google AI Threat Defense to help organizations proactively counter AI-powered cyber threats."
+      "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
+      "url": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
+      "one_liner": "Gemini app content can now be securely shared via Google Drive, enhancing Workspace collaboration."
     },
     {
-      "title": "Claude Code vs Cursor vs Devin vs Copilot in 2026: The Comparison Everyone Is…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7",
-      "one_liner": "This article provides a comparative analysis of leading AI coding assistants like Claude Code, Cursor, and Devin."
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2taMVlYMlJRZlBOc3dLU0trM1h4djVWRTFuSkkxckJTdTlVTWNDLUhwNlRWb19YclM5SHM0NU1JRi0zNlVqa3JQeElMT0xsMFV6Y2czVFpYTENFamxVbEpmSURMMHhyNGt4ZUdfUzhRLVRtYkVlWFo2bEtoY3p3Q2loTjBWaFo4dVEwZ0RIeE1GUnFNUjQxcQ?oc=5",
+      "one_liner": "Anthropic's Claude Opus 4.8 introduces a 'dynamic workflow' tool, enhancing its capabilities."
     }
   ]
 }
