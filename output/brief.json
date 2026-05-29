@@ -1,20 +1,20 @@
 {
-  "date": "Thu 28 May 2026",
+  "date": "Fri 29 May 2026",
   "top_items": [
     {
-      "title": "Anthropic upgrades Claude with new Opus 4.8 model, details here - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
-      "one_liner": "Anthropic upgrades Claude with the new Opus 4.8 model, bringing significant improvements."
+      "title": "Cloud CISO Perspectives: How to build an AI-ready security program for the public sector",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-to-build-an-ai-ready-security-program-for-the-public-sector/",
+      "one_liner": "Google Public Sector CISO outlines building an AI-ready security program for government agencies."
     },
     {
-      "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
-      "url": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
-      "one_liner": "Gemini app content can now be securely shared via Google Drive, enhancing Workspace collaboration."
+      "title": "Developer's guide to Gemini Enterprise and A2UI integration",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-gemini-enterprise-and-a2ui-integration/",
+      "one_liner": "Details Gemini Enterprise and A2UI integration for building more interactive and intuitive AI agents."
     },
     {
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2taMVlYMlJRZlBOc3dLU0trM1h4djVWRTFuSkkxckJTdTlVTWNDLUhwNlRWb19YclM5SHM0NU1JRi0zNlVqa3JQeElMT0xsMFV6Y2czVFpYTENFamxVbEpmSURMMHhyNGt4ZUdfUzhRLVRtYkVlWFo2bEtoY3p3Q2loTjBWaFo4dVEwZ0RIeE1GUnFNUjQxcQ?oc=5",
-      "one_liner": "Anthropic's Claude Opus 4.8 introduces a 'dynamic workflow' tool, enhancing its capabilities."
+      "title": "Anthropic launches Claude Opus 4.8 with stronger coding performance - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0ItdDRhdG9HZ0tDelJ3YUtRN2I5Z0tSRlVza3A0VW5yMDJ1U2xRMUlYODFHUjIwcUp0ODhnaDZ2c2VuN0F1SnBwdW1OdEpkVDJaR2xwN3dqWkdwaHNiZVBrTTVBRUNhTXZtVUZqMmZnN21zaUpmb0dlcXRsbFRSZVAtNEktb1RYWldvaTgwdktLRFJRTWl1bGhoanhuSFlybUVSZkhKUzJ6Y2c?oc=5",
+      "one_liner": "Anthropic's Claude Opus 4.8 boasts enhanced coding capabilities, boosting developer productivity."
     }
   ]
 }
