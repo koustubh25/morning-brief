@@ -1,161 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/databases/vibe-coded-ai-studio-apps-with-firestore-firebase-cloud-sql/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-claude-from-scratch-62-components-behind-anthropics-thinking-engine-cd38ee3daf93",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shekhawatsamvardhan/ai-agents-are-not-users-stop-authenticating-them-like-they-are-a93ede6e2f0a",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@vishal-ai/burning-a-transformer-into-silicon-the-case-for-gpu-free-ai-inference-6d7b8beb288a",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@boriszn/implementing-security-ai-first-ci-cd-a-hands-on-guide-to-devsecops-automation-7353b690e93f",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@chrisdunlop_37984/claude-code-cursor-the-20-and-60-plans-are-a-joke-f5f92b1787cd",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mychen76/run-qwen3-6-35b-a3b-on-6gb-vram-using-llama-cpp-30-tps-a89032e5a60c",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@suryawanshiaditya159/we-rewrote-our-api-in-rust-for-20-better-performance-it-cost-us-180k-52d37711ffb3",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@u.mair/the-kernel-problem-in-containers-and-how-gvisor-fixes-it-ab67a3881324",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/sdd-writing-specifications-for-ai-bdd-as-the-missing-link-spec-driven-development-ad1b540b7f75",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/the-bug-that-gave-root-to-everyone-9-years-every-linux-distro-1daa02a4d790",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/i-built-a-full-saas-app-on-aws-for-1-34-month-heres-the-architecture-0e5482683cd9",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/fedora-44-an-open-linux-release-ubuntu-cannot-copy-e02faac0cb69",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@frostguard/3-pentest-certifications-i-wish-id-taken-sooner-adf5afb66957",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@RetroTechShow/1989-bill-gates-ms-dos-and-the-tiny-firm-that-built-modern-computing-203973624d5c",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@alexcpn/why-specification-driven-development-sdd-is-not-a-silver-bullet-for-ai-assisted-sdlc-491c71bcf835",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Tradingpass/a-700m-bitcoin-wallet-lost-in-2010-and-a-new-attempt-to-crack-it-9c86bee99738",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Tradingpass/gold-is-falling-in-a-crisis-and-thats-the-real-signal-f8089c317167",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Lauritaberl/peter-pans-first-sentence-rewritten-by-famous-authors-f01a704e3932",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@missrennie/the-100-billion-ghost-f3f049b0df04",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@bonnielieberman_33160/my-recurring-covid-nightmare-5ff883f4c125",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@paulcombs/four-myths-about-the-crusades-that-simply-refuse-to-die-1d7400c2b9f4",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@andycmurphy1/15-words-that-changed-my-life-b720a1508057",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jodah06/not-another-coronavirus-article-ad70e42a89e6",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@andycmurphy1/in-the-end-only-three-things-matter-a05c31b36247",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/io26-news-for-agent-developers-on-google-cloud/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/data-agent-kit-brings-data-skills-and-tools-to-your-ide-or-cli/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1dXNERBbXNsWWd6ZHByQ1p6Vzl1MDc1MUFLb1pPZlQwcXZOei1FTEYzdWFDVEY3c0FsMVlNazVuem1zTWo0RkwycjlDTkVNcGlSTjc5YjI4UGYxcU5JWjVZdzlhYmlTRWVPcDlWSjVIeTlPWUxYWjE1dUtyV1czUDhFVC00MnNOZVN5dHhoLW5ISW1vNkRaSE04MA?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVdlUV96SVZwQ3BPZTVOYjlMN3NRWDN5OGFSSGZGWWhhaUZ4TmNFaUVvVEJkZ1RMYWlUSGdHbjJjVlV5SDVnd09UQVJHQjd0MzdCeXIxV2NqcG1qVVBERWdiZy1lMWZJMWZ6Q0pZaE1tT2RxcmZ3dHBROXZ0RHlOZy12Q0QySUZrbU5jRDU4UGtkTmdqdjgtbWszd2o2ZVJIejFGRE9kbUloLUpReVA3amh3ZlYwVGl5YjBiM3lpcjRWTGkzMnc?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/containers-kubernetes/bringing-you-agent-sandbox-on-gke-and-agent-substrate/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblpnWUFlbl95cTI4eFY1NWZ4V3prc093TzY2ZUUxcXlaMEtiaGZjUG45NE9JXzJ6ZndyTGdBVm1tZU9mZjg4M01nc0RiSWs2dDlxTUdPUHdkMll5VjgtTEo3VkhDYWxTbHF1VTNsQVVTOTNuWFdEaDc5ZlRoc2R4NGxXZVVnRWVDVnFlWHV0cWxNeWsxblRRc1Q2NlNJcTNJMDdBTmNaVXg5b01zaS16UXhhaG9yX0R2ZldBa3g0UGdSZU43QzlPV0xxelRRZVNlMHpGQTdn?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUldqeDBINW42S2dtZkxpcGNaclU0UGRQMG9VbDRXNnhiUEdwLXpacmp1bUxFZGFVeWJfRWo5eExHWFA5dE8yWTJBWEV3bjkyZjhSblVLMjNsXzVlQ3FfYXE4RmVwaXZIX3BaaDd6bVE4SlMyZHJrV1JfemlYNlZDQUtPLTJkb1Nld0lZ?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUhyaThBa1JLU3hyVjNicVl0T0lYT1ppbURtMjdwTGdyb2xtSnpWRDRqUG9Zd0JrOXBVZ3QzRFNhZG9LSjY2dDZyVGQ3NDVpaUJtaDVQTXNCek5lLXdIcmpXZkhJSjdFTGNlMHhwOGZONHJHWGxETjBENVlrRVRXdVJqRzBXVktpejFISW5vUjNLdzBhUzBZWVJJOA?oc=5",
-    "date": "2026-05-22"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@brittanyjezouit/how-medium-uses-ai-at-work-humans-first-especially-in-the-age-of-ai-44d82069242b",
     "date": "2026-05-23"
   },
@@ -614,5 +458,65 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0VOWFJ3Wk9OQkNvY2dGOW04bFJnU0wxNUM4VFhxU3NVT2kwV2FCT3BvZ0FzZ2JUQ2VHQ2xyckxoeGtTTldQQy15Qm9nX29XZTZnM3F6X016U043eXE4Yk9SX1BZeXEyRW56eW04TEFEUGRVcTVlaW54RDhZX1NtZS02ZFJqcmo0TkZzcVAxQml2cW9faExYS3FB?oc=5",
     "date": "2026-05-29"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FFNXltTVd5V0dXSnRzMXpOVnpkNU5YbDhZclJUNUR5UDhjWnVCLXhGdzdpM2E4djJUUzg4bUZyM29qRHNGOEhkenJEd3VlTGc1WnFlQmZfbDJzbFpvNHFEcWQxSFhQcjJRMktIRktoQ1ZBRmZyekhWVTE1R0wyeHdIcVJsd0czdW1Qdm1NY21LTVc2UmFsWmd2OGZtdE93T2NDTg?oc=5",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/how-to-never-hit-claudes-usage-limit-again-3-proven-methods-e248208f5b0a",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mynewchapter24/openai-is-so-totally-burnt-that-sam-altman-blasts-ceos-for-layoff-lies-8235b4fd3b70",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@alphaiterations/build-an-ai-contract-intelligence-system-ocr-hybrid-rag-langgraph-to-extract-key-terms-9611fd6acd0a",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/harness-engineering-what-every-ai-engineer-needs-to-know-in-2026-0ab649e5686a",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/48gb-vram-local-coding-agents-9de1e6d11a07",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-how-the-top-10-are-preparing-for-the-coming-career-collapse-b749df55eda0",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nkwrites/is-it-worth-buying-physical-mac-for-personal-agent-or-use-cloud-hosting-full-comparison-d491683dea97",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mychen76/run-qwen3-6-35b-a3b-on-6gb-vram-using-llama-cpp-30-tps-a89032e5a60c",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/europe-is-ditching-visa-and-mastercard-and-its-a-huge-step-aed49505f6b5",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@heinancabouly/minio-redis-hashicorp-a-sustainability-crisis-reaching-your-stack-in-2026-78f9577699cb",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@howtoarchitect/spec-driven-development-isnt-broken-it-will-collapse-c00609f72496",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations/",
+    "date": "2026-05-30"
   }
 ]
