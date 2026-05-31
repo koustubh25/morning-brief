@@ -1,20 +1,20 @@
 {
-  "date": "Sat 30 May 2026",
+  "date": "Sun 31 May 2026",
   "top_items": [
     {
-      "title": "Anthropic shipped Opus 4.8 in 41 days. The internet can't decide if it's a big deal. - ai-checker.webcoda.com.au",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FFNXltTVd5V0dXSnRzMXpOVnpkNU5YbDhZclJUNUR5UDhjWnVCLXhGdzdpM2E4djJUUzg4bUZyM29qRHNGOEhkenJEd3VlTGc1WnFlQmZfbDJzbFpvNHFEcWQxSFhQcjJRMktIRktoQ1ZBRmZyekhWVTE1R0wyeHdIcVJsd0czdW1Qdm1NY21LTVc2UmFsWmd2OGZtdE93T2NDTg?oc=5",
-      "one_liner": "Explores the mixed reception and rapid release of Anthropic's Opus 4.8 model."
+      "title": "I Tested Qwen3.7 Against Claude Opus 4.6 and GPT-5.5. The Brutal Truth.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-qwen3-7-against-claude-opus-4-6-and-gpt-5-5-the-brutal-truth-6f2656f631a3",
+      "one_liner": "Compares Qwen3.7, Claude Opus 4.6, and GPT-5.5 on practical Python and agentic tasks to reveal performance differences."
     },
     {
-      "title": "How to Never Hit Claude's Usage Limit Again: 3 Proven Methods",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/how-to-never-hit-claudes-usage-limit-again-3-proven-methods-e248208f5b0a",
-      "one_liner": "Offers proven methods to avoid hitting Anthropic Claude's usage limits."
+      "title": "She Fired Her Lawyer and Let ChatGPT Take Over - Now OpenAI Faces a $10.3…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sergeykleftzov/she-fired-her-lawyer-and-let-chatgpt-take-over-now-openai-faces-a-10-3-million-lawsuit-1422b78ea1bc",
+      "one_liner": "An attorney is being sued after having ChatGPT draft legal documents, highlighting AI's role and risks in professional services."
     },
     {
-      "title": "ChatGPT is So Burnt that Sam Altman Did the Unthinkable",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mynewchapter24/openai-is-so-totally-burnt-that-sam-altman-blasts-ceos-for-layoff-lies-8235b4fd3b70",
-      "one_liner": "Suggests a major strategic pivot underway at OpenAI with Sam Altman."
+      "title": "21 Reinforcement Learning (RL) Concepts Explained In Plain English",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@bamania-ashish/21-reinforcement-learning-rl-concepts-explained-in-plain-english-79087514dba1",
+      "one_liner": "Provides a simplified, English explanation of key Reinforcement Learning concepts, avoiding complex math."
     }
   ]
 }
