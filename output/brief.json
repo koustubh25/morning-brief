@@ -1,20 +1,20 @@
 {
-  "date": "Sun 31 May 2026",
+  "date": "Mon 1 Jun 2026",
   "top_items": [
     {
-      "title": "I Tested Qwen3.7 Against Claude Opus 4.6 and GPT-5.5. The Brutal Truth.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-qwen3-7-against-claude-opus-4-6-and-gpt-5-5-the-brutal-truth-6f2656f631a3",
-      "one_liner": "Compares Qwen3.7, Claude Opus 4.6, and GPT-5.5 on practical Python and agentic tasks to reveal performance differences."
+      "title": "What Google Cloud announced in AI this month",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "one_liner": "Recap of Google Cloud's latest AI updates, including Gemini, Gemini 3.5, and Google AI Threat Defense."
     },
     {
-      "title": "She Fired Her Lawyer and Let ChatGPT Take Over - Now OpenAI Faces a $10.3…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sergeykleftzov/she-fired-her-lawyer-and-let-chatgpt-take-over-now-openai-faces-a-10-3-million-lawsuit-1422b78ea1bc",
-      "one_liner": "An attorney is being sued after having ChatGPT draft legal documents, highlighting AI's role and risks in professional services."
+      "title": "How Trustpilot built a real-time architecture for data enrichment using Gemma",
+      "url": "https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma/",
+      "one_liner": "Trustpilot built a real-time data enrichment pipeline using fine-tuned Gemma on Google Cloud."
     },
     {
-      "title": "21 Reinforcement Learning (RL) Concepts Explained In Plain English",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@bamania-ashish/21-reinforcement-learning-rl-concepts-explained-in-plain-english-79087514dba1",
-      "one_liner": "Provides a simplified, English explanation of key Reinforcement Learning concepts, avoiding complex math."
+      "title": "The fully-managed Remote MCP Server for AlloyDB is now Generally Available",
+      "url": "https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data/",
+      "one_liner": "AlloyDB's Remote MCP Server is GA, enabling AI agents to access operational database context for improved reliability."
     }
   ]
 }
