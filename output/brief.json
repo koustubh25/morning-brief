@@ -1,20 +1,20 @@
 {
-  "date": "Mon 1 Jun 2026",
+  "date": "Tue 2 Jun 2026",
   "top_items": [
     {
-      "title": "What Google Cloud announced in AI this month",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "one_liner": "Recap of Google Cloud's latest AI updates, including Gemini, Gemini 3.5, and Google AI Threat Defense."
+      "title": "Introducing the ability to loop over a list of items in Workspace Studio",
+      "url": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
+      "one_liner": "Google Workspace Studio adds looping and enhanced Gemini integration, boosting workflow automation capabilities."
     },
     {
-      "title": "How Trustpilot built a real-time architecture for data enrichment using Gemma",
-      "url": "https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma/",
-      "one_liner": "Trustpilot built a real-time data enrichment pipeline using fine-tuned Gemma on Google Cloud."
+      "title": "Building a Production Agent Harness: Turning Claude Code Into a Multi-Agent…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
+      "one_liner": "Explores building a production agent harness by evolving Claude Code into a multi-agent system."
     },
     {
-      "title": "The fully-managed Remote MCP Server for AlloyDB is now Generally Available",
-      "url": "https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data/",
-      "one_liner": "AlloyDB's Remote MCP Server is GA, enabling AI agents to access operational database context for improved reliability."
+      "title": "What Is Hermes Agent, and Why It's Better Than OpenClaw for Personal AI…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/what-is-hermes-agent-and-why-its-better-than-openclaw-for-personal-ai-workflows-d59d83436ad2",
+      "one_liner": "Compares Hermes Agent to OpenClaw, positioning Hermes as a more integrated personal AI agent solution."
     }
   ]
 }

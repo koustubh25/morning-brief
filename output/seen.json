@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-token-killer-slash-your-claude-ai-code-costs-by-80-with-this-binary-1b47ffe66be2",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@subhraj07/putting-claude-code-behind-keycloak-sso-a-production-grade-cloud-ide-on-kubernetes-d2a5bec00fd5",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/ai-is-getting-too-expensive-and-teams-are-starting-to-do-the-math-7d23119a79a4",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gaurav21s/i-replaced-my-rag-agents-brain-with-a-20b-model-it-got-smarter-3ea48d84c2c9",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@faisalhaque226/if-ai-can-code-why-are-big-tech-founders-coding-again-6791526cde51",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/a-senior-developer-told-me-something-about-ai-that-nobody-wants-to-hear-2ea69f0bc9fe",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/google-cloud-is-doomed-and-aws-knows-it-751d5bb3ce2b",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/fake-it-until-you-break-it-the-end-of-non-technical-managers-in-software-engineering-dawns-271f42b66f39",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/2-million-people-downloaded-linux-how-many-will-stay-d40f26457623",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thecuriousfinancegirl/the-last-time-this-happened-lots-of-regular-people-became-millionaires-88f05aa56bc6",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/urban-outfitters-moves-sterling-oms-to-alloydb-for-postgresql/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzVIT05qajc1NXdmVW9Fa0tEZkpZUVo0dVRORk1SVmMzVzk5Nkk0SXoyak9hRUkwOE1ZR2MzbGJDSEtmWF9IUjBzbEgzWUlJcDBxY1hRV1V6anJTR3FFNVp3bkhoODRwOHdDVDNJZ0pXQi1UbXM5dzdTZVVHbzBnUlZHYThNNDZ0TjM5OWZ2MV9FWU5NNkdrLVJVUWs0c0JtYlJGVS0wQXR4Y1pZTlEwUnFXMGNGdw?oc=5",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX1cwRzlYaVgxNlJ1Mnlwb1dxSDZlbTM2U3dyaG1fbWk2SnpQbVd2WnF5RFh0NDN0d3RBS1hyNG9zTkdyX2pLZllLVXN6WmMtbENoZFdsOUk3V3BKT2tSaEttcGlNd3JaaG90d1djQWFnWm1EVEFsTzh2OE1OUkVOSFkwbTBHZjlvUHpORFIwV2dXR0hPcTA1cHltRnBXZEs3bmFDNUVuaXFyUEJBQ0EzM0VSYW1jT2pTMl9nQVoyMXp4aWY4a2xoakc2ZGtOYVQyN2dkWThRNTVhdldkMy1vQkVTRUZFSW1wcGFTTjRlcVJaVWo5eHFRZ1BKTQ?oc=5",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance/",
-    "date": "2026-05-25"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/networking/data-center-and-global-networks-built-for-ai-era/",
     "date": "2026-05-26"
   },
@@ -522,5 +454,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ3emVLQzY2OWRCYktuUW5zbkIxOEJoUnRGZVI3MDdRZG9fbjhjS1Y5TWFZblNOZElYT1JsUUVTQXJmTzFRYnl1VkxJNHVsT25LRjZiVGV5Tm02NXgwQ1FydTZBQ3dDMFVJYkIzQVRQUWtmclFJVFRuNkYtTVUxVUxQYV9iRG1senZlcDNnVXBrX3F1SG53cQ?oc=5",
     "date": "2026-06-01"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/what-is-hermes-agent-and-why-its-better-than-openclaw-for-personal-ai-workflows-d59d83436ad2",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@paoloperrone/nvidia-just-dropped-the-most-efficient-reasoning-model-of-2026-cee624c5fb26",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yogeshwar9354/after-watching-12-000-login-attempts-hit-my-fresh-vps-i-stopped-exposing-servers-to-the-internet-6ed10be22af7",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/openai-is-doomed-and-postgresql-is-the-reason-why-d45edf150dc2",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pepitoscrespo/nvidias-terminator-is-a-tiny-thinking-engine-0ffafd2cbd6b",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/free-antigravity-just-became-unstoppable-with-opencode-24391dcc4203",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thecuriousfinancegirl/the-last-time-this-happened-lots-of-regular-people-became-millionaires-88f05aa56bc6",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvemu/ios-26-5-released-11-new-features-you-need-to-know-5e8a36efa41b",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzVIT05qajc1NXdmVW9Fa0tEZkpZUVo0dVRORk1SVmMzVzk5Nkk0SXoyak9hRUkwOE1ZR2MzbGJDSEtmWF9IUjBzbEgzWUlJcDBxY1hRV1V6anJTR3FFNVp3bkhoODRwOHdDVDNJZ0pXQi1UbXM5dzdTZVVHbzBnUlZHYThNNDZ0TjM5OWZ2MV9FWU5NNkdrLVJVUWs0c0JtYlJGVS0wQXR4Y1pZTlEwUnFXMGNGdw?oc=5",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance/",
+    "date": "2026-06-02"
   }
 ]
