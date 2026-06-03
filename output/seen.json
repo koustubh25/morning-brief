@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/networking/data-center-and-global-networks-built-for-ai-era/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/we-built-rag-on-4-different-vector-dbs-only-one-survived-production-da13fe554b66",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dadhalfdev/hermes-the-only-ai-agent-that-truly-competes-with-openclaw-6982f48e8e48",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/openai-just-open-sourced-the-one-thing-every-startup-should-have-built-first-5792ed30c519",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ampatishan/is-xgboost-gone-how-relational-foundation-models-conquered-500-billion-row-enterprise-data-8dc157650256",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/the-rules-nasa-uses-to-write-code-that-cant-fail-your-ai-tools-break-all-of-them-8d0377998efb",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/we-pointed-an-ai-at-raw-binary-files-from-1986-662ba30120f3",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@howtoarchitect/the-method-that-replaces-spec-driven-development-idsd-66e921f6cdf7",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/c-is-officially-dead-and-the-us-government-just-pulled-the-plug-6ad4b6629eaf",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@suraj_jha/i-deleted-notion-and-obsidian-heres-what-replaced-them-and-why-i-m-never-going-back-27a7d8545606",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@minervee/zincsearch-vs-elasticsearch-youll-love-this-go-search-engine-0e2aafa29258",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@somendradev23/backend-monitoring-tools-nobody-talks-about-8e46559bcd74",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kusireddy/silicon-valleys-hottest-new-drug-says-not-for-human-use-34db800e528c",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/7-things-i-did-to-fix-my-unfocused-overstimulated-brain-a257421beadd",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/public-sector/the-agentic-era-architecting-the-blueprint-for-mission-impact-across-the-public-sector/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWUxSYUt6cHVaZFFnM29pdnEtNm1UOFktSUhLOUJsMlZGb2dYNjVFLUMyMXJMQVVONGZlYml4RVA5b1Zzd0t4Z3BIRXNzQXZVSWxSejNwSGpRRzJuUTlkam81Z0dEYThQSTU3UHgtTEdtaUo2S3JGNUNpX3pFWnpvRGE1aFo1N0FEZ19CbUFzbFBkR2QzT2I5NjR1VUdPWk5ibnJTaGpkdGlGY3dRUG5ja0F5dFpxZllsbUdBMXBBbUNyUEFNdXNpcjFMcnpDeW1qSDczQUR5QlgtZVhsQ056UmxnVzRIU1RUVDhGRQ?oc=5",
-    "date": "2026-05-26"
-  },
-  {
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/a-guide-to-ai-cold-starts-on-cloud-run/",
     "date": "2026-05-27"
   },
@@ -506,5 +422,41 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance/",
     "date": "2026-06-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/open-source-llm-platforms-in-2026-ollama-openrouter-groq-nvidia-nim-which-one-should-you-use-2f11c7ba60bc",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/nvidias-3b-model-just-embarrassed-30b-vision-models-151b3db5d3fc",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nick-tan/harness-engineering-understand-this-will-make-your-ai-agent-performs-better-than-80-other-agents-271c3efeec4c",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/what-anthropic-didnt-tell-you-about-self-hosted-sandboxes-5f803a96452f",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@moeezlicious._/the-things-we-leave-behind-unspoken-4e37c1feb130",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
+    "date": "2026-06-03"
   }
 ]
