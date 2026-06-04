@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/a-guide-to-ai-cold-starts-on-cloud-run/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/claude-code-without-subscription-a-proxy-that-actually-works-14593eda0709",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-and-gpt-5-4-the-truth-1fabfd0ad353",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/airllm-was-just-the-beginning-meet-the-3-tools-that-make-local-ai-even-simpler-in-2026-f80798519af3",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/why-obsidian-won-as-the-base-for-the-personal-llm-harness-and-when-you-shouldnt-pick-it-9790271e5313",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/a-single-claude-md-file-went-viral-the-reason-is-embarrassingly-simple-5b515c9e4cca",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/steve-jobss-10-80-10-rule-is-even-more-useful-in-the-ai-era-8b003c8a9f7e",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jinghuu/once-i-understood-where-ai-is-heading-i-stopped-being-anxious-about-it-8491936ccea6",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@simonwparsons/the-passive-income-snowball-that-replaced-my-retirement-plan-0d719b59738c",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/next26-announcing-new-partner-supported-workflows-for-google-security-operations/",
-    "date": "2026-05-27"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0doV1kwMjNqRXZpN2p3b2l4c29ZQWoxaldrR010dUg4eE0tZU8tYS1WTkxwd1Z0QzZja280eHdzeW5hRi1KZVBmTW5PallsM0pWUGVUWXlhczZ6Tkk5SXhzLW5SY29DSmRzRXhMWGhZZVI4VTlOZ1gzNWRYX2hBemNGdzNTU1VzZ2lTUS1EVU5Qa1QwVmFGSWVGZ1pnUQ?oc=5",
     "date": "2026-05-28"
   },
@@ -458,5 +386,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
     "date": "2026-06-03"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/8-llm-cost-optimization-techniques-how-to-cut-api-spend-by-up-to-70-visually-explained-edf7339d0c9a",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-quietly-made-half-my-mcp-servers-obsolete-heres-the-6-skill-setup-that-replaced-them-32eb7e16f538",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/google-just-found-a-cleaner-legal-way-to-take-your-code-for-free-a9b43abbb1e4",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/hermes-agent-is-cool-running-it-safely-24-7-is-the-real-trick-f0919eee890c",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/the-best-way-to-make-ai-write-like-you-55b10df136aa",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jinghuu/once-i-understood-where-ai-is-heading-i-stopped-being-anxious-about-it-8491936ccea6",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dariusforoux/the-boring-truth-about-what-makes-a-good-life-45510ac69544",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUZRTUVXX2MwaVMwQ3QxcjBaYVVKSkxqY0g0RVlHNnNrTk9tcktUZ1c5enlGbGRlVEhXLVVwVVVHNFZlVGh2blBFVUZfbkRGN2NJQmJ4VjRwZjRoUnNuSGJGdlpYUld5cFV0aFRVWk1xUEVFUHpPSTdidFM3RVRCdk00eTYzS2lSZXpfZVBCcC1hcHlHbUZYeA?oc=5",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
+    "date": "2026-06-04"
   }
 ]

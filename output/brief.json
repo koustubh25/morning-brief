@@ -1,20 +1,20 @@
 {
-  "date": "Wed 3 Jun 2026",
+  "date": "Thu 4 Jun 2026",
   "top_items": [
     {
-      "title": "Open Source LLM Platforms in 2026: Ollama, OpenRouter, Groq, NVIDIA NIM - Which…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/open-source-llm-platforms-in-2026-ollama-openrouter-groq-nvidia-nim-which-one-should-you-use-2f11c7ba60bc",
-      "one_liner": "Forecasts open-source LLM platforms catching up to GPT-4 by 2026."
+      "title": "Scaling AI Agents: A Step-by-Step Guide to Deploying ADK on GKE Autopilot",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
+      "one_liner": "Guide to scaling AI agents using Google's Agent Development Kit (ADK) on GKE Autopilot for production deployments."
     },
     {
-      "title": "NVIDIA's 3B Model Just Embarrassed 30B Vision Models",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/nvidias-3b-model-just-embarrassed-30b-vision-models-151b3db5d3fc",
-      "one_liner": "NVIDIA's new 3B model demonstrates superior speed and capability over larger vision models."
+      "title": "Gmail as a source in Ask Gemini in Drive now generally available",
+      "url": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
+      "one_liner": "Gmail is now available as a source for Ask Gemini in Drive, enhancing contextual conversations."
     },
     {
-      "title": "Harness Engineering: Understand this will make your AI Agent performs better…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@nick-tan/harness-engineering-understand-this-will-make-your-ai-agent-performs-better-than-80-other-agents-271c3efeec4c",
-      "one_liner": "Explains 'Harness Engineering' for improving AI agent performance."
+      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+      "one_liner": "Explains the underutilised agent modes within Claude Code beyond basic coding assistance."
     }
   ]
 }
