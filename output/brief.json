@@ -1,20 +1,20 @@
 {
-  "date": "Thu 4 Jun 2026",
+  "date": "Fri 5 Jun 2026",
   "top_items": [
     {
-      "title": "Scaling AI Agents: A Step-by-Step Guide to Deploying ADK on GKE Autopilot",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
-      "one_liner": "Guide to scaling AI agents using Google's Agent Development Kit (ADK) on GKE Autopilot for production deployments."
+      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
+      "one_liner": "Suggests Anthropic's Managed Agents could disrupt the AI startup ecosystem by simplifying agent creation."
     },
     {
-      "title": "Gmail as a source in Ask Gemini in Drive now generally available",
-      "url": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
-      "one_liner": "Gmail is now available as a source for Ask Gemini in Drive, enhancing contextual conversations."
+      "title": "I Tested Gemma 4 Against Claude and GPT-5.4. The Truth.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-and-gpt-5-4-the-truth-1fabfd0ad353",
+      "one_liner": "Practical Python work comparison of Gemma 4, Claude, and GPT-5.4 highlights real-world coding capabilities."
     },
     {
-      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-      "one_liner": "Explains the underutilised agent modes within Claude Code beyond basic coding assistance."
+      "title": "You Don't Need GPT-5 for Agents: The 1.2B Model That Beats Giants",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/you-dont-need-gpt-5-for-agents-the-1-2b-model-that-beats-giants-9ac9c3a2b626",
+      "one_liner": "Highlights a 1.2B parameter model capable of agent tasks, rivaling larger models."
     }
   ]
 }
