@@ -1,20 +1,20 @@
 {
-  "date": "Fri 5 Jun 2026",
+  "date": "Sun 7 Jun 2026",
   "top_items": [
     {
-      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
-      "one_liner": "Suggests Anthropic's Managed Agents could disrupt the AI startup ecosystem by simplifying agent creation."
+      "title": "Anthropic Just Dropped Opus 4.8. Is This the End of OpenAI?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/anthropic-just-dropped-opus-4-8-is-this-the-end-of-openai-d015046affcf",
+      "one_liner": "Anthropic's latest Opus model release prompts discussion on its competitive standing against OpenAI in the enterprise LLM space."
     },
     {
-      "title": "I Tested Gemma 4 Against Claude and GPT-5.4. The Truth.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-and-gpt-5-4-the-truth-1fabfd0ad353",
-      "one_liner": "Practical Python work comparison of Gemma 4, Claude, and GPT-5.4 highlights real-world coding capabilities."
+      "title": "Anthropic Just Dropped Opus 4.8. Is This the End of OpenAI?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/anthropic-just-dropped-opus-4-8-is-this-the-end-of-openai-d015046affcf",
+      "one_liner": "Anthropic's latest Opus model release prompts discussion on its competitive standing against OpenAI in the enterprise LLM space."
     },
     {
-      "title": "You Don't Need GPT-5 for Agents: The 1.2B Model That Beats Giants",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/you-dont-need-gpt-5-for-agents-the-1-2b-model-that-beats-giants-9ac9c3a2b626",
-      "one_liner": "Highlights a 1.2B parameter model capable of agent tasks, rivaling larger models."
+      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
+      "one_liner": "Andrej Karpathy builds a full GPT model in remarkably concise Python, demystifying LLM architecture and implementation."
     }
   ]
 }
