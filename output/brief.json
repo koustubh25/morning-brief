@@ -1,20 +1,20 @@
 {
-  "date": "Sun 7 Jun 2026",
+  "date": "Wed 10 Jun 2026",
   "top_items": [
     {
-      "title": "Anthropic Just Dropped Opus 4.8. Is This the End of OpenAI?",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/anthropic-just-dropped-opus-4-8-is-this-the-end-of-openai-d015046affcf",
-      "one_liner": "Anthropic's latest Opus model release prompts discussion on its competitive standing against OpenAI in the enterprise LLM space."
+      "title": "Everyone Analyzed Claude Code's Features. Nobody Analyzed Its Architecture.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/everyone-analyzed-claude-codes-features-nobody-analyzed-its-architecture-1173470ab622",
+      "one_liner": "Analyzes the architecture of Claude Code, providing deep insights into its technical foundation and capabilities."
     },
     {
-      "title": "Anthropic Just Dropped Opus 4.8. Is This the End of OpenAI?",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/anthropic-just-dropped-opus-4-8-is-this-the-end-of-openai-d015046affcf",
-      "one_liner": "Anthropic's latest Opus model release prompts discussion on its competitive standing against OpenAI in the enterprise LLM space."
+      "title": "LLM vs RAG vs MCP: I Finally Know When to Use Each One",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pravash-techie/llm-vs-rag-vs-mcp-i-finally-know-when-to-use-each-one-77403510ba1d",
+      "one_liner": "Provides a practical guide on when to use LLM, RAG, and MCP architectures for AI solutions."
     },
     {
-      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-      "one_liner": "Andrej Karpathy builds a full GPT model in remarkably concise Python, demystifying LLM architecture and implementation."
+      "title": "Microsoft Just Shocked Everyone: 7 New AI Models",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/microsoft-just-shocked-everyone-7-new-ai-models-a19e96ec56d7",
+      "one_liner": "Reports on Microsoft's new AI models, offering insights into the competitive AI landscape for enterprises."
     }
   ]
 }
