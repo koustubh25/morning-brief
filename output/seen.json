@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/open-source-llm-platforms-in-2026-ollama-openrouter-groq-nvidia-nim-which-one-should-you-use-2f11c7ba60bc",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/nvidias-3b-model-just-embarrassed-30b-vision-models-151b3db5d3fc",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nick-tan/harness-engineering-understand-this-will-make-your-ai-agent-performs-better-than-80-other-agents-271c3efeec4c",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/what-anthropic-didnt-tell-you-about-self-hosted-sandboxes-5f803a96452f",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@moeezlicious._/the-things-we-leave-behind-unspoken-4e37c1feb130",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
-    "date": "2026-06-03"
-  },
-  {
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
     "date": "2026-06-04"
   },
@@ -378,5 +342,101 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/next26-announcing-new-partner-supported-workflows-for-google-security-operations/",
     "date": "2026-06-10"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/what-anthropic-didnt-tell-you-about-self-hosted-sandboxes-5f803a96452f",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@alphaiterations/build-an-ai-contract-intelligence-system-ocr-hybrid-rag-langgraph-to-extract-key-terms-9611fd6acd0a",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/harness-engineering-what-every-ai-engineer-needs-to-know-in-2026-0ab649e5686a",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/microsoft-told-its-engineers-to-stop-using-ai-e670b40ec63d",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lofidewanto/opencode-is-really-great-c679b5774448",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kotrotsos/the-local-ai-stack-for-apple-silicon-now-with-superpowers-c6038147eb1a",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/pewdiepie-released-his-trillion-dollar-ai-project-for-free-442573dedd43",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/obsidian-your-ai-second-brain-isnt-memory-and-here-s-the-architecture-that-actually-is-bf944929e144",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-is-now-paying-elon-musk-1-25-billion-a-month-to-stay-alive-f3ee57c9dfd0",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/master-obsidian-the-complete-and-definitive-guide-to-turning-your-notes-into-a-second-brain-43f9f147f31a",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/reading-books-is-a-symbiotic-act-7083bb54b8b3",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/theres-a-publication-for-everything-94dcb6320899",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/which-stories-get-told-ed8cbaf28a78",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/fiction-as-a-mirror-for-truth-b0797c053d4d",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/how-pride-is-like-independence-day-f0446b8d9a3c",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/choosing-your-surface-antigravity-20-antigravity-cli-antigravity-ide-or-antigravity-sdk/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0ItdDRhdG9HZ0tDelJ3YUtRN2I5Z0tSRlVza3A0VW5yMDJ1U2xRMUlYODFHUjIwcUp0ODhnaDZ2c2VuN0F1SnBwdW1OdEpkVDJaR2xwN3dqWkdwaHNiZVBrTTVBRUNhTXZtVUZqMmZnN21zaUpmb0dlcXRsbFRSZVAtNEktb1RYWldvaTgwdktLRFJRTWl1bGhoanhuSFlybUVSZkhKUzJ6Y2c?oc=5",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
+    "date": "2026-06-11"
   }
 ]

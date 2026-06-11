@@ -1,20 +1,20 @@
 {
-  "date": "Wed 10 Jun 2026",
+  "date": "Thu 11 Jun 2026",
   "top_items": [
     {
-      "title": "Everyone Analyzed Claude Code's Features. Nobody Analyzed Its Architecture.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/everyone-analyzed-claude-codes-features-nobody-analyzed-its-architecture-1173470ab622",
-      "one_liner": "Analyzes the architecture of Claude Code, providing deep insights into its technical foundation and capabilities."
+      "title": "Powering the next era of Confidential AI",
+      "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
+      "one_liner": "Highlights Google Cloud's Confidential AI and partnership with Apple for Private Cloud Compute (PCC)."
     },
     {
-      "title": "LLM vs RAG vs MCP: I Finally Know When to Use Each One",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pravash-techie/llm-vs-rag-vs-mcp-i-finally-know-when-to-use-each-one-77403510ba1d",
-      "one_liner": "Provides a practical guide on when to use LLM, RAG, and MCP architectures for AI solutions."
+      "title": "Transform dashboards into interactive data experiences with Looker agents",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
+      "one_liner": "Introduces Looker dashboard agents to enable interactive, conversational data experiences."
     },
     {
-      "title": "Microsoft Just Shocked Everyone: 7 New AI Models",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/microsoft-just-shocked-everyone-7-new-ai-models-a19e96ec56d7",
-      "one_liner": "Reports on Microsoft's new AI models, offering insights into the competitive AI landscape for enterprises."
+      "title": "What Anthropic Didn't Tell You About Self-Hosted Sandboxes",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/what-anthropic-didnt-tell-you-about-self-hosted-sandboxes-5f803a96452f",
+      "one_liner": "Explores the nuances and limitations of self-hosted sandboxes for Anthropic models."
     }
   ]
 }
