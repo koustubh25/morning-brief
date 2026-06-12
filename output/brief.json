@@ -1,20 +1,20 @@
 {
-  "date": "Thu 11 Jun 2026",
+  "date": "Fri 12 Jun 2026",
   "top_items": [
     {
-      "title": "Powering the next era of Confidential AI",
-      "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
-      "one_liner": "Highlights Google Cloud's Confidential AI and partnership with Apple for Private Cloud Compute (PCC)."
+      "title": "Anthropic's Coding Chief Doesn't Write Prompts Anymore. He Writes Loops.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/anthropics-coding-chief-doesn-t-write-prompts-anymore-he-writes-loops-86db2e05bb02",
+      "one_liner": "Discusses Anthropic's coding chief's shift to 'loops' over prompts and the company's concerns about AI progress."
     },
     {
-      "title": "Transform dashboards into interactive data experiences with Looker agents",
-      "url": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
-      "one_liner": "Introduces Looker dashboard agents to enable interactive, conversational data experiences."
+      "title": "Anthropic's Coding Chief Doesn't Write Prompts Anymore. He Writes Loops.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/anthropics-coding-chief-doesn-t-write-prompts-anymore-he-writes-loops-86db2e05bb02",
+      "one_liner": "Discusses Anthropic's coding chief's shift to 'loops' over prompts and the company's concerns about AI progress."
     },
     {
-      "title": "What Anthropic Didn't Tell You About Self-Hosted Sandboxes",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/what-anthropic-didnt-tell-you-about-self-hosted-sandboxes-5f803a96452f",
-      "one_liner": "Explores the nuances and limitations of self-hosted sandboxes for Anthropic models."
+      "title": "Claude Code Is a Mess, Until You Install This Official Plugin",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
+      "one_liner": "Highlights an official plugin that significantly improves Claude Code's ability to understand and navigate code projects."
     }
   ]
 }
