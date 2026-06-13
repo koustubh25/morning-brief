@@ -1,20 +1,20 @@
 {
-  "date": "Fri 12 Jun 2026",
+  "date": "Sat 13 Jun 2026",
   "top_items": [
     {
-      "title": "Anthropic's Coding Chief Doesn't Write Prompts Anymore. He Writes Loops.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/anthropics-coding-chief-doesn-t-write-prompts-anymore-he-writes-loops-86db2e05bb02",
-      "one_liner": "Discusses Anthropic's coding chief's shift to 'loops' over prompts and the company's concerns about AI progress."
+      "title": "Data Analysis with Claude Code - it's not just for programmers",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@alan-jones/data-analysis-with-claude-code-its-not-just-for-programmers-08adb529a70d",
+      "one_liner": "Demonstrates how Claude Code can be used for data analysis, not just programming tasks."
     },
     {
-      "title": "Anthropic's Coding Chief Doesn't Write Prompts Anymore. He Writes Loops.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/anthropics-coding-chief-doesn-t-write-prompts-anymore-he-writes-loops-86db2e05bb02",
-      "one_liner": "Discusses Anthropic's coding chief's shift to 'loops' over prompts and the company's concerns about AI progress."
+      "title": "The 10 Engineering Papers Behind Netflix, Uber, Amazon & Google",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/the-10-engineering-papers-behind-netflix-uber-amazon-google-f9955004155a",
+      "one_liner": "Highlights 10 key engineering papers from major tech companies like Google, Uber, and Netflix."
     },
     {
-      "title": "Claude Code Is a Mess, Until You Install This Official Plugin",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
-      "one_liner": "Highlights an official plugin that significantly improves Claude Code's ability to understand and navigate code projects."
+      "title": "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100%…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@CodeWithYog/this-terminal-tool-exploded-to-70k-github-stars-i-regret-ignoring-it-100-open-source-61da0a5c2e9d",
+      "one_liner": "A popular terminal tool gained traction, potentially challenging existing AI coding setups."
     }
   ]
 }
