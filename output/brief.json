@@ -1,20 +1,20 @@
 {
-  "date": "Sat 13 Jun 2026",
+  "date": "Sun 14 Jun 2026",
   "top_items": [
     {
-      "title": "Data Analysis with Claude Code - it's not just for programmers",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@alan-jones/data-analysis-with-claude-code-its-not-just-for-programmers-08adb529a70d",
-      "one_liner": "Demonstrates how Claude Code can be used for data analysis, not just programming tasks."
+      "title": "6 AI Concepts You Must Master to Build Production-Ready AI Systems",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/you-cant-build-ai-systems-without-understanding-these-6-concepts-first-bf20b8469f0d",
+      "one_liner": "Covers six essential AI concepts for successfully building production-ready AI systems."
     },
     {
-      "title": "The 10 Engineering Papers Behind Netflix, Uber, Amazon & Google",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/the-10-engineering-papers-behind-netflix-uber-amazon-google-f9955004155a",
-      "one_liner": "Highlights 10 key engineering papers from major tech companies like Google, Uber, and Netflix."
+      "title": "How I Actually Use Claude Code as a Senior Engineer",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@aayushostwal/how-i-actually-use-claude-code-as-a-senior-engineer-ab58c81c5a0d",
+      "one_liner": "A senior engineer shares practical, advanced usage patterns for Claude Code in development."
     },
     {
-      "title": "This Terminal Tool Exploded to 70K GitHub Stars. I Regret Ignoring It. 100%…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@CodeWithYog/this-terminal-tool-exploded-to-70k-github-stars-i-regret-ignoring-it-100-open-source-61da0a5c2e9d",
-      "one_liner": "A popular terminal tool gained traction, potentially challenging existing AI coding setups."
+      "title": "I Compared 6 Python AI Agent Frameworks So You Don't Have To: LangGraph vs…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
+      "one_liner": "Compares 6 Python AI agent frameworks, highlighting top performers for agent development."
     }
   ]
 }
