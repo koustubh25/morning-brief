@@ -1,20 +1,20 @@
 {
-  "date": "Sun 14 Jun 2026",
+  "date": "Mon 15 Jun 2026",
   "top_items": [
     {
-      "title": "6 AI Concepts You Must Master to Build Production-Ready AI Systems",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/you-cant-build-ai-systems-without-understanding-these-6-concepts-first-bf20b8469f0d",
-      "one_liner": "Covers six essential AI concepts for successfully building production-ready AI systems."
+      "title": "What’s new in data agents: Supercharging your AI workflows",
+      "url": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
+      "one_liner": "Highlights challenges and solutions for AI agents accessing enterprise data securely on Google Cloud."
     },
     {
-      "title": "How I Actually Use Claude Code as a Senior Engineer",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@aayushostwal/how-i-actually-use-claude-code-as-a-senior-engineer-ab58c81c5a0d",
-      "one_liner": "A senior engineer shares practical, advanced usage patterns for Claude Code in development."
+      "title": "Architecting a trusted agentic platform with graph technologies: A Yahoo case study",
+      "url": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
+      "one_liner": "Presents a Yahoo case study on architecting trusted agentic platforms with graph technologies on Google Cloud."
     },
     {
-      "title": "I Compared 6 Python AI Agent Frameworks So You Don't Have To: LangGraph vs…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
-      "one_liner": "Compares 6 Python AI agent frameworks, highlighting top performers for agent development."
+      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
+      "one_liner": "Andrej Karpathy created a full GPT implementation in just 243 lines of Python."
     }
   ]
 }
