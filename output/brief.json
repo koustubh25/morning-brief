@@ -1,20 +1,20 @@
 {
-  "date": "Mon 15 Jun 2026",
+  "date": "Tue 16 Jun 2026",
   "top_items": [
     {
-      "title": "What’s new in data agents: Supercharging your AI workflows",
-      "url": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
-      "one_liner": "Highlights challenges and solutions for AI agents accessing enterprise data securely on Google Cloud."
+      "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
+      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
+      "one_liner": "Google Cloud recognized as a leader in SIEM, crucial for modernizing security operations."
     },
     {
-      "title": "Architecting a trusted agentic platform with graph technologies: A Yahoo case study",
-      "url": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
-      "one_liner": "Presents a Yahoo case study on architecting trusted agentic platforms with graph technologies on Google Cloud."
+      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
+      "url": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
+      "one_liner": "Google's Brazos liquid cooling tackles extreme heat from AI/HPC chips in data centers."
     },
     {
-      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-      "one_liner": "Andrej Karpathy created a full GPT implementation in just 243 lines of Python."
+      "title": "How Siemens \"slices the elephant,\" advancing agentic workflows for industrial software development",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/",
+      "one_liner": "Siemens advances industrial software development with agentic workflows on Google Cloud."
     }
   ]
 }
