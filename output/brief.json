@@ -1,20 +1,20 @@
 {
-  "date": "Tue 16 Jun 2026",
+  "date": "Wed 17 Jun 2026",
   "top_items": [
     {
-      "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
-      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
-      "one_liner": "Google Cloud recognized as a leader in SIEM, crucial for modernizing security operations."
+      "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
+      "url": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+      "one_liner": "Introduces end-to-end observability for Google Cloud's Cross-Cloud Network in multi-cloud environments."
     },
     {
-      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
-      "url": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-      "one_liner": "Google's Brazos liquid cooling tackles extreme heat from AI/HPC chips in data centers."
+      "title": "I Replaced Cursor, Claude Code, and Copilot With a Local AI Coding Agent for 7…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/i-replaced-cursor-claude-code-and-copilot-with-a-local-ai-coding-agent-for-7-days-87c1537d0582",
+      "one_liner": "A user tests local AI coding agents against Cursor, Claude Code, and Copilot for enterprise readiness."
     },
     {
-      "title": "How Siemens \"slices the elephant,\" advancing agentic workflows for industrial software development",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/",
-      "one_liner": "Siemens advances industrial software development with agentic workflows on Google Cloud."
+      "title": "12 Insane Claude Fable 5 Use Cases!",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/12-insane-claude-fable-5-use-cases-72cb21f3f83d",
+      "one_liner": "Presents twelve inventive use cases for Claude Fable 5, challenging assumptions about its capabilities."
     }
   ]
 }
