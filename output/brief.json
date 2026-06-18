@@ -1,20 +1,20 @@
 {
-  "date": "Wed 17 Jun 2026",
+  "date": "Thu 18 Jun 2026",
   "top_items": [
     {
-      "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
-      "url": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
-      "one_liner": "Introduces end-to-end observability for Google Cloud's Cross-Cloud Network in multi-cloud environments."
+      "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
+      "one_liner": "Explores 100X engineering with AI agents on Google's Antigravity platform, shifting to agent-first development models."
     },
     {
-      "title": "I Replaced Cursor, Claude Code, and Copilot With a Local AI Coding Agent for 7…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/i-replaced-cursor-claude-code-and-copilot-with-a-local-ai-coding-agent-for-7-days-87c1537d0582",
-      "one_liner": "A user tests local AI coding agents against Cursor, Claude Code, and Copilot for enterprise readiness."
+      "title": "Stop Paying $20/month. Use NVIDIA Build: 80+ Free AI Models",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@lorenzozar/stop-paying-20-month-use-nvidia-build-80-free-ai-models-0b08205f91b5",
+      "one_liner": "Suggests using NVIDIA Build for free access to over 80 AI models, bypassing paid services."
     },
     {
-      "title": "12 Insane Claude Fable 5 Use Cases!",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/12-insane-claude-fable-5-use-cases-72cb21f3f83d",
-      "one_liner": "Presents twelve inventive use cases for Claude Fable 5, challenging assumptions about its capabilities."
+      "title": "A Step-by-Step Guide for Developing Your Personal Agentic System.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
+      "one_liner": "A detailed guide on establishing and developing personal agentic systems."
     }
   ]
 }
