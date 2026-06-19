@@ -1,20 +1,20 @@
 {
-  "date": "Thu 18 Jun 2026",
+  "date": "Fri 19 Jun 2026",
   "top_items": [
     {
-      "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
-      "one_liner": "Explores 100X engineering with AI agents on Google's Antigravity platform, shifting to agent-first development models."
+      "title": "The Killers of OpenAI, Google and Anthropic",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pepitoscrespo/the-killers-of-openai-google-and-anthropic-524bdadf3c05",
+      "one_liner": "Critically examines advancements in LLMs from leading AI labs and their market impact."
     },
     {
-      "title": "Stop Paying $20/month. Use NVIDIA Build: 80+ Free AI Models",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@lorenzozar/stop-paying-20-month-use-nvidia-build-80-free-ai-models-0b08205f91b5",
-      "one_liner": "Suggests using NVIDIA Build for free access to over 80 AI models, bypassing paid services."
+      "title": "Beyond Spec-Driven Development: The Agentic Engineering Playbook That's…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/beyond-spec-driven-development-the-agentic-engineering-playbook-thats-replacing-how-we-build-3031bd6e2b68",
+      "one_liner": "Introduces an agentic engineering playbook for organisations to enhance development beyond traditional methods."
     },
     {
-      "title": "A Step-by-Step Guide for Developing Your Personal Agentic System.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-      "one_liner": "A detailed guide on establishing and developing personal agentic systems."
+      "title": "Hermes Agent Is Cool. Running It Safely 24/7 Is the Real Trick.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/hermes-agent-is-cool-running-it-safely-24-7-is-the-real-trick-f0919eee890c",
+      "one_liner": "Discusses the challenges and solutions for safely operating persistent AI agents 24/7."
     }
   ]
 }
