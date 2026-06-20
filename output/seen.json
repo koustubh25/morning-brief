@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/anthropics-coding-chief-doesn-t-write-prompts-anymore-he-writes-loops-86db2e05bb02",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/sam-altman-has-a-new-problem-google-just-shrank-ai-memory-from-31gb-to-4gb-c43869d307fd",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@heinancabouly/minio-redis-hashicorp-a-sustainability-crisis-reaching-your-stack-in-2026-78f9577699cb",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@vishal-ai/burning-a-transformer-into-silicon-the-case-for-gpu-free-ai-inference-6d7b8beb288a",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@animeshgaitonde/from-cron-to-distributed-schedulers-scaling-job-execution-to-thousands-of-jobs-per-second-ef05955bf3d9",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/elon-musk-just-did-to-coding-what-spacex-did-to-rockets-817d9a12a5c2",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@umeshcapg/a-revolutionary-java-performance-tuning-technique-achieve-millisecond-level-latency-tracking-with-ca7f355d8d12",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@piedpay/ultimate-terminal-beautification-guide-starship-ghostty-zsh-to-create-a-high-visual-appeal-6b8f21063cb5",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/06/google-vault-now-supports-retention-rules-and-litigation-holds-for-Gemini-app.html",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "date": "2026-06-12"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@alan-jones/data-analysis-with-claude-code-its-not-just-for-programmers-08adb529a70d",
     "date": "2026-06-13"
   },
@@ -498,5 +438,65 @@
   {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFh2Nm5ySjRyS2Y5bGNWQkl1NjJQYUdmcUdNZG1sbFJWRVhidzcxMzNJSWtrRE1VLUVBSHBVMnBzRWlEWkRLMW40bWJXR1lSZlR3N1Z6MDJEUVB2U0xjeGRPbXkwRllDNC01LUxIdWJWTUNvWlNaZUZhb2tQOUYtZkNkQXl0ZGgzZEtTOWFfLWYzajNkS2xpRVhVSE54ODNET293U2lkenROaUpVZ2xvTl9ySHhILVp5cjRFSGtR?oc=5",
     "date": "2026-06-19"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/how-to-master-claude-8-simple-habits-that-separate-power-users-from-everyone-else-d552547b109b",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/dario-amodei-says-90-of-anthropics-code-is-now-written-by-claude-f324356260de",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/rag-is-a-knowledge-interpreter-time-for-a-compiler-compile-time-rag-ad3c8cba66a1",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ilsilfverskiold/agentic-ai-how-to-save-on-tokens-9a1571ac6c85",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rlms-the-mit-trick-that-makes-a-small-ai-beat-gpt-5-668c7744cda7",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielwarfield1/agent-harnesses-intuitively-and-exhaustively-explained-52aa6b4e7ebd",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mattthenomad/the-obvious-ways-to-spot-someone-secretly-writing-with-ai-f36ce8d4d715",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/loop-engineering-is-not-what-everybody-thinks-it-is-6719a0f4f83f",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/databricks-just-changed-data-engineering-forever-44e23d3f0204",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sachinkasana/10-node-js-tools-i-use-in-production-that-most-devs-ignore-35470cdd9f8b",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@21zerixpm/10-chatgpt-image-prompts-that-went-viral-36977b5222ce",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/the-sad-reason-why-gen-z-looks-so-much-older-than-millennials-0352a599524c",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/06/google-vault-now-supports-retention-rules-and-litigation-holds-for-Gemini-app.html",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakVkR0hjTHl6aUFxNzFxZTJkb2syd2xYSmhhVm91RmNaSy1oZFlqNGhQRFFBM0UtTlZ3ckhoMlpuWWZmT2I3Q2JFdTJTdi0tN2Zwa3gzbjhuQ1VtTWFwX2oxYWpnVVY1NVJOdlVaZ3R6dV94SmgtRUJZSURWVk1LZW8zcVFyVUk?oc=5",
+    "date": "2026-06-20"
   }
 ]
