@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@alan-jones/data-analysis-with-claude-code-its-not-just-for-programmers-08adb529a70d",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/the-10-engineering-papers-behind-netflix-uber-amazon-google-f9955004155a",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@CodeWithYog/this-terminal-tool-exploded-to-70k-github-stars-i-regret-ignoring-it-100-open-source-61da0a5c2e9d",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/the-eu-banned-an-entire-ai-product-category-yesterday-most-builders-missed-it-8419d57bc487",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/how-cloudflare-serves-55-million-requests-per-second-from-3-engineers-laptops-fb6fc08e8184",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codebyumar/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@paoloperrone/i-was-ready-to-return-my-dgx-spark-then-nvidias-january-update-changed-everything-e67699155a45",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@JimTheAIWhisperer/i-broke-google-ais-system-prompt-to-write-steamy-erotica-c5a294ea2056",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yogeshwar9354/after-watching-12-000-login-attempts-hit-my-fresh-vps-i-stopped-exposing-servers-to-the-internet-6ed10be22af7",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-vs-c-8-million-ops-sec-where-raw-speed-met-production-reality-593c13e84bf7",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gwangjinkim/make-your-home-computer-reachable-from-anywhere-no-public-ip-no-router-touching-3c1295c8811b",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4dWFCV045dkpkRHBqSUttNUdLY3lGZXpaN3RtNVl3bWRBWXZKWk0tR0NabUNudWxha2s4ZlVjdXRwaXJIRERXX0FlWjRVa1c0dXpoMDVUQU80MEpReTdNRDE4UmN0eWptRmJtb1JBblVwdw?oc=5",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1BlN0U3YzZUaUJaUWJMalNkOE45Y3NmYU5XbkkyZmFEMV9uZk9ZcFV1ZU9CWUxkMUx0dTZ2VlFmTUdOTWxmQmpUMUNVc0RkYUE3VDRmOVV2R0pVRG5pOTZnN2ZuZGpLQlNUSXhfRmZxLUNIaEJwaFI5YnVEVWVZcXlaSFhDSlMzUFFZRXhGb2FubnR3b2VjTmNkNzkzdzJ6c1ZPeGgtdVNnTDhQR0lLUHNHcVRkS0E?oc=5",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0VOWFJ3Wk9OQkNvY2dGOW04bFJnU0wxNUM4VFhxU3NVT2kwV2FCT3BvZ0FzZ2JUQ2VHQ2xyckxoeGtTTldQQy15Qm9nX29XZTZnM3F6X016U043eXE4Yk9SX1BZeXEyRW56eW04TEFEUGRVcTVlaW54RDhZX1NtZS02ZFJqcmo0TkZzcVAxQml2cW9faExYS3FB?oc=5",
-    "date": "2026-06-13"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/you-cant-build-ai-systems-without-understanding-these-6-concepts-first-bf20b8469f0d",
     "date": "2026-06-14"
   },
@@ -498,5 +426,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakVkR0hjTHl6aUFxNzFxZTJkb2syd2xYSmhhVm91RmNaSy1oZFlqNGhQRFFBM0UtTlZ3ckhoMlpuWWZmT2I3Q2JFdTJTdi0tN2Zwa3gzbjhuQ1VtTWFwX2oxYWpnVVY1NVJOdlVaZ3R6dV94SmgtRUJZSURWVk1LZW8zcVFyVUk?oc=5",
     "date": "2026-06-20"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@vndpal/i-built-20-ai-agents-here-are-the-hidden-lessons-15c1b2130749",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sonnyhuynhb/i-built-an-ai-powered-second-brain-with-obsidian-claude-code-heres-how-b70e28100099",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/open-source-models-are-good-enough-stop-overpaying-for-intelligence-you-dont-need-3b533c716f55",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/opencode-is-the-linux-of-agents-and-thats-the-entire-point-05ec2194ff9e",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-is-now-paying-elon-musk-1-25-billion-a-month-to-stay-alive-f3ee57c9dfd0",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@koshurai/paddleocr-vl-1-5-5b81daa82002",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@iswaryawrites/what-everyone-is-missing-about-the-m5-macbook-b95af2a9c841",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@simonwparsons/the-passive-income-snowball-that-replaced-my-retirement-plan-0d719b59738c",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hwillraft/the-most-dangerous-book-carl-jung-ever-wrote-sat-hidden-in-a-bank-vault-for-50-years-1499da2bfa67",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
+    "date": "2026-06-21"
   }
 ]

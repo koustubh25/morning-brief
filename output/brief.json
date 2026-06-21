@@ -1,20 +1,20 @@
 {
-  "date": "Sat 20 Jun 2026",
+  "date": "Sun 21 Jun 2026",
   "top_items": [
     {
-      "title": "How to Master Claude: 8 Simple Habits That Separate Power Users From Everyone…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/how-to-master-claude-8-simple-habits-that-separate-power-users-from-everyone-else-d552547b109b",
-      "one_liner": "Details eight habits for effectively using Claude, distinguishing power users from casual users."
+      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
+      "one_liner": "Argues Anthropic is a significant, under-discussed competitor reshaping the AI landscape."
     },
     {
-      "title": "I Copied Anthropic's Exact AI Setup. It Feels Like Cheating.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/dario-amodei-says-90-of-anthropics-code-is-now-written-by-claude-f324356260de",
-      "one_liner": "Dario Amodei reveals Anthropic uses AI heavily for code generation, suggesting efficiency gains."
+      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
+      "one_liner": "Argues Anthropic is a significant, under-discussed competitor reshaping the AI landscape."
     },
     {
-      "title": "RAG is a knowledge interpreter. Time for a compiler - Compile-Time RAG",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/rag-is-a-knowledge-interpreter-time-for-a-compiler-compile-time-rag-ad3c8cba66a1",
-      "one_liner": "Proposes 'Compile-Time RAG' to improve efficiency by moving retrieval outside request cycles."
+      "title": "I Built 20+ AI Agents. Here Are the Hidden Lessons",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vndpal/i-built-20-ai-agents-here-are-the-hidden-lessons-15c1b2130749",
+      "one_liner": "Shares hidden lessons learned from building over 20 AI agents for practical application."
     }
   ]
 }
