@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/you-cant-build-ai-systems-without-understanding-these-6-concepts-first-bf20b8469f0d",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@aayushostwal/how-i-actually-use-claude-code-as-a-senior-engineer-ab58c81c5a0d",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thedevloop/i-compared-6-python-ai-agent-frameworks-so-you-dont-have-to-langgraph-vs-crewai-vs-pydanticai-vs-d8a5e6e43262",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/you-cant-regulate-programming-how-the-eu-ai-act-may-kill-software-9914ab61df00",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/is-apache-camel-the-future-of-ai-9a7e24bea324",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/websockets-vs-sse-at-100k-connections-sse-used-40-less-memory-40faeafd419d",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kakamber07/my-company-just-rebuilt-around-a-one-person-team-i-watched-my-entire-pod-disappear-in-90-days-3a58d5e6ae5e",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@patrickkoss/my-hot-neovim-setup-or-how-i-stopped-worrying-and-learned-to-love-lua-43cc3fb587ce",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/i-designed-airbnbs-booking-system-live-the-interviewer-stopped-me-at-minute-12-1b3228fb6c50",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@forwardpress/when-france-was-liberated-men-shaved-womens-heads-in-the-streets-94b4a92c37eb",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QN2xjWHZObUkyallCV080N3Z2SVdjMUV1SnBVdk1NVlIzRk1sZDlmSkxlRmxCODBEZ0RDam5xb0xnVE9Bcml2TXdmS0MzSUZDc1B2OUVIckhMX3NxRHRIZzd2a29jZDgwZV94ejFrUXg?oc=5",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblpnWUFlbl95cTI4eFY1NWZ4V3prc093TzY2ZUUxcXlaMEtiaGZjUG45NE9JXzJ6ZndyTGdBVm1tZU9mZjg4M01nc0RiSWs2dDlxTUdPUHdkMll5VjgtTEo3VkhDYWxTbHF1VTNsQVVTOTNuWFdEaDc5ZlRoc2R4NGxXZVVnRWVDVnFlWHV0cWxNeWsxblRRc1Q2NlNJcTNJMDdBTmNaVXg5b01zaS16UXhhaG9yX0R2ZldBa3g0UGdSZU43QzlPV0xxelRRZVNlMHpGQTdn?oc=5",
-    "date": "2026-06-14"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
     "date": "2026-06-15"
   },
@@ -478,5 +426,65 @@
   {
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
     "date": "2026-06-21"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/60-95-fewer-tokens-with-claude-code-and-codex-1394ec9900bc",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-built-a-monster-claude-md-and-my-coding-agent-got-scary-good-31f7fc24df7f",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/ai-agents-in-2026-a-practical-guide-918239017060",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@loschiavochristian/building-llm-memory-from-scratch-4-knowledge-graph-memory-18fb3cbe02c6",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/100-000-github-stars-in-weeks-why-developers-cant-stop-talking-about-gstack-f00c1b189447",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/google-paid-2-7-billion-to-bring-him-back-less-than-two-years-later-he-left-for-openai-13969eb1e85c",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@derailed.dash/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-a938c7eebb78",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/master-obsidian-the-complete-and-definitive-guide-to-turning-your-notes-into-a-second-brain-43f9f147f31a",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
+    "date": "2026-06-22"
   }
 ]

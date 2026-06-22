@@ -1,20 +1,20 @@
 {
-  "date": "Sun 21 Jun 2026",
+  "date": "Mon 22 Jun 2026",
   "top_items": [
     {
-      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
-      "one_liner": "Argues Anthropic is a significant, under-discussed competitor reshaping the AI landscape."
+      "title": "Boost BigQuery with Python: Managed Python UDFs now generally available",
+      "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
+      "one_liner": "BigQuery now supports Managed Python UDFs, enabling complex data analysis beyond SQL."
     },
     {
-      "title": "Anthropic Is Quietly Dismantling Everything OpenAI Built. And Nobody's Talking…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
-      "one_liner": "Argues Anthropic is a significant, under-discussed competitor reshaping the AI landscape."
+      "title": "Troubleshoot formula errors quickly with Gemini in Google Sheets",
+      "url": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
+      "one_liner": "Gemini in Google Sheets offers one-click troubleshooting and correction for formula errors."
     },
     {
-      "title": "I Built 20+ AI Agents. Here Are the Hidden Lessons",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vndpal/i-built-20-ai-agents-here-are-the-hidden-lessons-15c1b2130749",
-      "one_liner": "Shares hidden lessons learned from building over 20 AI agents for practical application."
+      "title": "The Starter Tier for Google AI Studio explained",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+      "one_liner": "Explains Google AI Studio's Starter Tier for easy deployment of AI prototypes to GCP."
     }
   ]
 }
