@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-will-quietly-reprice-your-claude-pro-plan-on-june-15-the-free-20-credit-replacing-1ebd922a7786",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/openai-just-open-sourced-the-one-thing-every-startup-should-have-built-first-5792ed30c519",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/graphrag-vs-vectorless-rag-vs-vector-rag-a-2026-guide-to-advanced-context-engineering-e8e9264cab38",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/nvidia-just-put-a-120-billion-parameter-ai-model-in-your-laptop-heres-what-that-actually-changes-c95fea08acd0",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/free-antigravity-just-became-unstoppable-with-opencode-24391dcc4203",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/the-opencode-revolution-more-than-just-another-chatbot-21706215701f",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/top-ai-github-repositories-that-are-dominating-2026-and-you-also-need-to-know-about-that-970ce6a61b96",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@daegonk/headlamp-the-new-kubernetes-dashboard-be644d90d240",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/7-things-i-did-to-fix-my-unfocused-overstimulated-brain-a257421beadd",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@LizBeth1400/a-student-pressured-texas-a-m-to-fire-her-professor-now-the-professor-is-suing-texas-a-m-8399d38e4847",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/06/introducing-workspace-policy-api-mutate-endpoints-for-DLP.html",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
-    "date": "2026-06-15"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
     "date": "2026-06-16"
   },
@@ -486,5 +418,61 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
     "date": "2026-06-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-claude-code-locally-on-a-mac-65-tok-s-with-a-4-bit-qwen3-6-27b-and-dflash-speculative-decoding-bdb346364cdc",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@reactjsbd/anthropic-ships-17-skills-for-code-and-11-plugins-for-cowork-c752d2ae5a20",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/run-ai-locally-with-llama-cpp-no-limits-no-internet-no-cost-83177dc242ff",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codebyumar/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anulagarwal12/my-ai-generated-game-earned-25-000-here-is-how-it-happened-ea5612d91464",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-hired-a-penetration-tester-to-attack-my-fastapi-app-he-owned-everything-in-45-minutes-b66818704f6b",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/steve-jobss-10-80-10-rule-is-even-more-useful-in-the-ai-era-8b003c8a9f7e",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/apple-just-killed-the-app-store-and-ui-ux-designers-are-panicking-d39c1f0cd1c6",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5",
+    "date": "2026-06-23"
   }
 ]
