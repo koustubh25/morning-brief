@@ -1,20 +1,20 @@
 {
-  "date": "Tue 23 Jun 2026",
+  "date": "Wed 24 Jun 2026",
   "top_items": [
     {
-      "title": "Run Claude Code Locally on a Mac: 65 tok/s with a 4-bit Qwen3.6–27B and DFlash…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-claude-code-locally-on-a-mac-65-tok-s-with-a-4-bit-qwen3-6-27b-and-dflash-speculative-decoding-bdb346364cdc",
-      "one_liner": "Guide to running Claude Code locally on Mac for high-speed inference with Qwen3.6-27B."
+      "title": "Qwen3.7-Max Lands Near Opus 4.7 and GPT-5.5: New Daily Driver for Devs?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
+      "one_liner": "Highlights Qwen3.7-Max, a new LLM performance comparable to top-tier models, posing as a potential new daily driver for developers."
     },
     {
-      "title": "Run Claude Code Locally on a Mac: 65 tok/s with a 4-bit Qwen3.6–27B and DFlash…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-claude-code-locally-on-a-mac-65-tok-s-with-a-4-bit-qwen3-6-27b-and-dflash-speculative-decoding-bdb346364cdc",
-      "one_liner": "Guide to running Claude Code locally on Mac for high-speed inference with Qwen3.6-27B."
+      "title": "Do You Still Need Claude Code? I Tested OpenCode With NVIDIA Nemotron",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@CodeWithYog/do-you-still-need-claude-code-i-tested-opencode-with-nvidia-nemotron-cd266bc9c700",
+      "one_liner": "Evaluates the utility of Claude Code against a new open-source coding agent, OpenCode, and NVIDIA Nemotron models."
     },
     {
-      "title": "Anthropic Ships 17 Skills for Code and 11 Plugins for Cowork.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@reactjsbd/anthropic-ships-17-skills-for-code-and-11-plugins-for-cowork-c752d2ae5a20",
-      "one_liner": "Anthropic introduces new code skills and plugins for Claude, enhancing its agentic capabilities for developers."
+      "title": "Qwen3.7-Max Lands Near Opus 4.7 and GPT-5.5: New Daily Driver for Devs?",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
+      "one_liner": "Highlights Qwen3.7-Max, a new LLM performance comparable to top-tier models, posing as a potential new daily driver for developers."
     }
   ]
 }

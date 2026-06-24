@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/claude-code-without-subscription-a-proxy-that-actually-works-14593eda0709",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/i-thought-apache-iggy-was-just-another-kafka-clone-i-was-wrong-867194591f08",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@attilavago/tailwinds-struggles-are-signs-of-a-collapsing-house-of-cards-df52c1b89c46",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/the-stripe-system-design-question-that-separates-senior-from-staff-engineers-b39f1f1a05cf",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/a-4-billion-empire-broke-open-source-they-threatened-one-developer-it-backfired-da390a20bc1f",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
-    "date": "2026-06-16"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
     "date": "2026-06-17"
   },
@@ -474,5 +426,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5",
     "date": "2026-06-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@CodeWithYog/do-you-still-need-claude-code-i-tested-opencode-with-nvidia-nemotron-cd266bc9c700",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cameronrwolfe/automatic-prompt-optimization-4424a46cad6a",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/ds-star-how-google-built-a-data-science-agent-that-actually-works-1c1a7b593277",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jproco/the-first-company-wide-ai-ban-just-hit-my-inbox-heres-what-it-means-00bf365fa48d",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/stop-building-one-giant-ai-agent-hermes-agent-profiles-let-you-run-a-fleet-14da1233be99",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/llama-cpp-has-now-a-website-and-running-a-local-ai-will-never-be-so-easy-cfd5bde56702",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@paoloperrone/i-was-ready-to-return-my-dgx-spark-then-nvidias-january-update-changed-everything-e67699155a45",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gopi_ck/8-terminal-tricks-i-use-every-single-day-c61219f3f4f6",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/06/temporary-chats-and-conversation-deletion-control-for-gemini.html",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlRLRklhaHBaX0g3ejhVVXRoaGY3RHlUMDdHcU42MlpXbGJjVjV5YVNfUVZMZFR4enBEWENuYlF1U2VUa04tUDBvejg3V0xKLUphUlp5RXQ0NUgyU3ZRQkV3UjJwSHlRZXktNmY5amp1RGxPcC1abDhPX0Rpemd3N1lVaVo?oc=5",
+    "date": "2026-06-24"
   }
 ]
