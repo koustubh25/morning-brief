@@ -1,20 +1,20 @@
 {
-  "date": "Thu 25 Jun 2026",
+  "date": "Fri 26 Jun 2026",
   "top_items": [
     {
-      "title": "Anthropic's Claude Certified Architect Exam (CCA-F): You Cannot Memorize Your…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/anthropics-claude-certified-architect-exam-cca-f-you-cannot-memorize-your-way-through-the-cca-f-d831a680133c",
-      "one_liner": "Insights into the Anthropic Claude Certified Architect (CCA-F) exam, stressing practical knowledge."
+      "title": "Google Workspace Weekly Recap - June 26, 2026",
+      "url": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-26-2026.html",
+      "one_liner": "Gemini in Google Sheets now offers one-click diagnosis and correction for formula errors, streamlining analysis."
     },
     {
-      "title": "Anthropic's Claude Certified Architect Exam (CCA-F): You Cannot Memorize Your…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@richardhightower/anthropics-claude-certified-architect-exam-cca-f-you-cannot-memorize-your-way-through-the-cca-f-d831a680133c",
-      "one_liner": "Insights into the Anthropic Claude Certified Architect (CCA-F) exam, stressing practical knowledge."
+      "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
+      "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
+      "one_liner": "Details using VPC Service Controls to secure enterprise AI agents and protect data."
     },
     {
-      "title": "I Tried 33 Claude Code Skills. These Are The Best",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-33-claude-code-skills-these-are-the-best-daf8caf92a2a",
-      "one_liner": "A ranked review of 33 Claude Code skills, highlighting the most effective commands."
+      "title": "Gemma 4 12B + TurboQuant+ MTP + RAG = Better OCR & Self-Hosted",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@GaoDalie_AI/gemma-4-12b-turboquant-mtp-rag-better-ocr-self-hosted-c2cc587bea10",
+      "one_liner": "Gemma 4 12B with TurboQuant+ and RAG enhances OCR and enables self-hosted solutions."
     }
   ]
 }
