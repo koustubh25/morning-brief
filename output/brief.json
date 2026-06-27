@@ -1,20 +1,20 @@
 {
-  "date": "Fri 26 Jun 2026",
+  "date": "Sat 27 Jun 2026",
   "top_items": [
     {
-      "title": "Google Workspace Weekly Recap - June 26, 2026",
-      "url": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-26-2026.html",
-      "one_liner": "Gemini in Google Sheets now offers one-click diagnosis and correction for formula errors, streamlining analysis."
+      "title": "He writes 94% less code, 20% cheaper and 27% faster.. and it works!",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/he-writes-94-less-code-20-cheaper-and-27-faster-and-it-works-e0f780f9a89a",
+      "one_liner": "A developer reportedly writes 94% less code, achieving significant cost and speed improvements with AI assistance."
     },
     {
-      "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
-      "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
-      "one_liner": "Details using VPC Service Controls to secure enterprise AI agents and protect data."
+      "title": "I broke Google AI's system prompt to write steamy erotica",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@JimTheAIWhisperer/i-broke-google-ais-system-prompt-to-write-steamy-erotica-c5a294ea2056",
+      "one_liner": "A hacker successfully bypassed Google AI's safeguards to generate explicit content, revealing prompt vulnerabilities."
     },
     {
-      "title": "Gemma 4 12B + TurboQuant+ MTP + RAG = Better OCR & Self-Hosted",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@GaoDalie_AI/gemma-4-12b-turboquant-mtp-rag-better-ocr-self-hosted-c2cc587bea10",
-      "one_liner": "Gemma 4 12B with TurboQuant+ and RAG enhances OCR and enables self-hosted solutions."
+      "title": "The EU Banned an Entire AI Product Category Yesterday. Most Builders Missed It.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/the-eu-banned-an-entire-ai-product-category-yesterday-most-builders-missed-it-8419d57bc487",
+      "one_liner": "EU AI Act restricts AI product categories, influencing enterprise adoption and compliance strategies."
     }
   ]
 }
