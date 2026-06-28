@@ -1,20 +1,20 @@
 {
-  "date": "Sat 27 Jun 2026",
+  "date": "Sun 28 Jun 2026",
   "top_items": [
     {
-      "title": "He writes 94% less code, 20% cheaper and 27% faster.. and it works!",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/he-writes-94-less-code-20-cheaper-and-27-faster-and-it-works-e0f780f9a89a",
-      "one_liner": "A developer reportedly writes 94% less code, achieving significant cost and speed improvements with AI assistance."
+      "title": "Ornith-1.0–35B: The MoE Model That Runs Like 3B, Thinks Like 27B",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/ornith-1-0-35b-the-moe-model-that-runs-like-3b-thinks-like-27b-1e7a0fe5a64e",
+      "one_liner": "Introduces Ornith-1.0–35B, a Mixture-of-Experts model offering efficient scaling of performance."
     },
     {
-      "title": "I broke Google AI's system prompt to write steamy erotica",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@JimTheAIWhisperer/i-broke-google-ais-system-prompt-to-write-steamy-erotica-c5a294ea2056",
-      "one_liner": "A hacker successfully bypassed Google AI's safeguards to generate explicit content, revealing prompt vulnerabilities."
+      "title": "I Turned Claude Code Into an Operating System. Here's the Blueprint.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
+      "one_liner": "Details building an operating system by integrating Claude Code with hooks and skills for enhanced functionality."
     },
     {
-      "title": "The EU Banned an Entire AI Product Category Yesterday. Most Builders Missed It.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/the-eu-banned-an-entire-ai-product-category-yesterday-most-builders-missed-it-8419d57bc487",
-      "one_liner": "EU AI Act restricts AI product categories, influencing enterprise adoption and compliance strategies."
+      "title": "RAG is a knowledge interpreter. Time for a compiler - Compile-Time RAG",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/rag-is-a-knowledge-interpreter-time-for-a-compiler-compile-time-rag-ad3c8cba66a1",
+      "one_liner": "Explores 'Compile-Time RAG' as a novel approach to optimise retrieval in LLM applications."
     }
   ]
 }
