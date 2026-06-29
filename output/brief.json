@@ -1,20 +1,20 @@
 {
-  "date": "Sun 28 Jun 2026",
+  "date": "Mon 29 Jun 2026",
   "top_items": [
     {
-      "title": "Ornith-1.0–35B: The MoE Model That Runs Like 3B, Thinks Like 27B",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/ornith-1-0-35b-the-moe-model-that-runs-like-3b-thinks-like-27b-1e7a0fe5a64e",
-      "one_liner": "Introduces Ornith-1.0–35B, a Mixture-of-Experts model offering efficient scaling of performance."
+      "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
+      "url": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
+      "one_liner": "BigQuery's AI.AGG function allows natural language summarization of millions of rows in a single SQL query."
     },
     {
-      "title": "I Turned Claude Code Into an Operating System. Here's the Blueprint.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
-      "one_liner": "Details building an operating system by integrating Claude Code with hooks and skills for enhanced functionality."
+      "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+      "one_liner": "Google Cloud Security leverages AI internally to achieve autonomous software development lifecycle security."
     },
     {
-      "title": "RAG is a knowledge interpreter. Time for a compiler - Compile-Time RAG",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/rag-is-a-knowledge-interpreter-time-for-a-compiler-compile-time-rag-ad3c8cba66a1",
-      "one_liner": "Explores 'Compile-Time RAG' as a novel approach to optimise retrieval in LLM applications."
+      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+      "one_liner": "Discover the underutilized agent modes of Claude Code and how developers can leverage them."
     }
   ]
 }

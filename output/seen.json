@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/anthropic-is-quietly-dismantling-everything-openai-built-and-nobodys-talking-about-it-66d0602ae94d",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@vndpal/i-built-20-ai-agents-here-are-the-hidden-lessons-15c1b2130749",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sonnyhuynhb/i-built-an-ai-powered-second-brain-with-obsidian-claude-code-heres-how-b70e28100099",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/open-source-models-are-good-enough-stop-overpaying-for-intelligence-you-dont-need-3b533c716f55",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fabio.matricardi/opencode-is-the-linux-of-agents-and-thats-the-entire-point-05ec2194ff9e",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noob-programmer/anthropic-is-now-paying-elon-musk-1-25-billion-a-month-to-stay-alive-f3ee57c9dfd0",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@koshurai/paddleocr-vl-1-5-5b81daa82002",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@iswaryawrites/what-everyone-is-missing-about-the-m5-macbook-b95af2a9c841",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@simonwparsons/the-passive-income-snowball-that-replaced-my-retirement-plan-0d719b59738c",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hwillraft/the-most-dangerous-book-carl-jung-ever-wrote-sat-hidden-in-a-bank-vault-for-50-years-1499da2bfa67",
-    "date": "2026-06-21"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
-    "date": "2026-06-21"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
     "date": "2026-06-22"
   },
@@ -474,5 +422,53 @@
   {
     "url": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
     "date": "2026-06-28"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/running-a-35b-large-model-local-ai-agent-on-6gb-vram-the-complete-deployment-guide-for-qwen3-6-35-7513982c19c3",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielwarfield1/agent-harnesses-intuitively-and-exhaustively-explained-52aa6b4e7ebd",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ignacio.de.gregorio.noblejas/chinas-first-true-frontier-model-3cb60893a67b",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yogeshwar9354/after-watching-12-000-login-attempts-hit-my-fresh-vps-i-stopped-exposing-servers-to-the-internet-6ed10be22af7",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-strikes-again-meet-obscura-the-headless-browser-making-chrome-look-like-a-memory-hog-e1236ad88cea",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shivambharadwaj/10-best-free-mcp-servers-for-developers-in-2026-20bd96314f4b",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anshusinghal703/the-industry-secret-how-rust-wasm-became-the-default-for-high-paying-platform-jobs-5bcbb0680294",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/billions-of-computers-run-his-editor-he-managed-it-for-32-years-6a283fdec2f8",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@missrennie/7-000-years-ago-95-of-men-vanished-from-the-gene-pool-aae966e2211e",
+    "date": "2026-06-29"
   }
 ]
