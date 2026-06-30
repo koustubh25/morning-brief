@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/60-95-fewer-tokens-with-claude-code-and-codex-1394ec9900bc",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-built-a-monster-claude-md-and-my-coding-agent-got-scary-good-31f7fc24df7f",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/ai-agents-in-2026-a-practical-guide-918239017060",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@loschiavochristian/building-llm-memory-from-scratch-4-knowledge-graph-memory-18fb3cbe02c6",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/100-000-github-stars-in-weeks-why-developers-cant-stop-talking-about-gstack-f00c1b189447",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kanishks772/google-paid-2-7-billion-to-bring-him-back-less-than-two-years-later-he-left-for-openai-13969eb1e85c",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@derailed.dash/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-a938c7eebb78",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/master-obsidian-the-complete-and-definitive-guide-to-turning-your-notes-into-a-second-brain-43f9f147f31a",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shereshevsky/your-obsidian-vault-is-a-knowledge-graph-heres-how-to-make-it-think-quickly-1487614a7682",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-claude-code-locally-on-a-mac-65-tok-s-with-a-4-bit-qwen3-6-27b-and-dflash-speculative-decoding-bdb346364cdc",
     "date": "2026-06-23"
   },
@@ -470,5 +410,65 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@missrennie/7-000-years-ago-95-of-men-vanished-from-the-gene-pool-aae966e2211e",
     "date": "2026-06-29"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/the-transformer-architecture-is-being-replaced-what-47-000-hours-of-training-data-revealed-e483c5ad7c6c",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/databricks-just-changed-data-engineering-forever-44e23d3f0204",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-vs-c-8-million-ops-sec-where-raw-speed-met-production-reality-593c13e84bf7",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@howtoarchitect/spec-driven-development-isnt-broken-it-will-collapse-c00609f72496",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/russia-faces-command-collapse-as-execution-shooters-emerge-inside-its-army-adb2aaca46ec",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/fiction-as-a-mirror-for-truth-b0797c053d4d",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/how-pride-is-like-independence-day-f0446b8d9a3c",
+    "date": "2026-06-30"
   }
 ]

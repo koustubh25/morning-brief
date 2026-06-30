@@ -1,20 +1,20 @@
 {
-  "date": "Mon 29 Jun 2026",
+  "date": "Tue 30 Jun 2026",
   "top_items": [
     {
-      "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
-      "url": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
-      "one_liner": "BigQuery's AI.AGG function allows natural language summarization of millions of rows in a single SQL query."
+      "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
+      "one_liner": "New Gemini Enterprise Agent Platform MCP server enables secure agent connections to GCP resources."
     },
     {
-      "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
-      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
-      "one_liner": "Google Cloud Security leverages AI internally to achieve autonomous software development lifecycle security."
+      "title": "Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+      "one_liner": "Gemini Enterprise Agent Platform introduces Nano Banana 2 Lite for faster, cost-efficient image generation."
     },
     {
-      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-      "one_liner": "Discover the underutilized agent modes of Claude Code and how developers can leverage them."
+      "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
+      "one_liner": "Google Cloud's AlloyDB Omni enables AI-driven transformation and compliance for financial services."
     }
   ]
 }
