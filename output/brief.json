@@ -1,20 +1,20 @@
 {
-  "date": "Tue 30 Jun 2026",
+  "date": "Wed 1 Jul 2026",
   "top_items": [
     {
-      "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
-      "one_liner": "New Gemini Enterprise Agent Platform MCP server enables secure agent connections to GCP resources."
+      "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
+      "url": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
+      "one_liner": "AlloyDB's AI functions, including vector search and natural language-to-SQL, enhance agentic development and conversational tools."
     },
     {
-      "title": "Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
-      "one_liner": "Gemini Enterprise Agent Platform introduces Nano Banana 2 Lite for faster, cost-efficient image generation."
+      "title": "Get started with the Claude apps gateway for Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
+      "one_liner": "Guide to integrating Anthropic's Claude Code with Google Cloud's Vertex AI for secure, perimeter-bound enterprise deployments."
     },
     {
-      "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
-      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
-      "one_liner": "Google Cloud's AlloyDB Omni enables AI-driven transformation and compliance for financial services."
+      "title": "Claude Code agents: what they actually are",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-agents-what-they-actually-are-2d6ea121b936",
+      "one_liner": "Provides a detailed explanation of subagents within Claude Code."
     }
   ]
 }

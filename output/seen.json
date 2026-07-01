@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-claude-code-locally-on-a-mac-65-tok-s-with-a-4-bit-qwen3-6-27b-and-dflash-speculative-decoding-bdb346364cdc",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@reactjsbd/anthropic-ships-17-skills-for-code-and-11-plugins-for-cowork-c752d2ae5a20",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@developerawam/run-ai-locally-with-llama-cpp-no-limits-no-internet-no-cost-83177dc242ff",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codebyumar/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anulagarwal12/my-ai-generated-game-earned-25-000-here-is-how-it-happened-ea5612d91464",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-hired-a-penetration-tester-to-attack-my-fastapi-app-he-owned-everything-in-45-minutes-b66818704f6b",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/steve-jobss-10-80-10-rule-is-even-more-useful-in-the-ai-era-8b003c8a9f7e",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/apple-just-killed-the-app-store-and-ui-ux-designers-are-panicking-d39c1f0cd1c6",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5",
-    "date": "2026-06-23"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
     "date": "2026-06-24"
   },
@@ -470,5 +414,49 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/how-pride-is-like-independence-day-f0446b8d9a3c",
     "date": "2026-06-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-agents-what-they-actually-are-2d6ea121b936",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/google-published-a-paper-that-might-end-the-transformer-only-llm-era-09f0acfca402",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/compressing-glm-5-2-to-1-bit-running-gpt-5-5-level-performance-on-a-mac-157f0dd86f5c",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ivopbernardo/building-a-personal-ai-agent-in-a-couple-of-hours-7bea912f9a12",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anna.bildea/how-to-use-codegraph-turn-any-folder-into-a-knowledge-graph-9958f5a2d077",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-kubernetes-operators-worth-installing-in-2026-1c98c7ba2e20",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
+    "date": "2026-07-01"
   }
 ]
