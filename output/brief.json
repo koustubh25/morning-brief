@@ -1,20 +1,20 @@
 {
-  "date": "Wed 1 Jul 2026",
+  "date": "Thu 2 Jul 2026",
   "top_items": [
     {
-      "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
-      "url": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
-      "one_liner": "AlloyDB's AI functions, including vector search and natural language-to-SQL, enhance agentic development and conversational tools."
+      "title": "AI Agents Can't Read Your Database - Build This Layer",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vinodbokare0588/ai-agents-cant-read-your-database-build-this-layer-d6d36983a26d",
+      "one_liner": "Discusses challenges with AI agents reading databases and proposes a solution for accuracy."
     },
     {
-      "title": "Get started with the Claude apps gateway for Google Cloud",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-      "one_liner": "Guide to integrating Anthropic's Claude Code with Google Cloud's Vertex AI for secure, perimeter-bound enterprise deployments."
+      "title": "I Built a Monster CLAUDE.md, And My Coding Agent Got Scary Good",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-built-a-monster-claude-md-and-my-coding-agent-got-scary-good-31f7fc24df7f",
+      "one_liner": "Explores building advanced coding agents with Anthropic Claude, achieving impressive results."
     },
     {
-      "title": "Claude Code agents: what they actually are",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-agents-what-they-actually-are-2d6ea121b936",
-      "one_liner": "Provides a detailed explanation of subagents within Claude Code."
+      "title": "I Bought the ANTI-MacBook, and It's BETTER in So Many Ways",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@michaelswengel/i-bought-the-anti-macbook-and-its-better-in-so-many-ways-9889885e64b1",
+      "one_liner": "Reviews an alternative laptop, claiming it offers a better computing experience."
     }
   ]
 }
