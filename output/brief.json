@@ -1,20 +1,20 @@
 {
-  "date": "Thu 2 Jul 2026",
+  "date": "Fri 3 Jul 2026",
   "top_items": [
     {
-      "title": "AI Agents Can't Read Your Database - Build This Layer",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vinodbokare0588/ai-agents-cant-read-your-database-build-this-layer-d6d36983a26d",
-      "one_liner": "Discusses challenges with AI agents reading databases and proposes a solution for accuracy."
+      "title": "Building a RAG Pipeline for 10M+ Documents With Near-Zero Hallucination",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
+      "one_liner": "Details a RAG pipeline strategy for achieving near-zero hallucinations with large document sets."
     },
     {
-      "title": "I Built a Monster CLAUDE.md, And My Coding Agent Got Scary Good",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-built-a-monster-claude-md-and-my-coding-agent-got-scary-good-31f7fc24df7f",
-      "one_liner": "Explores building advanced coding agents with Anthropic Claude, achieving impressive results."
+      "title": "The AI Industry as You Know It Died Today",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-ai-industry-as-you-know-it-died-today-59fce97a15c9",
+      "one_liner": "Speculates on a hypothetical GPT-5.6 release, questioning the future of AI industry dynamics."
     },
     {
-      "title": "I Bought the ANTI-MacBook, and It's BETTER in So Many Ways",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@michaelswengel/i-bought-the-anti-macbook-and-its-better-in-so-many-ways-9889885e64b1",
-      "one_liner": "Reviews an alternative laptop, claiming it offers a better computing experience."
+      "title": "RIP Commercial OCR. An Open-Source Model Just Topped Every Benchmark.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
+      "one_liner": "Highlights a new open-source model surpassing commercial OCR benchmarks, signalling a shift in document processing."
     }
   ]
 }
