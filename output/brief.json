@@ -1,20 +1,20 @@
 {
-  "date": "Fri 3 Jul 2026",
+  "date": "Sat 4 Jul 2026",
   "top_items": [
     {
-      "title": "Building a RAG Pipeline for 10M+ Documents With Near-Zero Hallucination",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
-      "one_liner": "Details a RAG pipeline strategy for achieving near-zero hallucinations with large document sets."
+      "title": "How to Create Loops with Claude Code: A Practical Guide to Agentic Automation",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
+      "one_liner": "A guide to designing looping agents in Claude Code for advanced automation tasks."
     },
     {
-      "title": "The AI Industry as You Know It Died Today",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-ai-industry-as-you-know-it-died-today-59fce97a15c9",
-      "one_liner": "Speculates on a hypothetical GPT-5.6 release, questioning the future of AI industry dynamics."
+      "title": "I Hired the AI Guy in My Company. Three Months Later, the CEO Stopped Emailing…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
+      "one_liner": "An AI leader's success transformed company-wide communication and efficiency, moving beyond initial hype."
     },
     {
-      "title": "RIP Commercial OCR. An Open-Source Model Just Topped Every Benchmark.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
-      "one_liner": "Highlights a new open-source model surpassing commercial OCR benchmarks, signalling a shift in document processing."
+      "title": "Qwen's World Model Outperforms Claude Opus 4.8",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwens-world-model-outperforms-claude-opus-4-8-056c8c3fe4ec",
+      "one_liner": "Qwen's new language world model reportedly outperforms Claude Opus on specific benchmarks."
     }
   ]
 }
