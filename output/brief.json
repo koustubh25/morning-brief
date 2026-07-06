@@ -1,20 +1,20 @@
 {
-  "date": "Sun 5 Jul 2026",
+  "date": "Mon 6 Jul 2026",
   "top_items": [
     {
-      "title": "How I Got Claude Certified in 90 Minutes (And How You Can Too)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@nayan.j.paul/how-i-got-claude-certified-in-90-minutes-and-how-you-can-too-69ba82b2f736",
-      "one_liner": "A quick guide on achieving Anthropic Claude certification and its benefits."
+      "title": "Google Just Dropped This Huge Free AI Tier - So Big Most Developers Think It's…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ai-engineering-trend/google-just-dropped-this-huge-free-ai-tier-so-big-most-developers-think-its-a-scam-9bed44707aeb",
+      "one_liner": "Details a significant new free tier on Google Cloud AI, potentially impacting developer adoption."
     },
     {
       "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
       "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
-      "one_liner": "A foundational guide to essential concepts and tools for agentic AI engineering."
+      "one_liner": "Introduces core concepts of AI agents, memory, and tools relevant to agentic engineering."
     },
     {
-      "title": "A YouTuber Just Did More for Self-Hosted AI Than a Decade of Open Source",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/a-youtuber-just-did-more-for-self-hosted-ai-than-a-decade-of-open-source-05054f49a5dc",
-      "one_liner": "Highlights recent advancements in self-hosted AI driven by a popular YouTuber's efforts."
+      "title": "Finally, a 35B MoE Model Claims to Shadow the Local King Qwen3.6–27B",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/finally-a-35b-moe-model-claims-to-shadow-the-local-king-qwen3-6-27b-77a4c1e13636",
+      "one_liner": "A new 35B MoE model reportedly rivals Qwen3.6-27B, potentially impacting the landscape of efficient LLMs."
     }
   ]
 }

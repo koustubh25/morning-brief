@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/ornith-1-0-35b-the-moe-model-that-runs-like-3b-thinks-like-27b-1e7a0fe5a64e",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@aedelon/i-turned-claude-code-into-an-operating-system-heres-the-blueprint-80bdef0c62f6",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/rag-is-a-knowledge-interpreter-time-for-a-compiler-compile-time-rag-ad3c8cba66a1",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pravash-techie/llm-vs-rag-vs-mcp-i-finally-know-when-to-use-each-one-77403510ba1d",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/the-best-local-llm-for-coding-is-not-the-biggest-one-2fabf1184d2c",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@vivedhaelango/how-llms-learned-to-stop-guessing-and-start-thinking-b61298e0b1ec",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/build-your-own-local-ai-rig-in-2026-a-practical-guide-for-the-post-memory-spike-era-2399ee2f8eef",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/rust-vs-c-in-2026-we-rewrote-our-core-engine-and-killed-the-safety-tax-myth-190015fe97a1",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@heinancabouly/minio-redis-hashicorp-a-sustainability-crisis-reaching-your-stack-in-2026-78f9577699cb",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ademawan/go-1-27-is-coming-what-many-developers-have-been-waiting-for-afcdfa00a8a4",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/linus-torvalds-just-picked-a-side-in-the-linux-civil-war-and-c-developers-are-furious-b2cc8a3c7ee0",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/somethings-different-about-people-now-and-it-s-terrifying-c43ce64b7f0e",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
-    "date": "2026-06-28"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
     "date": "2026-06-29"
   },
@@ -430,5 +374,65 @@
   {
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFZvQ3FjcDFyOUdubWFhSzVyUzNHN3dkUWl6bG5YWG5mZ01hNkVRdllmSWF5UGtaTEk5dEtWbHIxeEtDc3FNUGV2QzE2XzYtUEJqb1ZOQTBIN1NSMGkzbGNLdlRwVXJRaVJuS1hVT2FxTmVHRHhBQWg2MGxUbldiUkJnSDVyMnc1N1BEZXZOWU1IRHZINE5uOUppQnYyNlRvR3hJYjBVLU9vWVFKSktPU1dSeWhFa3kzaXVhMk9JT2RXU3BlUk1mc2dBdEhTVkZCSFMxNUZwbkJyU0FDbk1F?oc=5",
     "date": "2026-07-05"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ai-engineering-trend/google-just-dropped-this-huge-free-ai-tier-so-big-most-developers-think-its-a-scam-9bed44707aeb",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/finally-a-35b-moe-model-claims-to-shadow-the-local-king-qwen3-6-27b-77a4c1e13636",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/apple-put-its-ai-on-linux-and-made-it-free-i-spent-the-weekend-finding-the-catch-3745a6cc0b86",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@deasadiqbal/top-open-source-llms-2026-updated-b2aa585b90dd",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@heinancabouly/minio-redis-hashicorp-a-sustainability-crisis-reaching-your-stack-in-2026-78f9577699cb",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/steve-jobss-10-80-10-rule-is-even-more-useful-in-the-ai-era-8b003c8a9f7e",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ozwizard/c-is-officially-dead-and-the-us-government-just-pulled-the-plug-6ad4b6629eaf",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@reyanshicodes/the-secret-behind-gos-performance-and-why-no-one-wants-to-admit-it-62cf1dc12f71",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@Seanveaux/5-books-that-made-me-smarter-than-99-people-ee5e7e6b5b17",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rajk100/russia-is-quietly-preparing-its-citizens-for-something-terrifying-01d77244b3c0",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yuriminamide0509/four-cool-japanese-home-appliances-the-world-hasnt-discovered-yet-fbb82793d894",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@forwardpress/when-france-was-liberated-men-shaved-womens-heads-in-the-streets-94b4a92c37eb",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/after-reading-100-books-these-7-are-the-only-ones-i-rated-5-stars-982f66dd4b69",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
+    "date": "2026-07-06"
   }
 ]
