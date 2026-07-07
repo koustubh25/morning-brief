@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/running-a-35b-large-model-local-ai-agent-on-6gb-vram-the-complete-deployment-guide-for-qwen3-6-35-7513982c19c3",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@danielwarfield1/agent-harnesses-intuitively-and-exhaustively-explained-52aa6b4e7ebd",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ignacio.de.gregorio.noblejas/chinas-first-true-frontier-model-3cb60893a67b",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yogeshwar9354/after-watching-12-000-login-attempts-hit-my-fresh-vps-i-stopped-exposing-servers-to-the-internet-6ed10be22af7",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-strikes-again-meet-obscura-the-headless-browser-making-chrome-look-like-a-memory-hog-e1236ad88cea",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shivambharadwaj/10-best-free-mcp-servers-for-developers-in-2026-20bd96314f4b",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anshusinghal703/the-industry-secret-how-rust-wasm-became-the-default-for-high-paying-platform-jobs-5bcbb0680294",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/billions-of-computers-run-his-editor-he-managed-it-for-32-years-6a283fdec2f8",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@missrennie/7-000-years-ago-95-of-men-vanished-from-the-gene-pool-aae966e2211e",
-    "date": "2026-06-29"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
     "date": "2026-06-30"
   },
@@ -434,5 +386,53 @@
   {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
     "date": "2026-07-06"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-33-claude-code-skills-these-are-the-best-daf8caf92a2a",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/deepseeks-dspark-the-breakthrough-that-makes-llms-up-to-85-faster-without-a-new-model-868542e96c3d",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-qwen3-235b-on-a-16-gb-mac-mini-1-58-bit-ternary-quantization-with-turboquant-mlx-ad4b2bae3e62",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/system-design-interview-how-would-you-send-1-million-notifications-without-overwhelming-your-5a59b723127d",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sarahcords/cancel-your-prime-subscription-a732e2715d49",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/a-4-billion-empire-broke-open-source-they-threatened-one-developer-it-backfired-da390a20bc1f",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mattthenomad/the-signs-of-a-pseudo-smart-person-are-easy-to-spot-226e70231040",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/7-things-i-did-to-fix-my-unfocused-overstimulated-brain-a257421beadd",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anonadeaux/an-epstein-survivor-says-she-bit-trumps-dick-e45943576831",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+    "date": "2026-07-07"
   }
 ]
