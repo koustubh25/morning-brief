@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/the-transformer-architecture-is-being-replaced-what-47-000-hours-of-training-data-revealed-e483c5ad7c6c",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@licaomeng/building-a-production-agent-harness-turning-claude-code-into-a-multi-agent-engineering-pipeline-1db4e242d08a",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thenovtech/jensen-huang-called-it-a-horrible-outcome-eight-days-later-deepseek-made-it-real-384175be7d10",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/databricks-just-changed-data-engineering-forever-44e23d3f0204",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monikasinghal713/rust-vs-c-8-million-ops-sec-where-raw-speed-met-production-reality-593c13e84bf7",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@howtoarchitect/spec-driven-development-isnt-broken-it-will-collapse-c00609f72496",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/russia-faces-command-collapse-as-execution-shooters-emerge-inside-its-army-adb2aaca46ec",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/fiction-as-a-mirror-for-truth-b0797c053d4d",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/how-pride-is-like-independence-day-f0446b8d9a3c",
-    "date": "2026-06-30"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
     "date": "2026-07-01"
   },
@@ -434,5 +374,53 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
     "date": "2026-07-07"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@wlockett/the-death-of-consumer-ai-is-coming-a9a5c24b8c23",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/how-to-turn-your-laptop-into-a-private-ai-server-in-30-minutes-no-gpu-required-4adf37c38525",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/build-your-own-local-ai-rig-in-2026-a-practical-guide-for-the-post-memory-spike-era-2399ee2f8eef",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@halfjourney/once-you-see-the-second-meaning-you-cant-unsee-it-0bdd77e239c2",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@enzo-lombardi/the-slowest-disk-drive-ever-sold-0cca82ed828b",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dariusforoux/how-to-do-hard-things-when-you-have-zero-motivation-4218b652d950",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/somethings-different-about-people-now-and-it-s-terrifying-c43ce64b7f0e",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@julian.frazier.phd/five-things-psychologists-know-but-cant-say-out-loud-5abd301a8a08",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
+    "date": "2026-07-08"
   }
 ]

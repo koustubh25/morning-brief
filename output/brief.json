@@ -1,20 +1,20 @@
 {
-  "date": "Tue 7 Jul 2026",
+  "date": "Wed 8 Jul 2026",
   "top_items": [
     {
-      "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
-      "one_liner": "Guides on publishing agents in Gemini Enterprise and GCP Marketplace, emphasizing the shift to Agents-as-a-Service."
+      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+      "url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+      "one_liner": "Announces C4N GA for enhanced GCP network/storage I/O, critical for AI/ML and demanding workloads."
     },
     {
-      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-      "one_liner": "Addresses IT leader questions on building and deploying agents, with Agent Platform solutions for complexity and security."
+      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
+      "one_liner": "Andrej Karpathy built a complete GPT model in an astonishingly short Python script."
     },
     {
-      "title": "I Tried 33 Claude Code Skills. These Are The Best",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-33-claude-code-skills-these-are-the-best-daf8caf92a2a",
-      "one_liner": "Reviews and ranks 33 Claude Code skills, highlighting the most effective for developers."
+      "title": "Qwen3.6–35B Runs on a 16 GB M4 Mac mini - Fully in Memory, No Tricks",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+      "one_liner": "Demonstrates a 35B parameter LLM running efficiently on a small M4 Mac mini."
     }
   ]
 }
