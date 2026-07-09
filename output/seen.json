@@ -1,49 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joparga3/claude-code-agents-what-they-actually-are-2d6ea121b936",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/google-published-a-paper-that-might-end-the-transformer-only-llm-era-09f0acfca402",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/compressing-glm-5-2-to-1-bit-running-gpt-5-5-level-performance-on-a-mac-157f0dd86f5c",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ivopbernardo/building-a-personal-ai-agent-in-a-couple-of-hours-7bea912f9a12",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anna.bildea/how-to-use-codegraph-turn-any-folder-into-a-knowledge-graph-9958f5a2d077",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-kubernetes-operators-worth-installing-in-2026-1c98c7ba2e20",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
-    "date": "2026-07-01"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@vinodbokare0588/ai-agents-cant-read-your-database-build-this-layer-d6d36983a26d",
     "date": "2026-07-02"
   },
@@ -422,5 +378,53 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
     "date": "2026-07-08"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/glm-5-2-is-free-right-now-no-api-key-needed-and-it-surprised-me-653632330ba9",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvemu/macos-27-has-a-hidden-llm-inside-10-amazing-things-you-can-do-with-it-44a28d8cc042",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-artifacts-and-decision-paths-sdd-c052df529274",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@greysonferguson/15-countries-offering-retirement-visas-for-2k-or-less-dd0edd731842",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
+    "date": "2026-07-09"
   }
 ]

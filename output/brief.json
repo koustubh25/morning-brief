@@ -1,20 +1,20 @@
 {
-  "date": "Wed 8 Jul 2026",
+  "date": "Thu 9 Jul 2026",
   "top_items": [
     {
-      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
-      "url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
-      "one_liner": "Announces C4N GA for enhanced GCP network/storage I/O, critical for AI/ML and demanding workloads."
+      "title": "Safely run AI-generated code in Cloud Run sandboxes",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+      "one_liner": "Google Cloud Run sandboxing solutions for safely running untrusted AI-generated code without compromising security."
     },
     {
-      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-      "one_liner": "Andrej Karpathy built a complete GPT model in an astonishingly short Python script."
+      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+      "one_liner": "AlphaEvolve is now available on Google Cloud, enabling AI-driven solutions for complex optimization challenges."
     },
     {
-      "title": "Qwen3.6–35B Runs on a 16 GB M4 Mac mini - Fully in Memory, No Tricks",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
-      "one_liner": "Demonstrates a 35B parameter LLM running efficiently on a small M4 Mac mini."
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
+      "one_liner": "Anthropic's new Claude feature is presented as a persuasive tool for wider AI adoption in enterprises."
     }
   ]
 }
