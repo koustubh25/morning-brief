@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@vinodbokare0588/ai-agents-cant-read-your-database-build-this-layer-d6d36983a26d",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-built-a-monster-claude-md-and-my-coding-agent-got-scary-good-31f7fc24df7f",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michaelswengel/i-bought-the-anti-macbook-and-its-better-in-so-many-ways-9889885e64b1",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michalmalewicz/you-only-have-weeks-left-to-vibe-code-09a89c3d3f9b",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@simonwparsons/the-passive-income-snowball-that-replaced-my-retirement-plan-0d719b59738c",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@elliottdotorg/the-great-luggage-abandonment-why-travelers-are-ditching-their-bags-at-the-airport-aa961e97a0fb",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@robin_wilding/spilling-13-womens-bathroom-secrets-a6f66cb2e0be",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/russias-leaked-after-victory-documents-exposed-putin-s-real-plan-for-ukraine-d5614f54079d",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/germany-just-did-something-that-should-terrify-moscow-5f58d65b46a8",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rajk100/chinas-private-warning-changes-everything-for-russia-ae8e50145d7f",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
-    "date": "2026-07-02"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
     "date": "2026-07-03"
   },
@@ -426,5 +370,73 @@
   {
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
     "date": "2026-07-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/the-most-mysterious-ai-response-ever-recorded-when-machines-say-things-we-cannot-explain-115b35f8ea77",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/the-transformer-architecture-is-being-replaced-what-47-000-hours-of-training-data-revealed-e483c5ad7c6c",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/fable-5-is-completely-wasted-on-most-developer-workflows-14dba20d4391",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/why-does-ai-lean-left-the-real-answer-isnt-bias-it-s-something-stranger-1b4cca89cf00",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pankaj_pandey/mineru-the-most-accurate-open-source-document-parser-just-became-production-ready-6ba59f55d2ad",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/they-called-it-stolen-demanded-5-billion-it-backfired-1aca29404d46",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hartarto/the-internets-dirty-little-secret-anyone-can-investigate-anyone-and-here-are-20-free-tools-to-d3dcd9d2c0fc",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@joeriad/i-only-make-documents-in-one-format-8b50bd61972d",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/how-medium-is-investing-in-the-curation-era-a0172940d215",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/fiction-as-a-mirror-for-truth-b0797c053d4d",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/behind-the-scenes-in-their-own-words-5eeb3f048c38",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@robin_wilding/spilling-13-womens-bathroom-secrets-a6f66cb2e0be",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
+    "date": "2026-07-10"
   }
 ]

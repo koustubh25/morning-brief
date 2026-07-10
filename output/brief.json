@@ -1,20 +1,20 @@
 {
-  "date": "Thu 9 Jul 2026",
+  "date": "Fri 10 Jul 2026",
   "top_items": [
     {
-      "title": "Safely run AI-generated code in Cloud Run sandboxes",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
-      "one_liner": "Google Cloud Run sandboxing solutions for safely running untrusted AI-generated code without compromising security."
+      "title": "Frontier and Center: Who evaluates the evaluations?",
+      "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+      "one_liner": "Investigates AI agent evaluation and the Open Knowledge Format for contextualizing LLMs."
     },
     {
-      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-      "one_liner": "AlphaEvolve is now available on Google Cloud, enabling AI-driven solutions for complex optimization challenges."
+      "title": "Open Knowledge Format (OKF): Why Google Thinks AI Needs a Git for Knowledge",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
+      "one_liner": "Introduces Google's Open Knowledge Format (OKF) as a potential 'Git for knowledge' for AI."
     },
     {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
-      "one_liner": "Anthropic's new Claude feature is presented as a persuasive tool for wider AI adoption in enterprises."
+      "title": "The Most Mysterious AI Response Ever Recorded: When Machines Say Things We…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/the-most-mysterious-ai-response-ever-recorded-when-machines-say-things-we-cannot-explain-115b35f8ea77",
+      "one_liner": "Highlights six unexplained and mysterious outputs from AI models that researchers are struggling to comprehend."
     }
   ]
 }
