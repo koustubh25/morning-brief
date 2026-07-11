@@ -1,20 +1,20 @@
 {
-  "date": "Fri 10 Jul 2026",
+  "date": "Sat 11 Jul 2026",
   "top_items": [
     {
-      "title": "Frontier and Center: Who evaluates the evaluations?",
-      "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
-      "one_liner": "Investigates AI agent evaluation and the Open Knowledge Format for contextualizing LLMs."
+      "title": "What a $500 million Claude bill means: the AI accountants have taken over",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@edans/what-a-500-million-claude-bill-means-the-ai-accountants-have-taken-over-9caa40106846",
+      "one_liner": "A report on a company potentially spending $500 million on Claude, highlighting AI cost management."
     },
     {
-      "title": "Open Knowledge Format (OKF): Why Google Thinks AI Needs a Git for Knowledge",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
-      "one_liner": "Introduces Google's Open Knowledge Format (OKF) as a potential 'Git for knowledge' for AI."
+      "title": "Google Published a Paper That Might End the Transformer-Only LLM Era",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/google-published-a-paper-that-might-end-the-transformer-only-llm-era-09f0acfca402",
+      "one_liner": "Google's research explores RNNs with memory caching as a potential end to Transformer-only LLM dominance."
     },
     {
-      "title": "The Most Mysterious AI Response Ever Recorded: When Machines Say Things We…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/the-most-mysterious-ai-response-ever-recorded-when-machines-say-things-we-cannot-explain-115b35f8ea77",
-      "one_liner": "Highlights six unexplained and mysterious outputs from AI models that researchers are struggling to comprehend."
+      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
+      "one_liner": "An overview of 30 essential concepts in agentic engineering for AI developers."
     }
   ]
 }
