@@ -1,20 +1,20 @@
 {
-  "date": "Sat 11 Jul 2026",
+  "date": "Sun 12 Jul 2026",
   "top_items": [
     {
-      "title": "What a $500 million Claude bill means: the AI accountants have taken over",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@edans/what-a-500-million-claude-bill-means-the-ai-accountants-have-taken-over-9caa40106846",
-      "one_liner": "A report on a company potentially spending $500 million on Claude, highlighting AI cost management."
+      "title": "Claude Fable 5 Just Leaked Its Weirdest Side Yet",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/claude-fable-5-just-leaked-its-weirdest-side-yet-875c10c08901",
+      "one_liner": "Reports on a potential leak from a 'Claude Fable 5' showing unusual behavior via a web interface bug."
     },
     {
-      "title": "Google Published a Paper That Might End the Transformer-Only LLM Era",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/google-published-a-paper-that-might-end-the-transformer-only-llm-era-09f0acfca402",
-      "one_liner": "Google's research explores RNNs with memory caching as a potential end to Transformer-only LLM dominance."
+      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
+      "one_liner": "Provides a comprehensive playbook for mastering Claude Code, focusing on advanced techniques beyond basic usage."
     },
     {
-      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
-      "one_liner": "An overview of 30 essential concepts in agentic engineering for AI developers."
+      "title": "LLMs, RAG, Agents, MCP: The AI Evolution You Must Know (A Visual Explanation)",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/llms-rag-agents-mcp-the-ai-evolution-you-must-know-a-visual-explanation-9ee07e421587",
+      "one_liner": "Visually explains the evolution of AI from chatbots to complex systems, covering LLMs, RAG, and agents."
     }
   ]
 }
