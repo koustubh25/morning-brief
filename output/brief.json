@@ -1,20 +1,20 @@
 {
-  "date": "Mon 13 Jul 2026",
+  "date": "Tue 14 Jul 2026",
   "top_items": [
     {
-      "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-      "one_liner": "k8s-aibom, a new open-source tool, helps secure AI workloads on GKE by automating AI Bill of Materials generation."
+      "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
+      "url": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
+      "one_liner": "Gmail's 'Help me write' now allows custom refinement instructions for more precise email draft editing."
     },
     {
-      "title": "The AI Industry as You Know It Died Today",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-ai-industry-as-you-know-it-died-today-59fce97a15c9",
-      "one_liner": "Article claims a new GPT-5.6 has fundamentally altered the AI industry landscape."
+      "title": "Claude at scale on Google Cloud: Frontier AI, built for enterprise production",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
+      "one_liner": "Details running Anthropic's Claude on Google Cloud for enterprise production with focus on reliability and long-context."
     },
     {
-      "title": "Open-Source LLMs in 2026: The Free AI Models Everyone Will Be Using While…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@beerus11/open-source-llms-in-2026-the-free-ai-models-everyone-will-be-using-while-youre-still-overpaying-29cdfe3bff63",
-      "one_liner": "Predicts the rise of open-source LLMs by 2026, impacting the landscape of free AI models."
+      "title": "How to Create Loops with Claude Code: A Practical Guide to Agentic Automation",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
+      "one_liner": "Provides a practical guide on creating looping agents and automating tasks with Claude Code."
     }
   ]
 }
