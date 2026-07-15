@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@frank-andrade/i-tried-33-claude-code-skills-these-are-the-best-daf8caf92a2a",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/deepseeks-dspark-the-breakthrough-that-makes-llms-up-to-85-faster-without-a-new-model-868542e96c3d",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/run-qwen3-235b-on-a-16-gb-mac-mini-1-58-bit-ternary-quantization-with-turboquant-mlx-ad4b2bae3e62",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/system-design-interview-how-would-you-send-1-million-notifications-without-overwhelming-your-5a59b723127d",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sarahcords/cancel-your-prime-subscription-a732e2715d49",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/a-4-billion-empire-broke-open-source-they-threatened-one-developer-it-backfired-da390a20bc1f",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mattthenomad/the-signs-of-a-pseudo-smart-person-are-easy-to-spot-226e70231040",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@raja96/7-things-i-did-to-fix-my-unfocused-overstimulated-brain-a257421beadd",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anonadeaux/an-epstein-survivor-says-she-bit-trumps-dick-e45943576831",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-    "date": "2026-07-07"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
     "date": "2026-07-08"
   },
@@ -426,5 +378,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
     "date": "2026-07-14"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/744b-moe-on-25-gb-of-cpu-ram-0377b78ede80",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/everyone-says-graphify-cut-their-ai-coding-bill-70x-752fc1e1f0d9",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@aashiyer7/the-shortest-boom-in-history-why-the-ai-era-will-end-sooner-than-you-think-7053ff14a493",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/the-man-who-built-terraform-just-left-github-engineers-should-pay-attention-to-why-695143d7b3fe",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mattthenomad/ill-instantly-know-a-writer-used-chatgpt-when-i-see-this-7130506fe37e",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/a-4-billion-empire-broke-open-source-they-threatened-one-developer-it-backfired-da390a20bc1f",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@swaeth/i-analyzed-100-micro-saas-businesses-heres-what-they-had-in-common-bd620feb1d6b",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/how-online-became-all-the-time-447106e69d43",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@freakyali/c-15-finally-solves-a-23-year-old-inheritance-problem-917d90238eea",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/using-ai-to-predict-the-word-cup-winner-ed50b48cc68e",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nadinbrzezinski/a-perfect-storm-is-forming-in-russia-97e00edc81fc",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/no-way-back-to-zig-dc7e752eee7f",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/three-small-but-meaningful-quality-of-life-improvements-to-the-medium-experience-128ec2b92f21",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV285bnM3dGNiLVJUNFQ1N3Q5UXFpeDJkMjlfNUNDQ0xkNjJvZTl6dWtTTGM1aWhuQzlMaWdiakFVTXpsVHgyRll4Rm1MRkpYeUhXV01wb0x3RDBRdlIwZzRVTUdIVEl3VDBKb1lKNzdoaENtM2FXWG1qOFRUeEJ2SXVuaUZ3UTFGbnNmaHZ2aUVHQVR0ZTNpYjk3Yw?oc=5",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+    "date": "2026-07-15"
   }
 ]

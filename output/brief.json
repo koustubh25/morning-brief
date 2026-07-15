@@ -1,20 +1,20 @@
 {
-  "date": "Tue 14 Jul 2026",
+  "date": "Wed 15 Jul 2026",
   "top_items": [
     {
-      "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
-      "url": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
-      "one_liner": "Gmail's 'Help me write' now allows custom refinement instructions for more precise email draft editing."
+      "title": "How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery",
+      "url": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
+      "one_liner": "Guides on analyzing and governing large-scale Gemini Enterprise app usage with BigQuery on Google Cloud."
     },
     {
-      "title": "Claude at scale on Google Cloud: Frontier AI, built for enterprise production",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
-      "one_liner": "Details running Anthropic's Claude on Google Cloud for enterprise production with focus on reliability and long-context."
+      "title": "744B MoE on 25 GB of CPU RAM!!!",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/744b-moe-on-25-gb-of-cpu-ram-0377b78ede80",
+      "one_liner": "Demonstrates a 744-billion parameter MoE model running on surprisingly low CPU RAM, showcasing impressive efficiency."
     },
     {
-      "title": "How to Create Loops with Claude Code: A Practical Guide to Agentic Automation",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
-      "one_liner": "Provides a practical guide on creating looping agents and automating tasks with Claude Code."
+      "title": "Everyone Says Graphify Cut Their AI Coding Bill 70x.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/everyone-says-graphify-cut-their-ai-coding-bill-70x-752fc1e1f0d9",
+      "one_liner": "Showcases a tool called Graphify claiming a 70x reduction in AI coding costs, suggesting massive efficiency gains."
     }
   ]
 }
