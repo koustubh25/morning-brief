@@ -1,20 +1,20 @@
 {
-  "date": "Wed 15 Jul 2026",
+  "date": "Thu 16 Jul 2026",
   "top_items": [
     {
-      "title": "How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery",
-      "url": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
-      "one_liner": "Guides on analyzing and governing large-scale Gemini Enterprise app usage with BigQuery on Google Cloud."
+      "title": "Three lessons in accelerating foundation model upgrades",
+      "url": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
+      "one_liner": "Provides lessons for engineering teams on efficiently upgrading AI models, such as moving between Gemini versions."
     },
     {
-      "title": "744B MoE on 25 GB of CPU RAM!!!",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/744b-moe-on-25-gb-of-cpu-ram-0377b78ede80",
-      "one_liner": "Demonstrates a 744-billion parameter MoE model running on surprisingly low CPU RAM, showcasing impressive efficiency."
+      "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
+      "one_liner": "Details a blueprint for using AI-assisted vulnerability management to counter rapidly exploiting threats."
     },
     {
-      "title": "Everyone Says Graphify Cut Their AI Coding Bill 70x.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/everyone-says-graphify-cut-their-ai-coding-bill-70x-752fc1e1f0d9",
-      "one_liner": "Showcases a tool called Graphify claiming a 70x reduction in AI coding costs, suggesting massive efficiency gains."
+      "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
+      "one_liner": "Offers a blueprint for securing AI deployments on Google Kubernetes Engine at enterprise scale."
     }
   ]
 }
