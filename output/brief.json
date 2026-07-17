@@ -1,20 +1,20 @@
 {
-  "date": "Thu 16 Jul 2026",
+  "date": "Fri 17 Jul 2026",
   "top_items": [
     {
-      "title": "Three lessons in accelerating foundation model upgrades",
-      "url": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
-      "one_liner": "Provides lessons for engineering teams on efficiently upgrading AI models, such as moving between Gemini versions."
+      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "one_liner": "Provides 13 hands-on demos for building, scaling, and governing agents on Gemini Enterprise Agent Platform."
     },
     {
-      "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-      "one_liner": "Details a blueprint for using AI-assisted vulnerability management to counter rapidly exploiting threats."
+      "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+      "one_liner": "Offers principles for token-efficient software engineering to optimize LLM performance and cost."
     },
     {
-      "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
-      "one_liner": "Offers a blueprint for securing AI deployments on Google Kubernetes Engine at enterprise scale."
+      "title": "10 Confusing LLM Concepts, Explained Simply",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@bamania-ashish/10-confusing-llm-concepts-explained-simply-031246b8ea34",
+      "one_liner": "Simplifies complex LLM concepts like CPU/GPU/TPU roles and pruning for better understanding of workflows."
     }
   ]
 }

@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/glm-5-2-is-free-right-now-no-api-key-needed-and-it-surprised-me-653632330ba9",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvemu/macos-27-has-a-hidden-llm-inside-10-amazing-things-you-can-do-with-it-44a28d8cc042",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-artifacts-and-decision-paths-sdd-c052df529274",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@greysonferguson/15-countries-offering-retirement-visas-for-2k-or-less-dd0edd731842",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-    "date": "2026-07-09"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
     "date": "2026-07-10"
   },
@@ -458,5 +410,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
     "date": "2026-07-16"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@bamania-ashish/10-confusing-llm-concepts-explained-simply-031246b8ea34",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pragneshpalsana/my-claude-account-got-suspended-heres-everything-i-wish-someone-had-told-me-e25995d07546",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@enzo-lombardi/building-ai-agents-in-rust-part-1-2fa195fb8b33",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/dflash-just-landed-in-llama-cpp-worth-to-upgrade-to-get-speed-boost-a20db434e8f7",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/how-mtp-makes-your-local-llm-up-to-3x-faster-without-adding-hardware-750e6adc7c87",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-cncf-projects-you-are-not-using-but-should-be-in-2026-4ac20514f0df",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/databricks-just-changed-data-engineering-forever-44e23d3f0204",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/the-local-ai-coding-setup-everyone-asked-for-ce0252d2301e",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@figsinwinter/two-meanings-of-truth-9853602135c0",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/m5-ultra-mac-studio-performance-details-released-local-ai-maxed-out-power-consumption-only-1-3-of-be78715747d7",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/07/cast-yourself-in-ai-video-clips-using-your-personal-avatar-with-Gemini-Omni-in-Vids.html",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
+    "date": "2026-07-17"
   }
 ]
