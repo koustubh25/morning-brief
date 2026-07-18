@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/the-most-mysterious-ai-response-ever-recorded-when-machines-say-things-we-cannot-explain-115b35f8ea77",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@adiinsightsinnovations/the-transformer-architecture-is-being-replaced-what-47-000-hours-of-training-data-revealed-e483c5ad7c6c",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/fable-5-is-completely-wasted-on-most-developer-workflows-14dba20d4391",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/why-does-ai-lean-left-the-real-answer-isnt-bias-it-s-something-stranger-1b4cca89cf00",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pankaj_pandey/mineru-the-most-accurate-open-source-document-parser-just-became-production-ready-6ba59f55d2ad",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/they-called-it-stolen-demanded-5-billion-it-backfired-1aca29404d46",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hartarto/the-internets-dirty-little-secret-anyone-can-investigate-anyone-and-here-are-20-free-tools-to-d3dcd9d2c0fc",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@joeriad/i-only-make-documents-in-one-format-8b50bd61972d",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/how-medium-is-investing-in-the-curation-era-a0172940d215",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/fiction-as-a-mirror-for-truth-b0797c053d4d",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/behind-the-scenes-in-their-own-words-5eeb3f048c38",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@robin_wilding/spilling-13-womens-bathroom-secrets-a6f66cb2e0be",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
-    "date": "2026-07-10"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@edans/what-a-500-million-claude-bill-means-the-ai-accountants-have-taken-over-9caa40106846",
     "date": "2026-07-11"
   },
@@ -474,5 +406,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
     "date": "2026-07-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-gave-fable-5-and-gpt-5-6-the-same-build-task-results-were-shocking-c39d7222991b",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/qwen-3-6-27b-runs-on-a-single-consumer-gpu-the-local-llm-worth-running-for-free-854b04319b67",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/build-your-own-local-ai-rig-in-2026-a-practical-guide-for-the-post-memory-spike-era-2399ee2f8eef",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/a-youtuber-just-did-more-for-self-hosted-ai-than-a-decade-of-open-source-05054f49a5dc",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kakamber07/i-got-the-layoff-email-then-i-made-the-mistake-of-opening-linkedin-ad5985cdba7a",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sarathm09/15-mac-apps-i-installed-in-2026-that-changed-how-i-work-537e125b492c",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anshusinghal703/is-this-the-end-go-1-27-introduces-generic-methods-and-reshapes-the-language-forever-e710af4c0187",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hwillraft/the-most-dangerous-book-carl-jung-ever-wrote-sat-hidden-in-a-bank-vault-for-50-years-1499da2bfa67",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yumaueno/how-a-22-year-old-college-student-with-zero-coding-experience-built-a-125k-peptide-app-in-80-days-d69918830f84",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mikeweisser/regime-change-why-did-i-piss-away-24-on-this-book-935ac7978214",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
+    "date": "2026-07-18"
   }
 ]

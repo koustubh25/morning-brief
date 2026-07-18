@@ -1,20 +1,20 @@
 {
-  "date": "Fri 17 Jul 2026",
+  "date": "Sat 18 Jul 2026",
   "top_items": [
     {
-      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
-      "one_liner": "Provides 13 hands-on demos for building, scaling, and governing agents on Gemini Enterprise Agent Platform."
+      "title": "I Gave Fable 5 and GPT-5.6 the Same Build Task, Results Were Shocking",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-gave-fable-5-and-gpt-5-6-the-same-build-task-results-were-shocking-c39d7222991b",
+      "one_liner": "Compares AI coding assistants like Claude Code and GPT-5.6 on a specific build task, highlighting surprising results."
     },
     {
-      "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
-      "one_liner": "Offers principles for token-efficient software engineering to optimize LLM performance and cost."
+      "title": "Qwen3.6–35B Runs on a 16 GB M4 Mac mini - Fully in Memory, No Tricks",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+      "one_liner": "A 35-billion-parameter AI model, Qwen3.6-35B, demonstrates efficient in-memory execution on a Mac mini."
     },
     {
-      "title": "10 Confusing LLM Concepts, Explained Simply",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@bamania-ashish/10-confusing-llm-concepts-explained-simply-031246b8ea34",
-      "one_liner": "Simplifies complex LLM concepts like CPU/GPU/TPU roles and pruning for better understanding of workflows."
+      "title": "Qwen 3.6 27B: Runs on a Single Consumer GPU, the Local LLM Worth Running for…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/qwen-3-6-27b-runs-on-a-single-consumer-gpu-the-local-llm-worth-running-for-free-854b04319b67",
+      "one_liner": "Discusses the feasibility of running the Qwen 3.6 27B LLM on a single consumer GPU for local use."
     }
   ]
 }
