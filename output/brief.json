@@ -1,20 +1,20 @@
 {
-  "date": "Sat 18 Jul 2026",
+  "date": "Sun 19 Jul 2026",
   "top_items": [
     {
-      "title": "I Gave Fable 5 and GPT-5.6 the Same Build Task, Results Were Shocking",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-gave-fable-5-and-gpt-5-6-the-same-build-task-results-were-shocking-c39d7222991b",
-      "one_liner": "Compares AI coding assistants like Claude Code and GPT-5.6 on a specific build task, highlighting surprising results."
+      "title": "Tokens matter: Claude Code Subagent Model Routing: Stop Paying for Opus on…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/claude-code-subagent-model-routing-stop-paying-for-opus-on-haiku-work-ee76dc32cb88",
+      "one_liner": "Details Claude Code's subagent routing for optimizing LLM model usage and cost."
     },
     {
-      "title": "Qwen3.6–35B Runs on a 16 GB M4 Mac mini - Fully in Memory, No Tricks",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
-      "one_liner": "A 35-billion-parameter AI model, Qwen3.6-35B, demonstrates efficient in-memory execution on a Mac mini."
+      "title": "I Hired the AI Guy in My Company. Three Months Later, the CEO Stopped Emailing…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
+      "one_liner": "Illustrates the impact of an 'AI Guy' in a company, leading to significant process changes."
     },
     {
-      "title": "Qwen 3.6 27B: Runs on a Single Consumer GPU, the Local LLM Worth Running for…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/qwen-3-6-27b-runs-on-a-single-consumer-gpu-the-local-llm-worth-running-for-free-854b04319b67",
-      "one_liner": "Discusses the feasibility of running the Qwen 3.6 27B LLM on a single consumer GPU for local use."
+      "title": "GLM-5.2 Is Free Right Now, No API Key Needed, and It Surprised Me",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/glm-5-2-is-free-right-now-no-api-key-needed-and-it-surprised-me-653632330ba9",
+      "one_liner": "Introduces and reviews GLM-5.2, highlighting its free accessibility and surprising performance."
     }
   ]
 }
