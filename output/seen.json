@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-ai-industry-as-you-know-it-died-today-59fce97a15c9",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@beerus11/open-source-llms-in-2026-the-free-ai-models-everyone-will-be-using-while-youre-still-overpaying-29cdfe3bff63",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/forget-json-web-tokens-server-side-sessions-cut-our-auth-bugs-by-70-d6a90594cace",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anna.bildea/how-to-use-codegraph-turn-any-folder-into-a-knowledge-graph-9958f5a2d077",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@paoloperrone/i-was-ready-to-return-my-dgx-spark-then-nvidias-january-update-changed-everything-e67699155a45",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/europe-is-ditching-visa-and-mastercard-and-its-a-huge-step-aed49505f6b5",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/how-to-master-data-structures-and-algorithms-without-feeling-lost-44f85d42b366",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Owenwarner/germany-just-did-something-that-should-terrify-moscow-5f58d65b46a8",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/i-did-the-math-you-cant-afford-to-leave-america-sorry-c15fcd689258",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@simonwparsons/the-passive-income-snowball-that-replaced-my-retirement-plan-0d719b59738c",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
-    "date": "2026-07-13"
-  },
-  {
     "url": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
     "date": "2026-07-14"
   },
@@ -446,5 +394,53 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/food-during-a-blockade-vegetarianism-and-the-hummus-war-89b7a101c396",
     "date": "2026-07-20"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/what-is-the-best-hardware-for-running-local-llms-in-2026-mac-vs-5090-vs-cloud-ff023b660442",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/is-the-600-nvidia-v100-32gb-with-hbm-worth-buying-in-july-2026-c2e6cf17f533",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jordan_gibbs/every-ai-writing-tell-you-know-is-already-dead-762cadf46f6b",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/i-did-the-math-you-cant-afford-to-leave-america-sorry-c15fcd689258",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
+    "date": "2026-07-21"
   }
 ]

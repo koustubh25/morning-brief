@@ -1,20 +1,20 @@
 {
-  "date": "Mon 20 Jul 2026",
+  "date": "Tue 21 Jul 2026",
   "top_items": [
     {
-      "title": "Cut Claude Code Token Costs by 60–90% with Free Open-Source Tools (2026)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@santoshyadav979439/cut-claude-code-token-costs-by-60-90-with-free-open-source-tools-2026-2823e9968463",
-      "one_liner": "Discover open-source tools to significantly cut Claude Code token expenses."
+      "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
+      "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+      "one_liner": "Preview of CodeMender uses Gemini to automatically find and fix software vulnerabilities, enhancing code security."
     },
     {
-      "title": "A Step-by-Step Guide for Developing Your Personal Agentic System.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-      "one_liner": "A step-by-step guide for creating and setting up personal agentic systems."
+      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
+      "one_liner": "Covers 30 essential concepts for AI agents, tools, memory, and prompt engineering."
     },
     {
-      "title": "Why Microsoft and Uber Are Pulling the Plug on AI Agents",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/why-microsoft-and-uber-are-pulling-the-plug-on-ai-agents-1e1063469e08",
-      "one_liner": "Microsoft and Uber scale back on AI agents due to cost and complexity challenges."
+      "title": "Stop Wasting LLM Tokens: Building a Self-Updating Codebase Knowledge Graph with…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
+      "one_liner": "Discusses using Google's Open Knowledge Format for self-updating codebase knowledge graphs to save LLM tokens."
     }
   ]
 }
