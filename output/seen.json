@@ -1,69 +1,5 @@
 [
   {
-    "url": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/qwens-world-model-outperforms-claude-opus-4-8-056c8c3fe4ec",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/googles-new-sdlc-guide-draws-a-hard-line-between-vibe-coding-and-agentic-engineering-29ee5514c48c",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/finally-a-35b-moe-model-claims-to-shadow-the-local-king-qwen3-6-27b-77a4c1e13636",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rosgluk/best-llms-for-opencode-tested-locally-6f10ae80f733",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/linus-torvalds-said-the-quiet-part-out-loud-about-ai-and-code-quality-934b2d4be398",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-hired-a-penetration-tester-to-attack-my-fastapi-app-he-owned-everything-in-45-minutes-b66818704f6b",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/how-netflix-handles-260-million-concurrent-streams-without-buffering-cbbaad6c81ca",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mrhotfix/which-programming-languages-actually-matter-in-2026-4db2ce910208",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pmLearners/the-rust-rewrite-was-supposed-to-improve-throughput-it-fixed-something-we-werent-measuring-258a8a283868",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-open-source-tools-worth-trying-in-2026-aef14139e15d",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
-    "date": "2026-07-14"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
     "date": "2026-07-15"
   },
@@ -442,5 +378,69 @@
   {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
     "date": "2026-07-21"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/kimi-k3-the-open-model-that-just-cornered-the-ai-frontier-cf9f44e76f17",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/15-levels-of-hermes-agent-from-chatbot-to-24-7-autonomous-system-da15c3c204f6",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kashif-mehmood-km/ollama-mlx-nearly-doubles-llm-speed-on-your-mac-58-to-112-tok-s-and-your-old-models-get-none-of-fd1a9ec531fb",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pelletierhaden/3-claude-skills-every-data-scientist-needs-in-2026-cd27a0ee6754",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielvalev/i-deleted-pip-pyenv-poetry-and-virtualenv-then-openai-bought-the-thing-that-replaced-them-a23adedfbccf",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/12-ai-skills-you-should-learn-in-2026-9f6d39cf2292",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mrhotfix/which-programming-languages-actually-matter-in-2026-4db2ce910208",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/i-hid-an-entire-website-inside-a-favicon-so-now-im-worried-about-your-browser-0fa041b506f5",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/master-obsidian-the-complete-and-definitive-guide-to-turning-your-notes-into-a-second-brain-43f9f147f31a",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "date": "2026-07-22"
   }
 ]

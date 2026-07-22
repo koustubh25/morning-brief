@@ -1,20 +1,20 @@
 {
-  "date": "Tue 21 Jul 2026",
+  "date": "Wed 22 Jul 2026",
   "top_items": [
     {
-      "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
-      "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
-      "one_liner": "Preview of CodeMender uses Gemini to automatically find and fix software vulnerabilities, enhancing code security."
+      "title": "From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration",
+      "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
+      "one_liner": "Checkout.com migrated their Apache Airflow to GCP Cloud Composer 3 for reduced maintenance."
     },
     {
-      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
-      "one_liner": "Covers 30 essential concepts for AI agents, tools, memory, and prompt engineering."
+      "title": "Why AI apps fail in production (And how Google solved it)",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+      "one_liner": "Discusses common reasons for AI app production failures and Google's solutions."
     },
     {
-      "title": "Stop Wasting LLM Tokens: Building a Self-Updating Codebase Knowledge Graph with…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
-      "one_liner": "Discusses using Google's Open Knowledge Format for self-updating codebase knowledge graphs to save LLM tokens."
+      "title": "Claude Code Is a Mess, Until You Install This Official Plugin",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
+      "one_liner": "A vital plugin is introduced that drastically improves Claude Code's ability to understand and navigate complex projects."
     }
   ]
 }
