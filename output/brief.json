@@ -1,20 +1,20 @@
 {
-  "date": "Thu 23 Jul 2026",
+  "date": "Fri 24 Jul 2026",
   "top_items": [
     {
-      "title": "Your AI agents are ready. Is your data?",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-      "one_liner": "Google Cloud highlights the need for accessible, trusted data to power enterprise AI agents effectively."
+      "title": "How to Create Loops with Claude Code: A Practical Guide to Agentic Automation",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
+      "one_liner": "Provides a practical guide to building loop-based agents using Claude Code for automation."
     },
     {
-      "title": "I Set Up Claude Projects Properly. I Won't Go Back.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@hamzamlwh/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c",
-      "one_liner": "This developer shares their improved workflow for Claude Projects, emphasizing its transformative impact."
+      "title": "Six Months Ago the CEO of Anthropic Said AI Would Replace Software Engineers.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/six-months-ago-the-ceo-of-anthropic-said-ai-would-replace-software-engineers-abfdc8dbce90",
+      "one_liner": "Evaluates Anthropic's CEO's prediction about AI replacing software engineers against actual data."
     },
     {
-      "title": "Andrej Karpathy Just Built an Entire GPT in 243 Lines of Python",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-      "one_liner": "Andrej Karpathy demonstrates building a full GPT model in under 250 lines of Python, highlighting core concepts."
+      "title": "Six Months Ago the CEO of Anthropic Said AI Would Replace Software Engineers.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/six-months-ago-the-ceo-of-anthropic-said-ai-would-replace-software-engineers-abfdc8dbce90",
+      "one_liner": "Evaluates Anthropic's CEO's prediction about AI replacing software engineers against actual data."
     }
   ]
 }

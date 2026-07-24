@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@claudio.a.lupi/claude-sonnet-5-just-broke-half-my-teams-agent-loops-and-almost-nobody-is-talking-about-why-056c4a6b290e",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@reactjsbd/the-4-line-claude-md-that-beats-your-40-rules-f08fcc61fff5",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@secret-dev/beyond-rag-how-googles-open-knowledge-format-okf-is-replacing-the-vector-database-2ffb5bc2f8eb",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dreamferus/im-cancelling-my-claude-code-subscription-here-s-why-511481b4ae63",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@claudio.a.lupi/apple-just-put-claude-inside-every-iphone-e107f2c518b5",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@michalmalewicz/nvidia-just-killed-big-ai-and-youre-the-winner-71c4aeabf19f",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@trricho/kotlin-2-4-0-the-4-features-that-actually-change-how-you-write-android-code-8a87c3b8d4a0",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yuriminamide0509/four-cool-japanese-home-appliances-the-world-hasnt-discovered-yet-fbb82793d894",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnJHd1N4VDVwR2JoeWdpeFFOdnpZRmFKQlJDVHM4RHlndnp2TlNyek5YbkdhMDRnT0JmMjNuekR4Q05QV095bXY2TFhoY3dPaEJRVlVVSVBlZF9VWklVVDhINFdwZkRVdzJYSWhwb2x1QVlESHdKeWVGOUpsVGprSDVvTXJvVHNaS1N4a2lsT2lXZ2RaN0U3Mw?oc=5",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
-    "date": "2026-07-16"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
     "date": "2026-07-17"
   },
@@ -434,5 +370,45 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
     "date": "2026-07-23"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/six-months-ago-the-ceo-of-anthropic-said-ai-would-replace-software-engineers-abfdc8dbce90",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/linus-torvalds-said-the-quiet-part-out-loud-about-ai-and-code-quality-934b2d4be398",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-one-shot-illusion-and-how-experienced-programmers-actually-build-with-ai-bfc8ac0968e0",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rosgluk/best-llms-for-opencode-tested-locally-6f10ae80f733",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/kimi-k3-is-here-and-this-is-how-insane-it-is-you-are-not-ready-d0f9115da17a",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-hired-a-penetration-tester-to-attack-my-fastapi-app-he-owned-everything-in-45-minutes-b66818704f6b",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@kgabeci/i-built-a-10k-ai-saas-while-working-a-9-to-5-e8d669d08351",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anulagarwal12/my-ai-generated-game-earned-25-000-here-is-how-it-happened-ea5612d91464",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@trricho/kotlin-2-4-0-the-4-features-that-actually-change-how-you-write-android-code-8a87c3b8d4a0",
+    "date": "2026-07-24"
   }
 ]
