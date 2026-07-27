@@ -1,49 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/claude-code-subagent-model-routing-stop-paying-for-opus-on-haiku-work-ee76dc32cb88",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/glm-5-2-is-free-right-now-no-api-key-needed-and-it-surprised-me-653632330ba9",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvemu/macos-27-has-a-hidden-llm-inside-10-amazing-things-you-can-do-with-it-44a28d8cc042",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@manuel-brenner/the-bitter-lesson-and-the-paradox-of-the-intelligence-explosion-32c6b467789a",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@komalbaparmar007/duckdb-isnt-just-fast-it-changes-how-you-think-about-data-000c74cdf53a",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/comparing-15-spec-driven-development-frameworks-artifacts-and-decision-paths-sdd-c052df529274",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@elliottdotorg/the-great-luggage-abandonment-why-travelers-are-ditching-their-bags-at-the-airport-aa961e97a0fb",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@greysonferguson/15-countries-offering-retirement-visas-for-2k-or-less-dd0edd731842",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@liamhb/i-moved-to-france-it-damn-near-destroyed-me-39d7bb1fb6db",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
-    "date": "2026-07-19"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@santoshyadav979439/cut-claude-code-token-costs-by-60-90-with-free-open-source-tools-2026-2823e9968463",
     "date": "2026-07-20"
   },
@@ -422,5 +378,45 @@
   {
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
     "date": "2026-07-26"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@claudio.a.lupi/apple-just-put-claude-inside-every-iphone-e107f2c518b5",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dreamferus/im-cancelling-my-claude-code-subscription-here-s-why-511481b4ae63",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anna.bildea/how-to-use-codegraph-turn-any-folder-into-a-knowledge-graph-9958f5a2d077",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-glm-5-2-744b-model-in-c-to-run-on-25gb-ram-77a3df56e7b4",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yuriminamide0509/four-cool-japanese-home-appliances-the-world-hasnt-discovered-yet-fbb82793d894",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@philo2018/how-to-solve-a-rubiks-cube-without-memorizing-algorithms-even-a-kid-can-understand-ea5808d653ee",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
+    "date": "2026-07-27"
   }
 ]

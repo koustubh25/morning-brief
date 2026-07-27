@@ -1,20 +1,20 @@
 {
-  "date": "Sun 26 Jul 2026",
+  "date": "Mon 27 Jul 2026",
   "top_items": [
     {
-      "title": "AI's First Autonomous Cyber Attack",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ignacio.de.gregorio.noblejas/ais-first-autonomous-cyber-attack-5d18fdb31363",
-      "one_liner": "Reports on the first instance of an AI conducting an autonomous cyberattack, potentially industry-defining."
+      "title": "Apple Just Put Claude Inside Every iPhone",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@claudio.a.lupi/apple-just-put-claude-inside-every-iphone-e107f2c518b5",
+      "one_liner": "Highlights Apple's integration of Claude AI across its ecosystem, signalling major AI market shifts."
     },
     {
-      "title": "Cyberattacks, AI Intentionality, and the Hard Problem of Consciousness",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@rachel-draelos/cyberattacks-ai-intentionality-and-the-hard-problem-of-consciousness-0f578b6b5686",
-      "one_liner": "Explores the intersection of AI intentionality, cyberattacks, and the hard problem of consciousness."
+      "title": "Stop Wasting LLM Tokens: Building a Self-Updating Codebase Knowledge Graph with…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
+      "one_liner": "Explores optimising LLM token usage with a Google-backed knowledge graph format."
     },
     {
-      "title": "Agentic Engineering Is Just Product Management: The Karpathy vs Gothelf Fight…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/agentic-engineering-is-just-product-management-the-karpathy-vs-gothelf-fight-over-your-pay-band-91bfa578b27f",
-      "one_liner": "Discusses the debate on whether agentic engineering is a new discipline or simply product management."
+      "title": "I'm Cancelling My Claude Code Subscription - Here's Why",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@dreamferus/im-cancelling-my-claude-code-subscription-here-s-why-511481b4ae63",
+      "one_liner": "A critical review of Claude Code's performance and reasons for cancelling the subscription."
     }
   ]
 }
