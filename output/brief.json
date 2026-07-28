@@ -1,20 +1,20 @@
 {
-  "date": "Mon 27 Jul 2026",
+  "date": "Tue 28 Jul 2026",
   "top_items": [
     {
-      "title": "Apple Just Put Claude Inside Every iPhone",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@claudio.a.lupi/apple-just-put-claude-inside-every-iphone-e107f2c518b5",
-      "one_liner": "Highlights Apple's integration of Claude AI across its ecosystem, signalling major AI market shifts."
+      "title": "Bringing Conversational Analytics to your entire data ecosystem",
+      "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+      "one_liner": "Google Cloud's Conversational Analytics enables scaled enterprise GenAI with trust, governance, and semantic grounding."
     },
     {
-      "title": "Stop Wasting LLM Tokens: Building a Self-Updating Codebase Knowledge Graph with…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
-      "one_liner": "Explores optimising LLM token usage with a Google-backed knowledge graph format."
+      "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
+      "url": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+      "one_liner": "Best Buy scaled AI workloads and secured access on GCP using Workforce Identity Federation with Microsoft Entra ID."
     },
     {
-      "title": "I'm Cancelling My Claude Code Subscription - Here's Why",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@dreamferus/im-cancelling-my-claude-code-subscription-here-s-why-511481b4ae63",
-      "one_liner": "A critical review of Claude Code's performance and reasons for cancelling the subscription."
+      "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
+      "url": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+      "one_liner": "Google Cloud enhances AI cost controls with proactive guardrails to manage unpredictable generative AI spending."
     }
   ]
 }

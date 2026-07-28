@@ -1,49 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@santoshyadav979439/cut-claude-code-token-costs-by-60-90-with-free-open-source-tools-2026-2823e9968463",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/why-microsoft-and-uber-are-pulling-the-plug-on-ai-agents-1e1063469e08",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/stop-asking-what-model-to-run-you-only-have-2-options-67304ed23c46",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/scientists-didnt-expect-ai-to-learn-this-bd154dbb3591",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/why-obsidian-won-as-the-base-for-the-personal-llm-harness-and-when-you-shouldnt-pick-it-9790271e5313",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/rip-commercial-ocr-an-open-source-model-just-topped-every-benchmark-351bf9d6be10",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/10-years-to-build-the-language-11-days-for-ai-to-rewrite-it-then-the-money-stopped-e441203155af",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/how-medium-is-investing-in-the-curation-era-a0172940d215",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/behind-the-scenes-in-their-own-words-5eeb3f048c38",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/food-during-a-blockade-vegetarianism-and-the-hummus-war-89b7a101c396",
-    "date": "2026-07-20"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
     "date": "2026-07-21"
   },
@@ -418,5 +374,65 @@
   {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
     "date": "2026-07-27"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/kimi-k3-is-the-biggest-open-source-model-ever-almost-no-one-can-run-it-39c1b1435100",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@krtarunsingh/the-local-ai-coding-setup-everyone-asked-for-ce0252d2301e",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rosgluk/i-tested-20-llms-for-coding-tasks-only-5-actually-worked-3ca40f2a125d",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/a-youtuber-just-did-more-for-self-hosted-ai-than-a-decade-of-open-source-05054f49a5dc",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jejomarcontawe/the-single-most-prevalent-ai-writing-tell-spoiler-alert-its-not-em-dashes-c56dea4150f4",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/my-macbook-pro-m5-max-killed-two-of-my-ai-subscriptions-the-third-one-won-55b35f0702dd",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-to-boost-your-productivity-fd443a3bb065",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@_jaydeepkarale/how-to-handle-secrets-7c89a7dea723",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sarathm09/15-mac-apps-i-installed-in-2026-that-changed-how-i-work-537e125b492c",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-cncf-projects-you-are-not-using-but-should-be-in-2026-43add2b50f4c",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
+    "date": "2026-07-28"
   }
 ]
