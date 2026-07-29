@@ -1,20 +1,20 @@
 {
-  "date": "Tue 28 Jul 2026",
+  "date": "Wed 29 Jul 2026",
   "top_items": [
     {
-      "title": "Bringing Conversational Analytics to your entire data ecosystem",
-      "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
-      "one_liner": "Google Cloud's Conversational Analytics enables scaled enterprise GenAI with trust, governance, and semantic grounding."
+      "title": "Automate your agent development lifecycle using any coding agent",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+      "one_liner": "Details automating agent development lifecycle for production on GCP, focusing on Gemini Enterprise Agent Platform."
     },
     {
-      "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
-      "url": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
-      "one_liner": "Best Buy scaled AI workloads and secured access on GCP using Workforce Identity Federation with Microsoft Entra ID."
+      "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
+      "url": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+      "one_liner": "Looker Agentic Workflows automate data monitoring and root-cause analysis using intelligent agents."
     },
     {
-      "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
-      "url": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
-      "one_liner": "Google Cloud enhances AI cost controls with proactive guardrails to manage unpredictable generative AI spending."
+      "title": "What’s new in Gemini Enterprise Agent Platform",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+      "one_liner": "Updates on Gemini Enterprise Agent Platform, highlighting progress and offering new demos and insights."
     }
   ]
 }

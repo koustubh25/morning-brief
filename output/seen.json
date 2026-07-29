@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/what-is-the-best-hardware-for-running-local-llms-in-2026-mac-vs-5090-vs-cloud-ff023b660442",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/is-the-600-nvidia-v100-32gb-with-hbm-worth-buying-in-july-2026-c2e6cf17f533",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jordan_gibbs/every-ai-writing-tell-you-know-is-already-dead-762cadf46f6b",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@monalazzar/i-did-the-math-you-cant-afford-to-leave-america-sorry-c15fcd689258",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
-    "date": "2026-07-21"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
     "date": "2026-07-22"
   },
@@ -434,5 +386,77 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
     "date": "2026-07-28"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/building-a-rag-pipeline-for-10m-documents-with-near-zero-hallucination-788e4b5b7f25",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-asked-for-a-tool-48-hours-later-graphify-went-viral-10d8ead5f50e",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/glm-5-2-is-free-right-now-no-api-key-needed-and-it-surprised-me-653632330ba9",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvemu/macos-27-has-a-hidden-llm-inside-10-amazing-things-you-can-do-with-it-44a28d8cc042",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sahibdhanjal/these-10-linux-tools-changed-everything-7c5e568aa411",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tricky16122000/i-didnt-expect-python-3-15-to-change-this-much-bd4909d15e88",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@harrymarkjava/intellijs-biggest-change-in-16-years-just-dropped-08a41ecc3fda",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nadinbrzezinski/a-perfect-storm-is-forming-in-russia-97e00edc81fc",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/free-12-ai-tools-that-replace-200-month-subscriptions-f7bafcb4595e",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@greysonferguson/15-countries-offering-retirement-visas-for-2k-or-less-dd0edd731842",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
+    "date": "2026-07-29"
   }
 ]
