@@ -1,20 +1,20 @@
 {
-  "date": "Wed 29 Jul 2026",
+  "date": "Thu 30 Jul 2026",
   "top_items": [
     {
-      "title": "Automate your agent development lifecycle using any coding agent",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
-      "one_liner": "Details automating agent development lifecycle for production on GCP, focusing on Gemini Enterprise Agent Platform."
+      "title": "Use Gemini in Google Forms to quickly create a new quiz",
+      "url": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
+      "one_liner": "Gemini in Google Forms now generates quizzes from prompts, referencing Drive files for source content."
     },
     {
-      "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
-      "url": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
-      "one_liner": "Looker Agentic Workflows automate data monitoring and root-cause analysis using intelligent agents."
+      "title": "Opus 5 Is Not the Story: The Pricing Ladder Anthropic Just Finished Building Is",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/opus-5-is-not-the-story-the-pricing-ladder-anthropic-just-finished-building-is-7de7dc49a2c4",
+      "one_liner": "Analyzes Anthropic's rapid model releases and pricing changes, focusing on the strategic implications of Opus 5."
     },
     {
-      "title": "What’s new in Gemini Enterprise Agent Platform",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
-      "one_liner": "Updates on Gemini Enterprise Agent Platform, highlighting progress and offering new demos and insights."
+      "title": "Opus 5 Is Not the Story: The Pricing Ladder Anthropic Just Finished Building Is",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/opus-5-is-not-the-story-the-pricing-ladder-anthropic-just-finished-building-is-7de7dc49a2c4",
+      "one_liner": "Analyzes Anthropic's rapid model releases and pricing changes, focusing on the strategic implications of Opus 5."
     }
   ]
 }

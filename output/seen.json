@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/open-knowledge-format-okf-why-google-thinks-ai-needs-a-git-for-knowledge-9dc9f08efb79",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/kimi-k3-the-open-model-that-just-cornered-the-ai-frontier-cf9f44e76f17",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nitingavhane/15-levels-of-hermes-agent-from-chatbot-to-24-7-autonomous-system-da15c3c204f6",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kashif-mehmood-km/ollama-mlx-nearly-doubles-llm-speed-on-your-mac-58-to-112-tok-s-and-your-old-models-get-none-of-fd1a9ec531fb",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pelletierhaden/3-claude-skills-every-data-scientist-needs-in-2026-cd27a0ee6754",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@danielvalev/i-deleted-pip-pyenv-poetry-and-virtualenv-then-openai-bought-the-thing-that-replaced-them-a23adedfbccf",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/12-ai-skills-you-should-learn-in-2026-9f6d39cf2292",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mrhotfix/which-programming-languages-actually-matter-in-2026-4db2ce910208",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mouez.yazidi2016/stop-installing-random-mcp-servers-start-with-these-10-e5fa908f3eda",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/i-hid-an-entire-website-inside-a-favicon-so-now-im-worried-about-your-browser-0fa041b506f5",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/master-obsidian-the-complete-and-definitive-guide-to-turning-your-notes-into-a-second-brain-43f9f147f31a",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "date": "2026-07-22"
-  },
-  {
     "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
     "date": "2026-07-23"
   },
@@ -458,5 +394,53 @@
   {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5",
     "date": "2026-07-29"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/opus-5-is-not-the-story-the-pricing-ladder-anthropic-just-finished-building-is-7de7dc49a2c4",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@abdulgafoorabid/how-i-cut-claude-code-token-usage-by-90-with-4-tools-custom-hooks-and-enforcement-d3f8d2488cd6",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/nvidia-just-put-a-120-billion-parameter-ai-model-in-your-laptop-heres-what-that-actually-changes-c95fea08acd0",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@reactjsbd/a-2021-m1-max-beats-a-new-m4-at-local-ai-by-3-heres-the-spec-apple-doesn-t-advertise-d9f6a64102bb",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/build-a-second-brain-in-15-minutes-just-markdown-git-and-an-ai-agent-c9d74ba992bb",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sarathm09/15-cli-tools-that-replaced-postman-docker-desktop-slack-and-other-bloated-electron-apps-for-me-2a092745863c",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/long-reads-on-medium-just-got-easier-to-read-and-enjoy-2a9f8fa135f8",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/how-medium-is-investing-in-the-curation-era-a0172940d215",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@zulie_at_medium/two-improvements-for-publication-editors-better-submissions-controls-and-a-clearer-editor-partner-1cb9944af277",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dailynewsletter/mysteries-in-the-paint-fb08506a8d5c",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
+    "date": "2026-07-30"
   }
 ]
