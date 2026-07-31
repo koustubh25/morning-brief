@@ -1,20 +1,20 @@
 {
-  "date": "Thu 30 Jul 2026",
+  "date": "Fri 31 Jul 2026",
   "top_items": [
     {
-      "title": "Use Gemini in Google Forms to quickly create a new quiz",
-      "url": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
-      "one_liner": "Gemini in Google Forms now generates quizzes from prompts, referencing Drive files for source content."
+      "title": "What’s new in AI infrastructure and orchestration this month",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "one_liner": "Google Cloud's AI infrastructure covers models, tools, frameworks, and platform, highlighting their soup-to-nuts approach."
     },
     {
-      "title": "Opus 5 Is Not the Story: The Pricing Ladder Anthropic Just Finished Building Is",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/opus-5-is-not-the-story-the-pricing-ladder-anthropic-just-finished-building-is-7de7dc49a2c4",
-      "one_liner": "Analyzes Anthropic's rapid model releases and pricing changes, focusing on the strategic implications of Opus 5."
+      "title": "Cloud CISO Perspectives: Why AI Threat Defense is the new boardroom baseline",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
+      "one_liner": "Google Cloud CISO discusses AI threat defense as a boardroom baseline for security governance and agility."
     },
     {
-      "title": "Opus 5 Is Not the Story: The Pricing Ladder Anthropic Just Finished Building Is",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@han.heloir/opus-5-is-not-the-story-the-pricing-ladder-anthropic-just-finished-building-is-7de7dc49a2c4",
-      "one_liner": "Analyzes Anthropic's rapid model releases and pricing changes, focusing on the strategic implications of Opus 5."
+      "title": "I Tested Gemma 4 Against Claude Opus 5 and GPT 5.5. The Truth shocked me…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-opus-5-and-gpt-5-5-the-truth-shocked-me-completely-6faf105c8fe2",
+      "one_liner": "Compares Gemma 4 against Claude Opus 5 and GPT 5.5, revealing surprising results about their performance."
     }
   ]
 }

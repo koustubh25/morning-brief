@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hamzamlwh/i-set-up-claude-projects-properly-i-wont-go-back-19848a46703c",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/andrej-karpathy-just-built-an-entire-gpt-in-243-lines-of-python-7d66cfdfa301",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/everyone-says-graphify-cut-their-ai-coding-bill-70x-752fc1e1f0d9",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codebyumar/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@beerus11/open-source-llms-in-2026-the-free-ai-models-everyone-will-be-using-while-youre-still-overpaying-29cdfe3bff63",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-cracked-my-own-jwt-secret-in-11-minutes-then-i-migrated-to-paseto-069f699da1dd",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@entrylevelrebel/steve-jobss-10-80-10-rule-is-even-more-useful-in-the-ai-era-8b003c8a9f7e",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@aashiyer7/the-shortest-boom-in-history-why-the-ai-era-will-end-sooner-than-you-think-7053ff14a493",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anzekravanja/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/europe-is-ditching-visa-and-mastercard-and-its-a-huge-step-aed49505f6b5",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@RPauloDelgado/ai-killed-my-writing-career-long-live-ai-ecd264cd4d9f",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rosgluk/minio-ce-is-effectively-dead-in-2026-heres-what-to-run-instead-2210130445c7",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
-    "date": "2026-07-23"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
     "date": "2026-07-24"
   },
@@ -442,5 +386,89 @@
   {
     "url": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
     "date": "2026-07-30"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-tested-gemma-4-against-claude-opus-5-and-gpt-5-5-the-truth-shocked-me-completely-6faf105c8fe2",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ikh4ever/i-built-this-claude-md-and-my-coding-agent-got-amazing-f0c4307d53cd",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@theostowell/obsidian-x-hermes-agent-is-so-good-im-actively-deleting-day-to-day-apps-78ec4ff20423",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/40-years-built-this-database-ai-copied-it-46-000-tests-passed-one-query-broke-it-7c8e308f5d84",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/10-best-use-cases-of-kimi-k3-the-model-that-made-us-stocks-fall-yesterday-0be8acc8941a",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielwarfield1/infrastructure-on-google-cloud-intuitively-and-exhaustively-explained-dc5ebc556790",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/if-you-know-these-6-langgraph-concepts-you-are-already-ahead-of-90-of-developers-69a83e701da7",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/kimi-k3-crashed-under-demand-then-china-dropped-2-more-ai-models-fe4cbead1788",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gainjavaknowledge/what-happens-when-multiple-users-hit-your-api-at-the-same-time-ff039e977915",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@komalbaparmar007/duckdb-isnt-just-fast-it-changes-how-you-think-about-data-000c74cdf53a",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codebyumar/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/europe-is-ditching-visa-and-mastercard-and-its-a-huge-step-aed49505f6b5",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yumaueno/how-a-22-year-old-college-student-with-zero-coding-experience-built-a-125k-peptide-app-in-80-days-d69918830f84",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@InkOfCode/apple-is-launching-a-monthly-payment-plan-for-macs-and-iphones-on-july-28-aede6728b22e",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mikeweisser/regime-change-why-did-i-piss-away-24-on-this-book-935ac7978214",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+    "date": "2026-07-31"
   }
 ]
