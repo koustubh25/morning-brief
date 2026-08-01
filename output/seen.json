@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yousefhosni/how-to-create-loops-with-claude-code-a-practical-guide-to-agentic-automation-6f422390a143",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/six-months-ago-the-ceo-of-anthropic-said-ai-would-replace-software-engineers-abfdc8dbce90",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/linus-torvalds-said-the-quiet-part-out-loud-about-ai-and-code-quality-934b2d4be398",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-one-shot-illusion-and-how-experienced-programmers-actually-build-with-ai-bfc8ac0968e0",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rosgluk/best-llms-for-opencode-tested-locally-6f10ae80f733",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/kimi-k3-is-here-and-this-is-how-insane-it-is-you-are-not-ready-d0f9115da17a",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/i-hired-a-penetration-tester-to-attack-my-fastapi-app-he-owned-everything-in-45-minutes-b66818704f6b",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@kgabeci/i-built-a-10k-ai-saas-while-working-a-9-to-5-e8d669d08351",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@anulagarwal12/my-ai-generated-game-earned-25-000-here-is-how-it-happened-ea5612d91464",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@trricho/kotlin-2-4-0-the-4-features-that-actually-change-how-you-write-android-code-8a87c3b8d4a0",
-    "date": "2026-07-24"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@hayanan/the-most-mysterious-ai-response-ever-recorded-when-machines-say-things-we-cannot-explain-115b35f8ea77",
     "date": "2026-07-25"
   },
@@ -470,5 +430,65 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
     "date": "2026-07-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/six-months-ago-the-ceo-of-anthropic-said-ai-would-replace-software-engineers-abfdc8dbce90",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/what-is-the-best-hardware-for-running-local-llms-in-2026-mac-vs-5090-vs-cloud-ff023b660442",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@xhinker/is-the-600-nvidia-v100-32gb-with-hbm-worth-buying-in-july-2026-c2e6cf17f533",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yanli.liu/andrej-karpathys-fix-for-llm-memory-works-on-code-too-9a9e38b18b4e",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@flutter-app/flutter-3-44-just-quietly-rewrote-the-rules-of-cross-platform-development-e4f3f95ef26c",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@aaiguy/this-is-why-nobody-can-tell-i-used-chatgpt-db3e1a2053ac",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielvalev/i-deleted-pip-pyenv-poetry-and-virtualenv-then-openai-bought-the-thing-that-replaced-them-a23adedfbccf",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/11-charts-the-ai-industry-doesnt-want-you-to-see-55a73805cf5b",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@komalbaparmar007/7-modern-python-tools-that-feel-like-theyre-from-the-future-1a0c07d871de",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/system-design-interview-how-would-you-let-users-upload-huge-files-even-if-the-internet-disconnects-cab5a3b0abae",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rameshkannanyt0078/fastapi-vs-gin-vs-spring-boot-2026-1m-request-benchmarks-thatll-change-your-stack-choice-d1ceb49ef1ee",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@bhavyansh001/6-lightweight-cli-tools-that-replaced-my-bloated-dev-software-ea7fadc69521",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@rafianaseem259/10-websites-better-than-another-hour-of-doomscrolling-828832e25439",
+    "date": "2026-08-01"
   }
 ]
