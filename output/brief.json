@@ -1,20 +1,20 @@
 {
-  "date": "Sun 2 Aug 2026",
+  "date": "Mon 3 Aug 2026",
   "top_items": [
     {
-      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
-      "one_liner": "Explores core concepts of AI agents, including tools and memory, for developers."
+      "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
+      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
+      "one_liner": "Google Cloud offers a safer, AI-assisted path for mainframe modernization beyond 'big bang' migrations."
     },
     {
-      "title": "I Ran Kimi K3 Against Claude for a Week. Here Is What Actually Happened",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@inprogrammer/i-ran-kimi-k3-against-claude-for-a-week-here-is-what-actually-happened-20c1a17c9206",
-      "one_liner": "Compares the performance and outcomes of Kimi K3 against Claude over a week."
+      "title": "OpenAI Shocks The World With GPT-6",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/openai-shocks-the-world-with-gpt-6-dc54b0db5d04",
+      "one_liner": "Announces a hypothetical GPT-6 from OpenAI, suggesting a paradigm shift in AI capabilities."
     },
     {
-      "title": "Everyone Says Graphify Cut Their AI Coding Bill 70x.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@lenner9090/everyone-says-graphify-cut-their-ai-coding-bill-70x-752fc1e1f0d9",
-      "one_liner": "Discusses how Graphify reportedly achieved a 70x reduction in AI coding costs."
+      "title": "OpenAI Shocks The World With GPT-6",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/openai-shocks-the-world-with-gpt-6-dc54b0db5d04",
+      "one_liner": "Announces a hypothetical GPT-6 from OpenAI, suggesting a paradigm shift in AI capabilities."
     }
   ]
 }
