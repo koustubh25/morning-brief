@@ -1,20 +1,20 @@
 {
-  "date": "Mon 3 Aug 2026",
+  "date": "Wed 26 Aug 2026",
   "top_items": [
     {
-      "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
-      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
-      "one_liner": "Google Cloud offers a safer, AI-assisted path for mainframe modernization beyond 'big bang' migrations."
+      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+      "one_liner": "Google Cloud introduces new FinOps controls and flexible billing for AI agents and Gemini Enterprise."
     },
     {
-      "title": "OpenAI Shocks The World With GPT-6",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/openai-shocks-the-world-with-gpt-6-dc54b0db5d04",
-      "one_liner": "Announces a hypothetical GPT-6 from OpenAI, suggesting a paradigm shift in AI capabilities."
+      "title": "OMG! NVIDIA Just Killed Claude Code and Codex",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@secret-dev/omg-nvidia-just-killed-claude-code-and-codex-a27c87d6e84b",
+      "one_liner": "NVIDIA releases Nemotron-3, a 550B MoE model, potentially impacting tools like Claude Code and Codex."
     },
     {
-      "title": "OpenAI Shocks The World With GPT-6",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@tanmay.bansal20/openai-shocks-the-world-with-gpt-6-dc54b0db5d04",
-      "one_liner": "Announces a hypothetical GPT-6 from OpenAI, suggesting a paradigm shift in AI capabilities."
+      "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-actual-reason-why-google-fell-out-of-the-ai-race-changes-everything-d935663a09c3",
+      "one_liner": "Explores a new perspective on why Google might have perceived 'falling out' of the AI race."
     }
   ]
 }
