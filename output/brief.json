@@ -1,20 +1,20 @@
 {
-  "date": "Wed 26 Aug 2026",
+  "date": "Mon 31 Aug 2026",
   "top_items": [
     {
-      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
-      "one_liner": "Google Cloud introduces new FinOps controls and flexible billing for AI agents and Gemini Enterprise."
+      "title": "From weeks to minutes: The new agentic era of data pipelines",
+      "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "one_liner": "Introduces Google Cloud's new agentic framework for dramatically accelerating data pipeline creation."
     },
     {
-      "title": "OMG! NVIDIA Just Killed Claude Code and Codex",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@secret-dev/omg-nvidia-just-killed-claude-code-and-codex-a27c87d6e84b",
-      "one_liner": "NVIDIA releases Nemotron-3, a 550B MoE model, potentially impacting tools like Claude Code and Codex."
+      "title": "What’s new in AI infrastructure and orchestration in August",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "one_liner": "Summarizes the latest August updates in Google Cloud's AI infrastructure, orchestration, and research."
     },
     {
-      "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-actual-reason-why-google-fell-out-of-the-ai-race-changes-everything-d935663a09c3",
-      "one_liner": "Explores a new perspective on why Google might have perceived 'falling out' of the AI race."
+      "title": "I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@elshad-karimov/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-a566bd3f9869",
+      "one_liner": "Shares 14 effective commands and prompt patterns learned from extensive use of Claude Code."
     }
   ]
 }

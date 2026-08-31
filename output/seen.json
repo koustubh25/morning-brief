@@ -146,5 +146,129 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
     "date": "2026-08-26"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@elshad-karimov/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-a566bd3f9869",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hii_mohit/9-claude-code-plugins-every-developer-should-install-in-2026-9a35b8fe5a83",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@manjunath.shiva/qwen3-6-35b-runs-on-a-16-gb-m4-mac-mini-fully-in-memory-no-tricks-1ec4b5bcec35",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@debmalyabiswas/observability-for-the-agentic-ai-harness-07b322518206",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@the_infinity/i-tried-dozens-of-claude-skills-these-are-the-5-must-haves-e5b60013ffe9",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mychen76/a-deep-dive-into-deepseek-harness-agent-loop-plugins-workflow-ralph-agent-team-38b357b0ffe0",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@guy-oxnb/your-agent-harness-is-probably-overengineered-cba28f13ba80",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noemi.muniz.gutierrez/i-built-my-own-ai-interview-prep-agent-without-writing-a-single-line-of-code-d69c93684200",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@tinkerd/from-20-to-60-120-tokens-s-building-a-local-ai-workstation-that-actually-works-a65a1f0e1ff9",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@markellisreviews/what-googles-android-boss-really-thinks-about-ai-s-future-6553d443aa80",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@taimurcloud123/5-ai-security-projects-that-will-get-you-hired-in-2026-and-beyond-a12818ff92e7",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@allaboutdesigning696/how-to-become-an-ai-engineer-in-2026-from-scratch-4d9f4e23b3c6",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@UserExpired/from-figma-to-front-end-without-losing-your-mind-65518cafe5b6",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pepitoscrespo/why-ai-sucks-at-these-programming-languages-f35c14ac4a8e",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sumit.ai/i-finetuned-a-viral-ai-model-kronos-to-predict-the-stock-market-59412a1be8b1",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pravash-techie/stop-writing-this-python-code-6-libraries-that-do-it-better-2d06502aa2da",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gladwyn.lewis/michael-burry-says-nvidia-is-enron-nvidia-just-gave-him-105-billion-more-evidence-a4938520e0bc",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/how-to-turn-any-network-into-an-interactive-knowledge-graph-to-discover-hidden-insights-f49fae4757ff",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/a-4-billion-empire-broke-open-source-they-threatened-one-developer-it-backfired-da390a20bc1f",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/the-senior-engineers-are-quiet-right-now-that-is-not-a-good-sign-f216aa36785f",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@alexandrev/radar-a-new-kubernetes-ide-worth-knowing-about-vs-openlens-freelens-fa830700736b",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@TobiasCharles/ive-managed-people-for-years-one-type-of-employee-still-makes-me-nervous-12b809b05422",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danfosterwriter/i-was-asked-to-rewrite-the-ten-commandments-two-had-to-go-cd78dde09883",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@andruslim15/mac-mini-m6-vs-m5-pro-which-one-should-you-buy-in-2026-b647d0c5fc60",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@haztechycontent/open-source-apps-to-replace-your-every-subscription-and-dont-suck-fe355bae7c75",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jdtallal/bad-girl-adva-lavie-an-onlyfans-star-preyed-on-at-least-10-older-rich-men-and-anyone-else-she-9d0914816e48",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/08/gemini-based-data-classification-in-Google-Drive-is-now-available-in-open-beta.html",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
+    "date": "2026-08-31"
   }
 ]
