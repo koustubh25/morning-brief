@@ -1,20 +1,20 @@
 {
-  "date": "Mon 31 Aug 2026",
+  "date": "Sat 5 Sep 2026",
   "top_items": [
     {
-      "title": "From weeks to minutes: The new agentic era of data pipelines",
-      "url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "one_liner": "Introduces Google Cloud's new agentic framework for dramatically accelerating data pipeline creation."
+      "title": "Tokens matter: Claude Code Subagent Model Routing: Stop Paying for Opus on…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@roanmonteiro/claude-code-subagent-model-routing-stop-paying-for-opus-on-haiku-work-ee76dc32cb88",
+      "one_liner": "Optimise Claude Code costs by routing tasks to specific models based on subagent needs, avoiding Opus for simpler jobs."
     },
     {
-      "title": "What’s new in AI infrastructure and orchestration in August",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "one_liner": "Summarizes the latest August updates in Google Cloud's AI infrastructure, orchestration, and research."
+      "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/the-actual-reason-why-google-fell-out-of-the-ai-race-changes-everything-d935663a09c3",
+      "one_liner": "This article explores the underlying reasons for Google's perceived missteps in the AI race, reframing the narrative."
     },
     {
-      "title": "I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@elshad-karimov/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-a566bd3f9869",
-      "one_liner": "Shares 14 effective commands and prompt patterns learned from extensive use of Claude Code."
+      "title": "30 Core Agentic Engineering Concepts Every Developer Should Know",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Deep-concept/30-core-agentic-engineering-concepts-every-developer-should-know-5066b3117f69",
+      "one_liner": "A foundational guide covering 30 core concepts in agentic engineering, including tools, memory, and AI agents."
     }
   ]
 }
