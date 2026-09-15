@@ -1,20 +1,20 @@
 {
-  "date": "Thu 10 Sep 2026",
+  "date": "Tue 15 Sep 2026",
   "top_items": [
     {
-      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
-      "one_liner": "Introduces a new Google Cloud Developer Plugin for AI coding agents to enhance workflows."
+      "title": "Connect to more tools with Gemini in Google Workspace",
+      "url": "http://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
+      "one_liner": "Gemini in Google Workspace expands integrations with major enterprise tools, enhancing cross-app workflows and data access."
     },
     {
-      "title": "What’s new with Google Data Cloud",
-      "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "one_liner": "New Pub/Sub AI Inference SMTs enable real-time model inference on event streams for Gemini Enterprise."
+      "title": "Introducing new session management tools with native, granular controls",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
+      "one_liner": "Google Cloud introduces new session management tools with granular controls and a default 16-hour limit."
     },
     {
-      "title": "Production-Grade OKF + Graphify Setup, Not Just a Demo",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@UdaykiranEstari/production-grade-okf-graphify-setup-not-just-a-demo-aecf54c08153",
-      "one_liner": "Discusses establishing a robust, production-ready setup for AI coding agents using OKF and Graphify."
+      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
+      "one_liner": "Agent Substrate is now available on GKE for scalable, secure agent execution."
     }
   ]
 }
