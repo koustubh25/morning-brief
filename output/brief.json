@@ -1,20 +1,20 @@
 {
-  "date": "Tue 15 Sep 2026",
+  "date": "Sun 20 Sep 2026",
   "top_items": [
     {
-      "title": "Connect to more tools with Gemini in Google Workspace",
-      "url": "http://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
-      "one_liner": "Gemini in Google Workspace expands integrations with major enterprise tools, enhancing cross-app workflows and data access."
+      "title": "I Stopped Chatting With Claude Code and Started Engineering With It",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@nuno.roberto/i-stopped-chatting-with-claude-code-and-started-engineering-with-it-45ab701cf5b1",
+      "one_liner": "Shifts perspective from conversational AI interaction to engineering with Claude Code in the terminal."
     },
     {
-      "title": "Introducing new session management tools with native, granular controls",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
-      "one_liner": "Google Cloud introduces new session management tools with granular controls and a default 16-hour limit."
+      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
+      "one_liner": "A comprehensive guide to becoming an elite user of Claude Code through advanced prompt engineering techniques."
     },
     {
-      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
-      "one_liner": "Agent Substrate is now available on GKE for scalable, secure agent execution."
+      "title": "5 Claude Tricks That Give You an Unfair Advantage (Most People Still Use the…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/5-claude-tricks-that-give-you-an-unfair-advantage-most-people-still-use-the-old-way-0385a58057c7",
+      "one_liner": "Learn five advanced Claude usage techniques to enhance productivity and gain an advantage."
     }
   ]
 }
