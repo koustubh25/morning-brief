@@ -1,20 +1,20 @@
 {
-  "date": "Sun 20 Sep 2026",
+  "date": "Fri 25 Sep 2026",
   "top_items": [
     {
-      "title": "I Stopped Chatting With Claude Code and Started Engineering With It",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@nuno.roberto/i-stopped-chatting-with-claude-code-and-started-engineering-with-it-45ab701cf5b1",
-      "one_liner": "Shifts perspective from conversational AI interaction to engineering with Claude Code in the terminal."
+      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "one_liner": "Details GCP's managed RL fine-tuning service for customizing Gemini models with user-defined rewards."
     },
     {
-      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
-      "one_liner": "A comprehensive guide to becoming an elite user of Claude Code through advanced prompt engineering techniques."
+      "title": "Anthropic's New AI Threat Report is Absolutely Insane",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/anthropics-new-ai-threat-report-is-absolutely-insane-a54731265395",
+      "one_liner": "Highlights Anthropic's AI threat report detailing extensive use of Claude in Chinese labs for security research."
     },
     {
-      "title": "5 Claude Tricks That Give You an Unfair Advantage (Most People Still Use the…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/5-claude-tricks-that-give-you-an-unfair-advantage-most-people-still-use-the-old-way-0385a58057c7",
-      "one_liner": "Learn five advanced Claude usage techniques to enhance productivity and gain an advantage."
+      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+      "one_liner": "Reveals advanced, underutilized agent modes within Claude Code for developers."
     }
   ]
 }
