@@ -1,20 +1,20 @@
 {
-  "date": "Fri 25 Sep 2026",
+  "date": "Sun 27 Sep 2026",
   "top_items": [
     {
-      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "one_liner": "Details GCP's managed RL fine-tuning service for customizing Gemini models with user-defined rewards."
+      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
+      "one_liner": "Discusses how Anthropic's Managed Agents could disrupt the AI startup ecosystem."
     },
     {
-      "title": "Anthropic's New AI Threat Report is Absolutely Insane",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/anthropics-new-ai-threat-report-is-absolutely-insane-a54731265395",
-      "one_liner": "Highlights Anthropic's AI threat report detailing extensive use of Claude in Chinese labs for security research."
+      "title": "Anthropic's Managed Agents wipe out thousands of AI startups overnight",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
+      "one_liner": "Discusses how Anthropic's Managed Agents could disrupt the AI startup ecosystem."
     },
     {
-      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-      "one_liner": "Reveals advanced, underutilized agent modes within Claude Code for developers."
+      "title": "Claude proved Fermat's Last Theorem in 11 days. Nobody can read the result",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/claude-proved-fermats-last-theorem-in-11-days-nobody-can-read-the-result-2ec8a9b71b55",
+      "one_liner": "Anthropic's Claude 3.5-era AI reportedly proved Fermat's Last Theorem, demonstrating advanced reasoning."
     }
   ]
 }
