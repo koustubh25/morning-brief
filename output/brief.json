@@ -1,20 +1,20 @@
 {
-  "date": "Sun 27 Sep 2026",
+  "date": "Mon 28 Sep 2026",
   "top_items": [
     {
-      "title": "Apple Shipped an Android SDK Nobody Asked For - And It Reveals Everything Wrong…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@SaezChristopher/apple-shipped-an-android-sdk-nobody-asked-for-and-it-reveals-everything-wrong-with-the-company-35b615b8772f",
-      "one_liner": "Apple's unexpected Android SDK is being criticized for its perceived flaws."
+      "title": "Why your startup needs open models alongside frontier APIs",
+      "url": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
+      "one_liner": "Explores hybrid AI model strategies for startups, addressing cost, scalability, and competitive advantage."
     },
     {
-      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "one_liner": "Google Cloud offers a managed RL fine-tuning service for customizing Gemini models without full model access."
+      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
+      "url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
+      "one_liner": "Announces GA of new GCP Z4D machine family, optimized for IO-intensive workloads like databases and analytics."
     },
     {
-      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-      "one_liner": "New GKE agentic migration tools enable AI-assisted, governed migrations from EKS to GKE."
+      "title": "New Jev Model is Insane! 200x Faster & 400x Cheaper Than Frontier Models",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/new-jev-model-is-insane-200x-faster-400x-cheaper-than-frontier-models-4c595a3abe55",
+      "one_liner": "Highlights a new AI model claiming 200x speed and 400x cost savings over current options."
     }
   ]
 }
