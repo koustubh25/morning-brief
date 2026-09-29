@@ -1,20 +1,20 @@
 {
-  "date": "Mon 28 Sep 2026",
+  "date": "Tue 29 Sep 2026",
   "top_items": [
     {
-      "title": "Why your startup needs open models alongside frontier APIs",
-      "url": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
-      "one_liner": "Explores hybrid AI model strategies for startups, addressing cost, scalability, and competitive advantage."
+      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+      "one_liner": "Google Cloud's GKE Agent Sandbox dramatically accelerates agentic RL research."
     },
     {
-      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
-      "url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
-      "one_liner": "Announces GA of new GCP Z4D machine family, optimized for IO-intensive workloads like databases and analytics."
+      "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
+      "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+      "one_liner": "Google Cloud introduces new security agents and AI defenses with Gemini Enterprise."
     },
     {
-      "title": "New Jev Model is Insane! 200x Faster & 400x Cheaper Than Frontier Models",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/new-jev-model-is-insane-200x-faster-400x-cheaper-than-frontier-models-4c595a3abe55",
-      "one_liner": "Highlights a new AI model claiming 200x speed and 400x cost savings over current options."
+      "title": "Defending at machine speed: Securing the public sector in the agentic era",
+      "url": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+      "one_liner": "Discusses the need for machine-speed defense in public sector cybersecurity due to AI threats."
     }
   ]
 }
