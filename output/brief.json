@@ -1,20 +1,20 @@
 {
-  "date": "Tue 29 Sep 2026",
+  "date": "Wed 30 Sep 2026",
   "top_items": [
     {
-      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
-      "one_liner": "Google Cloud's GKE Agent Sandbox dramatically accelerates agentic RL research."
+      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "one_liner": "New GCP CLI remote MCP server enables AI agents to securely manage GCP infra and BigQuery workflows."
     },
     {
-      "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
-      "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
-      "one_liner": "Google Cloud introduces new security agents and AI defenses with Gemini Enterprise."
+      "title": "What’s new in AI infrastructure and orchestration in September",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "one_liner": "Google Cloud boosts AI infrastructure and orchestration for scalable, secure, and cost-effective agentic fleets."
     },
     {
-      "title": "Defending at machine speed: Securing the public sector in the agentic era",
-      "url": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
-      "one_liner": "Discusses the need for machine-speed defense in public sector cybersecurity due to AI threats."
+      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+      "one_liner": "Data Agent Kit is GA, enabling coding agents to work directly with Google Cloud Data products."
     }
   ]
 }
