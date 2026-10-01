@@ -1,20 +1,20 @@
 {
-  "date": "Wed 30 Sep 2026",
+  "date": "Thu 1 Oct 2026",
   "top_items": [
     {
-      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-      "one_liner": "New GCP CLI remote MCP server enables AI agents to securely manage GCP infra and BigQuery workflows."
+      "title": "Stop Reading the Code",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/stop-reading-the-code-94ec2d9c7bfa",
+      "one_liner": "Explores the productivity gains from AI agents writing code, reducing the need for manual reading."
     },
     {
-      "title": "What’s new in AI infrastructure and orchestration in September",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "one_liner": "Google Cloud boosts AI infrastructure and orchestration for scalable, secure, and cost-effective agentic fleets."
+      "title": "Anthropic Studied How People Actually Use Claude. The Findings Were Surprising",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@phynixai/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846",
+      "one_liner": "Anthropic's study reveals surprising insights into how users actually interact with Claude, impacting enterprise deployment strategies."
     },
     {
-      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
-      "one_liner": "Data Agent Kit is GA, enabling coding agents to work directly with Google Cloud Data products."
+      "title": "Agent Harness - A complete guide",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@AIBites/agent-harness-a-no-bs-guide-8f69e3c0a3da",
+      "one_liner": "A guide to understanding Agent Harness for rapid agent development and experimentation."
     }
   ]
 }
