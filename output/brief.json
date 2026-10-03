@@ -1,20 +1,20 @@
 {
-  "date": "Fri 2 Oct 2026",
+  "date": "Sat 3 Oct 2026",
   "top_items": [
     {
-      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
-      "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
-      "one_liner": "Announces Spanner queues for transactional messaging in AI agentic workloads and complex orchestrations."
+      "title": "Becoming a top 1% Claude Code user: the complete playbook no one else is…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
+      "one_liner": "A comprehensive guide to mastering Claude Code for enhanced developer productivity and advanced prompt engineering."
     },
     {
-      "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
-      "url": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
-      "one_liner": "Details implementing AI agent memory in AlloyDB and Memorystore for Valkey, reducing token spend."
+      "title": "The Vibe Coding Trap: Why AI-Generated MVPs Are Quietly Bankrupting Early-Stage…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ronomahedi/the-vibe-coding-trap-why-ai-generated-mvps-are-quietly-bankrupting-early-stage-startups-f6d06065348e",
+      "one_liner": "Critiques the 'vibe coding' trend and AI-generated MVPs, highlighting potential financial risks for startups."
     },
     {
-      "title": "I Fused 3 Tiny Local LLMs on my Laptop and Matched the Reasoning of Anthropic…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvarma07/i-fused-3-tiny-local-llms-on-my-laptop-and-matched-the-reasoning-of-anthropic-fable-5-4e62930b2bf0",
-      "one_liner": "Claims to have fused local LLMs to match Anthropic's reasoning, suggesting API cost reduction."
+      "title": "\"Vibe Coding\" Has Become \"Doomcoding\"",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jproco/vibe-coding-has-become-doomcoding-96b8df31b830",
+      "one_liner": "Further elaborates on the 'vibe coding' phenomenon, examining its impact on development quality and efficiency."
     }
   ]
 }

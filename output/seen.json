@@ -1,117 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/anthropics-new-ai-threat-report-is-absolutely-insane-a54731265395",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/gemini-4-is-coming-into-a-much-harder-market-than-googles-last-pro-model-ae27d63627eb",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lvntblsn/what-is-bonsai-2-why-a-27b-model-now-fits-on-the-laptop-you-already-own-18da24cc7b93",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/anthropic-will-lose-the-ai-race-here-is-10-reasons-why-64e27ce012b1",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shrashtisinghal/the-idle-agent-designing-ambient-event-driven-systems-that-wait-well-9317b9c13ccd",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@pramodaiml/beyond-spec-driven-development-the-agentic-engineering-playbook-thats-replacing-how-we-build-3031bd6e2b68",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@saintlypioneer/5-best-uncensored-qwen-models-you-can-run-locally-on-a-mac-in-2026-ab0e39f2ecd2",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@saintlypioneer/the-best-local-llm-to-run-on-your-macbook-in-2026-measured-on-a-24-gb-mac-c23f7e538bc5",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ignacio.de.gregorio.noblejas/ai-doesnt-need-to-talk-to-be-great-meet-decision-models-509023ed50be",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@wasowski.jarek/modular-monolith-instead-of-microservices-what-changed-when-the-ai-agent-started-reading-code-c586d9f63fd7",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@cdcore/the-day-apple-turned-your-macbook-into-a-linux-box-b3005a5f8c21",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/why-more-and-more-teams-are-abandoning-rabbitmq-for-nats-5ac238e82032",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@21zerixpm/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@arsinghin/omarchy-is-what-happens-when-linux-tries-to-become-macos-for-developers-b6fc28f1e09d",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mnhoskin25/i-asked-ai-why-it-wants-to-destroy-humanity-apparently-were-asking-the-wrong-question-57d97395db88",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/billions-of-computers-run-his-editor-he-managed-it-for-32-years-6a283fdec2f8",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@howtoarchitect/spec-driven-development-isnt-broken-it-will-collapse-c00609f72496",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@iknahar/eigenvalues-for-people-who-slept-through-linear-algebra-73ce895c4ce8",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lucianmarek12/norway-have-just-triggered-putins-worst-nightmare-ec4bc9d9006e",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shinjieyong/the-rsv-vaccine-unexpectedly-protects-against-dementia-but-why-450892b50460",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@forwardpress/when-france-was-liberated-men-shaved-womens-heads-in-the-streets-94b4a92c37eb",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentoflove/can-you-stop-looking-at-her-breasts-1347b044c39d",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
-    "date": "2026-09-25"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@hathibel/anthropics-managed-agents-wipe-out-thousands-of-ai-startups-overnight-3997e9fdf7a0",
     "date": "2026-09-27"
   },
@@ -542,5 +430,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTEzdFVRZC1oTllOZlEzMms5b3ZHeTZHRXR4SXBlX2U2RW1Ick04YUFJeW5SdVNsTzJzeXpaRmFsX2ZRZWh5eEVocU1QVEM0UkQ5Qm5qZTNocVA1LVY0Sms1cjVDQXhaMVpydWtFV1JoRGFlZVpkTU9GbjJ0ZVV6ZUVxMng2T0ZhalVON0ZmNjI0MkNrSFE?oc=5",
     "date": "2026-10-02"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ronomahedi/the-vibe-coding-trap-why-ai-generated-mvps-are-quietly-bankrupting-early-stage-startups-f6d06065348e",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jproco/vibe-coding-has-become-doomcoding-96b8df31b830",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@harishk3493/i-tested-googles-tabfm-against-xgboost-and-autogluon-ed616c6d085e",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/8-cool-things-people-use-the-jev-model-for-dd0ed8e785d4",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mnhoskin25/i-asked-ai-why-it-wants-to-destroy-humanity-apparently-were-asking-the-wrong-question-57d97395db88",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cdcore/the-day-apple-turned-your-macbook-into-a-linux-box-b3005a5f8c21",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ektaparmar/inside-russias-geran-4-what-ukraine-found-after-capturing-the-drone-5caf9ccd39c9",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@frisellagiuseppe/why-hiroshima-is-habitable-today-despite-uranium-235s-700-million-year-half-life-dae97d3aa254",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@giorgioprovinciali/unjammable-until-now-kharkivs-homemade-trap-for-russia-s-fiber-optic-drones-is-a-wire-that-cuts-5b66f311eae7",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@astrangecreature/what-is-it-about-men-over-50-that-collectively-gives-women-the-ick-bb897394c54a",
+    "date": "2026-10-03"
   }
 ]
