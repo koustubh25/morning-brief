@@ -1,20 +1,20 @@
 {
-  "date": "Sun 4 Oct 2026",
+  "date": "Mon 5 Oct 2026",
   "top_items": [
     {
-      "title": "The \"Multi-Agent\" AI Bubble Just Burst. Here's What Anthropic is Building…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvarma07/the-multi-agent-ai-bubble-just-burst-heres-what-anthropic-is-building-instead-adc530580877",
-      "one_liner": "Critiques the 'multi-agent' AI bubble, highlighting Anthropic's pivot to more efficient AI solutions."
+      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
+      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "one_liner": "Introduces Google Cloud Modernize, leveraging AI to accelerate enterprise cloud transformation roadmaps."
     },
     {
-      "title": "Docker Is Dead Weight - I Rebuilt Our Pipeline Without It and Cut Costs 60%",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
-      "one_liner": "Author claims ditching Docker cut pipeline costs by 60%, saving $4,200 monthly."
+      "title": "8 Cool Things People Are Using Claude Opus 5.5 For",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/8-cool-things-people-are-using-claude-opus-5-5-for-0dec7df4da4e",
+      "one_liner": "Showcases eight innovative ways users are currently leveraging Claude Opus 5.5 for various projects."
     },
     {
-      "title": "MCP Is Dead: Why This Protocol Breaks in Production(And How to Fix It)",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/mcp-is-dead-why-this-protocol-breaks-in-production-and-how-to-fix-it-5499db11ef3e",
-      "one_liner": "Critiques a protocol with numerous CVEs, labelling it 'dead' and proposing fixes."
+      "title": "Claude Sonnet 5.5 Is 30% Faster and Cheaper, So Why Does It Cost More Than…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/claude-sonnet-5-5-is-30-faster-and-cheaper-so-why-does-it-cost-more-than-opus-994b2793e4a6",
+      "one_liner": "Analyzes the pricing and performance claims of Anthropic's Claude Sonnet 5.5."
     }
   ]
 }
