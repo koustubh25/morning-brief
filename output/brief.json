@@ -1,20 +1,20 @@
 {
-  "date": "Mon 5 Oct 2026",
+  "date": "Tue 6 Oct 2026",
   "top_items": [
     {
-      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
-      "url": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
-      "one_liner": "Introduces Google Cloud Modernize, leveraging AI to accelerate enterprise cloud transformation roadmaps."
+      "title": "What Google's New SDLC Paper Got Right About AI-Assisted Software Development",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@rahul.gite11/what-googles-new-sdlc-paper-got-right-about-ai-assisted-software-development-9bcc97879498",
+      "one_liner": "Analyzes Google's SDLC paper on AI's impact and cost-effectiveness in development."
     },
     {
-      "title": "8 Cool Things People Are Using Claude Opus 5.5 For",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/8-cool-things-people-are-using-claude-opus-5-5-for-0dec7df4da4e",
-      "one_liner": "Showcases eight innovative ways users are currently leveraging Claude Opus 5.5 for various projects."
+      "title": "Structuring 40 Million Documents into an Agentic Knowledge Graph",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/structuring-40-million-documents-into-an-agentic-knowledge-graph-92010e609dfa",
+      "one_liner": "Demonstrates efficient agentic knowledge graph construction for vast document sets."
     },
     {
-      "title": "Claude Sonnet 5.5 Is 30% Faster and Cheaper, So Why Does It Cost More Than…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jimclydemonge/claude-sonnet-5-5-is-30-faster-and-cheaper-so-why-does-it-cost-more-than-opus-994b2793e4a6",
-      "one_liner": "Analyzes the pricing and performance claims of Anthropic's Claude Sonnet 5.5."
+      "title": "What is Bonsai 2? Why a 27B Model Now Fits on the Laptop You Already Own",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@lvntblsn/what-is-bonsai-2-why-a-27b-model-now-fits-on-the-laptop-you-already-own-18da24cc7b93",
+      "one_liner": "Details Bonsai 2, a 27B model significantly compressed for laptop-scale deployment."
     }
   ]
 }
