@@ -1,20 +1,20 @@
 {
-  "date": "Tue 6 Oct 2026",
+  "date": "Wed 7 Oct 2026",
   "top_items": [
     {
-      "title": "What Google's New SDLC Paper Got Right About AI-Assisted Software Development",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@rahul.gite11/what-googles-new-sdlc-paper-got-right-about-ai-assisted-software-development-9bcc97879498",
-      "one_liner": "Analyzes Google's SDLC paper on AI's impact and cost-effectiveness in development."
+      "title": "This cutie just killed vibe coding.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@michalmalewicz/this-cutie-just-killed-vibe-coding-8c8fefb6f8f2",
+      "one_liner": "Predicts the end of cheap development due to AI advancements, impacting coding and cloud ROI."
     },
     {
-      "title": "Structuring 40 Million Documents into an Agentic Knowledge Graph",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@fareedkhandev/structuring-40-million-documents-into-an-agentic-knowledge-graph-92010e609dfa",
-      "one_liner": "Demonstrates efficient agentic knowledge graph construction for vast document sets."
+      "title": "Xiaomi Just Broke the Economics of Proprietary AI",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/xiaomi-just-broke-the-economics-of-proprietary-ai-ae6e6cd13014",
+      "one_liner": "Discusses how Xiaomi's strategy challenges traditional economics of proprietary AI development and deployment."
     },
     {
-      "title": "What is Bonsai 2? Why a 27B Model Now Fits on the Laptop You Already Own",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@lvntblsn/what-is-bonsai-2-why-a-27b-model-now-fits-on-the-laptop-you-already-own-18da24cc7b93",
-      "one_liner": "Details Bonsai 2, a 27B model significantly compressed for laptop-scale deployment."
+      "title": "10 MCP Servers Every Local AI Developer Should Install",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@iarhamali2005/10-mcp-servers-every-local-ai-developer-should-install-3d80ddb24001",
+      "one_liner": "Introduces tools for local AI development, connecting to file systems and databases, useful for PoCs."
     }
   ]
 }
