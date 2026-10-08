@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@theexplainer/11-claude-code-techniques-that-will-completely-change-how-you-build-with-ai-f4ba70ba5e87",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/apple-killed-openai-and-anthropic-8fbac93202bf",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@AIBites/agent-harness-a-no-bs-guide-8f69e3c0a3da",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-you-should-try-in-2026-18ce4e16c28e",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@highsongs2020/5-programming-languages-that-could-shape-the-future-of-software-development-82276ad72377",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@developeryusuf/our-senior-engineer-took-two-weeks-off-we-shipped-more-without-him-then-production-caught-up-50835191bca4",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@thomas-oppong/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@patjohnson_71862/palestinianism-is-a-hate-movement-6f6df60b750c",
-    "date": "2026-09-30"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/stop-reading-the-code-94ec2d9c7bfa",
     "date": "2026-10-01"
   },
@@ -430,5 +382,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn0gGaAUFVX3lxTE1Fa2xlUnpYU2JqbjVuQmM5YzV3Y3lTVi02SDVTUm01OWx3Q1RhNkxYZkkzZ2JLWkxwMWJZQWx6UVpkWHkwXy1vYjY0ZEdPZG84TFpYVDQtWXBGUWRJUkxWX1JWcFFIeUp5RDY1VTdjWXVKTjFRMFB6UElJWnk2WHVXeUNMZkhmaWc1eVlSTjV3TWZSR0dRZU9Fcmc?oc=5",
     "date": "2026-10-07"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/top-10-jev-use-cases-in-agentic-apps-ranked-by-theoretical-gain-over-llms-5be9e293ea19",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codebookfusion/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/how-to-turn-any-network-into-an-interactive-knowledge-graph-to-discover-hidden-insights-f49fae4757ff",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/system-design-interview-how-would-you-let-users-upload-huge-files-even-if-the-internet-disconnects-cab5a3b0abae",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hasanmcse/10-terminal-tools-that-can-improve-an-architects-engineering-workflow-in-2026-a515472f9757",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@dataexpert/how-much-data-engineers-actually-make-in-2026-59c17088c8e7",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@j.freeman689.8/i-gave-ai-30-days-to-help-me-build-an-online-income-stream-heres-what-actually-happened-4bfe06b78e5c",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ahmedgy79/everyone-gets-the-pyramids-wrong-a-data-engineer-finally-sees-what-they-actually-are-f76300299948",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mariacassano/i-posted-a-rare-selfie-on-substack-people-got-really-weird-about-it-7f5efcdf1548",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
+    "date": "2026-10-08"
   }
 ]

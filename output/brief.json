@@ -1,20 +1,20 @@
 {
-  "date": "Wed 7 Oct 2026",
+  "date": "Thu 8 Oct 2026",
   "top_items": [
     {
-      "title": "This cutie just killed vibe coding.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@michalmalewicz/this-cutie-just-killed-vibe-coding-8c8fefb6f8f2",
-      "one_liner": "Predicts the end of cheap development due to AI advancements, impacting coding and cloud ROI."
+      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+      "one_liner": "Introducing Gemini, a universal agent for work and inline integration across all Google Workspace apps by 2026."
     },
     {
-      "title": "Xiaomi Just Broke the Economics of Proprietary AI",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/xiaomi-just-broke-the-economics-of-proprietary-ai-ae6e6cd13014",
-      "one_liner": "Discusses how Xiaomi's strategy challenges traditional economics of proprietary AI development and deployment."
+      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+      "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "one_liner": "Google Public Sector partners with SUNY to launch an AI platform accelerating university research capabilities."
     },
     {
-      "title": "10 MCP Servers Every Local AI Developer Should Install",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@iarhamali2005/10-mcp-servers-every-local-ai-developer-should-install-3d80ddb24001",
-      "one_liner": "Introduces tools for local AI development, connecting to file systems and databases, useful for PoCs."
+      "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
+      "one_liner": "OpenAI announces a 50% price reduction for the GPT-6 API alongside an expanding user interface."
     }
   ]
 }
