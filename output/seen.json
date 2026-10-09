@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@lordmoma/stop-reading-the-code-94ec2d9c7bfa",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@phynixai/anthropic-studied-how-people-actually-use-claude-the-findings-were-surprising-69823ced1846",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dhirendrac/i-ran-qwen3-8-27b-on-my-macbook-here-are-the-real-numbers-21fc2af79ff5",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@florian_algo/why-ontology-is-making-a-comeback-in-the-age-of-llms-4c9c91d25d25",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rukshanpramoditha/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures-e57e51391d77",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gdeckler/is-microsoft-fabric-dying-e2a6f1c27c04",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@loengnavy/before-you-buy-a-mac-mini-for-local-ai-read-this-itll-save-you-1-800-326c3a424e95",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/he-called-linux-obsolete-in-1992-his-own-os-now-hides-in-your-cpu-86970c75de1a",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/postgres-19-adds-graph-queries-i-ran-our-neo4j-workload-against-it-41aab1bc82c5",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@attilavago/the-curious-case-of-old-apple-silicon-macs-c1475dd33767",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@rajk100/russias-new-jet-drones-could-be-its-most-expensive-mistake-1b38d08922f3",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mathsammie/which-curve-is-longer-the-blue-or-the-black-d76f1de0ae5e",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04ZVFDMV9mZHRQWlZnZFBpYXBySFVkamtyR1ppb294U3k1VnlqTFlybnNJTHZ6elRmU0g5UEo5UUp0UlBBa25JcTlrY1hrdFhPVGVYZDVZMmRhZVl5aGNLYU1mR09sVnRtb0dvbEhYTUhZWVVzTk1MRA?oc=5",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-    "date": "2026-10-01"
-  },
-  {
     "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
     "date": "2026-10-02"
   },
@@ -434,5 +370,81 @@
   {
     "url": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
     "date": "2026-10-08"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cskumara2000/spec-driven-development-with-claude-code-a-practical-guide-fcd661f827fb",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/the-man-who-built-terraform-just-left-github-engineers-should-pay-attention-to-why-695143d7b3fe",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/postgres-19-adds-graph-queries-i-ran-our-neo4j-workload-against-it-41aab1bc82c5",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sergeykleftzov/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielvalev/i-deleted-pip-pyenv-poetry-and-virtualenv-then-openai-bought-the-thing-that-replaced-them-a23adedfbccf",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@wesleyedits/google-just-lost-the-argument-its-been-hiding-behind-for-20-years-91785172c62c",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@githubdaily/why-more-and-more-teams-are-abandoning-rabbitmq-for-nats-5ac238e82032",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/ibm-is-gutting-red-hat-heres-your-exit-plan-56b950da4a32",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@umeshcapg/java-interview-question-how-to-perform-addition-without-using-the-plus-sign-d16a4ba61d2f",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/his-code-backs-up-the-world-now-the-internet-wants-him-flogged-fb73c6ce050c",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
+    "date": "2026-10-09"
   }
 ]

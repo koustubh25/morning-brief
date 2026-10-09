@@ -1,20 +1,20 @@
 {
-  "date": "Thu 8 Oct 2026",
+  "date": "Fri 9 Oct 2026",
   "top_items": [
     {
-      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "one_liner": "Introducing Gemini, a universal agent for work and inline integration across all Google Workspace apps by 2026."
+      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
+      "one_liner": "Explores underutilized agent modes within Claude Code for enhanced developer productivity."
     },
     {
-      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
-      "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-      "one_liner": "Google Public Sector partners with SUNY to launch an AI platform accelerating university research capabilities."
+      "title": "Spec-Driven Development with Claude Code: A Practical Guide",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@cskumara2000/spec-driven-development-with-claude-code-a-practical-guide-fcd661f827fb",
+      "one_liner": "A practical guide on employing Claude Code for spec-driven development approaches."
     },
     {
-      "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
-      "one_liner": "OpenAI announces a 50% price reduction for the GPT-6 API alongside an expanding user interface."
+      "title": "Your Microservices Lost to COBOL. Let That Sink In",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
+      "one_liner": "A US bank's massive spend on COBOL modernization underscores legacy system challenges."
     }
   ]
 }
