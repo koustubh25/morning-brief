@@ -1,20 +1,20 @@
 {
-  "date": "Fri 9 Oct 2026",
+  "date": "Sat 10 Oct 2026",
   "top_items": [
     {
-      "title": "Claude Code Has Four Agent Modes. Most Developers Only Use One.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
-      "one_liner": "Explores underutilized agent modes within Claude Code for enhanced developer productivity."
+      "title": "A Step-by-Step Guide for Developing Your Personal Agentic System.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
+      "one_liner": "A comprehensive guide detailing the process of developing a personal agentic system from setup to creation."
     },
     {
-      "title": "Spec-Driven Development with Claude Code: A Practical Guide",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@cskumara2000/spec-driven-development-with-claude-code-a-practical-guide-fcd661f827fb",
-      "one_liner": "A practical guide on employing Claude Code for spec-driven development approaches."
+      "title": "The Berlin Mega-Leak: Inside the Massive 5.26 TB Leak of the City's Most…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-berlin-mega-leak-inside-the-massive-5-26-tb-leak-of-the-citys-most-sensitive-documents-ab133444d1ba",
+      "one_liner": "Details a massive 5.26 TB data leak impacting the city of Berlin's IT infrastructure."
     },
     {
-      "title": "Your Microservices Lost to COBOL. Let That Sink In",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@maahisoft20/your-microservices-lost-to-cobol-let-that-sink-in-8ce2e236d007",
-      "one_liner": "A US bank's massive spend on COBOL modernization underscores legacy system challenges."
+      "title": "Why \"Just Use Postgres\" Is About to Become a Whole Lot Easier: A First Look at…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
+      "one_liner": "Examines how recent developments are making PostgreSQL a more appealing and easier-to-use database solution."
     }
   ]
 }

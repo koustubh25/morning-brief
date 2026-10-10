@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@nikhilvarma07/i-fused-3-tiny-local-llms-on-my-laptop-and-matched-the-reasoning-of-anthropic-fable-5-4e62930b2bf0",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@TobiasCharles/if-you-want-to-be-a-better-leader-quit-these-addictions-ca357edf3be5",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ganeshonline6/if-x-x-49-then-x-d92a91aae120",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTEzdFVRZC1oTllOZlEzMms5b3ZHeTZHRXR4SXBlX2U2RW1Ick04YUFJeW5SdVNsTzJzeXpaRmFsX2ZRZWh5eEVocU1QVEM0UkQ5Qm5qZTNocVA1LVY0Sms1cjVDQXhaMVpydWtFV1JoRGFlZVpkTU9GbjJ0ZVV6ZUVxMng2T0ZhalVON0ZmNjI0MkNrSFE?oc=5",
-    "date": "2026-10-02"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@glennlenormand/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e",
     "date": "2026-10-03"
   },
@@ -446,5 +414,61 @@
   {
     "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
     "date": "2026-10-09"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-berlin-mega-leak-inside-the-massive-5-26-tb-leak-of-the-citys-most-sensitive-documents-ab133444d1ba",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/1-trillion-databases-run-his-code-26-years-of-leadership-ai-buried-him-in-accusations-321423d04c83",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gdeckler/is-microsoft-fabric-dying-e2a6f1c27c04",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jsgastoniriartecabrera/i-built-a-trading-bot-that-refuses-to-trade-until-it-can-prove-it-has-an-edge-5c0519308a98",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/10-event-driven-architecture-questions-that-separate-architects-from-framework-users-d673024c7557",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@gaddamnaveen192/designing-a-notification-system-that-can-handle-10-million-users-cad6b4970b78",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ronomahedi/how-to-scale-postgresql-to-100-000-writes-per-second-without-sharding-35a2f4582e9f",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-you-should-try-in-2026-18ce4e16c28e",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@Iggy01/i-replaced-react-query-with-25-lines-of-vanilla-js-f4458940b45e",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@khansufyan112233344/russia-has-lost-12-000-tanks-heres-what-that-actually-means-1c36db465044",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
+    "date": "2026-10-10"
   }
 ]
