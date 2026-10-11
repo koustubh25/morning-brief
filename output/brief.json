@@ -1,20 +1,20 @@
 {
-  "date": "Sat 10 Oct 2026",
+  "date": "Sun 11 Oct 2026",
   "top_items": [
     {
-      "title": "A Step-by-Step Guide for Developing Your Personal Agentic System.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-      "one_liner": "A comprehensive guide detailing the process of developing a personal agentic system from setup to creation."
+      "title": "We Deleted Kubernetes and Cut Our Cloud Bill 68% - One Year Later, Zero Regrets",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
+      "one_liner": "A company cut cloud costs by 68% after removing Kubernetes, sharing their year-long experience."
     },
     {
-      "title": "The Berlin Mega-Leak: Inside the Massive 5.26 TB Leak of the City's Most…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-berlin-mega-leak-inside-the-massive-5-26-tb-leak-of-the-citys-most-sensitive-documents-ab133444d1ba",
-      "one_liner": "Details a massive 5.26 TB data leak impacting the city of Berlin's IT infrastructure."
+      "title": "10 AI Tools Everyone Will Be Using in Six Months, But Almost Nobody's Found Yet",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vruddhi/10-ai-tools-everyone-will-be-using-in-six-months-but-almost-nobodys-found-yet-735a5471ea22",
+      "one_liner": "Highlights ten forthcoming AI tools that are predicted to become widely adopted in the near future."
     },
     {
-      "title": "Why \"Just Use Postgres\" Is About to Become a Whole Lot Easier: A First Look at…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
-      "one_liner": "Examines how recent developments are making PostgreSQL a more appealing and easier-to-use database solution."
+      "title": "Google Gave Me 45 Minutes to Design a URL Shortener. I Used 40 Minutes on the…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/google-gave-me-45-minutes-to-design-a-url-shortener-i-used-40-minutes-on-the-wrong-thing-2a695a898441",
+      "one_liner": "An engineer shares their approach to a 45-minute system design interview for a URL shortener."
     }
   ]
 }
