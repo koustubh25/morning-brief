@@ -1,20 +1,20 @@
 {
-  "date": "Sun 11 Oct 2026",
+  "date": "Mon 12 Oct 2026",
   "top_items": [
     {
-      "title": "We Deleted Kubernetes and Cut Our Cloud Bill 68% - One Year Later, Zero Regrets",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
-      "one_liner": "A company cut cloud costs by 68% after removing Kubernetes, sharing their year-long experience."
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "one_liner": "Introduces multivariate time-series forecasting in BigQuery using TimesFM 3.0."
     },
     {
-      "title": "10 AI Tools Everyone Will Be Using in Six Months, But Almost Nobody's Found Yet",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vruddhi/10-ai-tools-everyone-will-be-using-in-six-months-but-almost-nobodys-found-yet-735a5471ea22",
-      "one_liner": "Highlights ten forthcoming AI tools that are predicted to become widely adopted in the near future."
+      "title": "Google Meet now uses post-quantum cryptography",
+      "url": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
+      "one_liner": "Google Meet now uses post-quantum cryptography for enhanced call security against quantum threats."
     },
     {
-      "title": "Google Gave Me 45 Minutes to Design a URL Shortener. I Used 40 Minutes on the…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/google-gave-me-45-minutes-to-design-a-url-shortener-i-used-40-minutes-on-the-wrong-thing-2a695a898441",
-      "one_liner": "An engineer shares their approach to a 45-minute system design interview for a URL shortener."
+      "title": "Claude proved Fermat's Last Theorem in 11 days. Nobody can read the result",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/claude-proved-fermats-last-theorem-in-11-days-nobody-can-read-the-result-2ec8a9b71b55",
+      "one_liner": "Claims Anthropic's AI proved Fermat's Last Theorem, with details unreadable."
     }
   ]
 }
