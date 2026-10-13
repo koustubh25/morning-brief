@@ -1,20 +1,20 @@
 {
-  "date": "Mon 12 Oct 2026",
+  "date": "Tue 13 Oct 2026",
   "top_items": [
     {
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "one_liner": "Introduces multivariate time-series forecasting in BigQuery using TimesFM 3.0."
+      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
+      "one_liner": "Announces Gemini Enterprise and the Gemini agent on Google Cloud for complex business problem-solving."
     },
     {
-      "title": "Google Meet now uses post-quantum cryptography",
-      "url": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
-      "one_liner": "Google Meet now uses post-quantum cryptography for enhanced call security against quantum threats."
+      "title": "SRE Practices for 2026: What Modern Site Reliability Engineering Looks Like",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/sre-practices-for-2026-what-modern-site-reliability-engineering-looks-like-7255c3f3f9fd",
+      "one_liner": "Explores modern Site Reliability Engineering practices, referencing its origins at Google."
     },
     {
-      "title": "Claude proved Fermat's Last Theorem in 11 days. Nobody can read the result",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mehmet.ozel2701/claude-proved-fermats-last-theorem-in-11-days-nobody-can-read-the-result-2ec8a9b71b55",
-      "one_liner": "Claims Anthropic's AI proved Fermat's Last Theorem, with details unreadable."
+      "title": "I benchmarked the new Lakehouse RT for billion-record tables, and it is crazy…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@databrickster/i-benchmarked-the-new-lakehouse-rt-for-billion-record-tables-and-it-is-crazy-fast-and-crazy-cheap-cf674ad40fc3",
+      "one_liner": "Benchmarks performance of a new Lakehouse technology for handling large-scale data tables."
     }
   ]
 }
