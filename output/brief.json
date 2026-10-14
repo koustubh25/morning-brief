@@ -1,20 +1,20 @@
 {
-  "date": "Tue 13 Oct 2026",
+  "date": "Wed 14 Oct 2026",
   "top_items": [
     {
-      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
-      "one_liner": "Announces Gemini Enterprise and the Gemini agent on Google Cloud for complex business problem-solving."
+      "title": "Something Has Gone Terribly Wrong at Anthropic",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/something-has-gone-terribly-wrong-at-anthropic-7f685b625b26",
+      "one_liner": "A cryptic statement implying a significant negative event or development has occurred at Anthropic."
     },
     {
-      "title": "SRE Practices for 2026: What Modern Site Reliability Engineering Looks Like",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/sre-practices-for-2026-what-modern-site-reliability-engineering-looks-like-7255c3f3f9fd",
-      "one_liner": "Explores modern Site Reliability Engineering practices, referencing its origins at Google."
+      "title": "Something Has Gone Terribly Wrong at Anthropic",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/something-has-gone-terribly-wrong-at-anthropic-7f685b625b26",
+      "one_liner": "A cryptic statement implying a significant negative event or development has occurred at Anthropic."
     },
     {
-      "title": "I benchmarked the new Lakehouse RT for billion-record tables, and it is crazy…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@databrickster/i-benchmarked-the-new-lakehouse-rt-for-billion-record-tables-and-it-is-crazy-fast-and-crazy-cheap-cf674ad40fc3",
-      "one_liner": "Benchmarks performance of a new Lakehouse technology for handling large-scale data tables."
+      "title": "Google Launched TPUs to Orbit Today. Physics Shuts Them Down in 15 Minutes.",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/google-launched-tpus-to-orbit-today-physics-shuts-them-down-in-15-minutes-eaf1bc99b947",
+      "one_liner": "A speculative piece on GCP TPUs failing in orbit due to physics constraints after a short duration."
     }
   ]
 }
