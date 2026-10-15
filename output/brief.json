@@ -1,20 +1,20 @@
 {
-  "date": "Wed 14 Oct 2026",
+  "date": "Thu 15 Oct 2026",
   "top_items": [
     {
-      "title": "Something Has Gone Terribly Wrong at Anthropic",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/something-has-gone-terribly-wrong-at-anthropic-7f685b625b26",
-      "one_liner": "A cryptic statement implying a significant negative event or development has occurred at Anthropic."
+      "title": "How Visko streams real-time world models on Google Cloud TPUs",
+      "url": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
+      "one_liner": "Visko streams real-time world models on Google Cloud TPUs, showcasing rapid production deployment for AI startups."
     },
     {
-      "title": "Something Has Gone Terribly Wrong at Anthropic",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/something-has-gone-terribly-wrong-at-anthropic-7f685b625b26",
-      "one_liner": "A cryptic statement implying a significant negative event or development has occurred at Anthropic."
+      "title": "What the Gemini agent means for startups",
+      "url": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "one_liner": "The Gemini agent helps startups ship faster by reducing operational overhead, relevant for enterprise AI transformation."
     },
     {
-      "title": "Google Launched TPUs to Orbit Today. Physics Shuts Them Down in 15 Minutes.",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@mohamed-abdelmenem/google-launched-tpus-to-orbit-today-physics-shuts-them-down-in-15-minutes-eaf1bc99b947",
-      "one_liner": "A speculative piece on GCP TPUs failing in orbit due to physics constraints after a short duration."
+      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+      "one_liner": "Innovations for Gemini address data access bottlenecks for agentic AI, enabling petabyte-scale reasoning across clouds."
     }
   ]
 }
