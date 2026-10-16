@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@agentnativedev/top-10-jev-use-cases-in-agentic-apps-ranked-by-theoretical-gain-over-llms-5be9e293ea19",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codebookfusion/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/how-to-turn-any-network-into-an-interactive-knowledge-graph-to-discover-hidden-insights-f49fae4757ff",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/system-design-interview-how-would-you-let-users-upload-huge-files-even-if-the-internet-disconnects-cab5a3b0abae",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@hasanmcse/10-terminal-tools-that-can-improve-an-architects-engineering-workflow-in-2026-a515472f9757",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@dataexpert/how-much-data-engineers-actually-make-in-2026-59c17088c8e7",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@j.freeman689.8/i-gave-ai-30-days-to-help-me-build-an-online-income-stream-heres-what-actually-happened-4bfe06b78e5c",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ahmedgy79/everyone-gets-the-pyramids-wrong-a-data-engineer-finally-sees-what-they-actually-are-f76300299948",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mariacassano/i-posted-a-rare-selfie-on-substack-people-got-really-weird-about-it-7f5efcdf1548",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
-    "date": "2026-10-08"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@creativeaininja/claude-code-has-four-agent-modes-most-developers-only-use-one-276aea9a57d8",
     "date": "2026-10-09"
   },
@@ -478,5 +426,57 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTUN5QndsbDg3WlBnMEV2RjVsX0Z6Z2JCZVJHYXM2OXB1SUhUSklaejgxeHBQcmZwM3lrSTN5TndvVlJkS2dmbXJmQmF3aGp2RE5qSlRwVW1WMS16N3VocWlRaTNhUDBCeU0xY3FxWERCRTkxX01JTDlnc19pSHVWLURVY0gxRGFrbXhRZzlsZzF0U0lIX1VMWDRndEVrdzdKN2FwbnRRYmo4QXAwTC1HcnBGU21jRVh6U1FsRExxakFPbTJhc2pVNDdGV2hLUFVGSHNGeEowUDVNdWl6UHZUYkxXRnJUb1VCYzlfUXA5QWN4UjRpMkpwc1hPMWphU1ZHS0tlbW9kam1OUQ?oc=5",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pixel1234/my-best-senior-engineer-refused-to-use-ai-for-one-week-by-friday-he-said-something-nobody-7bbee1c80f3a",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@bartek.galezowski/minio-is-deprecated-best-alternatives-for-s3-compatible-storage-660f2ad9aebd",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@codebookfusion/insane-run-kimi-k3-2-8-trillion-parameters-on-a-single-4gb-gpu-33ab8a8eec94",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@vndpal/why-i-defend-monoliths-in-every-architecture-review-now-9fce031b5ab1",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@danielvalev/your-docker-image-is-1-2-gb-because-you-stopped-reading-tutorials-in-2019-e31b314b14de",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/cloudflare-just-open-sourced-something-its-own-engineer-tried-to-build-a-decade-ago-010dce9c41d1",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cloudwithazeem/i-thought-apache-iggy-was-just-another-kafka-clone-i-was-wrong-867194591f08",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/mcp-is-dead-why-this-protocol-breaks-in-production-and-how-to-fix-it-5499db11ef3e",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@DadisFIRE/companies-are-firing-gen-z-so-quickly-heres-why-2ad3a2f4fde5",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@soloblood77/what-wealthy-people-do-before-9-am-that-broke-people-do-never-a183febebd1c",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QlVLTkl1M2I5SDhUOXJZMEh1cDVoZWZRblRTSWQ5RlFKOXJjRkg5c29FSlZNbFF1UldPdl9xSDZQNHhjNXQyTG9paV9IM1MzZ0txUF8tNjZKMEE?oc=5",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUI0ZE5CMjlpX2dPemFwV0d0M1BNOFg0WHI1WG4yd1Z6N2F4anB5SWROT1pIMWoyWTBYT1pTTFR3aWx3OG9HVVd2RUplN2FOQmNfN0lVUm91cnJZOUtSUllNSDlsdEFLVVk3LUJtdzV2bm5teE9mUUVLdGw2b0sydFdpaEowb1c2NFlIUW9tZGxMRU5GRzFDUnI2X2FXaDA?oc=5",
+    "date": "2026-10-16"
   }
 ]

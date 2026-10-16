@@ -1,20 +1,20 @@
 {
-  "date": "Thu 15 Oct 2026",
+  "date": "Fri 16 Oct 2026",
   "top_items": [
     {
-      "title": "How Visko streams real-time world models on Google Cloud TPUs",
-      "url": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
-      "one_liner": "Visko streams real-time world models on Google Cloud TPUs, showcasing rapid production deployment for AI startups."
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "one_liner": "Wiz Runtime Sensor add-on for GKE provides turnkey, real-time threat detection for Kubernetes environments."
     },
     {
-      "title": "What the Gemini agent means for startups",
-      "url": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "one_liner": "The Gemini agent helps startups ship faster by reducing operational overhead, relevant for enterprise AI transformation."
+      "title": "My Best Senior Engineer Refused to Use AI for One Week. By Friday, He Said…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pixel1234/my-best-senior-engineer-refused-to-use-ai-for-one-week-by-friday-he-said-something-nobody-7bbee1c80f3a",
+      "one_liner": "A senior engineer who stopped using AI for a week found significant value and changed his perspective by Friday."
     },
     {
-      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
-      "url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
-      "one_liner": "Innovations for Gemini address data access bottlenecks for agentic AI, enabling petabyte-scale reasoning across clouds."
+      "title": "We Deleted Kubernetes and Cut Our Cloud Bill 68% - One Year Later, Zero Regrets",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
+      "one_liner": "Removing Kubernetes reportedly cut cloud bills by 68%, highlighting potential cost savings beyond standard optimization."
     }
   ]
 }
