@@ -1,20 +1,20 @@
 {
-  "date": "Fri 16 Oct 2026",
+  "date": "Sat 17 Oct 2026",
   "top_items": [
     {
-      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
-      "url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
-      "one_liner": "Wiz Runtime Sensor add-on for GKE provides turnkey, real-time threat detection for Kubernetes environments."
+      "title": "The Most Important AI Model Released This Week Might Not Generate a Single Word",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@Pop123/the-most-important-ai-model-released-this-week-might-not-generate-a-single-word-d488308ca246",
+      "one_liner": "Highlights Google's EmbeddingGemma 2 for compressing and understanding various data types, not just text."
     },
     {
-      "title": "My Best Senior Engineer Refused to Use AI for One Week. By Friday, He Said…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pixel1234/my-best-senior-engineer-refused-to-use-ai-for-one-week-by-friday-he-said-something-nobody-7bbee1c80f3a",
-      "one_liner": "A senior engineer who stopped using AI for a week found significant value and changed his perspective by Friday."
+      "title": "I Tested Google's TabFM Against XGBoost and AutoGluon",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@harishk3493/i-tested-googles-tabfm-against-xgboost-and-autogluon-ed616c6d085e",
+      "one_liner": "Compares Google's TabFM performance against popular ML frameworks for tabular data."
     },
     {
       "title": "We Deleted Kubernetes and Cut Our Cloud Bill 68% - One Year Later, Zero Regrets",
       "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
-      "one_liner": "Removing Kubernetes reportedly cut cloud bills by 68%, highlighting potential cost savings beyond standard optimization."
+      "one_liner": "Details significant cloud bill reduction by deleting Kubernetes, highlighting operational efficiency."
     }
   ]
 }
