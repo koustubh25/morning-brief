@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@erdogant/a-step-by-step-guide-for-developing-your-personal-agentic-system-24c6cd6fa849",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jankammerath/the-berlin-mega-leak-inside-the-massive-5-26-tb-leak-of-the-citys-most-sensitive-documents-ab133444d1ba",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/1-trillion-databases-run-his-code-26-years-of-leadership-ai-buried-him-in-accusations-321423d04c83",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gdeckler/is-microsoft-fabric-dying-e2a6f1c27c04",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@jsgastoniriartecabrera/i-built-a-trading-bot-that-refuses-to-trade-until-it-can-prove-it-has-an-edge-5c0519308a98",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@codefarm0/10-event-driven-architecture-questions-that-separate-architects-from-framework-users-d673024c7557",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@gaddamnaveen192/designing-a-notification-system-that-can-handle-10-million-users-cad6b4970b78",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ronomahedi/how-to-scale-postgresql-to-100-000-writes-per-second-without-sharding-35a2f4582e9f",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-you-should-try-in-2026-18ce4e16c28e",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@Iggy01/i-replaced-react-query-with-25-lines-of-vanilla-js-f4458940b45e",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@khansufyan112233344/russia-has-lost-12-000-tanks-heres-what-that-actually-means-1c36db465044",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
-    "date": "2026-10-10"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
     "date": "2026-10-11"
   },
@@ -470,5 +414,77 @@
   {
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbFVNVXJ0WTlRUW1pTGVpeUVReThWTDdmNXVKa3JqQ01YWlZWN2NLVGVqbWxtT2RDTUJOY1hEQnlSMVN2VTF4bjdZOFNndEpkcXpUajJxZVA3WG45Y2RaUGJnSWNLSmMwei1qQWJmc2Z6amM?oc=5",
     "date": "2026-10-17"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@vijayasekhar-deepak/anthropic-just-revealed-12-new-rules-for-prompting-claude-opus-5-5-e57c6275efe0",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@anubhavgoyal101/is-running-a-local-llm-still-worth-it-after-haiku-5-5-0ab49c1f7fe2",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@lvntblsn/what-is-bonsai-2-why-a-27b-model-now-fits-on-the-laptop-you-already-own-18da24cc7b93",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@andinara/i-hired-the-ai-guy-in-my-company-three-months-later-the-ceo-stopped-emailing-me-1e587abc9b3c",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@captain-solaris/polars-2-0-just-dropped-i-threw-100-million-rows-at-it-70e1f05e5608",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@iarhamali2005/10-mcp-servers-that-do-things-i-didnt-know-mcp-could-do-c778df176349",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ethan-carter/rustfs-crushed-minio-in-benchmarks-heres-why-it-s-the-future-of-s3-compatible-storag-5463ac412b35",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@loengnavy/strix-halo-m5-max-or-dgx-spark-choosing-a-128gb-local-llm-machine-in-2026-1442d2f51cb8",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@onurd80/stop-using-merge-into-for-high-volume-cdc-lakehouses-try-this-instead-0f77f595e7f6",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@mynoteoracledba/why-just-use-postgres-is-about-to-become-a-whole-lot-easier-a-first-look-at-postgres-19-ffe5e343f43f",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@iarhamali2005/10-mcp-servers-every-local-ai-developer-should-install-3d80ddb24001",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ronomahedi/how-to-scale-postgresql-to-100-000-writes-per-second-without-sharding-35a2f4582e9f",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@cdcore/the-day-apple-turned-your-macbook-into-a-linux-box-b3005a5f8c21",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "http://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "date": "2026-10-18"
   }
 ]

@@ -1,20 +1,20 @@
 {
-  "date": "Sat 17 Oct 2026",
+  "date": "Sun 18 Oct 2026",
   "top_items": [
+    {
+      "title": "Anthropic Just Revealed 12 New Rules for Prompting Claude Opus 5.5",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vijayasekhar-deepak/anthropic-just-revealed-12-new-rules-for-prompting-claude-opus-5-5-e57c6275efe0",
+      "one_liner": "New prompting rules for Anthropic Claude Opus 5.5 directly impact AI practitioners."
+    },
+    {
+      "title": "Anthropic Just Revealed 12 New Rules for Prompting Claude Opus 5.5",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@vijayasekhar-deepak/anthropic-just-revealed-12-new-rules-for-prompting-claude-opus-5-5-e57c6275efe0",
+      "one_liner": "New prompting rules for Anthropic Claude Opus 5.5 directly impact AI practitioners."
+    },
     {
       "title": "The Most Important AI Model Released This Week Might Not Generate a Single Word",
       "url": "https://freedium-mirror.cfd/https://medium.com/@Pop123/the-most-important-ai-model-released-this-week-might-not-generate-a-single-word-d488308ca246",
-      "one_liner": "Highlights Google's EmbeddingGemma 2 for compressing and understanding various data types, not just text."
-    },
-    {
-      "title": "I Tested Google's TabFM Against XGBoost and AutoGluon",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@harishk3493/i-tested-googles-tabfm-against-xgboost-and-autogluon-ed616c6d085e",
-      "one_liner": "Compares Google's TabFM performance against popular ML frameworks for tabular data."
-    },
-    {
-      "title": "We Deleted Kubernetes and Cut Our Cloud Bill 68% - One Year Later, Zero Regrets",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
-      "one_liner": "Details significant cloud bill reduction by deleting Kubernetes, highlighting operational efficiency."
+      "one_liner": "Explores Gemma 2's potential in multi-modal embeddings, a Google AI advancement."
     }
   ]
 }
