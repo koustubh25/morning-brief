@@ -1,20 +1,20 @@
 {
-  "date": "Sun 18 Oct 2026",
+  "date": "Mon 19 Oct 2026",
   "top_items": [
     {
-      "title": "Anthropic Just Revealed 12 New Rules for Prompting Claude Opus 5.5",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vijayasekhar-deepak/anthropic-just-revealed-12-new-rules-for-prompting-claude-opus-5-5-e57c6275efe0",
-      "one_liner": "New prompting rules for Anthropic Claude Opus 5.5 directly impact AI practitioners."
+      "title": "Developer’s guide to implementing MCP apps in Gemini",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
+      "one_liner": "MCP Apps in Gemini enhance enterprise assistants with interactive UIs directly in the chat flow."
     },
     {
-      "title": "Anthropic Just Revealed 12 New Rules for Prompting Claude Opus 5.5",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@vijayasekhar-deepak/anthropic-just-revealed-12-new-rules-for-prompting-claude-opus-5-5-e57c6275efe0",
-      "one_liner": "New prompting rules for Anthropic Claude Opus 5.5 directly impact AI practitioners."
+      "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
+      "one_liner": "Google's Gemini is recognized as a leader in enterprise agentic AI platforms, focusing on deployment and governance."
     },
     {
-      "title": "The Most Important AI Model Released This Week Might Not Generate a Single Word",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@Pop123/the-most-important-ai-model-released-this-week-might-not-generate-a-single-word-d488308ca246",
-      "one_liner": "Explores Gemma 2's potential in multi-modal embeddings, a Google AI advancement."
+      "title": "Stop Using Claude Code Without Ponytail (It Beats Karpathy's Famous 4 Line…",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@itaispector1/stop-using-claude-code-without-ponytail-it-beats-karpathys-famous-4-line-claude-md-dcdcde6a02e1",
+      "one_liner": "Explores advanced prompt engineering techniques for Claude Code, highlighting its potential for rapid development and complex tasks."
     }
   ]
 }
