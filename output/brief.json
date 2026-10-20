@@ -1,20 +1,20 @@
 {
-  "date": "Mon 19 Oct 2026",
+  "date": "Tue 20 Oct 2026",
   "top_items": [
     {
-      "title": "Developer’s guide to implementing MCP apps in Gemini",
-      "url": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
-      "one_liner": "MCP Apps in Gemini enhance enterprise assistants with interactive UIs directly in the chat flow."
+      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
+      "url": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+      "one_liner": "Managed RAG search on GDC for sovereign, regulated industries needing private AI."
     },
     {
-      "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
-      "one_liner": "Google's Gemini is recognized as a leader in enterprise agentic AI platforms, focusing on deployment and governance."
+      "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
+      "one_liner": "Anthropic's Claude 5.5 models (Opus/Sonnet) are now available on Google Antigravity for GCP customers."
     },
     {
-      "title": "Stop Using Claude Code Without Ponytail (It Beats Karpathy's Famous 4 Line…",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@itaispector1/stop-using-claude-code-without-ponytail-it-beats-karpathys-famous-4-line-claude-md-dcdcde6a02e1",
-      "one_liner": "Explores advanced prompt engineering techniques for Claude Code, highlighting its potential for rapid development and complex tasks."
+      "title": "Introducing Gemini for government services",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
+      "one_liner": "Gemini for government services introduces a universal agent with enhanced security for public sector."
     }
   ]
 }
