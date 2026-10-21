@@ -1,20 +1,20 @@
 {
-  "date": "Tue 20 Oct 2026",
+  "date": "Wed 21 Oct 2026",
   "top_items": [
     {
-      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
-      "url": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
-      "one_liner": "Managed RAG search on GDC for sovereign, regulated industries needing private AI."
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "one_liner": "Google Cloud now offers OpenAI models, expanding choice and flexibility for enterprise AI workloads."
     },
     {
-      "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
-      "one_liner": "Anthropic's Claude 5.5 models (Opus/Sonnet) are now available on Google Antigravity for GCP customers."
+      "title": "$200/mo is a Waste: Try These 3 Claude Code Techniques Instead",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@jaustinjr/200-mo-is-a-waste-try-these-3-claude-code-techniques-instead-9d4efd5f700e",
+      "one_liner": "Discover advanced Claude Code techniques for cost-effective agent development and enhanced PoC velocity."
     },
     {
-      "title": "Introducing Gemini for government services",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "one_liner": "Gemini for government services introduces a universal agent with enhanced security for public sector."
+      "title": "The American DeepSeek Is Here, and It Just Beat Opus 5 on a Viral Test",
+      "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/the-american-deepseek-is-here-and-it-just-beat-opus-5-on-a-viral-test-3588a89eb350",
+      "one_liner": "Introduces the American DeepSeek AI model, claiming it outperforms Opus 5 on a specific benchmark."
     }
   ]
 }

@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/sre-practices-for-2026-what-modern-site-reliability-engineering-looks-like-7255c3f3f9fd",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@databrickster/i-benchmarked-the-new-lakehouse-rt-for-billion-record-tables-and-it-is-crazy-fast-and-crazy-cheap-cf674ad40fc3",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/docker-is-dead-weight-i-rebuilt-our-pipeline-without-it-and-cut-costs-60-d45aceb0a591",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/websockets-vs-sse-at-100k-connections-sse-used-40-less-memory-40faeafd419d",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@shahneel2409/top-10-cncf-projects-you-are-not-using-but-should-be-in-2026-73ce2829bdb8",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@speedcraft21/shopify-left-react-native-because-agents-rewrote-the-cost-sheet-3bf98b7fa8d7",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@noahblogwriter2025/atlassian-laid-him-off-after-8-years-he-responded-by-giving-away-everything-he-knew-46ff04017019",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@maxclax/obsidian-was-the-right-first-step-then-emacs-changed-my-life-f9776f05291c",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/he-asked-for-a-license-change-they-never-replied-so-he-replaced-them-c7c4765ce6e1",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@yumaueno/how-a-22-year-old-college-student-with-zero-coding-experience-built-a-125k-peptide-app-in-80-days-d69918830f84",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@patjohnson_71862/palestinianism-is-a-hate-movement-6f6df60b750c",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://freedium-mirror.cfd/https://medium.com/@espiers/i-was-raped-at-a-frat-party-and-my-experience-is-horrifyingly-common-86ad1cdcb29f",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1l2NF9oX1RORlVYazRoSWY0ZXJPN2xhWHQwZldoQjQxRktCZEV6WFE0LU9BQ09pYldIYXk2T2llTFAtWk1Wd2lTMklxeUkwRkIyNFZuLVZiRlUwdnIyRXF0NXhZbGozejFxN0RRaklQWFgtNG9jODhCVXRLT3BYQjg2bXk3NlRud3FWQnlLaVhXT0k?oc=5",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-    "date": "2026-10-13"
-  },
-  {
     "url": "https://freedium-mirror.cfd/https://medium.com/@albertoromgar/something-has-gone-terribly-wrong-at-anthropic-7f685b625b26",
     "date": "2026-10-14"
   },
@@ -502,5 +438,65 @@
   {
     "url": "https://freedium-mirror.cfd/https://medium.com/@belover/evangelical-christianity-just-admitted-its-great-sex-teacher-was-queer-a2f1a12b0ce0",
     "date": "2026-10-20"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jaustinjr/200-mo-is-a-waste-try-these-3-claude-code-techniques-instead-9d4efd5f700e",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/the-american-deepseek-is-here-and-it-just-beat-opus-5-on-a-viral-test-3588a89eb350",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jh.baek.sd/i-barely-read-my-ais-code-anymore-here-s-what-i-check-instead-d0ca8e4573af",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@writertripathi/langchain-and-langgraph-are-dead-so-what-to-use-4a6033621fce",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/we-deleted-kubernetes-and-cut-our-cloud-bill-68-one-year-later-zero-regrets-ec7f044e9cd2",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@hao6yu/hey-fable-5-1-and-gpt-6-astra-make-me-a-millionaire-no-mistakes-f418770a8bde",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@netflixtechblog/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@goat3/kubernetes-is-officially-doomed-and-linus-torvalds-warned-us-0cfd4877ba3d",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@jsgastoniriartecabrera/i-built-a-trading-bot-that-refuses-to-trade-until-it-can-prove-it-has-an-edge-5c0519308a98",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@canartuc/he-asked-for-a-license-change-they-never-replied-so-he-replaced-them-c7c4765ce6e1",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@ArkProtocol1/postgres-19-adds-graph-queries-i-ran-our-neo4j-workload-against-it-41aab1bc82c5",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-you-should-try-in-2026-18ce4e16c28e",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@burkrosemann/if-this-works-out-itll-be-the-greatest-linux-distro-ever-8b36d8ee6c43",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://freedium-mirror.cfd/https://medium.com/@iknahar/eigenvalues-for-people-who-slept-through-linear-algebra-73ce895c4ce8",
+    "date": "2026-10-21"
   }
 ]
