@@ -1,20 +1,20 @@
 {
-  "date": "Wed 21 Oct 2026",
+  "date": "Thu 22 Oct 2026",
   "top_items": [
     {
-      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
-      "one_liner": "Google Cloud now offers OpenAI models, expanding choice and flexibility for enterprise AI workloads."
+      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+      "url": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "one_liner": "New GCP Knowledge Catalog features enhance agent context enrichment using Gemini and user interactions."
     },
     {
-      "title": "$200/mo is a Waste: Try These 3 Claude Code Techniques Instead",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@jaustinjr/200-mo-is-a-waste-try-these-3-claude-code-techniques-instead-9d4efd5f700e",
-      "one_liner": "Discover advanced Claude Code techniques for cost-effective agent development and enhanced PoC velocity."
+      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "one_liner": "Explains GCP's Agent Compute Engine infrastructure for scaling autonomous agents."
     },
     {
-      "title": "The American DeepSeek Is Here, and It Just Beat Opus 5 on a Viral Test",
-      "url": "https://freedium-mirror.cfd/https://medium.com/@pranithnaikpranit/the-american-deepseek-is-here-and-it-just-beat-opus-5-on-a-viral-test-3588a89eb350",
-      "one_liner": "Introduces the American DeepSeek AI model, claiming it outperforms Opus 5 on a specific benchmark."
+      "title": "Introducing Agent Compute Engine and expanded agent governance",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+      "one_liner": "Launches Agent Compute Engine and governance to manage planet-scale Gemini agents securely."
     }
   ]
 }
